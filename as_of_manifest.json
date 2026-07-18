@@ -13,14 +13,14 @@
       "metric_id": "jp.market.shipment_jpy",
       "as_of_date": "2022-12-31",
       "still_valid_2026": true,
-      "n_observations": 6,
+      "n_observations": 10,
       "retrieved_at": "2026-07-18"
     },
     {
       "metric_id": "jp.market.cagr_pct",
       "as_of_date": "2022-12-31",
       "still_valid_2026": true,
-      "n_observations": 1,
+      "n_observations": 5,
       "retrieved_at": "2026-07-18"
     },
     {
@@ -46,9 +46,9 @@
     },
     {
       "metric_id": "jp.population.projection",
-      "as_of_date": "2015-10-01",
+      "as_of_date": "2026-01-01",
       "still_valid_2026": true,
-      "n_observations": 10,
+      "n_observations": 64,
       "retrieved_at": "2026-07-18"
     },
     {
@@ -76,21 +76,21 @@
       "metric_id": "jp.census.establishments",
       "as_of_date": "2022-12-31",
       "still_valid_2026": true,
-      "n_observations": 6,
+      "n_observations": 10,
       "retrieved_at": "2026-07-18"
     },
     {
       "metric_id": "jp.census.size_distribution",
       "as_of_date": "2022-12-31",
       "still_valid_2026": true,
-      "n_observations": 50,
+      "n_observations": 100,
       "retrieved_at": "2026-07-18"
     },
     {
       "metric_id": "jp.market.entry_density",
       "as_of_date": "2022-12-31",
       "still_valid_2026": true,
-      "n_observations": 6,
+      "n_observations": 10,
       "retrieved_at": "2026-07-18"
     },
     {
