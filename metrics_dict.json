@@ -20,7 +20,8 @@
       "mvp": "A2",
       "source_primary": "derived from jp.market.shipment_jpy",
       "freq": "annual",
-      "status": "planned"
+      "status": "live",
+      "last_feed_update": "2026-07-18"
     },
     {
       "metric_id": "jp.iip.index",
@@ -49,8 +50,8 @@
       "mvp": "B4",
       "source_primary": "e-Stat/社人研",
       "freq": "annual",
-      "status": "planned",
-      "blocker": "e-Stat表ID/橋渡し表の確定待ち（次スプリント）"
+      "status": "live",
+      "last_feed_update": "2026-07-18"
     },
     {
       "metric_id": "jp.cpi.index",
@@ -129,8 +130,8 @@
       "mvp": "F1",
       "source_primary": "e-Stat 職業安定業務統計",
       "freq": "monthly",
-      "status": "planned",
-      "blocker": "e-Stat表ID/橋渡し表の確定待ち（次スプリント）"
+      "status": "live",
+      "last_feed_update": "2026-07-18"
     },
     {
       "metric_id": "jp.policy.tailwind_score",
@@ -168,8 +169,8 @@
       "mvp": "H1",
       "source_primary": "e-Stat 貿易統計",
       "freq": "monthly",
-      "status": "planned",
-      "blocker": "e-Stat表ID/橋渡し表の確定待ち（次スプリント）"
+      "status": "live",
+      "last_feed_update": "2026-07-18"
     },
     {
       "metric_id": "jp.trade.export_ratio_pct",
@@ -178,8 +179,8 @@
       "mvp": "H2",
       "source_primary": "derived H1/A1",
       "freq": "annual",
-      "status": "planned",
-      "blocker": "e-Stat表ID/橋渡し表の確定待ち（次スプリント）"
+      "status": "live",
+      "last_feed_update": "2026-07-18"
     },
     {
       "metric_id": "jp.sellwell.deal_volume",

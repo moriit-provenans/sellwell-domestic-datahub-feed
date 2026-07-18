@@ -11,16 +11,16 @@
     },
     {
       "metric_id": "jp.market.shipment_jpy",
-      "as_of_date": "2021-12-31",
+      "as_of_date": "2022-12-31",
       "still_valid_2026": true,
-      "n_observations": 5,
+      "n_observations": 6,
       "retrieved_at": "2026-07-18"
     },
     {
       "metric_id": "jp.market.cagr_pct",
-      "as_of_date": "2026-07-18",
-      "still_valid_2026": false,
-      "n_observations": 0,
+      "as_of_date": "2022-12-31",
+      "still_valid_2026": true,
+      "n_observations": 1,
       "retrieved_at": "2026-07-18"
     },
     {
@@ -31,10 +31,24 @@
       "retrieved_at": "2026-07-18"
     },
     {
+      "metric_id": "jp.labor.job_openings_ratio",
+      "as_of_date": "2026-05-01",
+      "still_valid_2026": true,
+      "n_observations": 137,
+      "retrieved_at": "2026-07-18"
+    },
+    {
       "metric_id": "jp.household.expenditure_jpy",
       "as_of_date": "2024-12-31",
       "still_valid_2026": true,
       "n_observations": 60,
+      "retrieved_at": "2026-07-18"
+    },
+    {
+      "metric_id": "jp.population.projection",
+      "as_of_date": "2015-10-01",
+      "still_valid_2026": true,
+      "n_observations": 10,
       "retrieved_at": "2026-07-18"
     },
     {
@@ -60,23 +74,37 @@
     },
     {
       "metric_id": "jp.census.establishments",
-      "as_of_date": "2021-12-31",
+      "as_of_date": "2022-12-31",
       "still_valid_2026": true,
-      "n_observations": 5,
+      "n_observations": 6,
       "retrieved_at": "2026-07-18"
     },
     {
       "metric_id": "jp.census.size_distribution",
-      "as_of_date": "2021-12-31",
+      "as_of_date": "2022-12-31",
       "still_valid_2026": true,
       "n_observations": 50,
       "retrieved_at": "2026-07-18"
     },
     {
       "metric_id": "jp.market.entry_density",
-      "as_of_date": "2021-12-31",
+      "as_of_date": "2022-12-31",
       "still_valid_2026": true,
-      "n_observations": 5,
+      "n_observations": 6,
+      "retrieved_at": "2026-07-18"
+    },
+    {
+      "metric_id": "jp.trade.export_import_jpy",
+      "as_of_date": "2024-12-31",
+      "still_valid_2026": true,
+      "n_observations": 20,
+      "retrieved_at": "2026-07-18"
+    },
+    {
+      "metric_id": "jp.trade.export_ratio_pct",
+      "as_of_date": "2019-12-31",
+      "still_valid_2026": true,
+      "n_observations": 9,
       "retrieved_at": "2026-07-18"
     },
     {

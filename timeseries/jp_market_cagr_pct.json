@@ -4,5 +4,22 @@
   "title_ja": "市場成長率 CAGR",
   "last_updated": "2026-07-18",
   "source": "derived",
-  "observations": []
+  "observations": [
+    {
+      "as_of_date": "2022-12-31",
+      "still_valid_2026": "unverified",
+      "retrieved_at": "2026-07-18",
+      "veritas": "✅",
+      "metric_id": "jp.market.cagr_pct",
+      "industry_id": "C",
+      "industry_slug": "manufacturing-total",
+      "industry_name_ja": "製造業計",
+      "period": "2021-2022",
+      "period_type": "multi_year",
+      "value": 9.557,
+      "unit": "%",
+      "source": "derived from jp.market.shipment_jpy",
+      "source_ref": "2021→2022"
+    }
+  ]
 }
