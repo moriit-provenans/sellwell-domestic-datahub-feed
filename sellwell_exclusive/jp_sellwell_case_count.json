@@ -5,6 +5,6 @@
   "title_ja": "公開事例数",
   "status": "awaiting_smith_supply",
   "last_updated": "2026-07-18",
-  "observations": [],
-  "note": "SmithがJSONを投入。Atlasは配信のみ。"
+  "how_to_fill": "業界別の公開ケーススタディ件数。",
+  "observations": []
 }
