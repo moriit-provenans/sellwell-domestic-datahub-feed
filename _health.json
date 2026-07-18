@@ -20,14 +20,6 @@
       "n_observations": 305,
       "retrieved_at": "2026-07-18",
       "reason": "as_of_before_2020"
-    },
-    {
-      "metric_id": "jp.demand.demo_adjusted_hh_jpy",
-      "as_of_date": "2026-07-18",
-      "still_valid_2026": false,
-      "n_observations": 0,
-      "retrieved_at": "2026-07-18",
-      "reason": "empty"
     }
   ],
   "smith_notify": {

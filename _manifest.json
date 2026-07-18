@@ -26,6 +26,7 @@
     "jp.corp.capex_jpy",
     "jp.corp.op_margin_pct",
     "jp.cpi.index",
+    "jp.demand.demo_adjusted_hh_jpy",
     "jp.household.expenditure_jpy",
     "jp.iip.index",
     "jp.io.fx_sensitivity_score",
