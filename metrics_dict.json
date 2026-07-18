@@ -3,26 +3,210 @@
   "last_updated": "2026-07-18",
   "naming": "jp.{domain}.{concept}",
   "metrics": [
-    {"metric_id": "jp.market.shipment_jpy", "name_ja": "国内出荷額", "unit": "JPY", "mvp": "A1", "source_primary": "e-Stat 経済構造実態調査/生産動態", "freq": "annual", "status": "planned"},
-    {"metric_id": "jp.market.cagr_pct", "name_ja": "市場成長率CAGR", "unit": "%", "mvp": "A2", "source_primary": "derived from jp.market.shipment_jpy", "freq": "annual", "status": "planned"},
-    {"metric_id": "jp.iip.index", "name_ja": "鉱工業指数", "unit": "index", "mvp": "A3", "source_primary": "e-Stat IIP", "freq": "monthly", "status": "planned"},
-    {"metric_id": "jp.household.expenditure_jpy", "name_ja": "家計品目別支出", "unit": "JPY", "mvp": "B1", "source_primary": "e-Stat 家計調査", "freq": "monthly", "status": "planned"},
-    {"metric_id": "jp.population.projection", "name_ja": "将来人口推計", "unit": "persons", "mvp": "B4", "source_primary": "e-Stat/社人研", "freq": "annual", "status": "planned"},
-    {"metric_id": "jp.cpi.index", "name_ja": "消費者物価指数", "unit": "index", "mvp": "C1", "source_primary": "e-Stat CPI", "freq": "monthly", "status": "planned"},
-    {"metric_id": "jp.cgpi.index", "name_ja": "企業物価指数", "unit": "index", "mvp": "C2", "source_primary": "BOJ CGPI", "freq": "monthly", "status": "planned"},
-    {"metric_id": "jp.price.pass_through_gap", "name_ja": "価格転嫁ギャップ", "unit": "pp", "mvp": "C3", "source_primary": "derived C1-C2", "freq": "monthly", "status": "planned"},
-    {"metric_id": "jp.census.establishments", "name_ja": "事業所数", "unit": "count", "mvp": "D1", "source_primary": "e-Stat 経済センサス", "freq": "quinquennial", "status": "planned"},
-    {"metric_id": "jp.census.size_distribution", "name_ja": "従業者規模分布", "unit": "share", "mvp": "D2", "source_primary": "e-Stat 経済センサス", "freq": "quinquennial", "status": "planned"},
-    {"metric_id": "jp.market.entry_density", "name_ja": "参入密度", "unit": "ratio", "mvp": "D3", "source_primary": "derived D1/A1", "freq": "annual", "status": "planned"},
-    {"metric_id": "jp.corp.op_margin_pct", "name_ja": "売上高営業利益率", "unit": "%", "mvp": "E1", "source_primary": "e-Stat 法人企業統計", "freq": "quarterly", "status": "planned"},
-    {"metric_id": "jp.labor.job_openings_ratio", "name_ja": "有効求人倍率", "unit": "ratio", "mvp": "F1", "source_primary": "e-Stat 職業安定業務統計", "freq": "monthly", "status": "planned"},
-    {"metric_id": "jp.policy.tailwind_score", "name_ja": "政策追い風スコア", "unit": "score_1_5", "mvp": "G1", "source_primary": "Smith editorial", "freq": "monthly", "status": "smith_supply"},
-    {"metric_id": "jp.subsidy.open_count", "name_ja": "公募中補助金件数", "unit": "count", "mvp": "G2", "source_primary": "jGrants API", "freq": "daily", "status": "planned"},
-    {"metric_id": "jp.subsidy.open_budget", "name_ja": "公募中補助金上限・規模", "unit": "JPY", "mvp": "G3", "source_primary": "jGrants API", "freq": "daily", "status": "planned"},
-    {"metric_id": "jp.trade.export_import_jpy", "name_ja": "輸出入額", "unit": "JPY", "mvp": "H1", "source_primary": "e-Stat 貿易統計", "freq": "monthly", "status": "planned"},
-    {"metric_id": "jp.trade.export_ratio_pct", "name_ja": "輸出比率", "unit": "%", "mvp": "H2", "source_primary": "derived H1/A1", "freq": "annual", "status": "planned"},
-    {"metric_id": "jp.sellwell.deal_volume", "name_ja": "実現相場（受注件数・規模）", "unit": "mixed", "mvp": "J1", "source_primary": "Sellwell SF", "freq": "annual", "status": "smith_supply"},
-    {"metric_id": "jp.sellwell.theme_types", "name_ja": "実現テーマ類型", "unit": "categorical", "mvp": "J2", "source_primary": "Sellwell SF", "freq": "annual", "status": "smith_supply"},
-    {"metric_id": "jp.sellwell.case_count", "name_ja": "匿名実績事例数", "unit": "count", "mvp": "J3", "source_primary": "Sellwell published cases", "freq": "incremental", "status": "smith_supply"}
+    {
+      "metric_id": "jp.market.shipment_jpy",
+      "name_ja": "国内出荷額",
+      "unit": "JPY",
+      "mvp": "A1",
+      "source_primary": "e-Stat 経済構造実態調査/生産動態",
+      "freq": "annual",
+      "status": "live",
+      "last_feed_update": "2026-07-18"
+    },
+    {
+      "metric_id": "jp.market.cagr_pct",
+      "name_ja": "市場成長率CAGR",
+      "unit": "%",
+      "mvp": "A2",
+      "source_primary": "derived from jp.market.shipment_jpy",
+      "freq": "annual",
+      "status": "planned"
+    },
+    {
+      "metric_id": "jp.iip.index",
+      "name_ja": "鉱工業指数",
+      "unit": "index",
+      "mvp": "A3",
+      "source_primary": "e-Stat IIP",
+      "freq": "monthly",
+      "status": "live",
+      "last_feed_update": "2026-07-18"
+    },
+    {
+      "metric_id": "jp.household.expenditure_jpy",
+      "name_ja": "家計品目別支出",
+      "unit": "JPY",
+      "mvp": "B1",
+      "source_primary": "e-Stat 家計調査",
+      "freq": "monthly",
+      "status": "live",
+      "last_feed_update": "2026-07-18"
+    },
+    {
+      "metric_id": "jp.population.projection",
+      "name_ja": "将来人口推計",
+      "unit": "persons",
+      "mvp": "B4",
+      "source_primary": "e-Stat/社人研",
+      "freq": "annual",
+      "status": "planned",
+      "blocker": "e-Stat表ID/橋渡し表の確定待ち（次スプリント）"
+    },
+    {
+      "metric_id": "jp.cpi.index",
+      "name_ja": "消費者物価指数",
+      "unit": "index",
+      "mvp": "C1",
+      "source_primary": "e-Stat CPI",
+      "freq": "monthly",
+      "status": "live",
+      "last_feed_update": "2026-07-18"
+    },
+    {
+      "metric_id": "jp.cgpi.index",
+      "name_ja": "企業物価指数",
+      "unit": "index",
+      "mvp": "C2",
+      "source_primary": "BOJ CGPI",
+      "freq": "monthly",
+      "status": "live",
+      "last_feed_update": "2026-07-18"
+    },
+    {
+      "metric_id": "jp.price.pass_through_gap",
+      "name_ja": "価格転嫁ギャップ",
+      "unit": "pp",
+      "mvp": "C3",
+      "source_primary": "derived C1-C2",
+      "freq": "monthly",
+      "status": "live",
+      "last_feed_update": "2026-07-18"
+    },
+    {
+      "metric_id": "jp.census.establishments",
+      "name_ja": "事業所数",
+      "unit": "count",
+      "mvp": "D1",
+      "source_primary": "e-Stat 経済センサス",
+      "freq": "quinquennial",
+      "status": "live",
+      "last_feed_update": "2026-07-18"
+    },
+    {
+      "metric_id": "jp.census.size_distribution",
+      "name_ja": "従業者規模分布",
+      "unit": "share",
+      "mvp": "D2",
+      "source_primary": "e-Stat 経済センサス",
+      "freq": "quinquennial",
+      "status": "live",
+      "last_feed_update": "2026-07-18"
+    },
+    {
+      "metric_id": "jp.market.entry_density",
+      "name_ja": "参入密度",
+      "unit": "ratio",
+      "mvp": "D3",
+      "source_primary": "derived D1/A1",
+      "freq": "annual",
+      "status": "live",
+      "last_feed_update": "2026-07-18"
+    },
+    {
+      "metric_id": "jp.corp.op_margin_pct",
+      "name_ja": "売上高営業利益率",
+      "unit": "%",
+      "mvp": "E1",
+      "source_primary": "e-Stat 法人企業統計",
+      "freq": "quarterly",
+      "status": "live",
+      "last_feed_update": "2026-07-18"
+    },
+    {
+      "metric_id": "jp.labor.job_openings_ratio",
+      "name_ja": "有効求人倍率",
+      "unit": "ratio",
+      "mvp": "F1",
+      "source_primary": "e-Stat 職業安定業務統計",
+      "freq": "monthly",
+      "status": "planned",
+      "blocker": "e-Stat表ID/橋渡し表の確定待ち（次スプリント）"
+    },
+    {
+      "metric_id": "jp.policy.tailwind_score",
+      "name_ja": "政策追い風スコア",
+      "unit": "score_1_5",
+      "mvp": "G1",
+      "source_primary": "Smith editorial",
+      "freq": "monthly",
+      "status": "smith_supply"
+    },
+    {
+      "metric_id": "jp.subsidy.open_count",
+      "name_ja": "公募中補助金件数",
+      "unit": "count",
+      "mvp": "G2",
+      "source_primary": "jGrants API",
+      "freq": "daily",
+      "status": "live",
+      "last_feed_update": "2026-07-18"
+    },
+    {
+      "metric_id": "jp.subsidy.open_budget",
+      "name_ja": "公募中補助金上限・規模",
+      "unit": "JPY",
+      "mvp": "G3",
+      "source_primary": "jGrants API",
+      "freq": "daily",
+      "status": "live",
+      "last_feed_update": "2026-07-18"
+    },
+    {
+      "metric_id": "jp.trade.export_import_jpy",
+      "name_ja": "輸出入額",
+      "unit": "JPY",
+      "mvp": "H1",
+      "source_primary": "e-Stat 貿易統計",
+      "freq": "monthly",
+      "status": "planned",
+      "blocker": "e-Stat表ID/橋渡し表の確定待ち（次スプリント）"
+    },
+    {
+      "metric_id": "jp.trade.export_ratio_pct",
+      "name_ja": "輸出比率",
+      "unit": "%",
+      "mvp": "H2",
+      "source_primary": "derived H1/A1",
+      "freq": "annual",
+      "status": "planned",
+      "blocker": "e-Stat表ID/橋渡し表の確定待ち（次スプリント）"
+    },
+    {
+      "metric_id": "jp.sellwell.deal_volume",
+      "name_ja": "実現相場（受注件数・規模）",
+      "unit": "mixed",
+      "mvp": "J1",
+      "source_primary": "Sellwell SF",
+      "freq": "annual",
+      "status": "smith_supply"
+    },
+    {
+      "metric_id": "jp.sellwell.theme_types",
+      "name_ja": "実現テーマ類型",
+      "unit": "categorical",
+      "mvp": "J2",
+      "source_primary": "Sellwell SF",
+      "freq": "annual",
+      "status": "smith_supply"
+    },
+    {
+      "metric_id": "jp.sellwell.case_count",
+      "name_ja": "匿名実績事例数",
+      "unit": "count",
+      "mvp": "J3",
+      "source_primary": "Sellwell published cases",
+      "freq": "incremental",
+      "status": "smith_supply"
+    }
   ]
 }

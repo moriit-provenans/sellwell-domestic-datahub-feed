@@ -1,0 +1,8 @@
+{
+  "schema_version": "1.0.0",
+  "metric_id": "jp.market.cagr_pct",
+  "title_ja": "市場成長率 CAGR",
+  "last_updated": "2026-07-18",
+  "source": "derived",
+  "observations": []
+}

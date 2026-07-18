@@ -10,10 +10,87 @@
       "retrieved_at": "2026-07-18"
     },
     {
+      "metric_id": "jp.market.shipment_jpy",
+      "as_of_date": "2021-12-31",
+      "still_valid_2026": true,
+      "n_observations": 5,
+      "retrieved_at": "2026-07-18"
+    },
+    {
+      "metric_id": "jp.market.cagr_pct",
+      "as_of_date": "2026-07-18",
+      "still_valid_2026": false,
+      "n_observations": 0,
+      "retrieved_at": "2026-07-18"
+    },
+    {
+      "metric_id": "jp.iip.index",
+      "as_of_date": "2026-05-01",
+      "still_valid_2026": true,
+      "n_observations": 137,
+      "retrieved_at": "2026-07-18"
+    },
+    {
+      "metric_id": "jp.household.expenditure_jpy",
+      "as_of_date": "2024-12-31",
+      "still_valid_2026": true,
+      "n_observations": 60,
+      "retrieved_at": "2026-07-18"
+    },
+    {
+      "metric_id": "jp.cpi.index",
+      "as_of_date": "2026-05-01",
+      "still_valid_2026": true,
+      "n_observations": 148,
+      "retrieved_at": "2026-07-18"
+    },
+    {
+      "metric_id": "jp.cgpi.index",
+      "as_of_date": "2026-06-01",
+      "still_valid_2026": true,
+      "n_observations": 138,
+      "retrieved_at": "2026-07-18"
+    },
+    {
+      "metric_id": "jp.price.pass_through_gap",
+      "as_of_date": "2026-05-01",
+      "still_valid_2026": true,
+      "n_observations": 125,
+      "retrieved_at": "2026-07-18"
+    },
+    {
+      "metric_id": "jp.census.establishments",
+      "as_of_date": "2021-12-31",
+      "still_valid_2026": true,
+      "n_observations": 5,
+      "retrieved_at": "2026-07-18"
+    },
+    {
+      "metric_id": "jp.census.size_distribution",
+      "as_of_date": "2021-12-31",
+      "still_valid_2026": true,
+      "n_observations": 50,
+      "retrieved_at": "2026-07-18"
+    },
+    {
+      "metric_id": "jp.market.entry_density",
+      "as_of_date": "2021-12-31",
+      "still_valid_2026": true,
+      "n_observations": 5,
+      "retrieved_at": "2026-07-18"
+    },
+    {
       "metric_id": "jp.subsidy.open_count",
       "as_of_date": "2026-07-18",
       "still_valid_2026": true,
-      "n_observations": 39,
+      "n_observations": 226,
+      "retrieved_at": "2026-07-18"
+    },
+    {
+      "metric_id": "jp.subsidy.open_budget",
+      "as_of_date": "2026-07-18",
+      "still_valid_2026": true,
+      "n_observations": 1,
       "retrieved_at": "2026-07-18"
     }
   ]

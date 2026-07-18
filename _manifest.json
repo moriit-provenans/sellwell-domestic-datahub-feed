@@ -3,11 +3,11 @@
   "feed_id": "sellwell-domestic-datahub",
   "title": "Sellwell Domestic Data Hub Public Feed",
   "last_updated": "2026-07-18",
-  "status": "mvp_partial",
+  "status": "mvp_live_partial",
   "owner": "Atlas",
   "consumer": "Smith / sellwell.jp",
   "req": "REQ-SMITH-20260718-002",
-  "note": "E1 op_margin + G2 jGrants sample live. More MVP metrics follow.",
+  "note": "Phase1: A1/A3/B1/C1-C3/D1-D3/E1/G2-G3 live. A2 multi-year pending extra survey years. F1/H1-H2/B4 planned. G1/J1-J3 Smith slots.",
   "cadence": {
     "estat": "weekly",
     "jgrants": "daily",
@@ -18,5 +18,19 @@
     "still_valid_2026",
     "retrieved_at",
     "veritas"
+  ],
+  "live_metrics": [
+    "jp.census.establishments",
+    "jp.census.size_distribution",
+    "jp.cgpi.index",
+    "jp.corp.op_margin_pct",
+    "jp.cpi.index",
+    "jp.household.expenditure_jpy",
+    "jp.iip.index",
+    "jp.market.entry_density",
+    "jp.market.shipment_jpy",
+    "jp.price.pass_through_gap",
+    "jp.subsidy.open_budget",
+    "jp.subsidy.open_count"
   ]
 }

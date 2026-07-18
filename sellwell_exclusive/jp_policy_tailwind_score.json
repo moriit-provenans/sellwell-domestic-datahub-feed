@@ -1,0 +1,10 @@
+{
+  "schema_version": "1.0.0",
+  "metric_id": "jp.policy.tailwind_score",
+  "mvp": "G1",
+  "title_ja": "政策追い風スコア",
+  "status": "awaiting_smith_supply",
+  "last_updated": "2026-07-18",
+  "observations": [],
+  "note": "SmithがJSONを投入。Atlasは配信のみ。"
+}
