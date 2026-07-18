@@ -6,28 +6,28 @@
       "metric_id": "jp.corp.op_margin_pct",
       "as_of_date": "2024-03-31",
       "still_valid_2026": true,
-      "n_observations": 100,
+      "n_observations": 176,
       "retrieved_at": "2026-07-18"
     },
     {
       "metric_id": "jp.market.shipment_jpy",
-      "as_of_date": "2022-12-31",
+      "as_of_date": "2024-12-31",
       "still_valid_2026": true,
-      "n_observations": 10,
+      "n_observations": 176,
       "retrieved_at": "2026-07-18"
     },
     {
       "metric_id": "jp.market.cagr_pct",
-      "as_of_date": "2022-12-31",
+      "as_of_date": "2024-12-31",
       "still_valid_2026": true,
-      "n_observations": 5,
+      "n_observations": 9,
       "retrieved_at": "2026-07-18"
     },
     {
       "metric_id": "jp.iip.index",
       "as_of_date": "2026-05-01",
       "still_valid_2026": true,
-      "n_observations": 137,
+      "n_observations": 781,
       "retrieved_at": "2026-07-18"
     },
     {
@@ -76,21 +76,21 @@
       "metric_id": "jp.census.establishments",
       "as_of_date": "2022-12-31",
       "still_valid_2026": true,
-      "n_observations": 10,
+      "n_observations": 12,
       "retrieved_at": "2026-07-18"
     },
     {
       "metric_id": "jp.census.size_distribution",
       "as_of_date": "2022-12-31",
       "still_valid_2026": true,
-      "n_observations": 100,
+      "n_observations": 120,
       "retrieved_at": "2026-07-18"
     },
     {
       "metric_id": "jp.market.entry_density",
       "as_of_date": "2022-12-31",
       "still_valid_2026": true,
-      "n_observations": 10,
+      "n_observations": 12,
       "retrieved_at": "2026-07-18"
     },
     {
@@ -102,16 +102,16 @@
     },
     {
       "metric_id": "jp.trade.export_ratio_pct",
-      "as_of_date": "2019-12-31",
+      "as_of_date": "2023-12-31",
       "still_valid_2026": true,
-      "n_observations": 9,
+      "n_observations": 11,
       "retrieved_at": "2026-07-18"
     },
     {
       "metric_id": "jp.subsidy.open_count",
       "as_of_date": "2026-07-18",
       "still_valid_2026": true,
-      "n_observations": 226,
+      "n_observations": 171,
       "retrieved_at": "2026-07-18"
     },
     {

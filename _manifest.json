@@ -3,11 +3,11 @@
   "feed_id": "sellwell-domestic-datahub",
   "title": "Sellwell Domestic Data Hub Public Feed",
   "last_updated": "2026-07-18",
-  "status": "mvp_complete_atlas",
+  "status": "mvp_phase2",
   "owner": "Atlas",
   "consumer": "Smith / sellwell.jp",
   "req": "REQ-SMITH-20260718-002",
-  "note": "Phase1 Atlas完了: 自動化指標live＋社人研将来推計＋_health.json＋Smith供給スロット。残作業はSmithのG1/J投入とsellwell.jp本番描画。",
+  "note": "Phase2: P1長期売上プロキシ接続 / P2追加業界 / P3業種別IIP / P4単位・H2更新 / P5補助金industry_slugs / 社人研将来推計。",
   "cadence": {
     "estat": "weekly",
     "jgrants": "daily",

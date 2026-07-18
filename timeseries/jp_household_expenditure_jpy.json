@@ -17,9 +17,10 @@
       "period": "2010",
       "period_type": "annual",
       "value": 146350.0,
-      "unit": "JPY_per_month_household",
-      "source": "e-Stat 家計調査（二人以上・品目分類）",
-      "source_ref": "statsDataId=0003348239 cat01=050000000 area=00000"
+      "unit": "JPY_per_year_household",
+      "source": "e-Stat 家計調査（二人以上・品目分類・年次）",
+      "source_ref": "statsDataId=0003348239 cat01=050000000 area=00000",
+      "note": "年次表の値。単位は世帯あたり年間支出（円）"
     },
     {
       "as_of_date": "2011-12-31",
@@ -33,9 +34,10 @@
       "period": "2011",
       "period_type": "annual",
       "value": 144723.0,
-      "unit": "JPY_per_month_household",
-      "source": "e-Stat 家計調査（二人以上・品目分類）",
-      "source_ref": "statsDataId=0003348239 cat01=050000000 area=00000"
+      "unit": "JPY_per_year_household",
+      "source": "e-Stat 家計調査（二人以上・品目分類・年次）",
+      "source_ref": "statsDataId=0003348239 cat01=050000000 area=00000",
+      "note": "年次表の値。単位は世帯あたり年間支出（円）"
     },
     {
       "as_of_date": "2012-12-31",
@@ -49,9 +51,10 @@
       "period": "2012",
       "period_type": "annual",
       "value": 145775.0,
-      "unit": "JPY_per_month_household",
-      "source": "e-Stat 家計調査（二人以上・品目分類）",
-      "source_ref": "statsDataId=0003348239 cat01=050000000 area=00000"
+      "unit": "JPY_per_year_household",
+      "source": "e-Stat 家計調査（二人以上・品目分類・年次）",
+      "source_ref": "statsDataId=0003348239 cat01=050000000 area=00000",
+      "note": "年次表の値。単位は世帯あたり年間支出（円）"
     },
     {
       "as_of_date": "2013-12-31",
@@ -65,9 +68,10 @@
       "period": "2013",
       "period_type": "annual",
       "value": 149555.0,
-      "unit": "JPY_per_month_household",
-      "source": "e-Stat 家計調査（二人以上・品目分類）",
-      "source_ref": "statsDataId=0003348239 cat01=050000000 area=00000"
+      "unit": "JPY_per_year_household",
+      "source": "e-Stat 家計調査（二人以上・品目分類・年次）",
+      "source_ref": "statsDataId=0003348239 cat01=050000000 area=00000",
+      "note": "年次表の値。単位は世帯あたり年間支出（円）"
     },
     {
       "as_of_date": "2014-12-31",
@@ -81,9 +85,10 @@
       "period": "2014",
       "period_type": "annual",
       "value": 152642.0,
-      "unit": "JPY_per_month_household",
-      "source": "e-Stat 家計調査（二人以上・品目分類）",
-      "source_ref": "statsDataId=0003348239 cat01=050000000 area=00000"
+      "unit": "JPY_per_year_household",
+      "source": "e-Stat 家計調査（二人以上・品目分類・年次）",
+      "source_ref": "statsDataId=0003348239 cat01=050000000 area=00000",
+      "note": "年次表の値。単位は世帯あたり年間支出（円）"
     },
     {
       "as_of_date": "2015-12-31",
@@ -97,9 +102,10 @@
       "period": "2015",
       "period_type": "annual",
       "value": 144985.0,
-      "unit": "JPY_per_month_household",
-      "source": "e-Stat 家計調査（二人以上・品目分類）",
-      "source_ref": "statsDataId=0003348239 cat01=050000000 area=00000"
+      "unit": "JPY_per_year_household",
+      "source": "e-Stat 家計調査（二人以上・品目分類・年次）",
+      "source_ref": "statsDataId=0003348239 cat01=050000000 area=00000",
+      "note": "年次表の値。単位は世帯あたり年間支出（円）"
     },
     {
       "as_of_date": "2016-12-31",
@@ -113,9 +119,10 @@
       "period": "2016",
       "period_type": "annual",
       "value": 138068.0,
-      "unit": "JPY_per_month_household",
-      "source": "e-Stat 家計調査（二人以上・品目分類）",
-      "source_ref": "statsDataId=0003348239 cat01=050000000 area=00000"
+      "unit": "JPY_per_year_household",
+      "source": "e-Stat 家計調査（二人以上・品目分類・年次）",
+      "source_ref": "statsDataId=0003348239 cat01=050000000 area=00000",
+      "note": "年次表の値。単位は世帯あたり年間支出（円）"
     },
     {
       "as_of_date": "2017-12-31",
@@ -129,9 +136,10 @@
       "period": "2017",
       "period_type": "annual",
       "value": 137673.0,
-      "unit": "JPY_per_month_household",
-      "source": "e-Stat 家計調査（二人以上・品目分類）",
-      "source_ref": "statsDataId=0003348239 cat01=050000000 area=00000"
+      "unit": "JPY_per_year_household",
+      "source": "e-Stat 家計調査（二人以上・品目分類・年次）",
+      "source_ref": "statsDataId=0003348239 cat01=050000000 area=00000",
+      "note": "年次表の値。単位は世帯あたり年間支出（円）"
     },
     {
       "as_of_date": "2018-12-31",
@@ -145,9 +153,10 @@
       "period": "2018",
       "period_type": "annual",
       "value": 136613.0,
-      "unit": "JPY_per_month_household",
-      "source": "e-Stat 家計調査（二人以上・品目分類）",
-      "source_ref": "statsDataId=0003348239 cat01=050000000 area=00000"
+      "unit": "JPY_per_year_household",
+      "source": "e-Stat 家計調査（二人以上・品目分類・年次）",
+      "source_ref": "statsDataId=0003348239 cat01=050000000 area=00000",
+      "note": "年次表の値。単位は世帯あたり年間支出（円）"
     },
     {
       "as_of_date": "2019-12-31",
@@ -161,9 +170,10 @@
       "period": "2019",
       "period_type": "annual",
       "value": 135677.0,
-      "unit": "JPY_per_month_household",
-      "source": "e-Stat 家計調査（二人以上・品目分類）",
-      "source_ref": "statsDataId=0003348239 cat01=050000000 area=00000"
+      "unit": "JPY_per_year_household",
+      "source": "e-Stat 家計調査（二人以上・品目分類・年次）",
+      "source_ref": "statsDataId=0003348239 cat01=050000000 area=00000",
+      "note": "年次表の値。単位は世帯あたり年間支出（円）"
     },
     {
       "as_of_date": "2020-12-31",
@@ -177,9 +187,10 @@
       "period": "2020",
       "period_type": "annual",
       "value": 110097.0,
-      "unit": "JPY_per_month_household",
-      "source": "e-Stat 家計調査（二人以上・品目分類）",
-      "source_ref": "statsDataId=0003348239 cat01=050000000 area=00000"
+      "unit": "JPY_per_year_household",
+      "source": "e-Stat 家計調査（二人以上・品目分類・年次）",
+      "source_ref": "statsDataId=0003348239 cat01=050000000 area=00000",
+      "note": "年次表の値。単位は世帯あたり年間支出（円）"
     },
     {
       "as_of_date": "2021-12-31",
@@ -193,9 +204,10 @@
       "period": "2021",
       "period_type": "annual",
       "value": 108751.0,
-      "unit": "JPY_per_month_household",
-      "source": "e-Stat 家計調査（二人以上・品目分類）",
-      "source_ref": "statsDataId=0003348239 cat01=050000000 area=00000"
+      "unit": "JPY_per_year_household",
+      "source": "e-Stat 家計調査（二人以上・品目分類・年次）",
+      "source_ref": "statsDataId=0003348239 cat01=050000000 area=00000",
+      "note": "年次表の値。単位は世帯あたり年間支出（円）"
     },
     {
       "as_of_date": "2022-12-31",
@@ -209,9 +221,10 @@
       "period": "2022",
       "period_type": "annual",
       "value": 113921.0,
-      "unit": "JPY_per_month_household",
-      "source": "e-Stat 家計調査（二人以上・品目分類）",
-      "source_ref": "statsDataId=0003348239 cat01=050000000 area=00000"
+      "unit": "JPY_per_year_household",
+      "source": "e-Stat 家計調査（二人以上・品目分類・年次）",
+      "source_ref": "statsDataId=0003348239 cat01=050000000 area=00000",
+      "note": "年次表の値。単位は世帯あたり年間支出（円）"
     },
     {
       "as_of_date": "2023-12-31",
@@ -225,9 +238,10 @@
       "period": "2023",
       "period_type": "annual",
       "value": 115726.0,
-      "unit": "JPY_per_month_household",
-      "source": "e-Stat 家計調査（二人以上・品目分類）",
-      "source_ref": "statsDataId=0003348239 cat01=050000000 area=00000"
+      "unit": "JPY_per_year_household",
+      "source": "e-Stat 家計調査（二人以上・品目分類・年次）",
+      "source_ref": "statsDataId=0003348239 cat01=050000000 area=00000",
+      "note": "年次表の値。単位は世帯あたり年間支出（円）"
     },
     {
       "as_of_date": "2024-12-31",
@@ -241,9 +255,10 @@
       "period": "2024",
       "period_type": "annual",
       "value": 119822.0,
-      "unit": "JPY_per_month_household",
-      "source": "e-Stat 家計調査（二人以上・品目分類）",
-      "source_ref": "statsDataId=0003348239 cat01=050000000 area=00000"
+      "unit": "JPY_per_year_household",
+      "source": "e-Stat 家計調査（二人以上・品目分類・年次）",
+      "source_ref": "statsDataId=0003348239 cat01=050000000 area=00000",
+      "note": "年次表の値。単位は世帯あたり年間支出（円）"
     },
     {
       "as_of_date": "2010-12-31",
@@ -257,9 +272,10 @@
       "period": "2010",
       "period_type": "annual",
       "value": 884768.0,
-      "unit": "JPY_per_month_household",
-      "source": "e-Stat 家計調査（二人以上・品目分類）",
-      "source_ref": "statsDataId=0003348239 cat01=010000000 area=00000"
+      "unit": "JPY_per_year_household",
+      "source": "e-Stat 家計調査（二人以上・品目分類・年次）",
+      "source_ref": "statsDataId=0003348239 cat01=010000000 area=00000",
+      "note": "年次表の値。単位は世帯あたり年間支出（円）"
     },
     {
       "as_of_date": "2011-12-31",
@@ -273,9 +289,10 @@
       "period": "2011",
       "period_type": "annual",
       "value": 872850.0,
-      "unit": "JPY_per_month_household",
-      "source": "e-Stat 家計調査（二人以上・品目分類）",
-      "source_ref": "statsDataId=0003348239 cat01=010000000 area=00000"
+      "unit": "JPY_per_year_household",
+      "source": "e-Stat 家計調査（二人以上・品目分類・年次）",
+      "source_ref": "statsDataId=0003348239 cat01=010000000 area=00000",
+      "note": "年次表の値。単位は世帯あたり年間支出（円）"
     },
     {
       "as_of_date": "2012-12-31",
@@ -289,9 +306,10 @@
       "period": "2012",
       "period_type": "annual",
       "value": 879402.0,
-      "unit": "JPY_per_month_household",
-      "source": "e-Stat 家計調査（二人以上・品目分類）",
-      "source_ref": "statsDataId=0003348239 cat01=010000000 area=00000"
+      "unit": "JPY_per_year_household",
+      "source": "e-Stat 家計調査（二人以上・品目分類・年次）",
+      "source_ref": "statsDataId=0003348239 cat01=010000000 area=00000",
+      "note": "年次表の値。単位は世帯あたり年間支出（円）"
     },
     {
       "as_of_date": "2013-12-31",
@@ -305,9 +323,10 @@
       "period": "2013",
       "period_type": "annual",
       "value": 895860.0,
-      "unit": "JPY_per_month_household",
-      "source": "e-Stat 家計調査（二人以上・品目分類）",
-      "source_ref": "statsDataId=0003348239 cat01=010000000 area=00000"
+      "unit": "JPY_per_year_household",
+      "source": "e-Stat 家計調査（二人以上・品目分類・年次）",
+      "source_ref": "statsDataId=0003348239 cat01=010000000 area=00000",
+      "note": "年次表の値。単位は世帯あたり年間支出（円）"
     },
     {
       "as_of_date": "2014-12-31",
@@ -321,9 +340,10 @@
       "period": "2014",
       "period_type": "annual",
       "value": 913261.0,
-      "unit": "JPY_per_month_household",
-      "source": "e-Stat 家計調査（二人以上・品目分類）",
-      "source_ref": "statsDataId=0003348239 cat01=010000000 area=00000"
+      "unit": "JPY_per_year_household",
+      "source": "e-Stat 家計調査（二人以上・品目分類・年次）",
+      "source_ref": "statsDataId=0003348239 cat01=010000000 area=00000",
+      "note": "年次表の値。単位は世帯あたり年間支出（円）"
     },
     {
       "as_of_date": "2015-12-31",
@@ -337,9 +357,10 @@
       "period": "2015",
       "period_type": "annual",
       "value": 937712.0,
-      "unit": "JPY_per_month_household",
-      "source": "e-Stat 家計調査（二人以上・品目分類）",
-      "source_ref": "statsDataId=0003348239 cat01=010000000 area=00000"
+      "unit": "JPY_per_year_household",
+      "source": "e-Stat 家計調査（二人以上・品目分類・年次）",
+      "source_ref": "statsDataId=0003348239 cat01=010000000 area=00000",
+      "note": "年次表の値。単位は世帯あたり年間支出（円）"
     },
     {
       "as_of_date": "2016-12-31",
@@ -353,9 +374,10 @@
       "period": "2016",
       "period_type": "annual",
       "value": 947618.0,
-      "unit": "JPY_per_month_household",
-      "source": "e-Stat 家計調査（二人以上・品目分類）",
-      "source_ref": "statsDataId=0003348239 cat01=010000000 area=00000"
+      "unit": "JPY_per_year_household",
+      "source": "e-Stat 家計調査（二人以上・品目分類・年次）",
+      "source_ref": "statsDataId=0003348239 cat01=010000000 area=00000",
+      "note": "年次表の値。単位は世帯あたり年間支出（円）"
     },
     {
       "as_of_date": "2017-12-31",
@@ -369,9 +391,10 @@
       "period": "2017",
       "period_type": "annual",
       "value": 946438.0,
-      "unit": "JPY_per_month_household",
-      "source": "e-Stat 家計調査（二人以上・品目分類）",
-      "source_ref": "statsDataId=0003348239 cat01=010000000 area=00000"
+      "unit": "JPY_per_year_household",
+      "source": "e-Stat 家計調査（二人以上・品目分類・年次）",
+      "source_ref": "statsDataId=0003348239 cat01=010000000 area=00000",
+      "note": "年次表の値。単位は世帯あたり年間支出（円）"
     },
     {
       "as_of_date": "2018-12-31",
@@ -385,9 +408,10 @@
       "period": "2018",
       "period_type": "annual",
       "value": 952170.0,
-      "unit": "JPY_per_month_household",
-      "source": "e-Stat 家計調査（二人以上・品目分類）",
-      "source_ref": "statsDataId=0003348239 cat01=010000000 area=00000"
+      "unit": "JPY_per_year_household",
+      "source": "e-Stat 家計調査（二人以上・品目分類・年次）",
+      "source_ref": "statsDataId=0003348239 cat01=010000000 area=00000",
+      "note": "年次表の値。単位は世帯あたり年間支出（円）"
     },
     {
       "as_of_date": "2019-12-31",
@@ -401,9 +425,10 @@
       "period": "2019",
       "period_type": "annual",
       "value": 965536.0,
-      "unit": "JPY_per_month_household",
-      "source": "e-Stat 家計調査（二人以上・品目分類）",
-      "source_ref": "statsDataId=0003348239 cat01=010000000 area=00000"
+      "unit": "JPY_per_year_household",
+      "source": "e-Stat 家計調査（二人以上・品目分類・年次）",
+      "source_ref": "statsDataId=0003348239 cat01=010000000 area=00000",
+      "note": "年次表の値。単位は世帯あたり年間支出（円）"
     },
     {
       "as_of_date": "2020-12-31",
@@ -417,9 +442,10 @@
       "period": "2020",
       "period_type": "annual",
       "value": 962373.0,
-      "unit": "JPY_per_month_household",
-      "source": "e-Stat 家計調査（二人以上・品目分類）",
-      "source_ref": "statsDataId=0003348239 cat01=010000000 area=00000"
+      "unit": "JPY_per_year_household",
+      "source": "e-Stat 家計調査（二人以上・品目分類・年次）",
+      "source_ref": "statsDataId=0003348239 cat01=010000000 area=00000",
+      "note": "年次表の値。単位は世帯あたり年間支出（円）"
     },
     {
       "as_of_date": "2021-12-31",
@@ -433,9 +459,10 @@
       "period": "2021",
       "period_type": "annual",
       "value": 952812.0,
-      "unit": "JPY_per_month_household",
-      "source": "e-Stat 家計調査（二人以上・品目分類）",
-      "source_ref": "statsDataId=0003348239 cat01=010000000 area=00000"
+      "unit": "JPY_per_year_household",
+      "source": "e-Stat 家計調査（二人以上・品目分類・年次）",
+      "source_ref": "statsDataId=0003348239 cat01=010000000 area=00000",
+      "note": "年次表の値。単位は世帯あたり年間支出（円）"
     },
     {
       "as_of_date": "2022-12-31",
@@ -449,9 +476,10 @@
       "period": "2022",
       "period_type": "annual",
       "value": 982661.0,
-      "unit": "JPY_per_month_household",
-      "source": "e-Stat 家計調査（二人以上・品目分類）",
-      "source_ref": "statsDataId=0003348239 cat01=010000000 area=00000"
+      "unit": "JPY_per_year_household",
+      "source": "e-Stat 家計調査（二人以上・品目分類・年次）",
+      "source_ref": "statsDataId=0003348239 cat01=010000000 area=00000",
+      "note": "年次表の値。単位は世帯あたり年間支出（円）"
     },
     {
       "as_of_date": "2023-12-31",
@@ -465,9 +493,10 @@
       "period": "2023",
       "period_type": "annual",
       "value": 1038653.0,
-      "unit": "JPY_per_month_household",
-      "source": "e-Stat 家計調査（二人以上・品目分類）",
-      "source_ref": "statsDataId=0003348239 cat01=010000000 area=00000"
+      "unit": "JPY_per_year_household",
+      "source": "e-Stat 家計調査（二人以上・品目分類・年次）",
+      "source_ref": "statsDataId=0003348239 cat01=010000000 area=00000",
+      "note": "年次表の値。単位は世帯あたり年間支出（円）"
     },
     {
       "as_of_date": "2024-12-31",
@@ -481,9 +510,10 @@
       "period": "2024",
       "period_type": "annual",
       "value": 1079228.0,
-      "unit": "JPY_per_month_household",
-      "source": "e-Stat 家計調査（二人以上・品目分類）",
-      "source_ref": "statsDataId=0003348239 cat01=010000000 area=00000"
+      "unit": "JPY_per_year_household",
+      "source": "e-Stat 家計調査（二人以上・品目分類・年次）",
+      "source_ref": "statsDataId=0003348239 cat01=010000000 area=00000",
+      "note": "年次表の値。単位は世帯あたり年間支出（円）"
     },
     {
       "as_of_date": "2010-12-31",
@@ -497,9 +527,10 @@
       "period": "2010",
       "period_type": "annual",
       "value": 126895.0,
-      "unit": "JPY_per_month_household",
-      "source": "e-Stat 家計調査（二人以上・品目分類）",
-      "source_ref": "statsDataId=0003348239 cat01=040000000 area=00000"
+      "unit": "JPY_per_year_household",
+      "source": "e-Stat 家計調査（二人以上・品目分類・年次）",
+      "source_ref": "statsDataId=0003348239 cat01=040000000 area=00000",
+      "note": "年次表の値。単位は世帯あたり年間支出（円）"
     },
     {
       "as_of_date": "2011-12-31",
@@ -513,9 +544,10 @@
       "period": "2011",
       "period_type": "annual",
       "value": 124775.0,
-      "unit": "JPY_per_month_household",
-      "source": "e-Stat 家計調査（二人以上・品目分類）",
-      "source_ref": "statsDataId=0003348239 cat01=040000000 area=00000"
+      "unit": "JPY_per_year_household",
+      "source": "e-Stat 家計調査（二人以上・品目分類・年次）",
+      "source_ref": "statsDataId=0003348239 cat01=040000000 area=00000",
+      "note": "年次表の値。単位は世帯あたり年間支出（円）"
     },
     {
       "as_of_date": "2012-12-31",
@@ -529,9 +561,10 @@
       "period": "2012",
       "period_type": "annual",
       "value": 125361.0,
-      "unit": "JPY_per_month_household",
-      "source": "e-Stat 家計調査（二人以上・品目分類）",
-      "source_ref": "statsDataId=0003348239 cat01=040000000 area=00000"
+      "unit": "JPY_per_year_household",
+      "source": "e-Stat 家計調査（二人以上・品目分類・年次）",
+      "source_ref": "statsDataId=0003348239 cat01=040000000 area=00000",
+      "note": "年次表の値。単位は世帯あたり年間支出（円）"
     },
     {
       "as_of_date": "2013-12-31",
@@ -545,9 +578,10 @@
       "period": "2013",
       "period_type": "annual",
       "value": 127189.0,
-      "unit": "JPY_per_month_household",
-      "source": "e-Stat 家計調査（二人以上・品目分類）",
-      "source_ref": "statsDataId=0003348239 cat01=040000000 area=00000"
+      "unit": "JPY_per_year_household",
+      "source": "e-Stat 家計調査（二人以上・品目分類・年次）",
+      "source_ref": "statsDataId=0003348239 cat01=040000000 area=00000",
+      "note": "年次表の値。単位は世帯あたり年間支出（円）"
     },
     {
       "as_of_date": "2014-12-31",
@@ -561,9 +595,10 @@
       "period": "2014",
       "period_type": "annual",
       "value": 131744.0,
-      "unit": "JPY_per_month_household",
-      "source": "e-Stat 家計調査（二人以上・品目分類）",
-      "source_ref": "statsDataId=0003348239 cat01=040000000 area=00000"
+      "unit": "JPY_per_year_household",
+      "source": "e-Stat 家計調査（二人以上・品目分類・年次）",
+      "source_ref": "statsDataId=0003348239 cat01=040000000 area=00000",
+      "note": "年次表の値。単位は世帯あたり年間支出（円）"
     },
     {
       "as_of_date": "2015-12-31",
@@ -577,9 +612,10 @@
       "period": "2015",
       "period_type": "annual",
       "value": 128729.0,
-      "unit": "JPY_per_month_household",
-      "source": "e-Stat 家計調査（二人以上・品目分類）",
-      "source_ref": "statsDataId=0003348239 cat01=040000000 area=00000"
+      "unit": "JPY_per_year_household",
+      "source": "e-Stat 家計調査（二人以上・品目分類・年次）",
+      "source_ref": "statsDataId=0003348239 cat01=040000000 area=00000",
+      "note": "年次表の値。単位は世帯あたり年間支出（円）"
     },
     {
       "as_of_date": "2016-12-31",
@@ -593,9 +629,10 @@
       "period": "2016",
       "period_type": "annual",
       "value": 127355.0,
-      "unit": "JPY_per_month_household",
-      "source": "e-Stat 家計調査（二人以上・品目分類）",
-      "source_ref": "statsDataId=0003348239 cat01=040000000 area=00000"
+      "unit": "JPY_per_year_household",
+      "source": "e-Stat 家計調査（二人以上・品目分類・年次）",
+      "source_ref": "statsDataId=0003348239 cat01=040000000 area=00000",
+      "note": "年次表の値。単位は世帯あたり年間支出（円）"
     },
     {
       "as_of_date": "2017-12-31",
@@ -609,9 +646,10 @@
       "period": "2017",
       "period_type": "annual",
       "value": 129948.0,
-      "unit": "JPY_per_month_household",
-      "source": "e-Stat 家計調査（二人以上・品目分類）",
-      "source_ref": "statsDataId=0003348239 cat01=040000000 area=00000"
+      "unit": "JPY_per_year_household",
+      "source": "e-Stat 家計調査（二人以上・品目分類・年次）",
+      "source_ref": "statsDataId=0003348239 cat01=040000000 area=00000",
+      "note": "年次表の値。単位は世帯あたり年間支出（円）"
     },
     {
       "as_of_date": "2018-12-31",
@@ -625,9 +663,10 @@
       "period": "2018",
       "period_type": "annual",
       "value": 133127.0,
-      "unit": "JPY_per_month_household",
-      "source": "e-Stat 家計調査（二人以上・品目分類）",
-      "source_ref": "statsDataId=0003348239 cat01=040000000 area=00000"
+      "unit": "JPY_per_year_household",
+      "source": "e-Stat 家計調査（二人以上・品目分類・年次）",
+      "source_ref": "statsDataId=0003348239 cat01=040000000 area=00000",
+      "note": "年次表の値。単位は世帯あたり年間支出（円）"
     },
     {
       "as_of_date": "2019-12-31",
@@ -641,9 +680,10 @@
       "period": "2019",
       "period_type": "annual",
       "value": 140598.0,
-      "unit": "JPY_per_month_household",
-      "source": "e-Stat 家計調査（二人以上・品目分類）",
-      "source_ref": "statsDataId=0003348239 cat01=040000000 area=00000"
+      "unit": "JPY_per_year_household",
+      "source": "e-Stat 家計調査（二人以上・品目分類・年次）",
+      "source_ref": "statsDataId=0003348239 cat01=040000000 area=00000",
+      "note": "年次表の値。単位は世帯あたり年間支出（円）"
     },
     {
       "as_of_date": "2020-12-31",
@@ -657,9 +697,10 @@
       "period": "2020",
       "period_type": "annual",
       "value": 152497.0,
-      "unit": "JPY_per_month_household",
-      "source": "e-Stat 家計調査（二人以上・品目分類）",
-      "source_ref": "statsDataId=0003348239 cat01=040000000 area=00000"
+      "unit": "JPY_per_year_household",
+      "source": "e-Stat 家計調査（二人以上・品目分類・年次）",
+      "source_ref": "statsDataId=0003348239 cat01=040000000 area=00000",
+      "note": "年次表の値。単位は世帯あたり年間支出（円）"
     },
     {
       "as_of_date": "2021-12-31",
@@ -673,9 +714,10 @@
       "period": "2021",
       "period_type": "annual",
       "value": 145207.0,
-      "unit": "JPY_per_month_household",
-      "source": "e-Stat 家計調査（二人以上・品目分類）",
-      "source_ref": "statsDataId=0003348239 cat01=040000000 area=00000"
+      "unit": "JPY_per_year_household",
+      "source": "e-Stat 家計調査（二人以上・品目分類・年次）",
+      "source_ref": "statsDataId=0003348239 cat01=040000000 area=00000",
+      "note": "年次表の値。単位は世帯あたり年間支出（円）"
     },
     {
       "as_of_date": "2022-12-31",
@@ -689,9 +731,10 @@
       "period": "2022",
       "period_type": "annual",
       "value": 148679.0,
-      "unit": "JPY_per_month_household",
-      "source": "e-Stat 家計調査（二人以上・品目分類）",
-      "source_ref": "statsDataId=0003348239 cat01=040000000 area=00000"
+      "unit": "JPY_per_year_household",
+      "source": "e-Stat 家計調査（二人以上・品目分類・年次）",
+      "source_ref": "statsDataId=0003348239 cat01=040000000 area=00000",
+      "note": "年次表の値。単位は世帯あたり年間支出（円）"
     },
     {
       "as_of_date": "2023-12-31",
@@ -705,9 +748,10 @@
       "period": "2023",
       "period_type": "annual",
       "value": 148502.0,
-      "unit": "JPY_per_month_household",
-      "source": "e-Stat 家計調査（二人以上・品目分類）",
-      "source_ref": "statsDataId=0003348239 cat01=040000000 area=00000"
+      "unit": "JPY_per_year_household",
+      "source": "e-Stat 家計調査（二人以上・品目分類・年次）",
+      "source_ref": "statsDataId=0003348239 cat01=040000000 area=00000",
+      "note": "年次表の値。単位は世帯あたり年間支出（円）"
     },
     {
       "as_of_date": "2024-12-31",
@@ -721,9 +765,10 @@
       "period": "2024",
       "period_type": "annual",
       "value": 153459.0,
-      "unit": "JPY_per_month_household",
-      "source": "e-Stat 家計調査（二人以上・品目分類）",
-      "source_ref": "statsDataId=0003348239 cat01=040000000 area=00000"
+      "unit": "JPY_per_year_household",
+      "source": "e-Stat 家計調査（二人以上・品目分類・年次）",
+      "source_ref": "statsDataId=0003348239 cat01=040000000 area=00000",
+      "note": "年次表の値。単位は世帯あたり年間支出（円）"
     },
     {
       "as_of_date": "2010-12-31",
@@ -737,9 +782,10 @@
       "period": "2010",
       "period_type": "annual",
       "value": 3482930.0,
-      "unit": "JPY_per_month_household",
-      "source": "e-Stat 家計調査（二人以上・品目分類）",
-      "source_ref": "statsDataId=0003348239 cat01=001100000 area=00000"
+      "unit": "JPY_per_year_household",
+      "source": "e-Stat 家計調査（二人以上・品目分類・年次）",
+      "source_ref": "statsDataId=0003348239 cat01=001100000 area=00000",
+      "note": "年次表の値。単位は世帯あたり年間支出（円）"
     },
     {
       "as_of_date": "2011-12-31",
@@ -753,9 +799,10 @@
       "period": "2011",
       "period_type": "annual",
       "value": 3395587.0,
-      "unit": "JPY_per_month_household",
-      "source": "e-Stat 家計調査（二人以上・品目分類）",
-      "source_ref": "statsDataId=0003348239 cat01=001100000 area=00000"
+      "unit": "JPY_per_year_household",
+      "source": "e-Stat 家計調査（二人以上・品目分類・年次）",
+      "source_ref": "statsDataId=0003348239 cat01=001100000 area=00000",
+      "note": "年次表の値。単位は世帯あたり年間支出（円）"
     },
     {
       "as_of_date": "2012-12-31",
@@ -769,9 +816,10 @@
       "period": "2012",
       "period_type": "annual",
       "value": 3434026.0,
-      "unit": "JPY_per_month_household",
-      "source": "e-Stat 家計調査（二人以上・品目分類）",
-      "source_ref": "statsDataId=0003348239 cat01=001100000 area=00000"
+      "unit": "JPY_per_year_household",
+      "source": "e-Stat 家計調査（二人以上・品目分類・年次）",
+      "source_ref": "statsDataId=0003348239 cat01=001100000 area=00000",
+      "note": "年次表の値。単位は世帯あたり年間支出（円）"
     },
     {
       "as_of_date": "2013-12-31",
@@ -785,9 +833,10 @@
       "period": "2013",
       "period_type": "annual",
       "value": 3485454.0,
-      "unit": "JPY_per_month_household",
-      "source": "e-Stat 家計調査（二人以上・品目分類）",
-      "source_ref": "statsDataId=0003348239 cat01=001100000 area=00000"
+      "unit": "JPY_per_year_household",
+      "source": "e-Stat 家計調査（二人以上・品目分類・年次）",
+      "source_ref": "statsDataId=0003348239 cat01=001100000 area=00000",
+      "note": "年次表の値。単位は世帯あたり年間支出（円）"
     },
     {
       "as_of_date": "2014-12-31",
@@ -801,9 +850,10 @@
       "period": "2014",
       "period_type": "annual",
       "value": 3494322.0,
-      "unit": "JPY_per_month_household",
-      "source": "e-Stat 家計調査（二人以上・品目分類）",
-      "source_ref": "statsDataId=0003348239 cat01=001100000 area=00000"
+      "unit": "JPY_per_year_household",
+      "source": "e-Stat 家計調査（二人以上・品目分類・年次）",
+      "source_ref": "statsDataId=0003348239 cat01=001100000 area=00000",
+      "note": "年次表の値。単位は世帯あたり年間支出（円）"
     },
     {
       "as_of_date": "2015-12-31",
@@ -817,9 +867,10 @@
       "period": "2015",
       "period_type": "annual",
       "value": 3448482.0,
-      "unit": "JPY_per_month_household",
-      "source": "e-Stat 家計調査（二人以上・品目分類）",
-      "source_ref": "statsDataId=0003348239 cat01=001100000 area=00000"
+      "unit": "JPY_per_year_household",
+      "source": "e-Stat 家計調査（二人以上・品目分類・年次）",
+      "source_ref": "statsDataId=0003348239 cat01=001100000 area=00000",
+      "note": "年次表の値。単位は世帯あたり年間支出（円）"
     },
     {
       "as_of_date": "2016-12-31",
@@ -833,9 +884,10 @@
       "period": "2016",
       "period_type": "annual",
       "value": 3386257.0,
-      "unit": "JPY_per_month_household",
-      "source": "e-Stat 家計調査（二人以上・品目分類）",
-      "source_ref": "statsDataId=0003348239 cat01=001100000 area=00000"
+      "unit": "JPY_per_year_household",
+      "source": "e-Stat 家計調査（二人以上・品目分類・年次）",
+      "source_ref": "statsDataId=0003348239 cat01=001100000 area=00000",
+      "note": "年次表の値。単位は世帯あたり年間支出（円）"
     },
     {
       "as_of_date": "2017-12-31",
@@ -849,9 +901,10 @@
       "period": "2017",
       "period_type": "annual",
       "value": 3396330.0,
-      "unit": "JPY_per_month_household",
-      "source": "e-Stat 家計調査（二人以上・品目分類）",
-      "source_ref": "statsDataId=0003348239 cat01=001100000 area=00000"
+      "unit": "JPY_per_year_household",
+      "source": "e-Stat 家計調査（二人以上・品目分類・年次）",
+      "source_ref": "statsDataId=0003348239 cat01=001100000 area=00000",
+      "note": "年次表の値。単位は世帯あたり年間支出（円）"
     },
     {
       "as_of_date": "2018-12-31",
@@ -865,9 +918,10 @@
       "period": "2018",
       "period_type": "annual",
       "value": 3447782.0,
-      "unit": "JPY_per_month_household",
-      "source": "e-Stat 家計調査（二人以上・品目分類）",
-      "source_ref": "statsDataId=0003348239 cat01=001100000 area=00000"
+      "unit": "JPY_per_year_household",
+      "source": "e-Stat 家計調査（二人以上・品目分類・年次）",
+      "source_ref": "statsDataId=0003348239 cat01=001100000 area=00000",
+      "note": "年次表の値。単位は世帯あたり年間支出（円）"
     },
     {
       "as_of_date": "2019-12-31",
@@ -881,9 +935,10 @@
       "period": "2019",
       "period_type": "annual",
       "value": 3520547.0,
-      "unit": "JPY_per_month_household",
-      "source": "e-Stat 家計調査（二人以上・品目分類）",
-      "source_ref": "statsDataId=0003348239 cat01=001100000 area=00000"
+      "unit": "JPY_per_year_household",
+      "source": "e-Stat 家計調査（二人以上・品目分類・年次）",
+      "source_ref": "statsDataId=0003348239 cat01=001100000 area=00000",
+      "note": "年次表の値。単位は世帯あたり年間支出（円）"
     },
     {
       "as_of_date": "2020-12-31",
@@ -897,9 +952,10 @@
       "period": "2020",
       "period_type": "annual",
       "value": 3335114.0,
-      "unit": "JPY_per_month_household",
-      "source": "e-Stat 家計調査（二人以上・品目分類）",
-      "source_ref": "statsDataId=0003348239 cat01=001100000 area=00000"
+      "unit": "JPY_per_year_household",
+      "source": "e-Stat 家計調査（二人以上・品目分類・年次）",
+      "source_ref": "statsDataId=0003348239 cat01=001100000 area=00000",
+      "note": "年次表の値。単位は世帯あたり年間支出（円）"
     },
     {
       "as_of_date": "2021-12-31",
@@ -913,9 +969,10 @@
       "period": "2021",
       "period_type": "annual",
       "value": 3348287.0,
-      "unit": "JPY_per_month_household",
-      "source": "e-Stat 家計調査（二人以上・品目分類）",
-      "source_ref": "statsDataId=0003348239 cat01=001100000 area=00000"
+      "unit": "JPY_per_year_household",
+      "source": "e-Stat 家計調査（二人以上・品目分類・年次）",
+      "source_ref": "statsDataId=0003348239 cat01=001100000 area=00000",
+      "note": "年次表の値。単位は世帯あたり年間支出（円）"
     },
     {
       "as_of_date": "2022-12-31",
@@ -929,9 +986,10 @@
       "period": "2022",
       "period_type": "annual",
       "value": 3490383.0,
-      "unit": "JPY_per_month_household",
-      "source": "e-Stat 家計調査（二人以上・品目分類）",
-      "source_ref": "statsDataId=0003348239 cat01=001100000 area=00000"
+      "unit": "JPY_per_year_household",
+      "source": "e-Stat 家計調査（二人以上・品目分類・年次）",
+      "source_ref": "statsDataId=0003348239 cat01=001100000 area=00000",
+      "note": "年次表の値。単位は世帯あたり年間支出（円）"
     },
     {
       "as_of_date": "2023-12-31",
@@ -945,9 +1003,10 @@
       "period": "2023",
       "period_type": "annual",
       "value": 3527961.0,
-      "unit": "JPY_per_month_household",
-      "source": "e-Stat 家計調査（二人以上・品目分類）",
-      "source_ref": "statsDataId=0003348239 cat01=001100000 area=00000"
+      "unit": "JPY_per_year_household",
+      "source": "e-Stat 家計調査（二人以上・品目分類・年次）",
+      "source_ref": "statsDataId=0003348239 cat01=001100000 area=00000",
+      "note": "年次表の値。単位は世帯あたり年間支出（円）"
     },
     {
       "as_of_date": "2024-12-31",
@@ -961,9 +1020,10 @@
       "period": "2024",
       "period_type": "annual",
       "value": 3602915.0,
-      "unit": "JPY_per_month_household",
-      "source": "e-Stat 家計調査（二人以上・品目分類）",
-      "source_ref": "statsDataId=0003348239 cat01=001100000 area=00000"
+      "unit": "JPY_per_year_household",
+      "source": "e-Stat 家計調査（二人以上・品目分類・年次）",
+      "source_ref": "statsDataId=0003348239 cat01=001100000 area=00000",
+      "note": "年次表の値。単位は世帯あたり年間支出（円）"
     }
   ]
 }

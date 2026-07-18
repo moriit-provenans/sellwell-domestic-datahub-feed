@@ -13,28 +13,26 @@
   "keywords": [
     "製造",
     "食料",
+    "食品",
     "機械",
     "電機",
     "自動車",
     "DX",
     "省エネ",
-    "補助金"
+    "再エネ",
+    "GX",
+    "AI",
+    "情報",
+    "IT",
+    "繊維",
+    "消費",
+    "小売"
   ],
-  "count": 226,
-  "budget_sum_known_jpy": 216420032200,
-  "budget_known_n": 226,
+  "count": 171,
+  "budget_sum_known_jpy": 159291521000,
+  "budget_known_n": 171,
   "note": "公募中・複数KWユニーク。上限欠損は API 欠落分。",
   "items": [
-    {
-      "id": "a0WJ200000CDZIyMAP",
-      "title": "【一次公募】令和8年度　貿易プラットフォーム活用による貿易手続デジタル化推進事業費補助金",
-      "institution": null,
-      "subsidy_max_limit": 50000000,
-      "subsidy_rate": null,
-      "acceptance_end_datetime": "2026-07-21T03:00:00.000Z",
-      "matched_keyword": "補助金",
-      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDZIyMAP"
-    },
     {
       "id": "a0WJ200000CDO8eMAH",
       "title": "交通システムの省CO2 化に向けた設備整備事業（鉄道事業等におけるネットワーク型低炭素化促進事業）",
@@ -43,7 +41,11 @@
       "subsidy_rate": null,
       "acceptance_end_datetime": "2026-07-21T08:00:00.000Z",
       "matched_keyword": "省エネ",
-      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDO8eMAH"
+      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDO8eMAH",
+      "industry_slugs": [
+        "energy-gx"
+      ],
+      "use_purpose": "全国"
     },
     {
       "id": "a0WJ200000CDYMuMAP",
@@ -52,8 +54,12 @@
       "subsidy_max_limit": 100000000,
       "subsidy_rate": null,
       "acceptance_end_datetime": "2026-07-21T08:00:00.000Z",
-      "matched_keyword": "補助金",
-      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYMuMAP"
+      "matched_keyword": "AI",
+      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYMuMAP",
+      "industry_slugs": [
+        "ai"
+      ],
+      "use_purpose": "全国"
     },
     {
       "id": "a0WJ200000CDYLLMA5",
@@ -62,8 +68,27 @@
       "subsidy_max_limit": 20000000,
       "subsidy_rate": null,
       "acceptance_end_datetime": "2026-07-21T08:00:00.000Z",
-      "matched_keyword": "補助金",
-      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYLLMA5"
+      "matched_keyword": "情報",
+      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYLLMA5",
+      "industry_slugs": [
+        "ai"
+      ],
+      "use_purpose": "全国"
+    },
+    {
+      "id": "a0WJ200000CDYslMAH",
+      "title": "「太陽光発電導入拡大等技術開発事業／NEDOプロジェクトを核とした人材育成、産学連携等の総合的展開／ペロブスカイト太陽電池の研究開発・実装を担う人材育成特別講座」の公募",
+      "institution": null,
+      "subsidy_max_limit": 0,
+      "subsidy_rate": null,
+      "acceptance_end_datetime": "2026-07-23T03:00:00.000Z",
+      "matched_keyword": "情報",
+      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYslMAH",
+      "industry_slugs": [
+        "ai",
+        "energy-gx"
+      ],
+      "use_purpose": "全国"
     },
     {
       "id": "a0WJ200000CDc1IMAT",
@@ -73,7 +98,11 @@
       "subsidy_rate": null,
       "acceptance_end_datetime": "2026-07-23T08:00:00.000Z",
       "matched_keyword": "機械",
-      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDc1IMAT"
+      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDc1IMAT",
+      "industry_slugs": [
+        "industrial-machinery"
+      ],
+      "use_purpose": "茨城県 / 栃木県 / 群馬県 / 埼玉県 / 千葉県 / 東京都 / 神奈川県 / 山梨県"
     },
     {
       "id": "a0WJ200000CDbzXMAT",
@@ -83,7 +112,11 @@
       "subsidy_rate": null,
       "acceptance_end_datetime": "2026-07-24T01:00:00.000Z",
       "matched_keyword": "食料",
-      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDbzXMAT"
+      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDbzXMAT",
+      "industry_slugs": [
+        "food-beverage"
+      ],
+      "use_purpose": "全国"
     },
     {
       "id": "a0WJ200000CDapWMAT",
@@ -93,7 +126,11 @@
       "subsidy_rate": null,
       "acceptance_end_datetime": "2026-07-24T03:00:00.000Z",
       "matched_keyword": "製造",
-      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDapWMAT"
+      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDapWMAT",
+      "industry_slugs": [
+        "untagged"
+      ],
+      "use_purpose": "全国 / 北海道 / 青森県 / 岩手県 / 宮城県 / 秋田県 / 山形県 / 福島県 / 茨城県 / 栃木県 / 群馬県 / 埼玉県 / 千葉県 / 東京都 / 神奈川県 / 新潟県 / 山梨県 / 長野県 / 富山県 / 石川県 / 福井県 / 岐阜県 / 静岡県 / 愛知県 / 三重県 / 滋賀県 / 京都府 / 大阪府 / 兵庫県 / 奈良県 / 和歌山県 / 鳥取県 / 島根県 / 岡山県 / 広島県 / 山口県 / 徳島県 / 香川県 / 愛媛県 / 高知県 / 福岡県 / 佐賀県 / 長崎県 / 熊本県 / 大分県 / 宮崎県 / 鹿児島県 / 沖縄県"
     },
     {
       "id": "a0WJ200000CDYkHMAX",
@@ -103,7 +140,11 @@
       "subsidy_rate": null,
       "acceptance_end_datetime": "2026-07-24T03:00:00.000Z",
       "matched_keyword": "製造",
-      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYkHMAX"
+      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYkHMAX",
+      "industry_slugs": [
+        "untagged"
+      ],
+      "use_purpose": "全国"
     },
     {
       "id": "a0WJ200000CDYkCMAX",
@@ -113,7 +154,11 @@
       "subsidy_rate": null,
       "acceptance_end_datetime": "2026-07-24T03:00:00.000Z",
       "matched_keyword": "製造",
-      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYkCMAX"
+      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYkCMAX",
+      "industry_slugs": [
+        "energy-gx"
+      ],
+      "use_purpose": "全国"
     },
     {
       "id": "a0WJ200000CDYk0MAH",
@@ -123,7 +168,11 @@
       "subsidy_rate": null,
       "acceptance_end_datetime": "2026-07-24T03:00:00.000Z",
       "matched_keyword": "製造",
-      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYk0MAH"
+      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYk0MAH",
+      "industry_slugs": [
+        "untagged"
+      ],
+      "use_purpose": "全国"
     },
     {
       "id": "a0WJ200000CDYjRMAX",
@@ -133,7 +182,11 @@
       "subsidy_rate": null,
       "acceptance_end_datetime": "2026-07-24T03:00:00.000Z",
       "matched_keyword": "製造",
-      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYjRMAX"
+      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYjRMAX",
+      "industry_slugs": [
+        "untagged"
+      ],
+      "use_purpose": "全国"
     },
     {
       "id": "a0WJ200000CDYiwMAH",
@@ -143,7 +196,25 @@
       "subsidy_rate": null,
       "acceptance_end_datetime": "2026-07-24T03:00:00.000Z",
       "matched_keyword": "製造",
-      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYiwMAH"
+      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYiwMAH",
+      "industry_slugs": [
+        "untagged"
+      ],
+      "use_purpose": "全国"
+    },
+    {
+      "id": "a0WJ200000CDbyeMAD",
+      "title": "「経済安全保障重要技術育成プログラム／ハイブリッドクラウド利用基盤技術の開発／不正機能排除技術の社会実装に向けた市場・技術動向等に係る調査」の公募",
+      "institution": null,
+      "subsidy_max_limit": 0,
+      "subsidy_rate": null,
+      "acceptance_end_datetime": "2026-07-24T03:00:00.000Z",
+      "matched_keyword": "IT",
+      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDbyeMAD",
+      "industry_slugs": [
+        "ai"
+      ],
+      "use_purpose": "全国"
     },
     {
       "id": "a0WJ200000CDYqvMAH",
@@ -153,7 +224,11 @@
       "subsidy_rate": null,
       "acceptance_end_datetime": "2026-07-24T08:00:00.000Z",
       "matched_keyword": "省エネ",
-      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYqvMAH"
+      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYqvMAH",
+      "industry_slugs": [
+        "energy-gx"
+      ],
+      "use_purpose": "全国"
     },
     {
       "id": "a0WJ200000CDYUSMA5",
@@ -163,17 +238,11 @@
       "subsidy_rate": null,
       "acceptance_end_datetime": "2026-07-24T08:00:00.000Z",
       "matched_keyword": "省エネ",
-      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYUSMA5"
-    },
-    {
-      "id": "a0WJ200000CDZd3MAH",
-      "title": "【秋田県】令和8年度中小企業等海外展開支援事業費補助金（海外出願支援事業）",
-      "institution": null,
-      "subsidy_max_limit": 3000000,
-      "subsidy_rate": null,
-      "acceptance_end_datetime": "2026-07-24T08:15:00.000Z",
-      "matched_keyword": "補助金",
-      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDZd3MAH"
+      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYUSMA5",
+      "industry_slugs": [
+        "energy-gx"
+      ],
+      "use_purpose": "埼玉県"
     },
     {
       "id": "a0WJ200000CDapgMAD",
@@ -182,8 +251,12 @@
       "subsidy_max_limit": 10000000,
       "subsidy_rate": null,
       "acceptance_end_datetime": "2026-07-24T08:30:00.000Z",
-      "matched_keyword": "補助金",
-      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDapgMAD"
+      "matched_keyword": "情報",
+      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDapgMAD",
+      "industry_slugs": [
+        "ai"
+      ],
+      "use_purpose": "全国"
     },
     {
       "id": "a0WJ200000CDapmMAD",
@@ -192,8 +265,12 @@
       "subsidy_max_limit": 4500000,
       "subsidy_rate": null,
       "acceptance_end_datetime": "2026-07-24T08:30:00.000Z",
-      "matched_keyword": "補助金",
-      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDapmMAD"
+      "matched_keyword": "情報",
+      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDapmMAD",
+      "industry_slugs": [
+        "ai"
+      ],
+      "use_purpose": "全国"
     },
     {
       "id": "a0WJ200000CDaplMAD",
@@ -202,8 +279,12 @@
       "subsidy_max_limit": 10000000,
       "subsidy_rate": null,
       "acceptance_end_datetime": "2026-07-24T08:30:00.000Z",
-      "matched_keyword": "補助金",
-      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDaplMAD"
+      "matched_keyword": "情報",
+      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDaplMAD",
+      "industry_slugs": [
+        "ai"
+      ],
+      "use_purpose": "全国"
     },
     {
       "id": "a0WJ200000CDapkMAD",
@@ -212,8 +293,12 @@
       "subsidy_max_limit": 1500000,
       "subsidy_rate": null,
       "acceptance_end_datetime": "2026-07-24T08:30:00.000Z",
-      "matched_keyword": "補助金",
-      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDapkMAD"
+      "matched_keyword": "情報",
+      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDapkMAD",
+      "industry_slugs": [
+        "ai"
+      ],
+      "use_purpose": "全国"
     },
     {
       "id": "a0WJ200000CDapjMAD",
@@ -222,8 +307,12 @@
       "subsidy_max_limit": 20000000,
       "subsidy_rate": null,
       "acceptance_end_datetime": "2026-07-24T08:30:00.000Z",
-      "matched_keyword": "補助金",
-      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDapjMAD"
+      "matched_keyword": "情報",
+      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDapjMAD",
+      "industry_slugs": [
+        "ai"
+      ],
+      "use_purpose": "全国"
     },
     {
       "id": "a0WJ200000CDapiMAD",
@@ -232,8 +321,12 @@
       "subsidy_max_limit": 8000000,
       "subsidy_rate": null,
       "acceptance_end_datetime": "2026-07-24T08:30:00.000Z",
-      "matched_keyword": "補助金",
-      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDapiMAD"
+      "matched_keyword": "情報",
+      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDapiMAD",
+      "industry_slugs": [
+        "ai"
+      ],
+      "use_purpose": "全国"
     },
     {
       "id": "a0WJ200000CDaphMAD",
@@ -242,28 +335,12 @@
       "subsidy_max_limit": 3000000,
       "subsidy_rate": null,
       "acceptance_end_datetime": "2026-07-24T08:30:00.000Z",
-      "matched_keyword": "補助金",
-      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDaphMAD"
-    },
-    {
-      "id": "a0WJ200000CDYCgMAP",
-      "title": "令和８年度 保育園等による木育活動の支援事業（多摩地域）",
-      "institution": null,
-      "subsidy_max_limit": 2500000,
-      "subsidy_rate": null,
-      "acceptance_end_datetime": "2026-07-24T14:45:00.000Z",
-      "matched_keyword": "補助金",
-      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYCgMAP"
-    },
-    {
-      "id": "a0WJ200000CDXxyMAH",
-      "title": "令和８年度 保育園等による木育活動の支援事業（23区、島しょ地域）",
-      "institution": null,
-      "subsidy_max_limit": 2500000,
-      "subsidy_rate": null,
-      "acceptance_end_datetime": "2026-07-24T14:45:00.000Z",
-      "matched_keyword": "補助金",
-      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDXxyMAH"
+      "matched_keyword": "情報",
+      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDaphMAD",
+      "industry_slugs": [
+        "ai"
+      ],
+      "use_purpose": "全国"
     },
     {
       "id": "a0WJ200000CDYkiMAH",
@@ -272,8 +349,27 @@
       "subsidy_max_limit": 1300000,
       "subsidy_rate": null,
       "acceptance_end_datetime": "2026-07-24T14:59:00.000Z",
-      "matched_keyword": "補助金",
-      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYkiMAH"
+      "matched_keyword": "情報",
+      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYkiMAH",
+      "industry_slugs": [
+        "ai"
+      ],
+      "use_purpose": "東京都"
+    },
+    {
+      "id": "a0WJ200000CDYjqMAH",
+      "title": "「経済安全保障重要技術育成プログラム／高効率・高品質レーザー加工技術の開発／研究開発項目③高品質・高出力な半導体レーザーの研究開発及び当該半導体レーザーを用いた車載用LiDARの構築」の公募",
+      "institution": null,
+      "subsidy_max_limit": 0,
+      "subsidy_rate": null,
+      "acceptance_end_datetime": "2026-07-27T03:00:00.000Z",
+      "matched_keyword": "情報",
+      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYjqMAH",
+      "industry_slugs": [
+        "ai",
+        "electrical-equipment"
+      ],
+      "use_purpose": "全国"
     },
     {
       "id": "a0WJ200000CDbJKMA1",
@@ -283,7 +379,11 @@
       "subsidy_rate": null,
       "acceptance_end_datetime": "2026-07-27T07:00:00.000Z",
       "matched_keyword": "製造",
-      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDbJKMA1"
+      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDbJKMA1",
+      "industry_slugs": [
+        "untagged"
+      ],
+      "use_purpose": "全国 / 北海道 / 青森県 / 岩手県 / 宮城県 / 秋田県 / 山形県 / 福島県 / 茨城県 / 栃木県 / 群馬県 / 埼玉県 / 千葉県 / 東京都 / 神奈川県 / 新潟県 / 山梨県 / 長野県 / 富山県 / 石川県 / 福井県 / 岐阜県 / 静岡県 / 愛知県 / 三重県 / 滋賀県 / 京都府 / 大阪府 / 兵庫県 / 奈良県 / 和歌山県 / 鳥取県 / 島根県 / 岡山県 / 広島県 / 山口県 / 徳島県 / 香川県 / 愛媛県 / 高知県 / 福岡県 / 佐賀県 / 長崎県 / 熊本県 / 大分県 / 宮崎県 / 鹿児島県 / 沖縄県"
     },
     {
       "id": "a0WJ200000CDbonMAD",
@@ -293,7 +393,11 @@
       "subsidy_rate": null,
       "acceptance_end_datetime": "2026-07-28T03:00:00.000Z",
       "matched_keyword": "DX",
-      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDbonMAD"
+      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDbonMAD",
+      "industry_slugs": [
+        "ai"
+      ],
+      "use_purpose": "全国"
     },
     {
       "id": "a0WJ200000CDcfNMAT",
@@ -303,7 +407,11 @@
       "subsidy_rate": null,
       "acceptance_end_datetime": "2026-07-29T03:00:00.000Z",
       "matched_keyword": "製造",
-      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDcfNMAT"
+      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDcfNMAT",
+      "industry_slugs": [
+        "untagged"
+      ],
+      "use_purpose": "静岡県"
     },
     {
       "id": "a0WJ200000CDc1RMAT",
@@ -313,17 +421,11 @@
       "subsidy_rate": null,
       "acceptance_end_datetime": "2026-07-29T03:00:00.000Z",
       "matched_keyword": "製造",
-      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDc1RMAT"
-    },
-    {
-      "id": "a0WJ200000CDKZFMA5",
-      "title": "令和８年度_グリーンスローモビリティ等導入促進事業",
-      "institution": null,
-      "subsidy_max_limit": 0,
-      "subsidy_rate": null,
-      "acceptance_end_datetime": "2026-07-30T08:00:00.000Z",
-      "matched_keyword": "補助金",
-      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDKZFMA5"
+      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDc1RMAT",
+      "industry_slugs": [
+        "untagged"
+      ],
+      "use_purpose": "静岡県"
     },
     {
       "id": "a0WJ200000CDXoQMAX",
@@ -333,7 +435,11 @@
       "subsidy_rate": null,
       "acceptance_end_datetime": "2026-07-31T03:00:00.000Z",
       "matched_keyword": "食料",
-      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDXoQMAX"
+      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDXoQMAX",
+      "industry_slugs": [
+        "food-beverage"
+      ],
+      "use_purpose": "全国"
     },
     {
       "id": "a0WJ200000CDbHOMA1",
@@ -342,8 +448,12 @@
       "subsidy_max_limit": 60000000,
       "subsidy_rate": null,
       "acceptance_end_datetime": "2026-07-31T03:00:00.000Z",
-      "matched_keyword": "補助金",
-      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDbHOMA1"
+      "matched_keyword": "再エネ",
+      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDbHOMA1",
+      "industry_slugs": [
+        "energy-gx"
+      ],
+      "use_purpose": "全国"
     },
     {
       "id": "a0WJ200000CDNujMAH",
@@ -352,8 +462,12 @@
       "subsidy_max_limit": 1280000000,
       "subsidy_rate": null,
       "acceptance_end_datetime": "2026-07-31T03:00:00.000Z",
-      "matched_keyword": "補助金",
-      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDNujMAH"
+      "matched_keyword": "情報",
+      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDNujMAH",
+      "industry_slugs": [
+        "ai"
+      ],
+      "use_purpose": "全国"
     },
     {
       "id": "a0WJ200000CDdQsMAL",
@@ -363,27 +477,11 @@
       "subsidy_rate": null,
       "acceptance_end_datetime": "2026-07-31T07:00:00.000Z",
       "matched_keyword": "機械",
-      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdQsMAL"
-    },
-    {
-      "id": "a0WJ200000CDanIMAT",
-      "title": "令和８年度_東京大学先端科学技術研究センター共同研究創出支援事業 新技術・新製品研究開発支援事業",
-      "institution": null,
-      "subsidy_max_limit": 10000000,
-      "subsidy_rate": null,
-      "acceptance_end_datetime": "2026-07-31T07:00:00.000Z",
-      "matched_keyword": "補助金",
-      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDanIMAT"
-    },
-    {
-      "id": "a0WJ200000CDamPMAT",
-      "title": "令和８年度_東京大学先端科学技術研究センター共同研究創出支援事業 新技術・新製品開発事業化可能性調査事業",
-      "institution": null,
-      "subsidy_max_limit": 2000000,
-      "subsidy_rate": null,
-      "acceptance_end_datetime": "2026-07-31T07:00:00.000Z",
-      "matched_keyword": "補助金",
-      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDamPMAT"
+      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdQsMAL",
+      "industry_slugs": [
+        "industrial-machinery"
+      ],
+      "use_purpose": "東京都"
     },
     {
       "id": "a0WJ200000CDZz1MAH",
@@ -393,17 +491,12 @@
       "subsidy_rate": null,
       "acceptance_end_datetime": "2026-07-31T08:00:00.000Z",
       "matched_keyword": "機械",
-      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDZz1MAH"
-    },
-    {
-      "id": "a0WJ200000CDcyEMAT",
-      "title": "【熊本県】令和8年度_中小企業等海外展開支援事業費補助金（海外出願支援事業）",
-      "institution": null,
-      "subsidy_max_limit": 3000000,
-      "subsidy_rate": null,
-      "acceptance_end_datetime": "2026-07-31T08:00:00.000Z",
-      "matched_keyword": "補助金",
-      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDcyEMAT"
+      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDZz1MAH",
+      "industry_slugs": [
+        "energy-gx",
+        "industrial-machinery"
+      ],
+      "use_purpose": "愛知県"
     },
     {
       "id": "a0WJ200000CDckfMAD",
@@ -412,8 +505,12 @@
       "subsidy_max_limit": 3000000,
       "subsidy_rate": null,
       "acceptance_end_datetime": "2026-07-31T08:00:00.000Z",
-      "matched_keyword": "補助金",
-      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDckfMAD"
+      "matched_keyword": "情報",
+      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDckfMAD",
+      "industry_slugs": [
+        "ai"
+      ],
+      "use_purpose": "島根県"
     },
     {
       "id": "a0WJ200000CDbPkMAL",
@@ -422,8 +519,12 @@
       "subsidy_max_limit": 3000000,
       "subsidy_rate": null,
       "acceptance_end_datetime": "2026-07-31T08:00:00.000Z",
-      "matched_keyword": "補助金",
-      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDbPkMAL"
+      "matched_keyword": "情報",
+      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDbPkMAL",
+      "industry_slugs": [
+        "ai"
+      ],
+      "use_purpose": "福井県"
     },
     {
       "id": "a0WJ200000CDY36MAH",
@@ -433,17 +534,54 @@
       "subsidy_rate": null,
       "acceptance_end_datetime": "2026-07-31T14:59:00.000Z",
       "matched_keyword": "製造",
-      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDY36MAH"
+      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDY36MAH",
+      "industry_slugs": [
+        "untagged"
+      ],
+      "use_purpose": "東京都"
     },
     {
-      "id": "a0WJ200000CDVdPMAX",
-      "title": "令和７年度臨床研修費等補助金（歯科医師）",
+      "id": "a0WJ200000CDaTFMA1",
+      "title": "女性活躍情報公開促進奨励金　支給申請",
+      "institution": null,
+      "subsidy_max_limit": 200000,
+      "subsidy_rate": null,
+      "acceptance_end_datetime": "2026-07-31T14:59:00.000Z",
+      "matched_keyword": "情報",
+      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDaTFMA1",
+      "industry_slugs": [
+        "ai"
+      ],
+      "use_purpose": "東京都"
+    },
+    {
+      "id": "a0WJ200000CDY71MAH",
+      "title": "令和8年度病院診療情報デジタル推進事業（事務作業支援）",
+      "institution": null,
+      "subsidy_max_limit": 3600000,
+      "subsidy_rate": null,
+      "acceptance_end_datetime": "2026-07-31T14:59:00.000Z",
+      "matched_keyword": "情報",
+      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDY71MAH",
+      "industry_slugs": [
+        "ai"
+      ],
+      "use_purpose": "東京都"
+    },
+    {
+      "id": "a0WJ200000CDY70MAH",
+      "title": "令和8年度病院診療情報デジタル推進事業（電子カルテシステムの整備）",
       "institution": null,
       "subsidy_max_limit": 0,
       "subsidy_rate": null,
       "acceptance_end_datetime": "2026-07-31T14:59:00.000Z",
-      "matched_keyword": "補助金",
-      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDVdPMAX"
+      "matched_keyword": "情報",
+      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDY70MAH",
+      "industry_slugs": [
+        "ai",
+        "electrical-equipment"
+      ],
+      "use_purpose": "東京都"
     },
     {
       "id": "a0WJ200000CDbPBMA1",
@@ -453,7 +591,11 @@
       "subsidy_rate": null,
       "acceptance_end_datetime": "2026-08-03T04:00:00.000Z",
       "matched_keyword": "製造",
-      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDbPBMA1"
+      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDbPBMA1",
+      "industry_slugs": [
+        "untagged"
+      ],
+      "use_purpose": "全国"
     },
     {
       "id": "a0WJ200000CDaMVMA1",
@@ -463,7 +605,11 @@
       "subsidy_rate": null,
       "acceptance_end_datetime": "2026-08-07T03:00:00.000Z",
       "matched_keyword": "製造",
-      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDaMVMA1"
+      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDaMVMA1",
+      "industry_slugs": [
+        "untagged"
+      ],
+      "use_purpose": "全国"
     },
     {
       "id": "a0WJ200000CDaLwMAL",
@@ -473,7 +619,11 @@
       "subsidy_rate": null,
       "acceptance_end_datetime": "2026-08-07T03:00:00.000Z",
       "matched_keyword": "製造",
-      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDaLwMAL"
+      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDaLwMAL",
+      "industry_slugs": [
+        "untagged"
+      ],
+      "use_purpose": "全国"
     },
     {
       "id": "a0WJ200000CDc0OMAT",
@@ -483,17 +633,12 @@
       "subsidy_rate": null,
       "acceptance_end_datetime": "2026-08-07T03:00:00.000Z",
       "matched_keyword": "省エネ",
-      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDc0OMAT"
-    },
-    {
-      "id": "a0WJ200000CDbfKMAT",
-      "title": "【愛知県・２次募集】令和８年度_中小企業等海外展開支援事業費補助金（海外出願支援事業）",
-      "institution": null,
-      "subsidy_max_limit": 3000000,
-      "subsidy_rate": null,
-      "acceptance_end_datetime": "2026-08-07T08:00:00.000Z",
-      "matched_keyword": "補助金",
-      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDbfKMAT"
+      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDc0OMAT",
+      "industry_slugs": [
+        "ai",
+        "energy-gx"
+      ],
+      "use_purpose": "全国"
     },
     {
       "id": "a0WJ200000CDcQsMAL",
@@ -503,17 +648,11 @@
       "subsidy_rate": null,
       "acceptance_end_datetime": "2026-08-07T15:00:00.000Z",
       "matched_keyword": "DX",
-      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDcQsMAL"
-    },
-    {
-      "id": "a0WJ200000CDYSeMAP",
-      "title": "東京都医療機関等における賃上げ・物価上昇に対する支援事業(助産所、施術所、歯科技工所　申請用）",
-      "institution": null,
-      "subsidy_max_limit": 0,
-      "subsidy_rate": null,
-      "acceptance_end_datetime": "2026-08-07T23:00:00.000Z",
-      "matched_keyword": "補助金",
-      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYSeMAP"
+      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDcQsMAL",
+      "industry_slugs": [
+        "ai"
+      ],
+      "use_purpose": "全国 / 宮崎県"
     },
     {
       "id": "a0WJ200000CDZBgMAP",
@@ -523,37 +662,53 @@
       "subsidy_rate": null,
       "acceptance_end_datetime": "2026-08-14T08:00:00.000Z",
       "matched_keyword": "機械",
-      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDZBgMAP"
+      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDZBgMAP",
+      "industry_slugs": [
+        "industrial-machinery"
+      ],
+      "use_purpose": "東京都"
     },
     {
-      "id": "a0WJ200000CDdNjMAL",
-      "title": "スタートアップ等を活用した農林水産分野の課題解決事業補助金",
+      "id": "a0WJ200000CDaTGMA1",
+      "title": "女性活躍情報公開促進奨励金　撤回届",
+      "institution": null,
+      "subsidy_max_limit": 200000,
+      "subsidy_rate": null,
+      "acceptance_end_datetime": "2026-08-14T14:59:00.000Z",
+      "matched_keyword": "情報",
+      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDaTGMA1",
+      "industry_slugs": [
+        "ai"
+      ],
+      "use_purpose": "東京都"
+    },
+    {
+      "id": "a0WJ200000CDYirMAH",
+      "title": "2026年度「地域課題解決型起業支援事業」（2次募集）",
+      "institution": null,
+      "subsidy_max_limit": 2000000,
+      "subsidy_rate": null,
+      "acceptance_end_datetime": "2026-08-19T08:00:00.000Z",
+      "matched_keyword": "情報",
+      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYirMAH",
+      "industry_slugs": [
+        "ai"
+      ],
+      "use_purpose": "北海道"
+    },
+    {
+      "id": "a0WJ200000CDckaMAD",
+      "title": "「ポスト5G情報通信システム基盤強化研究開発事業／AI用データセンターにおけるソフトウェア技術ニーズ分析とテストベッド運営基盤に関する調査」の公募",
       "institution": null,
       "subsidy_max_limit": 0,
       "subsidy_rate": null,
-      "acceptance_end_datetime": "2026-08-20T15:00:00.000Z",
-      "matched_keyword": "補助金",
-      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdNjMAL"
-    },
-    {
-      "id": "a0WJ200000CDYtoMAH",
-      "title": "【香川県】令和８年度中小企業等海外展開支援事業費補助金（海外出願支援事業）第２次募集",
-      "institution": null,
-      "subsidy_max_limit": 3000000,
-      "subsidy_rate": null,
-      "acceptance_end_datetime": "2026-08-21T08:00:00.000Z",
-      "matched_keyword": "補助金",
-      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYtoMAH"
-    },
-    {
-      "id": "a0WJ200000CDYh2MAH",
-      "title": "2026年度「海外出願支援事業」（2次募集）",
-      "institution": null,
-      "subsidy_max_limit": 3000000,
-      "subsidy_rate": null,
-      "acceptance_end_datetime": "2026-08-21T08:00:00.000Z",
-      "matched_keyword": "補助金",
-      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYh2MAH"
+      "acceptance_end_datetime": "2026-08-21T03:00:00.000Z",
+      "matched_keyword": "AI",
+      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDckaMAD",
+      "industry_slugs": [
+        "ai"
+      ],
+      "use_purpose": "全国"
     },
     {
       "id": "a0WJ200000CDb8QMAT",
@@ -562,8 +717,12 @@
       "subsidy_max_limit": 500000000,
       "subsidy_rate": null,
       "acceptance_end_datetime": "2026-08-24T06:00:00.000Z",
-      "matched_keyword": "補助金",
-      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDb8QMAT"
+      "matched_keyword": "情報",
+      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDb8QMAT",
+      "industry_slugs": [
+        "ai"
+      ],
+      "use_purpose": "全国"
     },
     {
       "id": "a0WJ200000CDaMQMA1",
@@ -573,7 +732,11 @@
       "subsidy_rate": null,
       "acceptance_end_datetime": "2026-08-26T03:00:00.000Z",
       "matched_keyword": "DX",
-      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDaMQMA1"
+      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDaMQMA1",
+      "industry_slugs": [
+        "ai"
+      ],
+      "use_purpose": "全国"
     },
     {
       "id": "a0WJ200000CDaMLMA1",
@@ -583,7 +746,11 @@
       "subsidy_rate": null,
       "acceptance_end_datetime": "2026-08-26T03:00:00.000Z",
       "matched_keyword": "DX",
-      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDaMLMA1"
+      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDaMLMA1",
+      "industry_slugs": [
+        "ai"
+      ],
+      "use_purpose": "全国"
     },
     {
       "id": "a0WJ200000CDdAaMAL",
@@ -593,7 +760,11 @@
       "subsidy_rate": null,
       "acceptance_end_datetime": "2026-08-26T04:00:00.000Z",
       "matched_keyword": "製造",
-      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdAaMAL"
+      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdAaMAL",
+      "industry_slugs": [
+        "energy-gx"
+      ],
+      "use_purpose": "全国"
     },
     {
       "id": "a0WJ200000CDPbMMAX",
@@ -602,8 +773,12 @@
       "subsidy_max_limit": 70000000,
       "subsidy_rate": null,
       "acceptance_end_datetime": "2026-08-29T14:59:00.000Z",
-      "matched_keyword": "補助金",
-      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDPbMMAX"
+      "matched_keyword": "情報",
+      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDPbMMAX",
+      "industry_slugs": [
+        "ai"
+      ],
+      "use_purpose": "全国"
     },
     {
       "id": "a0WJ200000CDYEHMA5",
@@ -613,7 +788,11 @@
       "subsidy_rate": null,
       "acceptance_end_datetime": "2026-08-31T08:00:00.000Z",
       "matched_keyword": "製造",
-      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYEHMA5"
+      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYEHMA5",
+      "industry_slugs": [
+        "untagged"
+      ],
+      "use_purpose": "神奈川県"
     },
     {
       "id": "a0WJ200000CDdJhMAL",
@@ -623,7 +802,11 @@
       "subsidy_rate": null,
       "acceptance_end_datetime": "2026-09-01T03:00:00.000Z",
       "matched_keyword": "製造",
-      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdJhMAL"
+      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdJhMAL",
+      "industry_slugs": [
+        "energy-gx"
+      ],
+      "use_purpose": "全国"
     },
     {
       "id": "a0WJ200000CDYUNMA5",
@@ -633,7 +816,11 @@
       "subsidy_rate": null,
       "acceptance_end_datetime": "2026-09-08T08:00:00.000Z",
       "matched_keyword": "機械",
-      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYUNMA5"
+      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYUNMA5",
+      "industry_slugs": [
+        "industrial-machinery"
+      ],
+      "use_purpose": "東京都"
     },
     {
       "id": "a0WJ200000CDXuqMAH",
@@ -642,8 +829,12 @@
       "subsidy_max_limit": 0,
       "subsidy_rate": null,
       "acceptance_end_datetime": "2026-09-11T14:59:00.000Z",
-      "matched_keyword": "補助金",
-      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDXuqMAH"
+      "matched_keyword": "情報",
+      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDXuqMAH",
+      "industry_slugs": [
+        "ai"
+      ],
+      "use_purpose": "東京都"
     },
     {
       "id": "a0WJ200000CDb6JMAT",
@@ -653,27 +844,11 @@
       "subsidy_rate": null,
       "acceptance_end_datetime": "2026-09-18T08:00:00.000Z",
       "matched_keyword": "省エネ",
-      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDb6JMAT"
-    },
-    {
-      "id": "a0WJ200000CDcODMA1",
-      "title": "令和８年度「水力発電導入促進支援事業費補助金（事業性評価支援事業）」（新規事業　３次締切分）",
-      "institution": null,
-      "subsidy_max_limit": 20000000,
-      "subsidy_rate": null,
-      "acceptance_end_datetime": "2026-09-25T08:00:00.000Z",
-      "matched_keyword": "補助金",
-      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDcODMA1"
-    },
-    {
-      "id": "a0WJ200000CDTzMMAX",
-      "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（19次締切）",
-      "institution": null,
-      "subsidy_max_limit": 40000000,
-      "subsidy_rate": null,
-      "acceptance_end_datetime": "2026-09-28T08:00:00.000Z",
-      "matched_keyword": "補助金",
-      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDTzMMAX"
+      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDb6JMAT",
+      "industry_slugs": [
+        "energy-gx"
+      ],
+      "use_purpose": "全国"
     },
     {
       "id": "a0WJ200000CDYcpMAH",
@@ -682,8 +857,12 @@
       "subsidy_max_limit": 1474350000,
       "subsidy_rate": null,
       "acceptance_end_datetime": "2026-09-29T08:00:00.000Z",
-      "matched_keyword": "補助金",
-      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYcpMAH"
+      "matched_keyword": "再エネ",
+      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYcpMAH",
+      "industry_slugs": [
+        "energy-gx"
+      ],
+      "use_purpose": "全国"
     },
     {
       "id": "a0WJ200000CDYr0MAH",
@@ -693,7 +872,25 @@
       "subsidy_rate": null,
       "acceptance_end_datetime": "2026-09-30T08:00:00.000Z",
       "matched_keyword": "機械",
-      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYr0MAH"
+      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYr0MAH",
+      "industry_slugs": [
+        "industrial-machinery"
+      ],
+      "use_purpose": "北海道"
+    },
+    {
+      "id": "a0W2x000004PhCHEA0",
+      "title": "令和8年度 生放送字幕番組普及促進助成金（第３期）",
+      "institution": null,
+      "subsidy_max_limit": 0,
+      "subsidy_rate": null,
+      "acceptance_end_datetime": "2026-09-30T08:00:00.000Z",
+      "matched_keyword": "情報",
+      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0W2x000004PhCHEA0",
+      "industry_slugs": [
+        "ai"
+      ],
+      "use_purpose": "全国"
     },
     {
       "id": "a0WJ200000CDYEIMA5",
@@ -702,18 +899,12 @@
       "subsidy_max_limit": 500000,
       "subsidy_rate": null,
       "acceptance_end_datetime": "2026-09-30T08:00:00.000Z",
-      "matched_keyword": "補助金",
-      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYEIMA5"
-    },
-    {
-      "id": "a0W2x000004PhCHEA0",
-      "title": "令和8年度 生放送字幕番組普及促進助成金（第３期）",
-      "institution": "令和8年度情報通信利用促進支援事業費補助金 （字幕・解説・手話番組等の制作・普及促進）",
-      "subsidy_max_limit": 0,
-      "subsidy_rate": null,
-      "acceptance_end_datetime": "2026-09-30T08:00:00.000Z",
-      "matched_keyword": "補助金",
-      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0W2x000004PhCHEA0"
+      "matched_keyword": "IT",
+      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYEIMA5",
+      "industry_slugs": [
+        "ai"
+      ],
+      "use_purpose": "神奈川県"
     },
     {
       "id": "a0WJ200000CDdRHMA1",
@@ -723,7 +914,11 @@
       "subsidy_rate": null,
       "acceptance_end_datetime": "2026-09-30T09:00:00.000Z",
       "matched_keyword": "製造",
-      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdRHMA1"
+      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdRHMA1",
+      "industry_slugs": [
+        "untagged"
+      ],
+      "use_purpose": "全国"
     },
     {
       "id": "a0WJ200000CDZ2OMAX",
@@ -733,7 +928,26 @@
       "subsidy_rate": null,
       "acceptance_end_datetime": "2026-09-30T14:59:00.000Z",
       "matched_keyword": "DX",
-      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDZ2OMAX"
+      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDZ2OMAX",
+      "industry_slugs": [
+        "ai",
+        "energy-gx"
+      ],
+      "use_purpose": "全国"
+    },
+    {
+      "id": "a0WJ200000CDY6tMAH",
+      "title": "令和8年度医療機関におけるＡＩ技術活用促進事業（単年度型）",
+      "institution": null,
+      "subsidy_max_limit": 10000000,
+      "subsidy_rate": null,
+      "acceptance_end_datetime": "2026-09-30T14:59:00.000Z",
+      "matched_keyword": "AI",
+      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDY6tMAH",
+      "industry_slugs": [
+        "ai"
+      ],
+      "use_purpose": "東京都"
     },
     {
       "id": "a0W2x000007Cos5EAC",
@@ -743,7 +957,11 @@
       "subsidy_rate": null,
       "acceptance_end_datetime": "2026-10-12T14:59:00.000Z",
       "matched_keyword": "製造",
-      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0W2x000007Cos5EAC"
+      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0W2x000007Cos5EAC",
+      "industry_slugs": [
+        "untagged"
+      ],
+      "use_purpose": "全国"
     },
     {
       "id": "a0WJ200000CDYaFMAX",
@@ -752,8 +970,12 @@
       "subsidy_max_limit": 1000000,
       "subsidy_rate": null,
       "acceptance_end_datetime": "2026-10-22T08:00:00.000Z",
-      "matched_keyword": "補助金",
-      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYaFMAX"
+      "matched_keyword": "消費",
+      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYaFMAX",
+      "industry_slugs": [
+        "consumer-goods"
+      ],
+      "use_purpose": "全国"
     },
     {
       "id": "a0WJ200000CDPyeMAH",
@@ -762,28 +984,12 @@
       "subsidy_max_limit": 150000000,
       "subsidy_rate": null,
       "acceptance_end_datetime": "2026-10-29T14:59:00.000Z",
-      "matched_keyword": "補助金",
-      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDPyeMAH"
-    },
-    {
-      "id": "a0WJ200000CDczMMAT",
-      "title": "【令和８年度２次公募】国立公園等多言語解説等整備事業（国立公園等資源整備事業費補助金）",
-      "institution": null,
-      "subsidy_max_limit": 0,
-      "subsidy_rate": null,
-      "acceptance_end_datetime": "2026-10-30T08:00:00.000Z",
-      "matched_keyword": "補助金",
-      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDczMMAT"
-    },
-    {
-      "id": "a0WJ200000CDczHMAT",
-      "title": "【令和８年度２次公募】国立公園等利用拠点滞在環境等上質化事業（国立公園等資源整備事業費補助金）",
-      "institution": null,
-      "subsidy_max_limit": 0,
-      "subsidy_rate": null,
-      "acceptance_end_datetime": "2026-10-30T08:00:00.000Z",
-      "matched_keyword": "補助金",
-      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDczHMAT"
+      "matched_keyword": "GX",
+      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDPyeMAH",
+      "industry_slugs": [
+        "energy-gx"
+      ],
+      "use_purpose": "全国"
     },
     {
       "id": "a0WJ200000CDaotMAD",
@@ -793,7 +999,11 @@
       "subsidy_rate": null,
       "acceptance_end_datetime": "2026-10-30T09:00:00.000Z",
       "matched_keyword": "製造",
-      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDaotMAD"
+      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDaotMAD",
+      "industry_slugs": [
+        "energy-gx"
+      ],
+      "use_purpose": "全国"
     },
     {
       "id": "a0WJ200000CDZ04MAH",
@@ -803,7 +1013,11 @@
       "subsidy_rate": null,
       "acceptance_end_datetime": "2026-10-30T09:00:00.000Z",
       "matched_keyword": "機械",
-      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDZ04MAH"
+      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDZ04MAH",
+      "industry_slugs": [
+        "industrial-machinery"
+      ],
+      "use_purpose": "全国"
     },
     {
       "id": "a0WJ200000CDZ1GMAX",
@@ -813,7 +1027,11 @@
       "subsidy_rate": null,
       "acceptance_end_datetime": "2026-10-30T09:00:00.000Z",
       "matched_keyword": "自動車",
-      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDZ1GMAX"
+      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDZ1GMAX",
+      "industry_slugs": [
+        "automotive-mobility"
+      ],
+      "use_purpose": "全国"
     },
     {
       "id": "a0WJ200000CDYzVMAX",
@@ -822,38 +1040,40 @@
       "subsidy_max_limit": 150000000,
       "subsidy_rate": null,
       "acceptance_end_datetime": "2026-10-30T09:00:00.000Z",
-      "matched_keyword": "補助金",
-      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYzVMAX"
+      "matched_keyword": "再エネ",
+      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYzVMAX",
+      "industry_slugs": [
+        "energy-gx"
+      ],
+      "use_purpose": "全国"
+    },
+    {
+      "id": "a0WJ200000CDY6uMAH",
+      "title": "令和8年度医療機関診療情報デジタル導入支援事業",
+      "institution": null,
+      "subsidy_max_limit": 0,
+      "subsidy_rate": null,
+      "acceptance_end_datetime": "2026-10-30T14:59:00.000Z",
+      "matched_keyword": "情報",
+      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDY6uMAH",
+      "industry_slugs": [
+        "ai"
+      ],
+      "use_purpose": "東京都"
     },
     {
       "id": "a0WJ200000CDY4mMAH",
       "title": "令和７年度補正 業務産業用蓄電システム導入支援事業",
-      "institution": "令和７年度補正 「再生可能エネルギー導入拡大・分散型エネルギーリソース導入支援等事業費補助金」業務産業用蓄電システム導入支援事業",
+      "institution": null,
       "subsidy_max_limit": 15000000,
       "subsidy_rate": null,
       "acceptance_end_datetime": "2026-10-30T15:00:00.000Z",
-      "matched_keyword": "補助金",
-      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDY4mMAH"
-    },
-    {
-      "id": "a0WJ200000CDYbNMAX",
-      "title": "エイジフレンドリー補助金",
-      "institution": null,
-      "subsidy_max_limit": 1000000,
-      "subsidy_rate": null,
-      "acceptance_end_datetime": "2026-10-31T14:59:00.000Z",
-      "matched_keyword": "補助金",
-      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYbNMAX"
-    },
-    {
-      "id": "a0WJ200000CDZXbMAP",
-      "title": "【鹿児島県】令和8年度_中小企業等海外展開支援事業費補助金（海外出願支援事業）",
-      "institution": null,
-      "subsidy_max_limit": 3000000,
-      "subsidy_rate": null,
-      "acceptance_end_datetime": "2026-11-13T08:00:00.000Z",
-      "matched_keyword": "補助金",
-      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDZXbMAP"
+      "matched_keyword": "再エネ",
+      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDY4mMAH",
+      "industry_slugs": [
+        "energy-gx"
+      ],
+      "use_purpose": "全国"
     },
     {
       "id": "a0WJ200000CDZDHMA5",
@@ -863,7 +1083,11 @@
       "subsidy_rate": null,
       "acceptance_end_datetime": "2026-11-13T09:00:00.000Z",
       "matched_keyword": "自動車",
-      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDZDHMA5"
+      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDZDHMA5",
+      "industry_slugs": [
+        "automotive-mobility"
+      ],
+      "use_purpose": "全国"
     },
     {
       "id": "a0WJ200000CDd3YMAT",
@@ -872,8 +1096,12 @@
       "subsidy_max_limit": 0,
       "subsidy_rate": null,
       "acceptance_end_datetime": "2026-11-20T08:00:00.000Z",
-      "matched_keyword": "補助金",
-      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDd3YMAT"
+      "matched_keyword": "再エネ",
+      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDd3YMAT",
+      "industry_slugs": [
+        "energy-gx"
+      ],
+      "use_purpose": "全国"
     },
     {
       "id": "a0WJ200000CDd3OMAT",
@@ -882,28 +1110,26 @@
       "subsidy_max_limit": 0,
       "subsidy_rate": null,
       "acceptance_end_datetime": "2026-11-20T08:00:00.000Z",
-      "matched_keyword": "補助金",
-      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDd3OMAT"
-    },
-    {
-      "id": "a0WJ200000CDYzQMAX",
-      "title": "令和８年度　産業車両等の脱炭素化促進事業のうち、フォークリフトの燃料電池化促進事業（二酸化炭素排出抑制対策事業費等補助金）",
-      "institution": null,
-      "subsidy_max_limit": 5500000,
-      "subsidy_rate": null,
-      "acceptance_end_datetime": "2026-11-27T09:00:00.000Z",
-      "matched_keyword": "補助金",
-      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYzQMAX"
+      "matched_keyword": "再エネ",
+      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDd3OMAT",
+      "industry_slugs": [
+        "energy-gx"
+      ],
+      "use_purpose": "全国"
     },
     {
       "id": "a0WJ200000CDY5GMAX",
       "title": "令和７年度補正 ディマンドリスポンスの拡大に向けたIoT化推進事業",
-      "institution": "令和７年度補正 「再生可能エネルギー導入拡大・分散型エネルギーリソース導入支援等事業費補助金」ディマンドリスポンスの拡大に向けたIoT化推進事業",
+      "institution": null,
       "subsidy_max_limit": 20000000,
       "subsidy_rate": null,
       "acceptance_end_datetime": "2026-11-27T15:00:00.000Z",
-      "matched_keyword": "補助金",
-      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDY5GMAX"
+      "matched_keyword": "再エネ",
+      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDY5GMAX",
+      "industry_slugs": [
+        "energy-gx"
+      ],
+      "use_purpose": "全国"
     },
     {
       "id": "a0WJ200000CDZzQMAX",
@@ -913,7 +1139,11 @@
       "subsidy_rate": null,
       "acceptance_end_datetime": "2026-11-28T09:00:00.000Z",
       "matched_keyword": "製造",
-      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDZzQMAX"
+      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDZzQMAX",
+      "industry_slugs": [
+        "energy-gx"
+      ],
+      "use_purpose": "全国"
     },
     {
       "id": "a0WJ200000CDa1gMAD",
@@ -922,8 +1152,13 @@
       "subsidy_max_limit": 72000000,
       "subsidy_rate": null,
       "acceptance_end_datetime": "2026-11-30T03:00:00.000Z",
-      "matched_keyword": "機械",
-      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDa1gMAD"
+      "matched_keyword": "食品",
+      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDa1gMAD",
+      "industry_slugs": [
+        "food-beverage",
+        "industrial-machinery"
+      ],
+      "use_purpose": "全国"
     },
     {
       "id": "a0WJ200000CDZy8MAH",
@@ -933,17 +1168,11 @@
       "subsidy_rate": null,
       "acceptance_end_datetime": "2026-11-30T08:00:00.000Z",
       "matched_keyword": "省エネ",
-      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDZy8MAH"
-    },
-    {
-      "id": "a0WJ200000CDZIAMA5",
-      "title": "埼玉県中小企業等奨学金返還支援事業補助金（令和８年度）",
-      "institution": null,
-      "subsidy_max_limit": 0,
-      "subsidy_rate": null,
-      "acceptance_end_datetime": "2026-11-30T08:00:00.000Z",
-      "matched_keyword": "補助金",
-      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDZIAMA5"
+      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDZy8MAH",
+      "industry_slugs": [
+        "energy-gx"
+      ],
+      "use_purpose": "山形県"
     },
     {
       "id": "a0WJ200000CDYfxMAH",
@@ -952,8 +1181,12 @@
       "subsidy_max_limit": 4500000,
       "subsidy_rate": null,
       "acceptance_end_datetime": "2026-11-30T08:00:00.000Z",
-      "matched_keyword": "補助金",
-      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYfxMAH"
+      "matched_keyword": "再エネ",
+      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYfxMAH",
+      "industry_slugs": [
+        "energy-gx"
+      ],
+      "use_purpose": "福岡県"
     },
     {
       "id": "a0WJ200000CDXyuMAH",
@@ -963,7 +1196,11 @@
       "subsidy_rate": null,
       "acceptance_end_datetime": "2026-11-30T08:30:00.000Z",
       "matched_keyword": "製造",
-      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDXyuMAH"
+      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDXyuMAH",
+      "industry_slugs": [
+        "untagged"
+      ],
+      "use_purpose": "全国"
     },
     {
       "id": "a0WJ200000CDYsRMAX",
@@ -972,8 +1209,12 @@
       "subsidy_max_limit": 100000,
       "subsidy_rate": null,
       "acceptance_end_datetime": "2026-11-30T14:45:00.000Z",
-      "matched_keyword": "補助金",
-      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYsRMAX"
+      "matched_keyword": "食品",
+      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYsRMAX",
+      "industry_slugs": [
+        "food-beverage"
+      ],
+      "use_purpose": "静岡県"
     },
     {
       "id": "a0WJ200000CDXvUMAX",
@@ -983,7 +1224,11 @@
       "subsidy_rate": null,
       "acceptance_end_datetime": "2026-11-30T14:59:00.000Z",
       "matched_keyword": "DX",
-      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDXvUMAX"
+      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDXvUMAX",
+      "industry_slugs": [
+        "ai"
+      ],
+      "use_purpose": "東京都"
     },
     {
       "id": "a0WJ200000CDa1bMAD",
@@ -993,7 +1238,25 @@
       "subsidy_rate": null,
       "acceptance_end_datetime": "2026-11-30T14:59:00.000Z",
       "matched_keyword": "省エネ",
-      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDa1bMAD"
+      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDa1bMAD",
+      "industry_slugs": [
+        "energy-gx"
+      ],
+      "use_purpose": "全国"
+    },
+    {
+      "id": "a0WJ200000CDbYxMAL",
+      "title": "女性活躍情報公開促進奨励金　中止届",
+      "institution": null,
+      "subsidy_max_limit": 200000,
+      "subsidy_rate": null,
+      "acceptance_end_datetime": "2026-11-30T14:59:00.000Z",
+      "matched_keyword": "情報",
+      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDbYxMAL",
+      "industry_slugs": [
+        "ai"
+      ],
+      "use_purpose": "東京都"
     },
     {
       "id": "a0WJ200000CDYUmMAP",
@@ -1002,8 +1265,26 @@
       "subsidy_max_limit": 2000000,
       "subsidy_rate": null,
       "acceptance_end_datetime": "2026-11-30T14:59:00.000Z",
-      "matched_keyword": "補助金",
-      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYUmMAP"
+      "matched_keyword": "消費",
+      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYUmMAP",
+      "industry_slugs": [
+        "consumer-goods"
+      ],
+      "use_purpose": "東京都"
+    },
+    {
+      "id": "a0WJ200000CDYR2MAP",
+      "title": "令和８年度海外商標対策支援助成事業",
+      "institution": null,
+      "subsidy_max_limit": 5000000,
+      "subsidy_rate": null,
+      "acceptance_end_datetime": "2026-12-01T08:00:00.000Z",
+      "matched_keyword": "情報",
+      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYR2MAP",
+      "industry_slugs": [
+        "ai"
+      ],
+      "use_purpose": "東京都"
     },
     {
       "id": "a0WJ200000CDYDCMA5",
@@ -1013,17 +1294,151 @@
       "subsidy_rate": null,
       "acceptance_end_datetime": "2026-12-01T08:15:00.000Z",
       "matched_keyword": "食料",
-      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYDCMA5"
+      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYDCMA5",
+      "industry_slugs": [
+        "food-beverage"
+      ],
+      "use_purpose": "全国"
     },
     {
       "id": "a0WJ200000CDXmVMAX",
       "title": "【令和８年度】INPIT外国出願補助金（中間手続補助）",
-      "institution": null,
+      "institution": "INPIT外国出願補助金（中間手続補助）",
       "subsidy_max_limit": 500000,
       "subsidy_rate": null,
       "acceptance_end_datetime": "2026-12-14T08:00:00.000Z",
-      "matched_keyword": "補助金",
-      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDXmVMAX"
+      "matched_keyword": "IT",
+      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDXmVMAX",
+      "industry_slugs": [
+        "ai"
+      ],
+      "use_purpose": "全国"
+    },
+    {
+      "id": "a0WJ200000CDX1KMAX",
+      "title": "中小企業人材確保のための奨学金返還支援事業【令和８年度企業登録】",
+      "institution": null,
+      "subsidy_max_limit": 0,
+      "subsidy_rate": null,
+      "acceptance_end_datetime": "2026-12-17T08:00:00.000Z",
+      "matched_keyword": "情報",
+      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDX1KMAX",
+      "industry_slugs": [
+        "ai"
+      ],
+      "use_purpose": "東京都"
+    },
+    {
+      "id": "a0WJ200000CDYBxMAP",
+      "title": "INPIT事業再編計画支援事業補助金（令和８年度）",
+      "institution": null,
+      "subsidy_max_limit": 6500000,
+      "subsidy_rate": null,
+      "acceptance_end_datetime": "2026-12-18T08:00:00.000Z",
+      "matched_keyword": "情報",
+      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYBxMAP",
+      "industry_slugs": [
+        "ai"
+      ],
+      "use_purpose": "全国"
+    },
+    {
+      "id": "a0WJ200000CDb6TMAT",
+      "title": "【福岡県宗像市】令和8年度 食のまち宗像推進補助金",
+      "institution": null,
+      "subsidy_max_limit": 0,
+      "subsidy_rate": null,
+      "acceptance_end_datetime": "2026-12-25T02:00:00.000Z",
+      "matched_keyword": "製造",
+      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDb6TMAT",
+      "industry_slugs": [
+        "untagged"
+      ],
+      "use_purpose": "福岡県"
+    },
+    {
+      "id": "a0WJ200000CDZyDMAX",
+      "title": "【山形県】令和8年度山形県再生可能エネルギー(小水力発電)事業可能性調査事業費補助金",
+      "institution": null,
+      "subsidy_max_limit": 750000,
+      "subsidy_rate": null,
+      "acceptance_end_datetime": "2026-12-25T08:15:00.000Z",
+      "matched_keyword": "機械",
+      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDZyDMAX",
+      "industry_slugs": [
+        "industrial-machinery"
+      ],
+      "use_purpose": "山形県"
+    },
+    {
+      "id": "a0WJ200000CDbPLMA1",
+      "title": "【久留米市】中小企業先端設備等導入支援補助金（令和8年度）",
+      "institution": null,
+      "subsidy_max_limit": 5000000,
+      "subsidy_rate": null,
+      "acceptance_end_datetime": "2026-12-28T08:00:00.000Z",
+      "matched_keyword": "機械",
+      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDbPLMA1",
+      "industry_slugs": [
+        "industrial-machinery"
+      ],
+      "use_purpose": "福岡県"
+    },
+    {
+      "id": "a0WJ200000CDYTvMAP",
+      "title": "【久留米市】久留米市キッチンカー導入事業費補助金（令和８年度）",
+      "institution": null,
+      "subsidy_max_limit": 300000,
+      "subsidy_rate": null,
+      "acceptance_end_datetime": "2026-12-28T08:15:00.000Z",
+      "matched_keyword": "自動車",
+      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYTvMAP",
+      "industry_slugs": [
+        "automotive-mobility"
+      ],
+      "use_purpose": "福岡県"
+    },
+    {
+      "id": "a0WJ200000CDbpCMAT",
+      "title": "【久留米市】久留米市小規模事業者デジタル化支援補助金（令和８年度）",
+      "institution": null,
+      "subsidy_max_limit": 200000,
+      "subsidy_rate": null,
+      "acceptance_end_datetime": "2026-12-28T08:15:00.000Z",
+      "matched_keyword": "DX",
+      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDbpCMAT",
+      "industry_slugs": [
+        "ai"
+      ],
+      "use_purpose": "福岡県"
+    },
+    {
+      "id": "a0WJ200000CDY6KMAX",
+      "title": "【倉敷市】実証実験サポート事業",
+      "institution": null,
+      "subsidy_max_limit": 500000,
+      "subsidy_rate": null,
+      "acceptance_end_datetime": "2026-12-28T08:15:00.000Z",
+      "matched_keyword": "AI",
+      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDY6KMAX",
+      "industry_slugs": [
+        "ai"
+      ],
+      "use_purpose": "全国"
+    },
+    {
+      "id": "a0WJ200000CDYUPMA5",
+      "title": "令和８年度フィンテック企業に対する海外進出支援事業 海外展示会共同出展",
+      "institution": null,
+      "subsidy_max_limit": 0,
+      "subsidy_rate": null,
+      "acceptance_end_datetime": "2026-12-28T14:45:00.000Z",
+      "matched_keyword": "情報",
+      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYUPMA5",
+      "industry_slugs": [
+        "ai"
+      ],
+      "use_purpose": "東京都"
     }
   ]
 }
