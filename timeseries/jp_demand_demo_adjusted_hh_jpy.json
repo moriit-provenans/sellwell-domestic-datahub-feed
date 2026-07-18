@@ -1,0 +1,8 @@
+{
+  "schema_version": "1.0.0",
+  "metric_id": "jp.demand.demo_adjusted_hh_jpy",
+  "title_ja": "人口調整後家計需要",
+  "last_updated": "2026-07-18",
+  "source": "derived B1×B4",
+  "observations": []
+}

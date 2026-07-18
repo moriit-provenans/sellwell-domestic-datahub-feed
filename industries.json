@@ -75,8 +75,38 @@
       "status": "live"
     }
   ],
+  "unavailable": {
+    "W2-1a_downstream_io": {
+      "status": "unavailable",
+      "reason": "産業連関表の機械可読フル行列がe-Stat APIに未整備。W2-1b/cは企業統計派生で代替納品"
+    },
+    "W2-5_bankruptcy": {
+      "status": "unavailable",
+      "reason": "産業別倒産の公的APIなし（民間TSR等）。無理な推計は作らない"
+    },
+    "W2-7_new_corporations": {
+      "status": "unavailable",
+      "reason": "法人番号公表データに産業分類なし。都道府県別新設も安定API未確認のため断念"
+    },
+    "W3-1_ec_rate": {
+      "status": "unavailable",
+      "reason": "経産省EC市場調査はPDF中心・e-Stat APIなし"
+    },
+    "W3-2_co2": {
+      "status": "unavailable",
+      "reason": "温対法・GHGインベントリの業種別API未確認。Wave後続で環境省CSV取込を検討"
+    },
+    "W3-4_pref_market": {
+      "status": "deferred",
+      "reason": "経済センサス都道府県×中分類は表が巨大。RESASキーがあれば次セッションで接続"
+    },
+    "W3-5_inbound": {
+      "status": "stale_only",
+      "reason": "e-Stat訪日消費は2019まで。コロナ後系列は観光庁Excel中心のため本Waveでは非自動"
+    }
+  },
   "wave1_jobs_by_industry": {
-    "status": "unavailable_estat_api",
-    "note": "W1-5: 産業別新規求人数はe-Stat APIに未掲載。Wave2で短観・雇用人員DIを代替推奨。"
+    "status": "substituted_by_tankan_employment_di",
+    "note": "W1-5不可 → W2-2 jp.tankan.employment_di で代替"
   }
 }

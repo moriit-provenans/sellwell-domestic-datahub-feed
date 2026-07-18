@@ -129,6 +129,69 @@
       "retrieved_at": "2026-07-18"
     },
     {
+      "metric_id": "jp.io.import_penetration_pct",
+      "as_of_date": "2023-12-31",
+      "still_valid_2026": true,
+      "n_observations": 13,
+      "retrieved_at": "2026-07-18"
+    },
+    {
+      "metric_id": "jp.io.fx_sensitivity_score",
+      "as_of_date": "2023-12-31",
+      "still_valid_2026": true,
+      "n_observations": 13,
+      "retrieved_at": "2026-07-18"
+    },
+    {
+      "metric_id": "jp.tankan.business_conditions_di",
+      "as_of_date": "2026-06-01",
+      "still_valid_2026": true,
+      "n_observations": 12,
+      "retrieved_at": "2026-07-18"
+    },
+    {
+      "metric_id": "jp.tankan.employment_di",
+      "as_of_date": "2026-06-01",
+      "still_valid_2026": true,
+      "n_observations": 4,
+      "retrieved_at": "2026-07-18"
+    },
+    {
+      "metric_id": "jp.tankan.capex_plan_yoy_pct",
+      "as_of_date": "2026-06-01",
+      "still_valid_2026": true,
+      "n_observations": 2,
+      "retrieved_at": "2026-07-18"
+    },
+    {
+      "metric_id": "jp.rd.spend_jpy",
+      "as_of_date": "2025-12-31",
+      "still_valid_2026": true,
+      "n_observations": 45,
+      "retrieved_at": "2026-07-18"
+    },
+    {
+      "metric_id": "jp.patent.applications",
+      "as_of_date": "2023-12-31",
+      "still_valid_2026": true,
+      "n_observations": 361,
+      "retrieved_at": "2026-07-18"
+    },
+    {
+      "metric_id": "jp.trade.hs_by_industry_usd",
+      "as_of_date": "2024-12-31",
+      "still_valid_2026": true,
+      "n_observations": 143,
+      "retrieved_at": "2026-07-18"
+    },
+    {
+      "metric_id": "jp.demand.demo_adjusted_hh_jpy",
+      "as_of_date": "2026-07-18",
+      "still_valid_2026": false,
+      "n_observations": 0,
+      "retrieved_at": "2026-07-18"
+    },
+    {
       "metric_id": "jp.subsidy.open_count",
       "as_of_date": "2026-07-18",
       "still_valid_2026": true,
