@@ -2,9 +2,59 @@
   "schema_version": "1.0.0",
   "metric_id": "jp.sellwell.case_count",
   "mvp": "J3",
-  "title_ja": "公開事例数",
-  "status": "awaiting_smith_supply",
+  "title_ja": "実績件数",
+  "status": "live",
   "last_updated": "2026-07-18",
   "how_to_fill": "業界別の公開ケーススタディ件数。",
-  "observations": []
+  "methodology_ja": "受注実績件数はSalesforce受注ベース（2016〜2026年）。公開ケーススタディはサイトリニューアル後に掲載予定（掲載候補196件・守秘レビュー中）のため、公開後に published_case_count を追加する。",
+  "observations": [
+    {
+      "industry_slug": "food-beverage",
+      "industry_name_ja": "食料品製造業",
+      "period": "FY2016-2026",
+      "period_type": "cumulative",
+      "deal_track_record_count": 49,
+      "published_case_count": null,
+      "as_of_date": "2026-07-01",
+      "still_valid_2026": true,
+      "retrieved_at": "2026-07-18",
+      "veritas": "✅"
+    },
+    {
+      "industry_slug": "industrial-machinery",
+      "industry_name_ja": "生産用機械器具製造業",
+      "period": "FY2016-2026",
+      "period_type": "cumulative",
+      "deal_track_record_count": 11,
+      "published_case_count": null,
+      "as_of_date": "2026-07-01",
+      "still_valid_2026": true,
+      "retrieved_at": "2026-07-18",
+      "veritas": "✅"
+    },
+    {
+      "industry_slug": "electrical-equipment",
+      "industry_name_ja": "電気機械器具製造業",
+      "period": "FY2016-2026",
+      "period_type": "cumulative",
+      "deal_track_record_count": 16,
+      "published_case_count": null,
+      "as_of_date": "2026-07-01",
+      "still_valid_2026": true,
+      "retrieved_at": "2026-07-18",
+      "veritas": "✅"
+    },
+    {
+      "industry_slug": "automotive-mobility",
+      "industry_name_ja": "輸送用機械器具製造業",
+      "period": "FY2016-2026",
+      "period_type": "cumulative",
+      "deal_track_record_count": 4,
+      "published_case_count": null,
+      "as_of_date": "2026-07-01",
+      "still_valid_2026": true,
+      "retrieved_at": "2026-07-18",
+      "veritas": "✅"
+    }
+  ]
 }

@@ -3,69 +3,82 @@
   "metric_id": "jp.policy.tailwind_score",
   "mvp": "G1",
   "title_ja": "政策追い風スコア",
-  "status": "awaiting_smith_supply",
+  "status": "live",
   "last_updated": "2026-07-18",
   "how_to_fill": "各業界に score_1_5（1=逆風〜5=強い追い風）と rationale_ja・source_urls を入れる。毎月更新。",
+  "methodology_ja": "Sellwell編集部が毎月、各業界の主要な国の戦略・予算・補助制度の一次資料を照合して1〜5で評定。数値は編集評定であり統計値ではない。全出典は評定日時点で有効性を確認済（発生時点・現行有効・制度現存の3点観点）。",
   "observations": [
     {
       "industry_slug": "food-beverage",
       "industry_name_ja": "食料品製造業",
       "period": "2026-07",
       "period_type": "monthly",
-      "score_1_5": null,
-      "rationale_ja": "",
-      "source_urls": [],
+      "score_1_5": 5,
+      "rationale_ja": "輸出拡大実行戦略が2025年5月に改訂され、2030年目標として輸出額5兆円に加え食品産業の海外展開収益3兆円・インバウンド食関連消費4.5兆円が新設。改正食料・農業・農村基本法（2024年施行）で食品産業の海外展開促進が法定化され、予算・規制協議の両面で追い風が最も厚い業界（2026年7月時点で有効）。",
+      "source_urls": [
+        "https://www.maff.go.jp/j/shokusan/export/progress/index.html",
+        "https://www.cas.go.jp/jp/seisakukaigi/nousui/yunyuukoku_kisei_kaigi/202505_jikkousenryaku.pdf"
+      ],
       "editor": "Sellwell編集部",
       "as_of_date": "2026-07-18",
       "still_valid_2026": true,
+      "system_alive_2026": "alive",
       "retrieved_at": "2026-07-18",
-      "veritas": "△",
-      "note": "PLACEHOLDER — Smithが数値を入れるまで非表示推奨"
+      "veritas": "✅"
     },
     {
       "industry_slug": "industrial-machinery",
       "industry_name_ja": "生産用機械器具製造業",
       "period": "2026-07",
       "period_type": "monthly",
-      "score_1_5": null,
-      "rationale_ja": "",
-      "source_urls": [],
+      "score_1_5": 4,
+      "rationale_ja": "中小企業省力化投資補助金（一般型）が2026年7月に第7回公募を受付中（7/1〜7/31）で、ユーザー企業の省力化・自動化投資を国が直接押し上げる局面が継続。人手不足を背景にロボット・省人化設備の需要側に補助が付く構図は機械メーカーへの明確な追い風（2026年7月時点で公募中を確認）。",
+      "source_urls": [
+        "https://shoryokuka.smrj.go.jp/",
+        "https://seisansei.smrj.go.jp/news/20260605-3.html"
+      ],
       "editor": "Sellwell編集部",
       "as_of_date": "2026-07-18",
       "still_valid_2026": true,
+      "system_alive_2026": "alive",
       "retrieved_at": "2026-07-18",
-      "veritas": "△",
-      "note": "PLACEHOLDER — Smithが数値を入れるまで非表示推奨"
+      "veritas": "✅"
     },
     {
       "industry_slug": "electrical-equipment",
       "industry_name_ja": "電気機械器具製造業",
       "period": "2026-07",
       "period_type": "monthly",
-      "score_1_5": null,
-      "rationale_ja": "",
-      "source_urls": [],
+      "score_1_5": 4,
+      "rationale_ja": "AI・半導体産業基盤強化フレームに基づき令和8年度（FY2026）予算で次世代半導体の研究開発等6,738億円・量産出資1,500億円など約1.2兆円規模を計上（令和7年度補正と合わせ1.5兆円規模）。蓄電池は経済安全保障推進法の特定重要物資指定が継続し供給確保計画への助成受付が2026年3〜5月にも実施。GX経済移行債による製造プロセス転換支援も継続（2026年7月時点で有効）。",
+      "source_urls": [
+        "https://www.mof.go.jp/policy/budget/budger_workflow/budget/fy2026/seifuan2026/08.pdf",
+        "https://www.meti.go.jp/policy/economy/economic_security/battery/index.html"
+      ],
       "editor": "Sellwell編集部",
       "as_of_date": "2026-07-18",
       "still_valid_2026": true,
+      "system_alive_2026": "alive",
       "retrieved_at": "2026-07-18",
-      "veritas": "△",
-      "note": "PLACEHOLDER — Smithが数値を入れるまで非表示推奨"
+      "veritas": "✅"
     },
     {
       "industry_slug": "automotive-mobility",
       "industry_name_ja": "輸送用機械器具製造業",
       "period": "2026-07",
       "period_type": "monthly",
-      "score_1_5": null,
-      "rationale_ja": "",
-      "source_urls": [],
+      "score_1_5": 3,
+      "rationale_ja": "マルチパスウェイ戦略とモビリティDX戦略（SDVグローバル日系シェア3割目標・2025年アップデート）で電動化・SDV・自動運転への支援は継続し、CEV補助金も継続。一方、米国の自動車・同部品関税は日米合意（2025年9月発効）後もMFN込み15%が残り輸出採算の逆風。追い風と逆風が併存するため中立寄りの3（2026年7月時点）。",
+      "source_urls": [
+        "https://www.soumu.go.jp/main_content/001028715.pdf",
+        "https://www.jetro.go.jp/ext_images/world/us_tariff/pdf/03_20260611.pdf"
+      ],
       "editor": "Sellwell編集部",
       "as_of_date": "2026-07-18",
       "still_valid_2026": true,
+      "system_alive_2026": "alive",
       "retrieved_at": "2026-07-18",
-      "veritas": "△",
-      "note": "PLACEHOLDER — Smithが数値を入れるまで非表示推奨"
+      "veritas": "✅"
     }
   ]
 }

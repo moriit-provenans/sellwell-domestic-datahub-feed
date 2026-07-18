@@ -3,8 +3,54 @@
   "metric_id": "jp.sellwell.theme_types",
   "mvp": "J2",
   "title_ja": "実現テーマ類型",
-  "status": "awaiting_smith_supply",
+  "status": "live",
   "last_updated": "2026-07-18",
   "how_to_fill": "業界×テーマタグの出現件数 or 上位テーマ配列を投入。",
-  "observations": []
+  "methodology_ja": "Sellwell受注実績（Salesforce・2016〜2026年）の案件名・納品物からSmithが類型化した、業界別の代表的な調査・コンサルティングテーマ。",
+  "observations": [
+    {
+      "industry_slug": "food-beverage",
+      "industry_name_ja": "食料品製造業",
+      "period": "FY2016-2026",
+      "period_type": "cumulative",
+      "top_themes": ["新規参入・市場性判断", "商品開発ストーリー解明", "販路・チャネル検証", "競合の営業組織・戦略実態解明", "原材料調達の競合調査"],
+      "as_of_date": "2026-07-01",
+      "still_valid_2026": true,
+      "retrieved_at": "2026-07-18",
+      "veritas": "✅"
+    },
+    {
+      "industry_slug": "industrial-machinery",
+      "industry_name_ja": "生産用機械器具製造業",
+      "period": "FY2016-2026",
+      "period_type": "cumulative",
+      "top_themes": ["新用途・チャネル参入判断", "拡販検討（市場・競合分析）", "特定製品の競合戦略調査"],
+      "as_of_date": "2026-07-01",
+      "still_valid_2026": true,
+      "retrieved_at": "2026-07-18",
+      "veritas": "✅"
+    },
+    {
+      "industry_slug": "electrical-equipment",
+      "industry_name_ja": "電気機械器具製造業",
+      "period": "FY2016-2026",
+      "period_type": "cumulative",
+      "top_themes": ["市場参入・拡販検討", "競合プロモーション・エリア戦略分析", "生産戦略・設備ベンチマーク"],
+      "as_of_date": "2026-07-01",
+      "still_valid_2026": true,
+      "retrieved_at": "2026-07-18",
+      "veritas": "✅"
+    },
+    {
+      "industry_slug": "automotive-mobility",
+      "industry_name_ja": "輸送用機械器具製造業",
+      "period": "FY2016-2026",
+      "period_type": "cumulative",
+      "top_themes": ["自動運転など先端領域の有識者調査", "先端技術の事業性見極め"],
+      "as_of_date": "2026-07-01",
+      "still_valid_2026": true,
+      "retrieved_at": "2026-07-18",
+      "veritas": "✅"
+    }
+  ]
 }
