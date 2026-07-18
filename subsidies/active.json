@@ -26,11 +26,28 @@
     "IT",
     "繊維",
     "消費",
-    "小売"
+    "小売",
+    "化学",
+    "鉄鋼",
+    "半導体",
+    "量子",
+    "バイオ",
+    "航空",
+    "宇宙",
+    "サイバー",
+    "コンテンツ",
+    "フードテック",
+    "防災",
+    "創薬",
+    "核融合",
+    "港湾",
+    "防衛",
+    "海洋",
+    "5G"
   ],
-  "count": 171,
-  "budget_sum_known_jpy": 159291521000,
-  "budget_known_n": 171,
+  "count": 177,
+  "budget_sum_known_jpy": 159306521000,
+  "budget_known_n": 177,
   "note": "公募中・複数KWユニーク。上限欠損は API 欠落分。",
   "items": [
     {
@@ -57,7 +74,9 @@
       "matched_keyword": "AI",
       "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYMuMAP",
       "industry_slugs": [
-        "ai"
+        "ai",
+        "g17-ai-semiconductor",
+        "g17-content"
       ],
       "use_purpose": "全国"
     },
@@ -71,7 +90,8 @@
       "matched_keyword": "情報",
       "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYLLMA5",
       "industry_slugs": [
-        "ai"
+        "ai",
+        "g17-content"
       ],
       "use_purpose": "全国"
     },
@@ -86,7 +106,8 @@
       "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYslMAH",
       "industry_slugs": [
         "ai",
-        "energy-gx"
+        "energy-gx",
+        "g17-resources-gx"
       ],
       "use_purpose": "全国"
     },
@@ -142,7 +163,7 @@
       "matched_keyword": "製造",
       "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYkHMAX",
       "industry_slugs": [
-        "untagged"
+        "g17-resources-gx"
       ],
       "use_purpose": "全国"
     },
@@ -184,7 +205,7 @@
       "matched_keyword": "製造",
       "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYjRMAX",
       "industry_slugs": [
-        "untagged"
+        "chemicals"
       ],
       "use_purpose": "全国"
     },
@@ -240,7 +261,8 @@
       "matched_keyword": "省エネ",
       "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYUSMA5",
       "industry_slugs": [
-        "energy-gx"
+        "energy-gx",
+        "g17-resources-gx"
       ],
       "use_purpose": "埼玉県"
     },
@@ -367,7 +389,8 @@
       "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYjqMAH",
       "industry_slugs": [
         "ai",
-        "electrical-equipment"
+        "electronic-components",
+        "g17-ai-semiconductor"
       ],
       "use_purpose": "全国"
     },
@@ -451,7 +474,8 @@
       "matched_keyword": "再エネ",
       "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDbHOMA1",
       "industry_slugs": [
-        "energy-gx"
+        "energy-gx",
+        "g17-resources-gx"
       ],
       "use_purpose": "全国"
     },
@@ -465,7 +489,22 @@
       "matched_keyword": "情報",
       "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDNujMAH",
       "industry_slugs": [
-        "ai"
+        "ai",
+        "g17-telecom"
+      ],
+      "use_purpose": "全国"
+    },
+    {
+      "id": "a0WJ200000CDbnjMAD",
+      "title": "「次世代航空機の研究開発に関する調査」の公募",
+      "institution": null,
+      "subsidy_max_limit": 0,
+      "subsidy_rate": null,
+      "acceptance_end_datetime": "2026-07-31T03:00:00.000Z",
+      "matched_keyword": "航空",
+      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDbnjMAD",
+      "industry_slugs": [
+        "g17-aerospace"
       ],
       "use_purpose": "全国"
     },
@@ -636,7 +675,8 @@
       "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDc0OMAT",
       "industry_slugs": [
         "ai",
-        "energy-gx"
+        "energy-gx",
+        "g17-ai-semiconductor"
       ],
       "use_purpose": "全国"
     },
@@ -655,6 +695,21 @@
       "use_purpose": "全国 / 宮崎県"
     },
     {
+      "id": "a0WJ200000CDcNyMAL",
+      "title": "「カーボンリサイクル実現を加速するバイオ由来製品生産技術の開発に関する調査」の公募",
+      "institution": null,
+      "subsidy_max_limit": 0,
+      "subsidy_rate": null,
+      "acceptance_end_datetime": "2026-08-10T03:00:00.000Z",
+      "matched_keyword": "バイオ",
+      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDcNyMAL",
+      "industry_slugs": [
+        "energy-gx",
+        "g17-synbio-biotech"
+      ],
+      "use_purpose": "全国"
+    },
+    {
       "id": "a0WJ200000CDZBgMAP",
       "title": "令和8年度 航空宇宙産業への参入支援事業（宇宙製品等開発経費助成）",
       "institution": null,
@@ -664,6 +719,7 @@
       "matched_keyword": "機械",
       "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDZBgMAP",
       "industry_slugs": [
+        "g17-aerospace",
         "industrial-machinery"
       ],
       "use_purpose": "東京都"
@@ -706,7 +762,9 @@
       "matched_keyword": "AI",
       "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDckaMAD",
       "industry_slugs": [
-        "ai"
+        "ai",
+        "g17-ai-semiconductor",
+        "g17-telecom"
       ],
       "use_purpose": "全国"
     },
@@ -762,7 +820,9 @@
       "matched_keyword": "製造",
       "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdAaMAL",
       "industry_slugs": [
-        "energy-gx"
+        "chemicals",
+        "energy-gx",
+        "g17-resources-gx"
       ],
       "use_purpose": "全国"
     },
@@ -804,7 +864,8 @@
       "matched_keyword": "製造",
       "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdJhMAL",
       "industry_slugs": [
-        "energy-gx"
+        "energy-gx",
+        "g17-resources-gx"
       ],
       "use_purpose": "全国"
     },
@@ -832,7 +893,8 @@
       "matched_keyword": "情報",
       "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDXuqMAH",
       "industry_slugs": [
-        "ai"
+        "ai",
+        "g17-digital-cyber"
       ],
       "use_purpose": "東京都"
     },
@@ -860,7 +922,8 @@
       "matched_keyword": "再エネ",
       "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYcpMAH",
       "industry_slugs": [
-        "energy-gx"
+        "energy-gx",
+        "g17-resources-gx"
       ],
       "use_purpose": "全国"
     },
@@ -931,7 +994,8 @@
       "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDZ2OMAX",
       "industry_slugs": [
         "ai",
-        "energy-gx"
+        "energy-gx",
+        "g17-resources-gx"
       ],
       "use_purpose": "全国"
     },
@@ -945,7 +1009,8 @@
       "matched_keyword": "AI",
       "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDY6tMAH",
       "industry_slugs": [
-        "ai"
+        "ai",
+        "g17-ai-semiconductor"
       ],
       "use_purpose": "東京都"
     },
@@ -987,7 +1052,8 @@
       "matched_keyword": "GX",
       "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDPyeMAH",
       "industry_slugs": [
-        "energy-gx"
+        "energy-gx",
+        "g17-resources-gx"
       ],
       "use_purpose": "全国"
     },
@@ -1001,7 +1067,8 @@
       "matched_keyword": "製造",
       "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDaotMAD",
       "industry_slugs": [
-        "energy-gx"
+        "energy-gx",
+        "g17-resources-gx"
       ],
       "use_purpose": "全国"
     },
@@ -1015,6 +1082,7 @@
       "matched_keyword": "機械",
       "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDZ04MAH",
       "industry_slugs": [
+        "g17-port-logistics",
         "industrial-machinery"
       ],
       "use_purpose": "全国"
@@ -1043,7 +1111,9 @@
       "matched_keyword": "再エネ",
       "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYzVMAX",
       "industry_slugs": [
-        "energy-gx"
+        "energy-gx",
+        "g17-ai-semiconductor",
+        "g17-resources-gx"
       ],
       "use_purpose": "全国"
     },
@@ -1071,7 +1141,8 @@
       "matched_keyword": "再エネ",
       "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDY4mMAH",
       "industry_slugs": [
-        "energy-gx"
+        "energy-gx",
+        "g17-resources-gx"
       ],
       "use_purpose": "全国"
     },
@@ -1099,7 +1170,8 @@
       "matched_keyword": "再エネ",
       "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDd3YMAT",
       "industry_slugs": [
-        "energy-gx"
+        "energy-gx",
+        "g17-resources-gx"
       ],
       "use_purpose": "全国"
     },
@@ -1113,7 +1185,8 @@
       "matched_keyword": "再エネ",
       "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDd3OMAT",
       "industry_slugs": [
-        "energy-gx"
+        "energy-gx",
+        "g17-resources-gx"
       ],
       "use_purpose": "全国"
     },
@@ -1127,7 +1200,8 @@
       "matched_keyword": "再エネ",
       "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDY5GMAX",
       "industry_slugs": [
-        "energy-gx"
+        "energy-gx",
+        "g17-resources-gx"
       ],
       "use_purpose": "全国"
     },
@@ -1141,7 +1215,8 @@
       "matched_keyword": "製造",
       "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDZzQMAX",
       "industry_slugs": [
-        "energy-gx"
+        "energy-gx",
+        "g17-resources-gx"
       ],
       "use_purpose": "全国"
     },
@@ -1184,7 +1259,8 @@
       "matched_keyword": "再エネ",
       "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYfxMAH",
       "industry_slugs": [
-        "energy-gx"
+        "energy-gx",
+        "g17-resources-gx"
       ],
       "use_purpose": "福岡県"
     },
@@ -1385,6 +1461,21 @@
       "use_purpose": "福岡県"
     },
     {
+      "id": "a0W2x000007CStOEAW",
+      "title": "農林水産物認証取得支援事業（水産認証取得支援事業）補助金",
+      "institution": null,
+      "subsidy_max_limit": 0,
+      "subsidy_rate": null,
+      "acceptance_end_datetime": "2026-12-28T08:00:00.000Z",
+      "matched_keyword": "海洋",
+      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0W2x000007CStOEAW",
+      "industry_slugs": [
+        "food-beverage",
+        "g17-ocean"
+      ],
+      "use_purpose": "東京都"
+    },
+    {
       "id": "a0WJ200000CDYTvMAP",
       "title": "【久留米市】久留米市キッチンカー導入事業費補助金（令和８年度）",
       "institution": null,
@@ -1397,48 +1488,6 @@
         "automotive-mobility"
       ],
       "use_purpose": "福岡県"
-    },
-    {
-      "id": "a0WJ200000CDbpCMAT",
-      "title": "【久留米市】久留米市小規模事業者デジタル化支援補助金（令和８年度）",
-      "institution": null,
-      "subsidy_max_limit": 200000,
-      "subsidy_rate": null,
-      "acceptance_end_datetime": "2026-12-28T08:15:00.000Z",
-      "matched_keyword": "DX",
-      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDbpCMAT",
-      "industry_slugs": [
-        "ai"
-      ],
-      "use_purpose": "福岡県"
-    },
-    {
-      "id": "a0WJ200000CDY6KMAX",
-      "title": "【倉敷市】実証実験サポート事業",
-      "institution": null,
-      "subsidy_max_limit": 500000,
-      "subsidy_rate": null,
-      "acceptance_end_datetime": "2026-12-28T08:15:00.000Z",
-      "matched_keyword": "AI",
-      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDY6KMAX",
-      "industry_slugs": [
-        "ai"
-      ],
-      "use_purpose": "全国"
-    },
-    {
-      "id": "a0WJ200000CDYUPMA5",
-      "title": "令和８年度フィンテック企業に対する海外進出支援事業 海外展示会共同出展",
-      "institution": null,
-      "subsidy_max_limit": 0,
-      "subsidy_rate": null,
-      "acceptance_end_datetime": "2026-12-28T14:45:00.000Z",
-      "matched_keyword": "情報",
-      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYUPMA5",
-      "industry_slugs": [
-        "ai"
-      ],
-      "use_purpose": "東京都"
     }
   ]
 }

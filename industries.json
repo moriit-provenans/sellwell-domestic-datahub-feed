@@ -1,50 +1,385 @@
 {
-  "schema_version": "1.0.0",
+  "schema_version": "1.1.0",
   "last_updated": "2026-07-19",
+  "lens_guide": {
+    "jsic_manufacturing": "公的業種コードで切れる製造業（法人企業統計・経済構造・IIP等）",
+    "growth17": "政策テーマ。JSIC合成／代理／編集部評定。製造業リストに混ぜない",
+    "macro_national": "全国マクロ（GDP・CI・消費者態度等）",
+    "retail_format": "商業動態の業態"
+  },
   "industries": [
+    {
+      "slug": "manufacturing-total",
+      "name_ja": "製造業合計（比較用）",
+      "status": "live",
+      "lens": "jsic_manufacturing"
+    },
     {
       "slug": "food-beverage",
       "name_ja": "食料品",
-      "status": "live"
+      "status": "live",
+      "lens": "jsic_manufacturing"
+    },
+    {
+      "slug": "consumer-goods",
+      "name_ja": "繊維工業（消費財代理）",
+      "status": "live",
+      "lens": "jsic_manufacturing"
+    },
+    {
+      "slug": "pulp-paper",
+      "name_ja": "パルプ・紙・紙加工品",
+      "status": "live",
+      "lens": "jsic_manufacturing"
+    },
+    {
+      "slug": "chemicals",
+      "name_ja": "化学工業（医薬品含む）",
+      "status": "live",
+      "lens": "jsic_manufacturing"
+    },
+    {
+      "slug": "petroleum",
+      "name_ja": "石油・石炭製品",
+      "status": "live",
+      "lens": "jsic_manufacturing"
+    },
+    {
+      "slug": "ceramics",
+      "name_ja": "窯業・土石製品",
+      "status": "live",
+      "lens": "jsic_manufacturing"
+    },
+    {
+      "slug": "steel",
+      "name_ja": "鉄鋼",
+      "status": "live",
+      "lens": "jsic_manufacturing"
+    },
+    {
+      "slug": "nonferrous-metals",
+      "name_ja": "非鉄金属",
+      "status": "live",
+      "lens": "jsic_manufacturing"
+    },
+    {
+      "slug": "metal-products",
+      "name_ja": "金属製品",
+      "status": "live",
+      "lens": "jsic_manufacturing"
+    },
+    {
+      "slug": "general-machinery",
+      "name_ja": "はん用機械",
+      "status": "live",
+      "lens": "jsic_manufacturing"
     },
     {
       "slug": "industrial-machinery",
       "name_ja": "生産用機械",
-      "status": "live"
+      "status": "live",
+      "lens": "jsic_manufacturing"
+    },
+    {
+      "slug": "business-machinery",
+      "name_ja": "業務用機械",
+      "status": "live",
+      "lens": "jsic_manufacturing"
+    },
+    {
+      "slug": "electronic-components",
+      "name_ja": "情報通信機械（電子部品代理）",
+      "status": "live",
+      "lens": "jsic_manufacturing"
     },
     {
       "slug": "electrical-equipment",
       "name_ja": "電気機械",
-      "status": "live"
+      "status": "live",
+      "lens": "jsic_manufacturing"
     },
     {
       "slug": "automotive-mobility",
       "name_ja": "輸送機械",
+      "status": "live",
+      "lens": "jsic_manufacturing"
+    },
+    {
+      "slug": "plastics",
+      "name_ja": "プラスチック製品（IIPのみ）",
+      "status": "live_partial",
+      "lens": "jsic_manufacturing",
+      "note_ja": "法人企業統計中分類なし。IIPのみ live。"
+    },
+    {
+      "slug": "rubber",
+      "name_ja": "ゴム製品（IIPのみ）",
+      "status": "live_partial",
+      "lens": "jsic_manufacturing",
+      "note_ja": "法人企業統計中分類なし。IIPのみ live。"
+    }
+  ],
+  "growth17": [
+    {
+      "slug": "g17-ai-semiconductor",
+      "name_ja": "AI・半導体",
+      "lens": "growth17",
+      "status": "live_proxy",
+      "primary_jsic_proxies": [
+        "electronic-components",
+        "electrical-equipment",
+        "ai"
+      ],
+      "proxy_quality": "thematic",
+      "note_ja": "電子部品・電気機械・情報通信業の合成代理。半導体単体の公的中分類は法人企業統計に無し。",
+      "cao_roadmap_ref": "官民投資ロードマップ 2026-06-24 / AI・半導体",
+      "sellwell_path": "/growth/ai-semiconductor",
+      "legacy_slugs": [
+        "ai"
+      ]
+    },
+    {
+      "slug": "g17-shipbuilding",
+      "name_ja": "造船",
+      "lens": "growth17",
+      "status": "editorial",
+      "primary_jsic_proxies": [
+        "automotive-mobility"
+      ],
+      "proxy_quality": "thematic",
+      "note_ja": "輸送用機械に船舶が含まれるが分解不可。編集部評定＋補助金タグが本命。",
+      "cao_roadmap_ref": "官民投資ロードマップ / 造船",
+      "sellwell_path": "/growth/shipbuilding",
+      "legacy_slugs": []
+    },
+    {
+      "slug": "g17-quantum",
+      "name_ja": "量子",
+      "lens": "growth17",
+      "status": "editorial",
+      "primary_jsic_proxies": [
+        "electronic-components",
+        "business-machinery"
+      ],
+      "proxy_quality": "editorial_only",
+      "note_ja": "独立JSICなし。政策スコア・補助金のみ。",
+      "cao_roadmap_ref": "官民投資ロードマップ / 量子",
+      "sellwell_path": "/growth/quantum",
+      "legacy_slugs": []
+    },
+    {
+      "slug": "g17-synbio-biotech",
+      "name_ja": "合成生物学・バイオ",
+      "lens": "growth17",
+      "status": "live_proxy",
+      "primary_jsic_proxies": [
+        "chemicals"
+      ],
+      "proxy_quality": "close",
+      "note_ja": "化学工業（医薬品含む）を粗い代理。創薬分野と重複あり。",
+      "cao_roadmap_ref": "官民投資ロードマップ / 合成生物学・バイオ",
+      "sellwell_path": "/growth/synbio-biotech",
+      "legacy_slugs": []
+    },
+    {
+      "slug": "g17-aerospace",
+      "name_ja": "航空・宇宙",
+      "lens": "growth17",
+      "status": "editorial",
+      "primary_jsic_proxies": [
+        "automotive-mobility",
+        "business-machinery"
+      ],
+      "proxy_quality": "thematic",
+      "note_ja": "輸送用・業務用機械の一部が関連。独立系列なし。",
+      "cao_roadmap_ref": "官民投資ロードマップ / 航空・宇宙",
+      "sellwell_path": "/growth/aerospace",
+      "legacy_slugs": []
+    },
+    {
+      "slug": "g17-digital-cyber",
+      "name_ja": "デジタル・サイバー",
+      "lens": "growth17",
+      "status": "live_proxy",
+      "primary_jsic_proxies": [
+        "ai"
+      ],
+      "proxy_quality": "thematic",
+      "note_ja": "情報通信業売上を代理。サイバー単体統計なし。",
+      "cao_roadmap_ref": "官民投資ロードマップ / デジタル・サイバー",
+      "sellwell_path": "/growth/digital-cyber",
+      "legacy_slugs": []
+    },
+    {
+      "slug": "g17-content",
+      "name_ja": "コンテンツ",
+      "lens": "growth17",
+      "status": "editorial",
+      "primary_jsic_proxies": [],
+      "proxy_quality": "editorial_only",
+      "note_ja": "法人企業統計に安定した中分類なし。編集部評定本命。",
+      "cao_roadmap_ref": "官民投資ロードマップ / コンテンツ",
+      "sellwell_path": "/growth/content",
+      "legacy_slugs": []
+    },
+    {
+      "slug": "g17-foodtech",
+      "name_ja": "フードテック",
+      "lens": "growth17",
+      "status": "live_proxy",
+      "primary_jsic_proxies": [
+        "food-beverage"
+      ],
+      "proxy_quality": "thematic",
+      "note_ja": "食料品製造業系列のテーマ代理。製造業チェックリストには載せない。",
+      "cao_roadmap_ref": "官民投資ロードマップ / フードテック",
+      "sellwell_path": "/growth/foodtech",
+      "legacy_slugs": [
+        "foodtech"
+      ]
+    },
+    {
+      "slug": "g17-resources-gx",
+      "name_ja": "資源・エネルギー・GX",
+      "lens": "growth17",
+      "status": "live_proxy",
+      "primary_jsic_proxies": [
+        "energy-gx",
+        "petroleum"
+      ],
+      "proxy_quality": "close",
+      "note_ja": "電気業＋石油製品を代理。GX投資そのものの公的月次系列は限定的。",
+      "cao_roadmap_ref": "官民投資ロードマップ / 資源・エネルギー・GX",
+      "sellwell_path": "/growth/resources-gx",
+      "legacy_slugs": [
+        "energy-gx"
+      ]
+    },
+    {
+      "slug": "g17-disaster-resilience",
+      "name_ja": "防災・国土強靱化",
+      "lens": "growth17",
+      "status": "editorial",
+      "primary_jsic_proxies": [
+        "ceramics",
+        "metal-products"
+      ],
+      "proxy_quality": "thematic",
+      "note_ja": "窯業・金属製品がインフラ関連の粗い代理。本命は政策スコア。",
+      "cao_roadmap_ref": "官民投資ロードマップ / 防災・国土強靱化",
+      "sellwell_path": "/growth/disaster-resilience",
+      "legacy_slugs": []
+    },
+    {
+      "slug": "g17-pharma-advanced-med",
+      "name_ja": "創薬・先端医療",
+      "lens": "growth17",
+      "status": "live_proxy",
+      "primary_jsic_proxies": [
+        "chemicals"
+      ],
+      "proxy_quality": "close",
+      "note_ja": "化学工業に医薬品が含まれる（分離不可）。noteで明示。",
+      "cao_roadmap_ref": "官民投資ロードマップ / 創薬・先端医療",
+      "sellwell_path": "/growth/pharma-advanced-med",
+      "legacy_slugs": []
+    },
+    {
+      "slug": "g17-fusion",
+      "name_ja": "フュージョン（核融合）",
+      "lens": "growth17",
+      "status": "editorial",
+      "primary_jsic_proxies": [],
+      "proxy_quality": "editorial_only",
+      "note_ja": "独立JSICなし。編集部評定のみ。",
+      "cao_roadmap_ref": "官民投資ロードマップ / フュージョン",
+      "sellwell_path": "/growth/fusion",
+      "legacy_slugs": []
+    },
+    {
+      "slug": "g17-materials",
+      "name_ja": "マテリアル",
+      "lens": "growth17",
+      "status": "live_proxy",
+      "primary_jsic_proxies": [
+        "chemicals",
+        "nonferrous-metals",
+        "steel"
+      ],
+      "proxy_quality": "thematic",
+      "note_ja": "化学・非鉄・鉄鋼の合成テーマ。重要鉱物単体系列なし。",
+      "cao_roadmap_ref": "官民投資ロードマップ / マテリアル",
+      "sellwell_path": "/growth/materials",
+      "legacy_slugs": []
+    },
+    {
+      "slug": "g17-port-logistics",
+      "name_ja": "港湾ロジスティクス",
+      "lens": "growth17",
+      "status": "editorial",
+      "primary_jsic_proxies": [],
+      "proxy_quality": "editorial_only",
+      "note_ja": "運輸業はあるが港湾DX専用の安定中分類なし。",
+      "cao_roadmap_ref": "官民投資ロードマップ / 港湾ロジスティクス",
+      "sellwell_path": "/growth/port-logistics",
+      "legacy_slugs": []
+    },
+    {
+      "slug": "g17-defense",
+      "name_ja": "防衛産業",
+      "lens": "growth17",
+      "status": "editorial",
+      "primary_jsic_proxies": [
+        "automotive-mobility",
+        "electronic-components"
+      ],
+      "proxy_quality": "editorial_only",
+      "note_ja": "防衛専用の公開業種別系列なし。編集部評定本命。",
+      "cao_roadmap_ref": "官民投資ロードマップ / 防衛産業",
+      "sellwell_path": "/growth/defense",
+      "legacy_slugs": []
+    },
+    {
+      "slug": "g17-telecom",
+      "name_ja": "情報通信",
+      "lens": "growth17",
+      "status": "live_proxy",
+      "primary_jsic_proxies": [
+        "ai",
+        "electronic-components"
+      ],
+      "proxy_quality": "close",
+      "note_ja": "情報通信業＋情報通信機械を代理。",
+      "cao_roadmap_ref": "官民投資ロードマップ / 情報通信",
+      "sellwell_path": "/growth/telecom",
+      "legacy_slugs": []
+    },
+    {
+      "slug": "g17-ocean",
+      "name_ja": "海洋",
+      "lens": "growth17",
+      "status": "editorial",
+      "primary_jsic_proxies": [
+        "automotive-mobility"
+      ],
+      "proxy_quality": "thematic",
+      "note_ja": "造船・海洋資源の独立系列なし。造船と隣接。",
+      "cao_roadmap_ref": "官民投資ロードマップ / 海洋",
+      "sellwell_path": "/growth/ocean",
+      "legacy_slugs": []
+    }
+  ],
+  "macro": [
+    {
+      "slug": "national",
+      "name_ja": "マクロ（全国）",
+      "lens": "macro_national",
       "status": "live"
     },
     {
-      "slug": "manufacturing-total",
-      "name_ja": "製造業計",
-      "status": "live"
-    },
-    {
-      "slug": "consumer-goods",
-      "name_ja": "消費財・雑貨（繊維代理）",
-      "status": "live"
-    },
-    {
-      "slug": "foodtech",
-      "name_ja": "フードテック（食料品代理）",
-      "status": "live_proxy"
-    },
-    {
-      "slug": "energy-gx",
-      "name_ja": "エネルギー・GX（電気業代理）",
-      "status": "live"
-    },
-    {
-      "slug": "ai",
-      "name_ja": "AI・情報サービス",
+      "slug": "all-ex-finance",
+      "name_ja": "全産業（除く金融保険）",
+      "lens": "macro_national",
       "status": "live"
     }
   ],
@@ -52,29 +387,40 @@
     {
       "slug": "department-store",
       "name_ja": "百貨店",
+      "lens": "retail_format",
       "status": "live"
     },
     {
       "slug": "supermarket",
       "name_ja": "スーパー",
+      "lens": "retail_format",
       "status": "live"
     },
     {
       "slug": "convenience-store",
       "name_ja": "コンビニ",
+      "lens": "retail_format",
       "status": "live"
     },
     {
       "slug": "drugstore",
       "name_ja": "ドラッグストア",
+      "lens": "retail_format",
       "status": "live"
     },
     {
       "slug": "home-center",
       "name_ja": "ホームセンター",
+      "lens": "retail_format",
       "status": "live"
     }
   ],
+  "legacy_theme_slugs_moved_to_growth17": {
+    "foodtech": "g17-foodtech",
+    "energy-gx": "g17-resources-gx",
+    "ai": "g17-ai-semiconductor",
+    "note": "timeseries の industry_slug は後方互換のため旧slugも当面残す。UIは growth17 レンズのみに表示。"
+  },
   "unavailable": {
     "W2-1a_downstream_io": {
       "status": "unavailable",
@@ -108,10 +454,21 @@
       "metric_id": "jp.meti.tertiary_activity_index",
       "status": "unavailable",
       "reason": "政府統計コード00550360はe-Statに存在するが getStatsList でDB表0件（API未提供）。METIサイトのExcel直取もWAF/空応答で自動化不可。❌原則により無理な推計は作らない。代替候補: サービス産業動向調査(0004012600)は2024-12止まりで要件（2026最新月）未達"
+    },
+    "REQ009_plastics_rubber_corp": {
+      "metric_scope": "法人企業統計・中分類",
+      "requested_slug": "plastics-rubber",
+      "status": "unavailable",
+      "reason": "法人企業統計の産業中分類にプラスチック製品／ゴム製品の独立コードなし（IIP側は plastics / rubber として取得可）",
+      "iip_partial": [
+        "plastics",
+        "rubber"
+      ]
     }
   },
   "wave1_jobs_by_industry": {
     "status": "substituted_by_tankan_employment_di",
     "note": "W1-5不可 → W2-2 jp.tankan.employment_di で代替"
-  }
+  },
+  "req": "REQ-SMITH-20260719-009"
 }
