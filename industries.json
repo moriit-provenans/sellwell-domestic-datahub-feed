@@ -47,5 +47,36 @@
       "name_ja": "AI・情報サービス",
       "status": "live"
     }
-  ]
+  ],
+  "retail_formats": [
+    {
+      "slug": "department-store",
+      "name_ja": "百貨店",
+      "status": "live"
+    },
+    {
+      "slug": "supermarket",
+      "name_ja": "スーパー",
+      "status": "live"
+    },
+    {
+      "slug": "convenience-store",
+      "name_ja": "コンビニ",
+      "status": "live"
+    },
+    {
+      "slug": "drugstore",
+      "name_ja": "ドラッグストア",
+      "status": "live"
+    },
+    {
+      "slug": "home-center",
+      "name_ja": "ホームセンター",
+      "status": "live"
+    }
+  ],
+  "wave1_jobs_by_industry": {
+    "status": "unavailable_estat_api",
+    "note": "W1-5: 産業別新規求人数はe-Stat APIに未掲載。Wave2で短観・雇用人員DIを代替推奨。"
+  }
 }

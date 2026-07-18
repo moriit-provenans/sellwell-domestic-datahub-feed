@@ -41,7 +41,7 @@
       "metric_id": "jp.household.expenditure_jpy",
       "as_of_date": "2024-12-31",
       "still_valid_2026": true,
-      "n_observations": 60,
+      "n_observations": 330,
       "retrieved_at": "2026-07-18"
     },
     {
@@ -55,7 +55,7 @@
       "metric_id": "jp.cpi.index",
       "as_of_date": "2026-05-01",
       "still_valid_2026": true,
-      "n_observations": 148,
+      "n_observations": 2072,
       "retrieved_at": "2026-07-18"
     },
     {
@@ -105,6 +105,27 @@
       "as_of_date": "2023-12-31",
       "still_valid_2026": true,
       "n_observations": 11,
+      "retrieved_at": "2026-07-18"
+    },
+    {
+      "metric_id": "jp.corp.capex_jpy",
+      "as_of_date": "2024-03-31",
+      "still_valid_2026": true,
+      "n_observations": 176,
+      "retrieved_at": "2026-07-18"
+    },
+    {
+      "metric_id": "jp.labor.wage_index",
+      "as_of_date": "2014-12-01",
+      "still_valid_2026": true,
+      "n_observations": 960,
+      "retrieved_at": "2026-07-18"
+    },
+    {
+      "metric_id": "jp.retail.sales_jpy",
+      "as_of_date": "2019-12-01",
+      "still_valid_2026": true,
+      "n_observations": 305,
       "retrieved_at": "2026-07-18"
     },
     {
