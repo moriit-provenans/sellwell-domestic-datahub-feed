@@ -1,0 +1,15 @@
+{
+  "schema_version": "1.0.0",
+  "last_updated": "2026-07-18",
+  "note": "MVP公開は6〜8業界から。industry_id は JSIC中分類コード。拡張時は本ファイルに追記。",
+  "industries": [
+    {"industry_id": "09", "slug": "food-beverage", "name_ja": "食料品製造業", "mvp_priority": 1, "theme_tags": ["foodtech"]},
+    {"industry_id": "25", "slug": "industrial-machinery", "name_ja": "生産用機械器具製造業", "mvp_priority": 2, "theme_tags": []},
+    {"industry_id": "29", "slug": "electrical-equipment", "name_ja": "電気機械器具製造業", "mvp_priority": 3, "theme_tags": ["ai"]},
+    {"industry_id": "30", "slug": "automotive-mobility", "name_ja": "輸送用機械器具製造業", "mvp_priority": 4, "theme_tags": []},
+    {"industry_id": "10", "slug": "consumer-goods", "name_ja": "飲料・たばこ・飼料製造業（消費財入口）", "mvp_priority": 5, "theme_tags": []},
+    {"industry_id": "09x", "slug": "foodtech", "name_ja": "フードテック（合成タグ表示用）", "mvp_priority": 6, "theme_tags": ["foodtech"], "synthetic": true},
+    {"industry_id": "33x", "slug": "energy-gx", "name_ja": "エネルギーGX（合成タグ表示用）", "mvp_priority": 7, "theme_tags": ["energy-gx"], "synthetic": true},
+    {"industry_id": "39x", "slug": "ai", "name_ja": "AI・情報サービス（合成タグ表示用）", "mvp_priority": 8, "theme_tags": ["ai"], "synthetic": true}
+  ]
+}

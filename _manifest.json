@@ -1,0 +1,22 @@
+{
+  "schema_version": "1.0.0",
+  "feed_id": "sellwell-domestic-datahub",
+  "title": "Sellwell Domestic Data Hub Public Feed",
+  "last_updated": "2026-07-18",
+  "status": "scaffold",
+  "owner": "Atlas",
+  "consumer": "Smith / sellwell.jp",
+  "req": "REQ-SMITH-20260718-002",
+  "note": "Phase 0 scaffold. MVP timeseries populate in Phase 1.",
+  "cadence": {
+    "estat": "weekly",
+    "jgrants": "daily",
+    "boj_cgpi": "weekly"
+  },
+  "freshness_fields_required": [
+    "as_of_date",
+    "still_valid_2026",
+    "retrieved_at",
+    "veritas"
+  ]
+}

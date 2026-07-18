@@ -1,0 +1,33 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/moriit-provenans/sellwell-domestic-datahub-feed/schema/observation.schema.json",
+  "title": "Sellwell domestic observation record",
+  "type": "object",
+  "required": [
+    "metric_id",
+    "period",
+    "value",
+    "unit",
+    "as_of_date",
+    "still_valid_2026",
+    "source",
+    "retrieved_at",
+    "veritas"
+  ],
+  "properties": {
+    "metric_id": {"type": "string"},
+    "industry_id": {"type": "string"},
+    "theme_tags": {"type": "array", "items": {"type": "string"}},
+    "period": {"type": "string"},
+    "period_type": {"type": "string", "enum": ["daily", "monthly", "quarterly", "annual", "quinquennial"]},
+    "value": {"type": ["number", "string"]},
+    "unit": {"type": "string"},
+    "as_of_date": {"type": "string", "pattern": "^\\d{4}-\\d{2}-\\d{2}$"},
+    "still_valid_2026": {"type": ["boolean", "string"]},
+    "system_alive_2026": {"type": "string"},
+    "source": {"type": "string"},
+    "source_ref": {"type": "string"},
+    "retrieved_at": {"type": "string"},
+    "veritas": {"type": "string", "enum": ["✅", "⚠️", "🔴"]}
+  }
+}

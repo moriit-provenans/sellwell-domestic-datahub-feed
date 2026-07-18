@@ -1,0 +1,24 @@
+{
+  "schema_version": "1.0.0",
+  "last_updated": "2026-07-18",
+  "note": "テーマ横断タグ17。合成JSICは Phase 1 で Smith 正式リストと突合して確定。現状は雛形。",
+  "tags": [
+    {"theme_id": "foodtech", "name_ja": "フードテック", "jsic_set_draft": ["09", "10", "25"], "status": "draft"},
+    {"theme_id": "energy-gx", "name_ja": "エネルギーGX", "jsic_set_draft": ["33", "34"], "status": "draft"},
+    {"theme_id": "ai", "name_ja": "AI", "jsic_set_draft": ["39", "29"], "status": "draft"},
+    {"theme_id": "healthcare", "name_ja": "ヘルスケア", "jsic_set_draft": [], "status": "draft"},
+    {"theme_id": "senior", "name_ja": "シニア・介護", "jsic_set_draft": [], "status": "draft"},
+    {"theme_id": "childcare", "name_ja": "育児・教育", "jsic_set_draft": [], "status": "draft"},
+    {"theme_id": "mobility", "name_ja": "モビリティ", "jsic_set_draft": ["30"], "status": "draft"},
+    {"theme_id": "logistics", "name_ja": "物流", "jsic_set_draft": [], "status": "draft"},
+    {"theme_id": "retail-dx", "name_ja": "小売DX", "jsic_set_draft": [], "status": "draft"},
+    {"theme_id": "fintech", "name_ja": "フィンテック", "jsic_set_draft": [], "status": "draft"},
+    {"theme_id": "agritech", "name_ja": "アグリテック", "jsic_set_draft": [], "status": "draft"},
+    {"theme_id": "construction-dx", "name_ja": "建設DX", "jsic_set_draft": [], "status": "draft"},
+    {"theme_id": "circular", "name_ja": "サーキュラー", "jsic_set_draft": [], "status": "draft"},
+    {"theme_id": "defense", "name_ja": "防衛・セキュリティ", "jsic_set_draft": [], "status": "draft"},
+    {"theme_id": "tourism", "name_ja": "観光・インバウンド", "jsic_set_draft": [], "status": "draft"},
+    {"theme_id": "regional", "name_ja": "地方創生", "jsic_set_draft": [], "status": "draft"},
+    {"theme_id": "export", "name_ja": "輸出・越境", "jsic_set_draft": [], "status": "draft"}
+  ]
+}

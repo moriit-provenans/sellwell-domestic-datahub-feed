@@ -1,0 +1,12 @@
+{
+  "schema_version": "1.0.0",
+  "last_updated": "2026-07-18",
+  "as_of_date": "2026-07-18",
+  "still_valid_2026": true,
+  "source": "https://api.jgrants-portal.go.jp/exp/v1/public/subsidies",
+  "retrieved_at": "2026-07-18",
+  "veritas": "⚠️",
+  "note": "Scaffold empty. Phase 1 daily collector will populate.",
+  "count": 0,
+  "items": []
+}
