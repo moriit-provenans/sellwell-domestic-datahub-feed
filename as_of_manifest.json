@@ -46,9 +46,9 @@
     },
     {
       "metric_id": "jp.population.projection",
-      "as_of_date": "2026-01-01",
+      "as_of_date": "2070-01-01",
       "still_valid_2026": true,
-      "n_observations": 64,
+      "n_observations": 114,
       "retrieved_at": "2026-07-18"
     },
     {
