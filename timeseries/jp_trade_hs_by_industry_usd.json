@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "metric_id": "jp.trade.hs_by_industry_usd",
   "title_ja": "HS業界割付貿易額",
-  "last_updated": "2026-07-18",
+  "last_updated": "2026-07-19",
   "source": "UN Comtrade",
   "observations": [
     {
       "as_of_date": "2019-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.trade.hs_by_industry_usd",
       "industry_slug": "ai",
@@ -26,7 +26,7 @@
     {
       "as_of_date": "2019-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.trade.hs_by_industry_usd",
       "industry_slug": "ai",
@@ -44,7 +44,7 @@
     {
       "as_of_date": "2019-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.trade.hs_by_industry_usd",
       "industry_slug": "ai",
@@ -62,7 +62,7 @@
     {
       "as_of_date": "2019-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.trade.hs_by_industry_usd",
       "industry_slug": "ai",
@@ -80,7 +80,7 @@
     {
       "as_of_date": "2020-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.trade.hs_by_industry_usd",
       "industry_slug": "ai",
@@ -98,7 +98,7 @@
     {
       "as_of_date": "2020-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.trade.hs_by_industry_usd",
       "industry_slug": "ai",
@@ -116,7 +116,7 @@
     {
       "as_of_date": "2020-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.trade.hs_by_industry_usd",
       "industry_slug": "ai",
@@ -134,7 +134,7 @@
     {
       "as_of_date": "2020-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.trade.hs_by_industry_usd",
       "industry_slug": "ai",
@@ -152,7 +152,7 @@
     {
       "as_of_date": "2021-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.trade.hs_by_industry_usd",
       "industry_slug": "ai",
@@ -170,7 +170,7 @@
     {
       "as_of_date": "2021-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.trade.hs_by_industry_usd",
       "industry_slug": "ai",
@@ -188,7 +188,7 @@
     {
       "as_of_date": "2021-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.trade.hs_by_industry_usd",
       "industry_slug": "ai",
@@ -206,7 +206,7 @@
     {
       "as_of_date": "2021-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.trade.hs_by_industry_usd",
       "industry_slug": "ai",
@@ -224,7 +224,7 @@
     {
       "as_of_date": "2022-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.trade.hs_by_industry_usd",
       "industry_slug": "ai",
@@ -242,7 +242,7 @@
     {
       "as_of_date": "2022-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.trade.hs_by_industry_usd",
       "industry_slug": "ai",
@@ -260,7 +260,7 @@
     {
       "as_of_date": "2022-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.trade.hs_by_industry_usd",
       "industry_slug": "ai",
@@ -278,7 +278,7 @@
     {
       "as_of_date": "2022-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.trade.hs_by_industry_usd",
       "industry_slug": "ai",
@@ -296,7 +296,7 @@
     {
       "as_of_date": "2023-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.trade.hs_by_industry_usd",
       "industry_slug": "ai",
@@ -314,7 +314,7 @@
     {
       "as_of_date": "2023-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.trade.hs_by_industry_usd",
       "industry_slug": "ai",
@@ -332,7 +332,7 @@
     {
       "as_of_date": "2023-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.trade.hs_by_industry_usd",
       "industry_slug": "ai",
@@ -350,7 +350,7 @@
     {
       "as_of_date": "2024-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.trade.hs_by_industry_usd",
       "industry_slug": "ai",
@@ -368,7 +368,7 @@
     {
       "as_of_date": "2024-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.trade.hs_by_industry_usd",
       "industry_slug": "ai",
@@ -386,7 +386,7 @@
     {
       "as_of_date": "2024-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.trade.hs_by_industry_usd",
       "industry_slug": "ai",
@@ -404,7 +404,7 @@
     {
       "as_of_date": "2024-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.trade.hs_by_industry_usd",
       "industry_slug": "ai",
@@ -422,7 +422,7 @@
     {
       "as_of_date": "2019-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.trade.hs_by_industry_usd",
       "industry_slug": "automotive-mobility",
@@ -440,7 +440,7 @@
     {
       "as_of_date": "2019-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.trade.hs_by_industry_usd",
       "industry_slug": "automotive-mobility",
@@ -458,7 +458,7 @@
     {
       "as_of_date": "2020-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.trade.hs_by_industry_usd",
       "industry_slug": "automotive-mobility",
@@ -476,7 +476,7 @@
     {
       "as_of_date": "2020-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.trade.hs_by_industry_usd",
       "industry_slug": "automotive-mobility",
@@ -494,7 +494,7 @@
     {
       "as_of_date": "2021-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.trade.hs_by_industry_usd",
       "industry_slug": "automotive-mobility",
@@ -512,7 +512,7 @@
     {
       "as_of_date": "2021-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.trade.hs_by_industry_usd",
       "industry_slug": "automotive-mobility",
@@ -530,7 +530,7 @@
     {
       "as_of_date": "2022-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.trade.hs_by_industry_usd",
       "industry_slug": "automotive-mobility",
@@ -548,7 +548,7 @@
     {
       "as_of_date": "2022-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.trade.hs_by_industry_usd",
       "industry_slug": "automotive-mobility",
@@ -566,7 +566,7 @@
     {
       "as_of_date": "2023-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.trade.hs_by_industry_usd",
       "industry_slug": "automotive-mobility",
@@ -584,7 +584,7 @@
     {
       "as_of_date": "2023-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.trade.hs_by_industry_usd",
       "industry_slug": "automotive-mobility",
@@ -602,7 +602,7 @@
     {
       "as_of_date": "2024-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.trade.hs_by_industry_usd",
       "industry_slug": "automotive-mobility",
@@ -620,7 +620,7 @@
     {
       "as_of_date": "2024-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.trade.hs_by_industry_usd",
       "industry_slug": "automotive-mobility",
@@ -638,7 +638,7 @@
     {
       "as_of_date": "2019-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.trade.hs_by_industry_usd",
       "industry_slug": "consumer-goods",
@@ -656,7 +656,7 @@
     {
       "as_of_date": "2019-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.trade.hs_by_industry_usd",
       "industry_slug": "consumer-goods",
@@ -674,7 +674,7 @@
     {
       "as_of_date": "2019-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.trade.hs_by_industry_usd",
       "industry_slug": "consumer-goods",
@@ -692,7 +692,7 @@
     {
       "as_of_date": "2019-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.trade.hs_by_industry_usd",
       "industry_slug": "consumer-goods",
@@ -710,7 +710,7 @@
     {
       "as_of_date": "2019-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.trade.hs_by_industry_usd",
       "industry_slug": "consumer-goods",
@@ -728,7 +728,7 @@
     {
       "as_of_date": "2019-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.trade.hs_by_industry_usd",
       "industry_slug": "consumer-goods",
@@ -746,7 +746,7 @@
     {
       "as_of_date": "2020-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.trade.hs_by_industry_usd",
       "industry_slug": "consumer-goods",
@@ -764,7 +764,7 @@
     {
       "as_of_date": "2020-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.trade.hs_by_industry_usd",
       "industry_slug": "consumer-goods",
@@ -782,7 +782,7 @@
     {
       "as_of_date": "2020-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.trade.hs_by_industry_usd",
       "industry_slug": "consumer-goods",
@@ -800,7 +800,7 @@
     {
       "as_of_date": "2020-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.trade.hs_by_industry_usd",
       "industry_slug": "consumer-goods",
@@ -818,7 +818,7 @@
     {
       "as_of_date": "2020-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.trade.hs_by_industry_usd",
       "industry_slug": "consumer-goods",
@@ -836,7 +836,7 @@
     {
       "as_of_date": "2020-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.trade.hs_by_industry_usd",
       "industry_slug": "consumer-goods",
@@ -854,7 +854,7 @@
     {
       "as_of_date": "2021-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.trade.hs_by_industry_usd",
       "industry_slug": "consumer-goods",
@@ -872,7 +872,7 @@
     {
       "as_of_date": "2021-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.trade.hs_by_industry_usd",
       "industry_slug": "consumer-goods",
@@ -890,7 +890,7 @@
     {
       "as_of_date": "2021-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.trade.hs_by_industry_usd",
       "industry_slug": "consumer-goods",
@@ -908,7 +908,7 @@
     {
       "as_of_date": "2021-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.trade.hs_by_industry_usd",
       "industry_slug": "consumer-goods",
@@ -926,7 +926,7 @@
     {
       "as_of_date": "2021-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.trade.hs_by_industry_usd",
       "industry_slug": "consumer-goods",
@@ -944,7 +944,7 @@
     {
       "as_of_date": "2021-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.trade.hs_by_industry_usd",
       "industry_slug": "consumer-goods",
@@ -962,7 +962,7 @@
     {
       "as_of_date": "2022-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.trade.hs_by_industry_usd",
       "industry_slug": "consumer-goods",
@@ -980,7 +980,7 @@
     {
       "as_of_date": "2022-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.trade.hs_by_industry_usd",
       "industry_slug": "consumer-goods",
@@ -998,7 +998,7 @@
     {
       "as_of_date": "2022-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.trade.hs_by_industry_usd",
       "industry_slug": "consumer-goods",
@@ -1016,7 +1016,7 @@
     {
       "as_of_date": "2022-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.trade.hs_by_industry_usd",
       "industry_slug": "consumer-goods",
@@ -1034,7 +1034,7 @@
     {
       "as_of_date": "2022-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.trade.hs_by_industry_usd",
       "industry_slug": "consumer-goods",
@@ -1052,7 +1052,7 @@
     {
       "as_of_date": "2022-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.trade.hs_by_industry_usd",
       "industry_slug": "consumer-goods",
@@ -1070,7 +1070,7 @@
     {
       "as_of_date": "2023-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.trade.hs_by_industry_usd",
       "industry_slug": "consumer-goods",
@@ -1088,7 +1088,7 @@
     {
       "as_of_date": "2023-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.trade.hs_by_industry_usd",
       "industry_slug": "consumer-goods",
@@ -1106,7 +1106,7 @@
     {
       "as_of_date": "2023-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.trade.hs_by_industry_usd",
       "industry_slug": "consumer-goods",
@@ -1124,7 +1124,7 @@
     {
       "as_of_date": "2023-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.trade.hs_by_industry_usd",
       "industry_slug": "consumer-goods",
@@ -1142,7 +1142,7 @@
     {
       "as_of_date": "2023-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.trade.hs_by_industry_usd",
       "industry_slug": "consumer-goods",
@@ -1160,7 +1160,7 @@
     {
       "as_of_date": "2023-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.trade.hs_by_industry_usd",
       "industry_slug": "consumer-goods",
@@ -1178,7 +1178,7 @@
     {
       "as_of_date": "2024-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.trade.hs_by_industry_usd",
       "industry_slug": "consumer-goods",
@@ -1196,7 +1196,7 @@
     {
       "as_of_date": "2024-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.trade.hs_by_industry_usd",
       "industry_slug": "consumer-goods",
@@ -1214,7 +1214,7 @@
     {
       "as_of_date": "2024-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.trade.hs_by_industry_usd",
       "industry_slug": "consumer-goods",
@@ -1232,7 +1232,7 @@
     {
       "as_of_date": "2024-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.trade.hs_by_industry_usd",
       "industry_slug": "consumer-goods",
@@ -1250,7 +1250,7 @@
     {
       "as_of_date": "2024-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.trade.hs_by_industry_usd",
       "industry_slug": "consumer-goods",
@@ -1268,7 +1268,7 @@
     {
       "as_of_date": "2024-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.trade.hs_by_industry_usd",
       "industry_slug": "consumer-goods",
@@ -1286,7 +1286,7 @@
     {
       "as_of_date": "2019-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.trade.hs_by_industry_usd",
       "industry_slug": "electrical-equipment",
@@ -1304,7 +1304,7 @@
     {
       "as_of_date": "2019-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.trade.hs_by_industry_usd",
       "industry_slug": "electrical-equipment",
@@ -1322,7 +1322,7 @@
     {
       "as_of_date": "2020-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.trade.hs_by_industry_usd",
       "industry_slug": "electrical-equipment",
@@ -1340,7 +1340,7 @@
     {
       "as_of_date": "2020-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.trade.hs_by_industry_usd",
       "industry_slug": "electrical-equipment",
@@ -1358,7 +1358,7 @@
     {
       "as_of_date": "2021-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.trade.hs_by_industry_usd",
       "industry_slug": "electrical-equipment",
@@ -1376,7 +1376,7 @@
     {
       "as_of_date": "2021-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.trade.hs_by_industry_usd",
       "industry_slug": "electrical-equipment",
@@ -1394,7 +1394,7 @@
     {
       "as_of_date": "2022-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.trade.hs_by_industry_usd",
       "industry_slug": "electrical-equipment",
@@ -1412,7 +1412,7 @@
     {
       "as_of_date": "2022-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.trade.hs_by_industry_usd",
       "industry_slug": "electrical-equipment",
@@ -1430,7 +1430,7 @@
     {
       "as_of_date": "2023-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.trade.hs_by_industry_usd",
       "industry_slug": "electrical-equipment",
@@ -1448,7 +1448,7 @@
     {
       "as_of_date": "2023-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.trade.hs_by_industry_usd",
       "industry_slug": "electrical-equipment",
@@ -1466,7 +1466,7 @@
     {
       "as_of_date": "2024-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.trade.hs_by_industry_usd",
       "industry_slug": "electrical-equipment",
@@ -1484,7 +1484,7 @@
     {
       "as_of_date": "2024-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.trade.hs_by_industry_usd",
       "industry_slug": "electrical-equipment",
@@ -1502,7 +1502,7 @@
     {
       "as_of_date": "2019-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.trade.hs_by_industry_usd",
       "industry_slug": "energy-gx",
@@ -1520,7 +1520,7 @@
     {
       "as_of_date": "2019-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.trade.hs_by_industry_usd",
       "industry_slug": "energy-gx",
@@ -1538,7 +1538,7 @@
     {
       "as_of_date": "2020-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.trade.hs_by_industry_usd",
       "industry_slug": "energy-gx",
@@ -1556,7 +1556,7 @@
     {
       "as_of_date": "2020-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.trade.hs_by_industry_usd",
       "industry_slug": "energy-gx",
@@ -1574,7 +1574,7 @@
     {
       "as_of_date": "2021-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.trade.hs_by_industry_usd",
       "industry_slug": "energy-gx",
@@ -1592,7 +1592,7 @@
     {
       "as_of_date": "2021-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.trade.hs_by_industry_usd",
       "industry_slug": "energy-gx",
@@ -1610,7 +1610,7 @@
     {
       "as_of_date": "2022-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.trade.hs_by_industry_usd",
       "industry_slug": "energy-gx",
@@ -1628,7 +1628,7 @@
     {
       "as_of_date": "2022-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.trade.hs_by_industry_usd",
       "industry_slug": "energy-gx",
@@ -1646,7 +1646,7 @@
     {
       "as_of_date": "2023-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.trade.hs_by_industry_usd",
       "industry_slug": "energy-gx",
@@ -1664,7 +1664,7 @@
     {
       "as_of_date": "2023-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.trade.hs_by_industry_usd",
       "industry_slug": "energy-gx",
@@ -1682,7 +1682,7 @@
     {
       "as_of_date": "2024-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.trade.hs_by_industry_usd",
       "industry_slug": "energy-gx",
@@ -1700,7 +1700,7 @@
     {
       "as_of_date": "2024-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.trade.hs_by_industry_usd",
       "industry_slug": "energy-gx",
@@ -1718,7 +1718,7 @@
     {
       "as_of_date": "2019-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.trade.hs_by_industry_usd",
       "industry_slug": "food-beverage",
@@ -1736,7 +1736,7 @@
     {
       "as_of_date": "2019-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.trade.hs_by_industry_usd",
       "industry_slug": "food-beverage",
@@ -1754,7 +1754,7 @@
     {
       "as_of_date": "2019-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.trade.hs_by_industry_usd",
       "industry_slug": "food-beverage",
@@ -1772,7 +1772,7 @@
     {
       "as_of_date": "2019-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.trade.hs_by_industry_usd",
       "industry_slug": "food-beverage",
@@ -1790,7 +1790,7 @@
     {
       "as_of_date": "2019-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.trade.hs_by_industry_usd",
       "industry_slug": "food-beverage",
@@ -1808,7 +1808,7 @@
     {
       "as_of_date": "2019-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.trade.hs_by_industry_usd",
       "industry_slug": "food-beverage",
@@ -1826,7 +1826,7 @@
     {
       "as_of_date": "2020-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.trade.hs_by_industry_usd",
       "industry_slug": "food-beverage",
@@ -1844,7 +1844,7 @@
     {
       "as_of_date": "2020-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.trade.hs_by_industry_usd",
       "industry_slug": "food-beverage",
@@ -1862,7 +1862,7 @@
     {
       "as_of_date": "2020-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.trade.hs_by_industry_usd",
       "industry_slug": "food-beverage",
@@ -1880,7 +1880,7 @@
     {
       "as_of_date": "2020-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.trade.hs_by_industry_usd",
       "industry_slug": "food-beverage",
@@ -1898,7 +1898,7 @@
     {
       "as_of_date": "2020-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.trade.hs_by_industry_usd",
       "industry_slug": "food-beverage",
@@ -1916,7 +1916,7 @@
     {
       "as_of_date": "2020-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.trade.hs_by_industry_usd",
       "industry_slug": "food-beverage",
@@ -1934,7 +1934,7 @@
     {
       "as_of_date": "2021-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.trade.hs_by_industry_usd",
       "industry_slug": "food-beverage",
@@ -1952,7 +1952,7 @@
     {
       "as_of_date": "2021-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.trade.hs_by_industry_usd",
       "industry_slug": "food-beverage",
@@ -1970,7 +1970,7 @@
     {
       "as_of_date": "2021-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.trade.hs_by_industry_usd",
       "industry_slug": "food-beverage",
@@ -1988,7 +1988,7 @@
     {
       "as_of_date": "2021-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.trade.hs_by_industry_usd",
       "industry_slug": "food-beverage",
@@ -2006,7 +2006,7 @@
     {
       "as_of_date": "2021-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.trade.hs_by_industry_usd",
       "industry_slug": "food-beverage",
@@ -2024,7 +2024,7 @@
     {
       "as_of_date": "2021-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.trade.hs_by_industry_usd",
       "industry_slug": "food-beverage",
@@ -2042,7 +2042,7 @@
     {
       "as_of_date": "2022-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.trade.hs_by_industry_usd",
       "industry_slug": "food-beverage",
@@ -2060,7 +2060,7 @@
     {
       "as_of_date": "2022-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.trade.hs_by_industry_usd",
       "industry_slug": "food-beverage",
@@ -2078,7 +2078,7 @@
     {
       "as_of_date": "2022-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.trade.hs_by_industry_usd",
       "industry_slug": "food-beverage",
@@ -2096,7 +2096,7 @@
     {
       "as_of_date": "2022-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.trade.hs_by_industry_usd",
       "industry_slug": "food-beverage",
@@ -2114,7 +2114,7 @@
     {
       "as_of_date": "2022-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.trade.hs_by_industry_usd",
       "industry_slug": "food-beverage",
@@ -2132,7 +2132,7 @@
     {
       "as_of_date": "2022-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.trade.hs_by_industry_usd",
       "industry_slug": "food-beverage",
@@ -2150,7 +2150,7 @@
     {
       "as_of_date": "2023-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.trade.hs_by_industry_usd",
       "industry_slug": "food-beverage",
@@ -2168,7 +2168,7 @@
     {
       "as_of_date": "2023-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.trade.hs_by_industry_usd",
       "industry_slug": "food-beverage",
@@ -2186,7 +2186,7 @@
     {
       "as_of_date": "2023-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.trade.hs_by_industry_usd",
       "industry_slug": "food-beverage",
@@ -2204,7 +2204,7 @@
     {
       "as_of_date": "2023-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.trade.hs_by_industry_usd",
       "industry_slug": "food-beverage",
@@ -2222,7 +2222,7 @@
     {
       "as_of_date": "2023-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.trade.hs_by_industry_usd",
       "industry_slug": "food-beverage",
@@ -2240,7 +2240,7 @@
     {
       "as_of_date": "2023-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.trade.hs_by_industry_usd",
       "industry_slug": "food-beverage",
@@ -2258,7 +2258,7 @@
     {
       "as_of_date": "2024-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.trade.hs_by_industry_usd",
       "industry_slug": "food-beverage",
@@ -2276,7 +2276,7 @@
     {
       "as_of_date": "2024-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.trade.hs_by_industry_usd",
       "industry_slug": "food-beverage",
@@ -2294,7 +2294,7 @@
     {
       "as_of_date": "2024-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.trade.hs_by_industry_usd",
       "industry_slug": "food-beverage",
@@ -2312,7 +2312,7 @@
     {
       "as_of_date": "2024-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.trade.hs_by_industry_usd",
       "industry_slug": "food-beverage",
@@ -2330,7 +2330,7 @@
     {
       "as_of_date": "2024-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.trade.hs_by_industry_usd",
       "industry_slug": "food-beverage",
@@ -2348,7 +2348,7 @@
     {
       "as_of_date": "2024-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.trade.hs_by_industry_usd",
       "industry_slug": "food-beverage",
@@ -2366,7 +2366,7 @@
     {
       "as_of_date": "2019-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.trade.hs_by_industry_usd",
       "industry_slug": "industrial-machinery",
@@ -2384,7 +2384,7 @@
     {
       "as_of_date": "2019-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.trade.hs_by_industry_usd",
       "industry_slug": "industrial-machinery",
@@ -2402,7 +2402,7 @@
     {
       "as_of_date": "2020-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.trade.hs_by_industry_usd",
       "industry_slug": "industrial-machinery",
@@ -2420,7 +2420,7 @@
     {
       "as_of_date": "2020-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.trade.hs_by_industry_usd",
       "industry_slug": "industrial-machinery",
@@ -2438,7 +2438,7 @@
     {
       "as_of_date": "2021-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.trade.hs_by_industry_usd",
       "industry_slug": "industrial-machinery",
@@ -2456,7 +2456,7 @@
     {
       "as_of_date": "2021-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.trade.hs_by_industry_usd",
       "industry_slug": "industrial-machinery",
@@ -2474,7 +2474,7 @@
     {
       "as_of_date": "2022-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.trade.hs_by_industry_usd",
       "industry_slug": "industrial-machinery",
@@ -2492,7 +2492,7 @@
     {
       "as_of_date": "2022-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.trade.hs_by_industry_usd",
       "industry_slug": "industrial-machinery",
@@ -2510,7 +2510,7 @@
     {
       "as_of_date": "2023-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.trade.hs_by_industry_usd",
       "industry_slug": "industrial-machinery",
@@ -2528,7 +2528,7 @@
     {
       "as_of_date": "2023-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.trade.hs_by_industry_usd",
       "industry_slug": "industrial-machinery",
@@ -2546,7 +2546,7 @@
     {
       "as_of_date": "2024-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.trade.hs_by_industry_usd",
       "industry_slug": "industrial-machinery",
@@ -2564,7 +2564,7 @@
     {
       "as_of_date": "2024-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.trade.hs_by_industry_usd",
       "industry_slug": "industrial-machinery",

@@ -2,12 +2,12 @@
   "schema_version": "1.0.0",
   "feed_id": "sellwell-domestic-datahub",
   "title": "Sellwell Domestic Data Hub Public Feed",
-  "last_updated": "2026-07-18",
-  "status": "mvp_wave2_wave3",
+  "last_updated": "2026-07-19",
+  "status": "mvp_wave2_wave3_req008_w1",
   "owner": "Atlas",
   "consumer": "Smith / sellwell.jp",
-  "req": "REQ-SMITH-20260718-005",
-  "note": "REQ-005 Wave1–3: 業界レンズ。不可項目は industries.json.unavailable に明示。W2-1a川下IO/W2-5倒産/W2-7新設/W3-1 EC/W3-2 CO2 はAPI制約で不可。",
+  "req": "REQ-SMITH-20260719-008",
+  "note": "REQ-005 Wave1–3: 業界レンズ。不可項目は industries.json.unavailable に明示。W2-1a川下IO/W2-5倒産/W2-7新設/W3-1 EC/W3-2 CO2 はAPI制約で不可。 REQ-008 Wave1: 機械受注月次・財務省貿易月次追加。第3次産業活動指数はAPI不可。",
   "cadence": {
     "estat": "weekly",
     "jgrants": "daily",
@@ -20,6 +20,7 @@
     "veritas"
   ],
   "live_metrics": [
+    "jp.cao.machinery_orders_jpy",
     "jp.census.establishments",
     "jp.census.size_distribution",
     "jp.cgpi.index",
@@ -36,6 +37,7 @@
     "jp.market.cagr_pct",
     "jp.market.entry_density",
     "jp.market.shipment_jpy",
+    "jp.mof.trade_monthly_jpy",
     "jp.patent.applications",
     "jp.population.projection",
     "jp.price.pass_through_gap",

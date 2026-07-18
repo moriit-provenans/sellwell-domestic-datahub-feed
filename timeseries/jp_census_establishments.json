@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "metric_id": "jp.census.establishments",
   "title_ja": "事業所数",
-  "last_updated": "2026-07-18",
+  "last_updated": "2026-07-19",
   "source": "e-Stat 経済構造実態調査",
   "observations": [
     {
       "as_of_date": "2021-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.census.establishments",
       "industry_id": "30",
@@ -24,7 +24,7 @@
     {
       "as_of_date": "2022-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.census.establishments",
       "industry_id": "30",
@@ -40,7 +40,7 @@
     {
       "as_of_date": "2021-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.census.establishments",
       "industry_id": "11",
@@ -56,7 +56,7 @@
     {
       "as_of_date": "2022-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.census.establishments",
       "industry_id": "11",
@@ -72,7 +72,7 @@
     {
       "as_of_date": "2021-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.census.establishments",
       "industry_id": "29",
@@ -88,7 +88,7 @@
     {
       "as_of_date": "2022-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.census.establishments",
       "industry_id": "29",
@@ -104,7 +104,7 @@
     {
       "as_of_date": "2021-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.census.establishments",
       "industry_id": "09",
@@ -120,7 +120,7 @@
     {
       "as_of_date": "2022-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.census.establishments",
       "industry_id": "09",
@@ -136,7 +136,7 @@
     {
       "as_of_date": "2021-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.census.establishments",
       "industry_id": "25",
@@ -152,7 +152,7 @@
     {
       "as_of_date": "2022-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.census.establishments",
       "industry_id": "25",
@@ -168,7 +168,7 @@
     {
       "as_of_date": "2021-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.census.establishments",
       "industry_id": "C",
@@ -184,7 +184,7 @@
     {
       "as_of_date": "2022-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.census.establishments",
       "industry_id": "C",

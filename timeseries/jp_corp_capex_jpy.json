@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "metric_id": "jp.corp.capex_jpy",
   "title_ja": "設備投資（ソフトウェア除く）",
-  "last_updated": "2026-07-18",
+  "last_updated": "2026-07-19",
   "source": "e-Stat 法人企業統計",
   "observations": [
     {
       "as_of_date": "2005-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.corp.capex_jpy",
       "industry_id": "37",
@@ -27,7 +27,7 @@
     {
       "as_of_date": "2006-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.corp.capex_jpy",
       "industry_id": "37",
@@ -46,7 +46,7 @@
     {
       "as_of_date": "2007-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.corp.capex_jpy",
       "industry_id": "37",
@@ -65,7 +65,7 @@
     {
       "as_of_date": "2008-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.corp.capex_jpy",
       "industry_id": "37",
@@ -84,7 +84,7 @@
     {
       "as_of_date": "2009-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.corp.capex_jpy",
       "industry_id": "37",
@@ -103,7 +103,7 @@
     {
       "as_of_date": "2010-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.corp.capex_jpy",
       "industry_id": "37",
@@ -122,7 +122,7 @@
     {
       "as_of_date": "2011-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.corp.capex_jpy",
       "industry_id": "37",
@@ -141,7 +141,7 @@
     {
       "as_of_date": "2012-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.corp.capex_jpy",
       "industry_id": "37",
@@ -160,7 +160,7 @@
     {
       "as_of_date": "2013-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.corp.capex_jpy",
       "industry_id": "37",
@@ -179,7 +179,7 @@
     {
       "as_of_date": "2014-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.corp.capex_jpy",
       "industry_id": "37",
@@ -198,7 +198,7 @@
     {
       "as_of_date": "2015-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.corp.capex_jpy",
       "industry_id": "37",
@@ -217,7 +217,7 @@
     {
       "as_of_date": "2016-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.corp.capex_jpy",
       "industry_id": "37",
@@ -236,7 +236,7 @@
     {
       "as_of_date": "2017-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.corp.capex_jpy",
       "industry_id": "37",
@@ -255,7 +255,7 @@
     {
       "as_of_date": "2018-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.corp.capex_jpy",
       "industry_id": "37",
@@ -274,7 +274,7 @@
     {
       "as_of_date": "2019-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.corp.capex_jpy",
       "industry_id": "37",
@@ -293,7 +293,7 @@
     {
       "as_of_date": "2020-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.corp.capex_jpy",
       "industry_id": "37",
@@ -312,7 +312,7 @@
     {
       "as_of_date": "2021-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.corp.capex_jpy",
       "industry_id": "37",
@@ -331,7 +331,7 @@
     {
       "as_of_date": "2022-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.corp.capex_jpy",
       "industry_id": "37",
@@ -350,7 +350,7 @@
     {
       "as_of_date": "2023-03-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.corp.capex_jpy",
       "industry_id": "37",
@@ -369,7 +369,7 @@
     {
       "as_of_date": "2024-03-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.corp.capex_jpy",
       "industry_id": "37",
@@ -388,7 +388,7 @@
     {
       "as_of_date": "2005-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.corp.capex_jpy",
       "industry_id": "30",
@@ -407,7 +407,7 @@
     {
       "as_of_date": "2006-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.corp.capex_jpy",
       "industry_id": "30",
@@ -426,7 +426,7 @@
     {
       "as_of_date": "2007-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.corp.capex_jpy",
       "industry_id": "30",
@@ -445,7 +445,7 @@
     {
       "as_of_date": "2008-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.corp.capex_jpy",
       "industry_id": "30",
@@ -464,7 +464,7 @@
     {
       "as_of_date": "2009-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.corp.capex_jpy",
       "industry_id": "30",
@@ -483,7 +483,7 @@
     {
       "as_of_date": "2010-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.corp.capex_jpy",
       "industry_id": "30",
@@ -502,7 +502,7 @@
     {
       "as_of_date": "2011-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.corp.capex_jpy",
       "industry_id": "30",
@@ -521,7 +521,7 @@
     {
       "as_of_date": "2012-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.corp.capex_jpy",
       "industry_id": "30",
@@ -540,7 +540,7 @@
     {
       "as_of_date": "2013-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.corp.capex_jpy",
       "industry_id": "30",
@@ -559,7 +559,7 @@
     {
       "as_of_date": "2014-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.corp.capex_jpy",
       "industry_id": "30",
@@ -578,7 +578,7 @@
     {
       "as_of_date": "2015-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.corp.capex_jpy",
       "industry_id": "30",
@@ -597,7 +597,7 @@
     {
       "as_of_date": "2016-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.corp.capex_jpy",
       "industry_id": "30",
@@ -616,7 +616,7 @@
     {
       "as_of_date": "2017-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.corp.capex_jpy",
       "industry_id": "30",
@@ -635,7 +635,7 @@
     {
       "as_of_date": "2018-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.corp.capex_jpy",
       "industry_id": "30",
@@ -654,7 +654,7 @@
     {
       "as_of_date": "2019-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.corp.capex_jpy",
       "industry_id": "30",
@@ -673,7 +673,7 @@
     {
       "as_of_date": "2020-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.corp.capex_jpy",
       "industry_id": "30",
@@ -692,7 +692,7 @@
     {
       "as_of_date": "2021-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.corp.capex_jpy",
       "industry_id": "30",
@@ -711,7 +711,7 @@
     {
       "as_of_date": "2022-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.corp.capex_jpy",
       "industry_id": "30",
@@ -730,7 +730,7 @@
     {
       "as_of_date": "2023-03-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.corp.capex_jpy",
       "industry_id": "30",
@@ -749,7 +749,7 @@
     {
       "as_of_date": "2024-03-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.corp.capex_jpy",
       "industry_id": "30",
@@ -768,7 +768,7 @@
     {
       "as_of_date": "2009-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.corp.capex_jpy",
       "industry_id": "11",
@@ -787,7 +787,7 @@
     {
       "as_of_date": "2010-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.corp.capex_jpy",
       "industry_id": "11",
@@ -806,7 +806,7 @@
     {
       "as_of_date": "2011-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.corp.capex_jpy",
       "industry_id": "11",
@@ -825,7 +825,7 @@
     {
       "as_of_date": "2012-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.corp.capex_jpy",
       "industry_id": "11",
@@ -844,7 +844,7 @@
     {
       "as_of_date": "2013-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.corp.capex_jpy",
       "industry_id": "11",
@@ -863,7 +863,7 @@
     {
       "as_of_date": "2014-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.corp.capex_jpy",
       "industry_id": "11",
@@ -882,7 +882,7 @@
     {
       "as_of_date": "2015-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.corp.capex_jpy",
       "industry_id": "11",
@@ -901,7 +901,7 @@
     {
       "as_of_date": "2016-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.corp.capex_jpy",
       "industry_id": "11",
@@ -920,7 +920,7 @@
     {
       "as_of_date": "2017-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.corp.capex_jpy",
       "industry_id": "11",
@@ -939,7 +939,7 @@
     {
       "as_of_date": "2018-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.corp.capex_jpy",
       "industry_id": "11",
@@ -958,7 +958,7 @@
     {
       "as_of_date": "2019-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.corp.capex_jpy",
       "industry_id": "11",
@@ -977,7 +977,7 @@
     {
       "as_of_date": "2020-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.corp.capex_jpy",
       "industry_id": "11",
@@ -996,7 +996,7 @@
     {
       "as_of_date": "2021-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.corp.capex_jpy",
       "industry_id": "11",
@@ -1015,7 +1015,7 @@
     {
       "as_of_date": "2022-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.corp.capex_jpy",
       "industry_id": "11",
@@ -1034,7 +1034,7 @@
     {
       "as_of_date": "2023-03-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.corp.capex_jpy",
       "industry_id": "11",
@@ -1053,7 +1053,7 @@
     {
       "as_of_date": "2024-03-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.corp.capex_jpy",
       "industry_id": "11",
@@ -1072,7 +1072,7 @@
     {
       "as_of_date": "2005-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.corp.capex_jpy",
       "industry_id": "29",
@@ -1091,7 +1091,7 @@
     {
       "as_of_date": "2006-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.corp.capex_jpy",
       "industry_id": "29",
@@ -1110,7 +1110,7 @@
     {
       "as_of_date": "2007-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.corp.capex_jpy",
       "industry_id": "29",
@@ -1129,7 +1129,7 @@
     {
       "as_of_date": "2008-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.corp.capex_jpy",
       "industry_id": "29",
@@ -1148,7 +1148,7 @@
     {
       "as_of_date": "2009-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.corp.capex_jpy",
       "industry_id": "29",
@@ -1167,7 +1167,7 @@
     {
       "as_of_date": "2010-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.corp.capex_jpy",
       "industry_id": "29",
@@ -1186,7 +1186,7 @@
     {
       "as_of_date": "2011-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.corp.capex_jpy",
       "industry_id": "29",
@@ -1205,7 +1205,7 @@
     {
       "as_of_date": "2012-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.corp.capex_jpy",
       "industry_id": "29",
@@ -1224,7 +1224,7 @@
     {
       "as_of_date": "2013-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.corp.capex_jpy",
       "industry_id": "29",
@@ -1243,7 +1243,7 @@
     {
       "as_of_date": "2014-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.corp.capex_jpy",
       "industry_id": "29",
@@ -1262,7 +1262,7 @@
     {
       "as_of_date": "2015-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.corp.capex_jpy",
       "industry_id": "29",
@@ -1281,7 +1281,7 @@
     {
       "as_of_date": "2016-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.corp.capex_jpy",
       "industry_id": "29",
@@ -1300,7 +1300,7 @@
     {
       "as_of_date": "2017-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.corp.capex_jpy",
       "industry_id": "29",
@@ -1319,7 +1319,7 @@
     {
       "as_of_date": "2018-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.corp.capex_jpy",
       "industry_id": "29",
@@ -1338,7 +1338,7 @@
     {
       "as_of_date": "2019-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.corp.capex_jpy",
       "industry_id": "29",
@@ -1357,7 +1357,7 @@
     {
       "as_of_date": "2020-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.corp.capex_jpy",
       "industry_id": "29",
@@ -1376,7 +1376,7 @@
     {
       "as_of_date": "2021-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.corp.capex_jpy",
       "industry_id": "29",
@@ -1395,7 +1395,7 @@
     {
       "as_of_date": "2022-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.corp.capex_jpy",
       "industry_id": "29",
@@ -1414,7 +1414,7 @@
     {
       "as_of_date": "2023-03-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.corp.capex_jpy",
       "industry_id": "29",
@@ -1433,7 +1433,7 @@
     {
       "as_of_date": "2024-03-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.corp.capex_jpy",
       "industry_id": "29",
@@ -1452,7 +1452,7 @@
     {
       "as_of_date": "2005-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.corp.capex_jpy",
       "industry_id": "33",
@@ -1471,7 +1471,7 @@
     {
       "as_of_date": "2006-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.corp.capex_jpy",
       "industry_id": "33",
@@ -1490,7 +1490,7 @@
     {
       "as_of_date": "2007-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.corp.capex_jpy",
       "industry_id": "33",
@@ -1509,7 +1509,7 @@
     {
       "as_of_date": "2008-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.corp.capex_jpy",
       "industry_id": "33",
@@ -1528,7 +1528,7 @@
     {
       "as_of_date": "2009-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.corp.capex_jpy",
       "industry_id": "33",
@@ -1547,7 +1547,7 @@
     {
       "as_of_date": "2010-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.corp.capex_jpy",
       "industry_id": "33",
@@ -1566,7 +1566,7 @@
     {
       "as_of_date": "2011-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.corp.capex_jpy",
       "industry_id": "33",
@@ -1585,7 +1585,7 @@
     {
       "as_of_date": "2012-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.corp.capex_jpy",
       "industry_id": "33",
@@ -1604,7 +1604,7 @@
     {
       "as_of_date": "2013-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.corp.capex_jpy",
       "industry_id": "33",
@@ -1623,7 +1623,7 @@
     {
       "as_of_date": "2014-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.corp.capex_jpy",
       "industry_id": "33",
@@ -1642,7 +1642,7 @@
     {
       "as_of_date": "2015-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.corp.capex_jpy",
       "industry_id": "33",
@@ -1661,7 +1661,7 @@
     {
       "as_of_date": "2016-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.corp.capex_jpy",
       "industry_id": "33",
@@ -1680,7 +1680,7 @@
     {
       "as_of_date": "2017-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.corp.capex_jpy",
       "industry_id": "33",
@@ -1699,7 +1699,7 @@
     {
       "as_of_date": "2018-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.corp.capex_jpy",
       "industry_id": "33",
@@ -1718,7 +1718,7 @@
     {
       "as_of_date": "2019-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.corp.capex_jpy",
       "industry_id": "33",
@@ -1737,7 +1737,7 @@
     {
       "as_of_date": "2020-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.corp.capex_jpy",
       "industry_id": "33",
@@ -1756,7 +1756,7 @@
     {
       "as_of_date": "2021-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.corp.capex_jpy",
       "industry_id": "33",
@@ -1775,7 +1775,7 @@
     {
       "as_of_date": "2022-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.corp.capex_jpy",
       "industry_id": "33",
@@ -1794,7 +1794,7 @@
     {
       "as_of_date": "2023-03-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.corp.capex_jpy",
       "industry_id": "33",
@@ -1813,7 +1813,7 @@
     {
       "as_of_date": "2024-03-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.corp.capex_jpy",
       "industry_id": "33",
@@ -1832,7 +1832,7 @@
     {
       "as_of_date": "2005-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.corp.capex_jpy",
       "industry_id": "09",
@@ -1851,7 +1851,7 @@
     {
       "as_of_date": "2006-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.corp.capex_jpy",
       "industry_id": "09",
@@ -1870,7 +1870,7 @@
     {
       "as_of_date": "2007-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.corp.capex_jpy",
       "industry_id": "09",
@@ -1889,7 +1889,7 @@
     {
       "as_of_date": "2008-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.corp.capex_jpy",
       "industry_id": "09",
@@ -1908,7 +1908,7 @@
     {
       "as_of_date": "2009-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.corp.capex_jpy",
       "industry_id": "09",
@@ -1927,7 +1927,7 @@
     {
       "as_of_date": "2010-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.corp.capex_jpy",
       "industry_id": "09",
@@ -1946,7 +1946,7 @@
     {
       "as_of_date": "2011-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.corp.capex_jpy",
       "industry_id": "09",
@@ -1965,7 +1965,7 @@
     {
       "as_of_date": "2012-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.corp.capex_jpy",
       "industry_id": "09",
@@ -1984,7 +1984,7 @@
     {
       "as_of_date": "2013-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.corp.capex_jpy",
       "industry_id": "09",
@@ -2003,7 +2003,7 @@
     {
       "as_of_date": "2014-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.corp.capex_jpy",
       "industry_id": "09",
@@ -2022,7 +2022,7 @@
     {
       "as_of_date": "2015-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.corp.capex_jpy",
       "industry_id": "09",
@@ -2041,7 +2041,7 @@
     {
       "as_of_date": "2016-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.corp.capex_jpy",
       "industry_id": "09",
@@ -2060,7 +2060,7 @@
     {
       "as_of_date": "2017-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.corp.capex_jpy",
       "industry_id": "09",
@@ -2079,7 +2079,7 @@
     {
       "as_of_date": "2018-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.corp.capex_jpy",
       "industry_id": "09",
@@ -2098,7 +2098,7 @@
     {
       "as_of_date": "2019-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.corp.capex_jpy",
       "industry_id": "09",
@@ -2117,7 +2117,7 @@
     {
       "as_of_date": "2020-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.corp.capex_jpy",
       "industry_id": "09",
@@ -2136,7 +2136,7 @@
     {
       "as_of_date": "2021-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.corp.capex_jpy",
       "industry_id": "09",
@@ -2155,7 +2155,7 @@
     {
       "as_of_date": "2022-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.corp.capex_jpy",
       "industry_id": "09",
@@ -2174,7 +2174,7 @@
     {
       "as_of_date": "2023-03-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.corp.capex_jpy",
       "industry_id": "09",
@@ -2193,7 +2193,7 @@
     {
       "as_of_date": "2024-03-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.corp.capex_jpy",
       "industry_id": "09",
@@ -2212,7 +2212,7 @@
     {
       "as_of_date": "2005-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.corp.capex_jpy",
       "industry_id": "09",
@@ -2231,7 +2231,7 @@
     {
       "as_of_date": "2006-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.corp.capex_jpy",
       "industry_id": "09",
@@ -2250,7 +2250,7 @@
     {
       "as_of_date": "2007-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.corp.capex_jpy",
       "industry_id": "09",
@@ -2269,7 +2269,7 @@
     {
       "as_of_date": "2008-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.corp.capex_jpy",
       "industry_id": "09",
@@ -2288,7 +2288,7 @@
     {
       "as_of_date": "2009-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.corp.capex_jpy",
       "industry_id": "09",
@@ -2307,7 +2307,7 @@
     {
       "as_of_date": "2010-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.corp.capex_jpy",
       "industry_id": "09",
@@ -2326,7 +2326,7 @@
     {
       "as_of_date": "2011-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.corp.capex_jpy",
       "industry_id": "09",
@@ -2345,7 +2345,7 @@
     {
       "as_of_date": "2012-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.corp.capex_jpy",
       "industry_id": "09",
@@ -2364,7 +2364,7 @@
     {
       "as_of_date": "2013-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.corp.capex_jpy",
       "industry_id": "09",
@@ -2383,7 +2383,7 @@
     {
       "as_of_date": "2014-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.corp.capex_jpy",
       "industry_id": "09",
@@ -2402,7 +2402,7 @@
     {
       "as_of_date": "2015-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.corp.capex_jpy",
       "industry_id": "09",
@@ -2421,7 +2421,7 @@
     {
       "as_of_date": "2016-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.corp.capex_jpy",
       "industry_id": "09",
@@ -2440,7 +2440,7 @@
     {
       "as_of_date": "2017-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.corp.capex_jpy",
       "industry_id": "09",
@@ -2459,7 +2459,7 @@
     {
       "as_of_date": "2018-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.corp.capex_jpy",
       "industry_id": "09",
@@ -2478,7 +2478,7 @@
     {
       "as_of_date": "2019-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.corp.capex_jpy",
       "industry_id": "09",
@@ -2497,7 +2497,7 @@
     {
       "as_of_date": "2020-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.corp.capex_jpy",
       "industry_id": "09",
@@ -2516,7 +2516,7 @@
     {
       "as_of_date": "2021-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.corp.capex_jpy",
       "industry_id": "09",
@@ -2535,7 +2535,7 @@
     {
       "as_of_date": "2022-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.corp.capex_jpy",
       "industry_id": "09",
@@ -2554,7 +2554,7 @@
     {
       "as_of_date": "2023-03-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.corp.capex_jpy",
       "industry_id": "09",
@@ -2573,7 +2573,7 @@
     {
       "as_of_date": "2024-03-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.corp.capex_jpy",
       "industry_id": "09",
@@ -2592,7 +2592,7 @@
     {
       "as_of_date": "2005-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.corp.capex_jpy",
       "industry_id": "25",
@@ -2611,7 +2611,7 @@
     {
       "as_of_date": "2006-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.corp.capex_jpy",
       "industry_id": "25",
@@ -2630,7 +2630,7 @@
     {
       "as_of_date": "2007-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.corp.capex_jpy",
       "industry_id": "25",
@@ -2649,7 +2649,7 @@
     {
       "as_of_date": "2008-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.corp.capex_jpy",
       "industry_id": "25",
@@ -2668,7 +2668,7 @@
     {
       "as_of_date": "2009-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.corp.capex_jpy",
       "industry_id": "25",
@@ -2687,7 +2687,7 @@
     {
       "as_of_date": "2010-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.corp.capex_jpy",
       "industry_id": "25",
@@ -2706,7 +2706,7 @@
     {
       "as_of_date": "2011-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.corp.capex_jpy",
       "industry_id": "25",
@@ -2725,7 +2725,7 @@
     {
       "as_of_date": "2012-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.corp.capex_jpy",
       "industry_id": "25",
@@ -2744,7 +2744,7 @@
     {
       "as_of_date": "2013-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.corp.capex_jpy",
       "industry_id": "25",
@@ -2763,7 +2763,7 @@
     {
       "as_of_date": "2014-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.corp.capex_jpy",
       "industry_id": "25",
@@ -2782,7 +2782,7 @@
     {
       "as_of_date": "2015-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.corp.capex_jpy",
       "industry_id": "25",
@@ -2801,7 +2801,7 @@
     {
       "as_of_date": "2016-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.corp.capex_jpy",
       "industry_id": "25",
@@ -2820,7 +2820,7 @@
     {
       "as_of_date": "2017-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.corp.capex_jpy",
       "industry_id": "25",
@@ -2839,7 +2839,7 @@
     {
       "as_of_date": "2018-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.corp.capex_jpy",
       "industry_id": "25",
@@ -2858,7 +2858,7 @@
     {
       "as_of_date": "2019-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.corp.capex_jpy",
       "industry_id": "25",
@@ -2877,7 +2877,7 @@
     {
       "as_of_date": "2020-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.corp.capex_jpy",
       "industry_id": "25",
@@ -2896,7 +2896,7 @@
     {
       "as_of_date": "2021-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.corp.capex_jpy",
       "industry_id": "25",
@@ -2915,7 +2915,7 @@
     {
       "as_of_date": "2022-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.corp.capex_jpy",
       "industry_id": "25",
@@ -2934,7 +2934,7 @@
     {
       "as_of_date": "2023-03-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.corp.capex_jpy",
       "industry_id": "25",
@@ -2953,7 +2953,7 @@
     {
       "as_of_date": "2024-03-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.corp.capex_jpy",
       "industry_id": "25",
@@ -2972,7 +2972,7 @@
     {
       "as_of_date": "2005-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.corp.capex_jpy",
       "industry_id": "C",
@@ -2991,7 +2991,7 @@
     {
       "as_of_date": "2006-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.corp.capex_jpy",
       "industry_id": "C",
@@ -3010,7 +3010,7 @@
     {
       "as_of_date": "2007-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.corp.capex_jpy",
       "industry_id": "C",
@@ -3029,7 +3029,7 @@
     {
       "as_of_date": "2008-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.corp.capex_jpy",
       "industry_id": "C",
@@ -3048,7 +3048,7 @@
     {
       "as_of_date": "2009-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.corp.capex_jpy",
       "industry_id": "C",
@@ -3067,7 +3067,7 @@
     {
       "as_of_date": "2010-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.corp.capex_jpy",
       "industry_id": "C",
@@ -3086,7 +3086,7 @@
     {
       "as_of_date": "2011-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.corp.capex_jpy",
       "industry_id": "C",
@@ -3105,7 +3105,7 @@
     {
       "as_of_date": "2012-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.corp.capex_jpy",
       "industry_id": "C",
@@ -3124,7 +3124,7 @@
     {
       "as_of_date": "2013-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.corp.capex_jpy",
       "industry_id": "C",
@@ -3143,7 +3143,7 @@
     {
       "as_of_date": "2014-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.corp.capex_jpy",
       "industry_id": "C",
@@ -3162,7 +3162,7 @@
     {
       "as_of_date": "2015-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.corp.capex_jpy",
       "industry_id": "C",
@@ -3181,7 +3181,7 @@
     {
       "as_of_date": "2016-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.corp.capex_jpy",
       "industry_id": "C",
@@ -3200,7 +3200,7 @@
     {
       "as_of_date": "2017-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.corp.capex_jpy",
       "industry_id": "C",
@@ -3219,7 +3219,7 @@
     {
       "as_of_date": "2018-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.corp.capex_jpy",
       "industry_id": "C",
@@ -3238,7 +3238,7 @@
     {
       "as_of_date": "2019-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.corp.capex_jpy",
       "industry_id": "C",
@@ -3257,7 +3257,7 @@
     {
       "as_of_date": "2020-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.corp.capex_jpy",
       "industry_id": "C",
@@ -3276,7 +3276,7 @@
     {
       "as_of_date": "2021-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.corp.capex_jpy",
       "industry_id": "C",
@@ -3295,7 +3295,7 @@
     {
       "as_of_date": "2022-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.corp.capex_jpy",
       "industry_id": "C",
@@ -3314,7 +3314,7 @@
     {
       "as_of_date": "2023-03-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.corp.capex_jpy",
       "industry_id": "C",
@@ -3333,7 +3333,7 @@
     {
       "as_of_date": "2024-03-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "✅",
       "metric_id": "jp.corp.capex_jpy",
       "industry_id": "C",

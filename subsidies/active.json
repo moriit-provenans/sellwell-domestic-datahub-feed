@@ -4,11 +4,11 @@
     "jp.subsidy.open_count",
     "jp.subsidy.open_budget"
   ],
-  "last_updated": "2026-07-18",
-  "as_of_date": "2026-07-18",
+  "last_updated": "2026-07-19",
+  "as_of_date": "2026-07-19",
   "still_valid_2026": true,
   "source": "https://api.jgrants-portal.go.jp/exp/v1/public/subsidies",
-  "retrieved_at": "2026-07-18",
+  "retrieved_at": "2026-07-19",
   "veritas": "✅",
   "keywords": [
     "製造",

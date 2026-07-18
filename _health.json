@@ -1,9 +1,9 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-07-18",
+  "generated_at": "2026-07-19",
   "feed_status": "ok",
   "subsidy_open_count": 171,
-  "series_n": 29,
+  "series_n": 31,
   "stale_or_empty": [],
   "smith_notify": {
     "when": "feed_status!=ok OR last_updated が8日超（週次遅延）",

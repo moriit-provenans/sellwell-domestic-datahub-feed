@@ -4,7 +4,7 @@
   "mvp": "G1",
   "title_ja": "政策追い風スコア",
   "status": "awaiting_smith_supply",
-  "last_updated": "2026-07-18",
+  "last_updated": "2026-07-19",
   "how_to_fill": "各業界に score_1_5（1=逆風〜5=強い追い風）と rationale_ja・source_urls を入れる。毎月更新。",
   "observations": [
     {
@@ -16,9 +16,9 @@
       "rationale_ja": "",
       "source_urls": [],
       "editor": "Sellwell編集部",
-      "as_of_date": "2026-07-18",
+      "as_of_date": "2026-07-19",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "△",
       "note": "PLACEHOLDER — Smithが数値を入れるまで非表示推奨"
     },
@@ -31,9 +31,9 @@
       "rationale_ja": "",
       "source_urls": [],
       "editor": "Sellwell編集部",
-      "as_of_date": "2026-07-18",
+      "as_of_date": "2026-07-19",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "△",
       "note": "PLACEHOLDER — Smithが数値を入れるまで非表示推奨"
     },
@@ -46,9 +46,9 @@
       "rationale_ja": "",
       "source_urls": [],
       "editor": "Sellwell編集部",
-      "as_of_date": "2026-07-18",
+      "as_of_date": "2026-07-19",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "△",
       "note": "PLACEHOLDER — Smithが数値を入れるまで非表示推奨"
     },
@@ -61,9 +61,9 @@
       "rationale_ja": "",
       "source_urls": [],
       "editor": "Sellwell編集部",
-      "as_of_date": "2026-07-18",
+      "as_of_date": "2026-07-19",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-18",
+      "retrieved_at": "2026-07-19",
       "veritas": "△",
       "note": "PLACEHOLDER — Smithが数値を入れるまで非表示推奨"
     }

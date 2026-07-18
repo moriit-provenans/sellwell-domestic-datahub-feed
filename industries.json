@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "last_updated": "2026-07-18",
+  "last_updated": "2026-07-19",
   "industries": [
     {
       "slug": "food-beverage",
@@ -103,6 +103,11 @@
     "W3-5_inbound": {
       "status": "stale_only",
       "reason": "e-Stat訪日消費は2019まで。コロナ後系列は観光庁Excel中心のため本Waveでは非自動"
+    },
+    "REQ008_W1_tertiary_activity_index": {
+      "metric_id": "jp.meti.tertiary_activity_index",
+      "status": "unavailable",
+      "reason": "政府統計コード00550360はe-Statに存在するが getStatsList でDB表0件（API未提供）。METIサイトのExcel直取もWAF/空応答で自動化不可。❌原則により無理な推計は作らない。代替候補: サービス産業動向調査(0004012600)は2024-12止まりで要件（2026最新月）未達"
     }
   },
   "wave1_jobs_by_industry": {
