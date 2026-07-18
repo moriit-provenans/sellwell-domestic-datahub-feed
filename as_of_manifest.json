@@ -116,16 +116,16 @@
     },
     {
       "metric_id": "jp.labor.wage_index",
-      "as_of_date": "2014-12-01",
+      "as_of_date": "2025-12-31",
       "still_valid_2026": true,
-      "n_observations": 960,
+      "n_observations": 340,
       "retrieved_at": "2026-07-18"
     },
     {
       "metric_id": "jp.retail.sales_jpy",
-      "as_of_date": "2019-12-01",
+      "as_of_date": "2025-01-01",
       "still_valid_2026": true,
-      "n_observations": 305,
+      "n_observations": 90,
       "retrieved_at": "2026-07-18"
     },
     {

@@ -1,27 +1,10 @@
 {
   "schema_version": "1.0.0",
   "generated_at": "2026-07-18",
-  "feed_status": "degraded",
+  "feed_status": "ok",
   "subsidy_open_count": 171,
   "series_n": 29,
-  "stale_or_empty": [
-    {
-      "metric_id": "jp.labor.wage_index",
-      "as_of_date": "2014-12-01",
-      "still_valid_2026": true,
-      "n_observations": 960,
-      "retrieved_at": "2026-07-18",
-      "reason": "as_of_before_2020"
-    },
-    {
-      "metric_id": "jp.retail.sales_jpy",
-      "as_of_date": "2019-12-01",
-      "still_valid_2026": true,
-      "n_observations": 305,
-      "retrieved_at": "2026-07-18",
-      "reason": "as_of_before_2020"
-    }
-  ],
+  "stale_or_empty": [],
   "smith_notify": {
     "when": "feed_status!=ok OR last_updated が8日超（週次遅延）",
     "channel": "UDX事業/atlas/from_atlas/ に alert md を置く（Atlas→Smith）"
