@@ -1,0 +1,8 @@
+{
+  "schema_version": "1.0.0",
+  "metric_id": "jp.corp.op_margin_pct",
+  "title_ja": "売上高営業利益率（法人企業統計）",
+  "last_updated": "2026-07-18",
+  "source": "e-Stat",
+  "observations": []
+}

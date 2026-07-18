@@ -5,8 +5,149 @@
   "still_valid_2026": true,
   "source": "https://api.jgrants-portal.go.jp/exp/v1/public/subsidies",
   "retrieved_at": "2026-07-18",
-  "veritas": "⚠️",
-  "note": "Scaffold empty. Phase 1 daily collector will populate.",
-  "count": 0,
-  "items": []
+  "veritas": "✅",
+  "note": "keyword=製造 の公募中サンプル（全件網羅は Phase1 拡張）",
+  "count": 39,
+  "items": [
+    {
+      "id": "a0WJ200000CDdRHMA1",
+      "title": "【令和８年度】ハイブリッド連節バス導入支援事業（環境配慮型先進トラック・バス導入加速事業）",
+      "subsidy_max_limit": 0,
+      "acceptance_end_datetime": "2026-09-30T09:00:00.000Z",
+      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdRHMA1"
+    },
+    {
+      "id": "a0WJ200000CDdPBMA1",
+      "title": "【令和８年度】ハイブリッド及び天然ガストラック・バス導入支援事業（環境配慮型先進トラック・バス導入加速事業）",
+      "subsidy_max_limit": 0,
+      "acceptance_end_datetime": "2027-01-29T09:00:00.000Z",
+      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdPBMA1"
+    },
+    {
+      "id": "a0WJ200000CDdJhMAL",
+      "title": "GX地域共創補助金2026",
+      "subsidy_max_limit": 25000000000,
+      "acceptance_end_datetime": "2026-09-01T03:00:00.000Z",
+      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdJhMAL"
+    },
+    {
+      "id": "a0WJ200000CDdAaMAL",
+      "title": "【令和８年度】二酸化炭素排出抑制対策事業費等補助金 （国内資源循環体制構築に向けた再エネ関連製品及びベース素材の全体最適化実証事業）（第２次公募）",
+      "subsidy_max_limit": 0,
+      "acceptance_end_datetime": "2026-08-26T04:00:00.000Z",
+      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdAaMAL"
+    },
+    {
+      "id": "a0WJ200000CDcfNMAT",
+      "title": "【静岡県産業振興財団】令和8年度　事業化推進助成（一般型）２次募集",
+      "subsidy_max_limit": 0,
+      "acceptance_end_datetime": "2026-07-29T03:00:00.000Z",
+      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDcfNMAT"
+    },
+    {
+      "id": "a0WJ200000CDc1RMAT",
+      "title": "【静岡県産業振興財団】令和8年度　研究開発助成（産学官連携型）２次募集",
+      "subsidy_max_limit": 0,
+      "acceptance_end_datetime": "2026-07-29T03:00:00.000Z",
+      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDc1RMAT"
+    },
+    {
+      "id": "a0WJ200000CDbPBMA1",
+      "title": "【令和８年度】二酸化炭素排出抑制対策事業費等補助金 （地域共生型廃棄物発電等導入促進事業 （うち地域の廃棄物を活用した地域エネルギー創出事業））（第２次公募）",
+      "subsidy_max_limit": 0,
+      "acceptance_end_datetime": "2026-08-03T04:00:00.000Z",
+      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDbPBMA1"
+    },
+    {
+      "id": "a0WJ200000CDbJKMA1",
+      "title": "【応募事業者】令和８年度 プラスチック等資源循環システム構築実証事業　＜二次公募＞",
+      "subsidy_max_limit": 0,
+      "acceptance_end_datetime": "2026-07-27T07:00:00.000Z",
+      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDbJKMA1"
+    },
+    {
+      "id": "a0WJ200000CDb6TMAT",
+      "title": "【福岡県宗像市】令和8年度 食のまち宗像推進補助金",
+      "subsidy_max_limit": 0,
+      "acceptance_end_datetime": "2026-12-25T02:00:00.000Z",
+      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDb6TMAT"
+    },
+    {
+      "id": "a0WJ200000CDapWMAT",
+      "title": "【令和８年度】先進的な資源循環投資促進事業",
+      "subsidy_max_limit": 36500000000,
+      "acceptance_end_datetime": "2026-07-24T03:00:00.000Z",
+      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDapWMAT"
+    },
+    {
+      "id": "a0WJ200000CDaotMAD",
+      "title": "【令和８年度】二酸化炭素排出抑制対策事業費等補助金（再エネ等由来水素を活用した自立・分散型エネルギーシステム構築等事業）",
+      "subsidy_max_limit": 300000000,
+      "acceptance_end_datetime": "2026-10-30T09:00:00.000Z",
+      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDaotMAD"
+    },
+    {
+      "id": "a0WJ200000CDaMVMA1",
+      "title": "【事前着手】令和8年度排出削減が困難な産業におけるエネルギー・製造プロセス転換支援事業",
+      "subsidy_max_limit": 0,
+      "acceptance_end_datetime": "2026-08-07T03:00:00.000Z",
+      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDaMVMA1"
+    },
+    {
+      "id": "a0WJ200000CDaLwMAL",
+      "title": "令和8年度排出削減が困難な産業におけるエネルギー・製造プロセス転換支援事業",
+      "subsidy_max_limit": 0,
+      "acceptance_end_datetime": "2026-08-07T03:00:00.000Z",
+      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDaLwMAL"
+    },
+    {
+      "id": "a0WJ200000CDZzQMAX",
+      "title": "【令和８年度】二酸化炭素排出抑制対策事業費等補助金（地域再エネ水素ステーション保守点検等支援事業）",
+      "subsidy_max_limit": 2200000,
+      "acceptance_end_datetime": "2026-11-28T09:00:00.000Z",
+      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDZzQMAX"
+    },
+    {
+      "id": "a0WJ200000CDZz2MAH",
+      "title": "【愛知県大府市】大府市産業立地の奨励措置",
+      "subsidy_max_limit": 0,
+      "acceptance_end_datetime": "2027-03-31T08:00:00.000Z",
+      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDZz2MAH"
+    },
+    {
+      "id": "a0WJ200000CDYvXMAX",
+      "title": "多摩市ふるさと納税を活用した資金調達支援事業補助金",
+      "subsidy_max_limit": 0,
+      "acceptance_end_datetime": "2027-03-31T08:00:00.000Z",
+      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYvXMAX"
+    },
+    {
+      "id": "a0WJ200000CDYkHMAX",
+      "title": "④リチウム蓄電池リサイクル設備導入事業（バリューチェーン）【令和７年度（補正予算）第３次公募及び令和８年度第２次公募】",
+      "subsidy_max_limit": 7297000000,
+      "acceptance_end_datetime": "2026-07-24T03:00:00.000Z",
+      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYkHMAX"
+    },
+    {
+      "id": "a0WJ200000CDYkCMAX",
+      "title": "③太陽光パネルリサイクル設備導入事業（バリューチェーン）【令和７年度（補正予算）第３次公募及び令和８年度第２次公募】",
+      "subsidy_max_limit": 7297000000,
+      "acceptance_end_datetime": "2026-07-24T03:00:00.000Z",
+      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYkCMAX"
+    },
+    {
+      "id": "a0WJ200000CDYk0MAH",
+      "title": "⑤金属破砕・選別設備導入事業（バリューチェーン）【令和７年度（補正予算）第３次公募及び第８年度第２次公募】",
+      "subsidy_max_limit": 7297000000,
+      "acceptance_end_datetime": "2026-07-24T03:00:00.000Z",
+      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYk0MAH"
+    },
+    {
+      "id": "a0WJ200000CDYjRMAX",
+      "title": "②化石資源由来プラスチックを代替する再生可能資源由来素材 の省CO2型製造設備導入事業（バリューチェーン）【令和７年度（補正予算）第３次公募及び令和８年度第２次公募】",
+      "subsidy_max_limit": 7297000000,
+      "acceptance_end_datetime": "2026-07-24T03:00:00.000Z",
+      "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYjRMAX"
+    }
+  ]
 }

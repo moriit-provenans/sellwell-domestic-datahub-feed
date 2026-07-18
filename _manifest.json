@@ -3,11 +3,11 @@
   "feed_id": "sellwell-domestic-datahub",
   "title": "Sellwell Domestic Data Hub Public Feed",
   "last_updated": "2026-07-18",
-  "status": "scaffold",
+  "status": "mvp_partial",
   "owner": "Atlas",
   "consumer": "Smith / sellwell.jp",
   "req": "REQ-SMITH-20260718-002",
-  "note": "Phase 0 scaffold. MVP timeseries populate in Phase 1.",
+  "note": "E1 op_margin + G2 jGrants sample live. More MVP metrics follow.",
   "cadence": {
     "estat": "weekly",
     "jgrants": "daily",
