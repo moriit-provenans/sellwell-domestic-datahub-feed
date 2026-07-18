@@ -199,6 +199,48 @@
       "retrieved_at": "2026-07-19"
     },
     {
+      "metric_id": "jp.cao.gdp_qe",
+      "as_of_date": "2026-01-01",
+      "still_valid_2026": true,
+      "n_observations": 540,
+      "retrieved_at": "2026-07-19"
+    },
+    {
+      "metric_id": "jp.cao.leading_index",
+      "as_of_date": "2026-05-01",
+      "still_valid_2026": true,
+      "n_observations": 137,
+      "retrieved_at": "2026-07-19"
+    },
+    {
+      "metric_id": "jp.cao.coincident_index",
+      "as_of_date": "2026-05-01",
+      "still_valid_2026": true,
+      "n_observations": 137,
+      "retrieved_at": "2026-07-19"
+    },
+    {
+      "metric_id": "jp.cao.consumer_sentiment",
+      "as_of_date": "2026-05-01",
+      "still_valid_2026": true,
+      "n_observations": 137,
+      "retrieved_at": "2026-07-19"
+    },
+    {
+      "metric_id": "jp.corp.op_margin_pct_quarterly",
+      "as_of_date": "2026-01-01",
+      "still_valid_2026": true,
+      "n_observations": 450,
+      "retrieved_at": "2026-07-19"
+    },
+    {
+      "metric_id": "jp.corp.sales_jpy_quarterly",
+      "as_of_date": "2026-01-01",
+      "still_valid_2026": true,
+      "n_observations": 450,
+      "retrieved_at": "2026-07-19"
+    },
+    {
       "metric_id": "jp.demand.demo_adjusted_hh_jpy",
       "as_of_date": "2024-12-31",
       "still_valid_2026": true,
