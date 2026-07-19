@@ -100,8 +100,7 @@
         "national-canonical:mhlw-jinzai-人材育成支援コース",
         "national-canonical:mhlw-jinzai-事業展開等リスキリング支援コース",
         "national-canonical:mhlw-jinzai-人への投資促進コース",
-        "city-sendai-fix-9730649445",
-        "prefecture-oita-w3-8339820278"
+        "city-sendai-fix-9730649445"
       ],
       "eligibility_depth": "guidelines"
     },
@@ -131,7 +130,6 @@
         "prefecture-yamaguchi-fix-8596572283",
         "city-sendai-fix-6235084397",
         "prefecture-oita-w3-7451199211",
-        "prefecture-oita-w3-8506697323",
         "prefecture-yamanashi-w3b3-9629787959"
       ],
       "eligibility_depth": "guidelines"
@@ -159,7 +157,6 @@
         "city-11222-2392572259",
         "city-03209-9018257677",
         "city-43203-9868746932",
-        "prefecture-oita-w3-7750668991",
         "prefecture-oita-w3-3287066588"
       ],
       "eligibility_depth": "guidelines"
@@ -180,8 +177,7 @@
         "ministry-9100522071",
         "national-canonical:mhlw-koyo-chosei",
         "city-niigata-city-3249512892",
-        "city-okayama-city-9742121814",
-        "prefecture-oita-w3-1796146166"
+        "city-okayama-city-9742121814"
       ],
       "eligibility_depth": "guidelines"
     },
@@ -651,7 +647,6 @@
         "city-34202-442780274",
         "city-23230-4945585373",
         "city-sendai-fix-4737164223",
-        "prefecture-oita-w3-5962024454",
         "prefecture-oita-w3-9561307594",
         "prefecture-yamanashi-w3b4-4900774676"
       ],
@@ -753,10 +748,10 @@
         "city-hiroshima-city-2809908719",
         "city-hiroshima-city-802182311",
         "city-hiroshima-city-1862113379",
-        "city-hiroshima-city-8032207811",
         "city-21201-7754369022",
         "city-27205-8902209599",
-        "city-29201-410344659"
+        "city-29201-410344659",
+        "city-29201-9311408005"
       ],
       "eligibility_depth": "page_detail"
     },
