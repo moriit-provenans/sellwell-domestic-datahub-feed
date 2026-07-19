@@ -3,11 +3,11 @@
   "feed_id": "sellwell-domestic-datahub",
   "title": "Sellwell Domestic Data Hub Public Feed",
   "last_updated": "2026-07-19",
-  "status": "mvp_req010_multisource_g1",
+  "status": "mvp_req010_b2_rollout",
   "owner": "Atlas",
   "consumer": "Smith / sellwell.jp",
   "req": "REQ-SMITH-20260719-010",
-  "note": "REQ-010: 補助金マルチソース自主収集＋coverage%／G1成長17評定live。軸A=jsic_manufacturing、軸B=growth17。民間有料補助金DB不使用。網羅度は正直%表示（100%完了と偽らない）。",
+  "note": "REQ-010 B-2: 都道府県ロールアウト＋jGrants47都道府県KW。補助金 collected=480 coverage≈17.7%。民間有料DB不使用。100%完了表示なし。",
   "cadence": {
     "estat": "weekly",
     "jgrants": "daily",
