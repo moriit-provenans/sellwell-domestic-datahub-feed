@@ -1,12 +1,16 @@
 {
   "ok": true,
-  "retrieved_at": "2026-07-20",
-  "wave": "REQ-031to034",
-  "collected": 22797,
-  "noise_dropped": 1250,
-  "national_must_have_missing": [
-    "出生時育児休業等支援関連助成（両立支援の関連）",
-    "みらさぽplus"
-  ],
-  "warn": true
+  "wave": "REQ-035-final",
+  "judgment_ready_total": 6874,
+  "p0": {
+    "n": 52,
+    "ready": 52,
+    "pct": 100.0
+  },
+  "p1": {
+    "n": 316,
+    "ready": 302,
+    "pct": 95.6
+  },
+  "retrieved_at": "2026-07-20"
 }

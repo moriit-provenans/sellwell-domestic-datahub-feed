@@ -3,11 +3,11 @@
   "feed_id": "sellwell-domestic-datahub",
   "title": "Sellwell Domestic Data Hub Public Feed",
   "last_updated": "2026-07-20",
-  "status": "req035_mid_judgment_ready",
+  "status": "req035_final_judgment_ready",
   "owner": "Atlas",
   "consumer": "Smith / sellwell.jp",
   "req": "REQ-SMITH-20260720-035",
-  "note": "REQ-035 mid: P0 judgment_ready 100%, P1 open 88.9%, ready_total~1036",
+  "note": "ready_total=6874 P0=100.0% P1=95.6% fy=96.4%",
   "cadence": {
     "estat": "weekly",
     "jgrants": "daily",
