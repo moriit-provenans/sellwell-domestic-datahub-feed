@@ -181,7 +181,7 @@
       "metric_id": "jp.trade.hs_by_industry_usd",
       "as_of_date": "2024-12-31",
       "still_valid_2026": true,
-      "n_observations": 299,
+      "n_observations": 240,
       "retrieved_at": "2026-07-19"
     },
     {
