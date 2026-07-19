@@ -181,7 +181,7 @@
       "metric_id": "jp.trade.hs_by_industry_usd",
       "as_of_date": "2024-12-31",
       "still_valid_2026": true,
-      "n_observations": 240,
+      "n_observations": 299,
       "retrieved_at": "2026-07-19"
     },
     {
@@ -251,7 +251,7 @@
       "metric_id": "jp.subsidy.open_count",
       "as_of_date": "2026-07-19",
       "still_valid_2026": true,
-      "n_observations": 412,
+      "n_observations": 427,
       "retrieved_at": "2026-07-19"
     },
     {

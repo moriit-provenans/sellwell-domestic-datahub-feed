@@ -10,14 +10,14 @@
   "source": "multi-source-self-collection",
   "retrieved_at": "2026-07-19",
   "veritas": "✅",
-  "count": 412,
+  "count": 427,
   "budget_sum_known_jpy": 191542283000,
   "budget_known_n": 279,
   "note": "自主収集マルチソース。detail_urlは制度詳細直結。民間有料DB不使用。",
   "coverage": {
-    "estimated_total": 1884,
-    "collected": 412,
-    "coverage_pct": 21.9,
+    "estimated_total": 2674,
+    "collected": 427,
+    "coverage_pct": 16.0,
     "as_of": "2026-07-19",
     "sources": [
       {
@@ -40,26 +40,417 @@
       },
       {
         "system": "ministry",
-        "name": "省庁独自（厚労・雇用関係助成金ほか）",
-        "count": 16,
+        "name": "省庁独自（経産・厚労・農水・国交・環境ほか）",
+        "count": 25,
         "scope": "省庁独自公募（jGrants外）"
       },
       {
         "system": "prefecture",
-        "name": "自治体パイロット（岩手・東京・大阪・福岡）",
-        "count": 92,
-        "scope": "自治体独自ポータル（パイロット）"
+        "name": "都道府県ポータル（全国ロールアウト）",
+        "count": 97,
+        "scope": "都道府県ポータル（収録97件・全国ロールアウト中）"
+      },
+      {
+        "system": "city",
+        "name": "政令市ポータル（パイロット拡張）",
+        "count": 1,
+        "scope": "政令市ポータル（収録1件・パイロット拡張）"
       }
     ],
-    "note_ja": "推計母数は暫定（J-Net21公開中規模・都道府県独自の粗い仮定を含む）。民間有料DBは使わず公的一次情報の自主収集。網羅度は拡張に応じて更新。 Atlas精緻化(2026-07-19): 母数= max(collected, jGrants実測+J-Net21暫定800+みらさぽ40+省庁60+都道府県47×15)。 完全網羅ではない。B-2で都道府県ロールアウトにより%上昇予定。",
+    "note_ja": "推計母数は暫定（J-Net21公開中規模・47都道府県×25＋政令市の粗い仮定を含む）。民間有料DBは使わず公的一次情報の自主収集。網羅度は拡張に応じて更新。100%完了表示は行わない。 Atlas B-2(2026-07-19): 都道府県P0–P3＋政令市P2を接続。 URL死活で0件の自治体は未収録（偽件数なし）。 母数=国系+J-Net暫定800+みらさぽ+省庁+自治体ユニバース1475、coverage≤99%。",
     "methodology": {
-      "formula": "max(collected, jgrants + max(jnet21,800) + max(mirasapo,40) + max(ministry,60) + max(pref,47*15))",
-      "basis_docs": [
-        "Smith run_summary 2026-07-19",
-        "REQ-SMITH-20260719-010 coverage schema"
-      ],
-      "not_100_pct_claim": true
-    }
+      "formula": "max(base=jg+800+40+80+1475, collected+250); pct=min(99, collected/est*100)",
+      "priority": "P0=4拠点 / P1=大規模県 / P2=政令市 / P3=その他道府県",
+      "not_100_pct_claim": true,
+      "wave": "REQ-010-B2"
+    },
+    "rollout_priority": [
+      {
+        "code": "iwate",
+        "name": "岩手県",
+        "url": "https://www.pref.iwate.jp/sangyoukoyou/sangyoushinkou/shinjigyou/shien/index.html",
+        "priority": "P0",
+        "kind": "prefecture"
+      },
+      {
+        "code": "tokyo",
+        "name": "東京都",
+        "url": "https://www.tokyo-kosha.or.jp/support/josei/index.html",
+        "priority": "P0",
+        "kind": "prefecture"
+      },
+      {
+        "code": "osaka",
+        "name": "大阪府",
+        "url": "https://www.pref.osaka.lg.jp/o070040/fukatsu/v-npo/jyosei.html",
+        "priority": "P0",
+        "kind": "prefecture"
+      },
+      {
+        "code": "fukuoka",
+        "name": "福岡県",
+        "url": "https://hatarakikatakaeru.pref.fukuoka.lg.jp/support/subsidy.html",
+        "priority": "P0",
+        "kind": "prefecture"
+      },
+      {
+        "code": "hokkaido",
+        "name": "北海道",
+        "url": "https://www.pref.hokkaido.lg.jp/kz/csk/chusho/hojo.html",
+        "priority": "P1",
+        "kind": "prefecture"
+      },
+      {
+        "code": "miyagi",
+        "name": "宮城県",
+        "url": "https://www.pref.miyagi.jp/soshiki/sangyo/index.html",
+        "priority": "P1",
+        "kind": "prefecture"
+      },
+      {
+        "code": "saitama",
+        "name": "埼玉県",
+        "url": "https://www.pref.saitama.lg.jp/a0801/hojokin/index.html",
+        "priority": "P1",
+        "kind": "prefecture"
+      },
+      {
+        "code": "chiba",
+        "name": "千葉県",
+        "url": "https://www.pref.chiba.lg.jp/sanshin/hojokin/index.html",
+        "priority": "P1",
+        "kind": "prefecture"
+      },
+      {
+        "code": "kanagawa",
+        "name": "神奈川県",
+        "url": "https://www.pref.kanagawa.jp/docs/sr4/hojyokin.html",
+        "priority": "P1",
+        "kind": "prefecture"
+      },
+      {
+        "code": "niigata",
+        "name": "新潟県",
+        "url": "https://www.pref.niigata.lg.jp/sec/sangyo/hojokin.html",
+        "priority": "P1",
+        "kind": "prefecture"
+      },
+      {
+        "code": "shizuoka",
+        "name": "静岡県",
+        "url": "https://www.pref.shizuoka.jp/sangyou/joho/hojokin/index.html",
+        "priority": "P1",
+        "kind": "prefecture"
+      },
+      {
+        "code": "aichi",
+        "name": "愛知県",
+        "url": "https://www.pref.aichi.jp/soshiki/sangyoshinko/jidosha-siensaku.html",
+        "priority": "P1",
+        "kind": "prefecture"
+      },
+      {
+        "code": "kyoto",
+        "name": "京都府",
+        "url": "https://www.pref.kyoto.jp/sangyo/hojokin.html",
+        "priority": "P1",
+        "kind": "prefecture"
+      },
+      {
+        "code": "hyogo",
+        "name": "兵庫県",
+        "url": "https://web.pref.hyogo.lg.jp/sr01/hojyokin.html",
+        "priority": "P1",
+        "kind": "prefecture"
+      },
+      {
+        "code": "hiroshima",
+        "name": "広島県",
+        "url": "https://www.pref.hiroshima.lg.jp/soshiki/27/hojokin.html",
+        "priority": "P1",
+        "kind": "prefecture"
+      },
+      {
+        "code": "sapporo",
+        "name": "札幌市",
+        "url": "https://www.city.sapporo.jp/keizai/chusho/hojo/index.html",
+        "priority": "P2",
+        "kind": "city"
+      },
+      {
+        "code": "sendai",
+        "name": "仙台市",
+        "url": "https://www.city.sendai.jp/keizai/hojokin/index.html",
+        "priority": "P2",
+        "kind": "city"
+      },
+      {
+        "code": "yokohama",
+        "name": "横浜市",
+        "url": "https://www.city.yokohama.lg.jp/business/kigyoshien/hojokin/",
+        "priority": "P2",
+        "kind": "city"
+      },
+      {
+        "code": "kawasaki",
+        "name": "川崎市",
+        "url": "https://www.city.kawasaki.jp/580/page/0000036968.html",
+        "priority": "P2",
+        "kind": "city"
+      },
+      {
+        "code": "nagoya",
+        "name": "名古屋市",
+        "url": "https://www.city.nagoya.jp/shisei/category/53-2-4-0-0-0-0-0-0-0.html",
+        "priority": "P2",
+        "kind": "city"
+      },
+      {
+        "code": "kobe",
+        "name": "神戸市",
+        "url": "https://www.city.kobe.lg.jp/a33462/business/support/hojo/index.html",
+        "priority": "P2",
+        "kind": "city"
+      },
+      {
+        "code": "kitakyushu",
+        "name": "北九州市",
+        "url": "https://www.city.kitakyushu.lg.jp/sangyo/file_0271.html",
+        "priority": "P2",
+        "kind": "city"
+      },
+      {
+        "code": "fukuoka-city",
+        "name": "福岡市",
+        "url": "https://www.city.fukuoka.lg.jp/keizai/kigyoseicho/business/hojo.html",
+        "priority": "P2",
+        "kind": "city"
+      },
+      {
+        "code": "aomori",
+        "name": "青森県",
+        "url": "https://www.pref.aomori.lg.jp/soshiki/shoko/hojokin.html",
+        "priority": "P3",
+        "kind": "prefecture"
+      },
+      {
+        "code": "akita",
+        "name": "秋田県",
+        "url": "https://www.pref.akita.lg.jp/pages/genre/hojokin",
+        "priority": "P3",
+        "kind": "prefecture"
+      },
+      {
+        "code": "yamagata",
+        "name": "山形県",
+        "url": "https://www.pref.yamagata.jp/020020/sangyo/hojokin/index.html",
+        "priority": "P3",
+        "kind": "prefecture"
+      },
+      {
+        "code": "fukushima",
+        "name": "福島県",
+        "url": "https://www.pref.fukushima.lg.jp/sec/32011a/hojokin.html",
+        "priority": "P3",
+        "kind": "prefecture"
+      },
+      {
+        "code": "ibaraki",
+        "name": "茨城県",
+        "url": "https://www.pref.ibaraki.jp/shokorodo/chusho/hojokin/index.html",
+        "priority": "P3",
+        "kind": "prefecture"
+      },
+      {
+        "code": "tochigi",
+        "name": "栃木県",
+        "url": "https://www.pref.tochigi.lg.jp/c01/sangyou/hojokin/index.html",
+        "priority": "P3",
+        "kind": "prefecture"
+      },
+      {
+        "code": "gunma",
+        "name": "群馬県",
+        "url": "https://www.pref.gunma.jp/page/12345.html",
+        "priority": "P3",
+        "kind": "prefecture"
+      },
+      {
+        "code": "toyama",
+        "name": "富山県",
+        "url": "https://www.pref.toyama.jp/sections/1305/hojokin.html",
+        "priority": "P3",
+        "kind": "prefecture"
+      },
+      {
+        "code": "ishikawa",
+        "name": "石川県",
+        "url": "https://www.pref.ishikawa.lg.jp/shoko/hojokin/index.html",
+        "priority": "P3",
+        "kind": "prefecture"
+      },
+      {
+        "code": "fukui",
+        "name": "福井県",
+        "url": "https://www.pref.fukui.lg.jp/doc/sangyou/hojokin.html",
+        "priority": "P3",
+        "kind": "prefecture"
+      },
+      {
+        "code": "yamanashi",
+        "name": "山梨県",
+        "url": "https://www.pref.yamanashi.jp/sanroson/hojokin/index.html",
+        "priority": "P3",
+        "kind": "prefecture"
+      },
+      {
+        "code": "nagano",
+        "name": "長野県",
+        "url": "https://www.pref.nagano.lg.jp/sangyo/hojokin/index.html",
+        "priority": "P3",
+        "kind": "prefecture"
+      },
+      {
+        "code": "gifu",
+        "name": "岐阜県",
+        "url": "https://www.pref.gifu.lg.jp/page/123.html",
+        "priority": "P3",
+        "kind": "prefecture"
+      },
+      {
+        "code": "mie",
+        "name": "三重県",
+        "url": "https://www.pref.mie.lg.jp/SHOKO/HP/hojokin/index.htm",
+        "priority": "P3",
+        "kind": "prefecture"
+      },
+      {
+        "code": "shiga",
+        "name": "滋賀県",
+        "url": "https://www.pref.shiga.lg.jp/ippan/shigotosangyou/hojokin/index.html",
+        "priority": "P3",
+        "kind": "prefecture"
+      },
+      {
+        "code": "nara",
+        "name": "奈良県",
+        "url": "https://www.pref.nara.jp/dd_as1and1.aspx",
+        "priority": "P3",
+        "kind": "prefecture"
+      },
+      {
+        "code": "wakayama",
+        "name": "和歌山県",
+        "url": "https://www.pref.wakayama.lg.jp/prefg/130100/hojokin/index.html",
+        "priority": "P3",
+        "kind": "prefecture"
+      },
+      {
+        "code": "tottori",
+        "name": "鳥取県",
+        "url": "https://www.pref.tottori.lg.jp/hojokin/",
+        "priority": "P3",
+        "kind": "prefecture"
+      },
+      {
+        "code": "shimane",
+        "name": "島根県",
+        "url": "https://www.pref.shimane.lg.jp/industry/syoko/hojokin/",
+        "priority": "P3",
+        "kind": "prefecture"
+      },
+      {
+        "code": "okayama",
+        "name": "岡山県",
+        "url": "https://www.pref.okayama.jp/page/hojokin.html",
+        "priority": "P3",
+        "kind": "prefecture"
+      },
+      {
+        "code": "yamaguchi",
+        "name": "山口県",
+        "url": "https://www.pref.yamaguchi.lg.jp/soshiki/49/hojokin.html",
+        "priority": "P3",
+        "kind": "prefecture"
+      },
+      {
+        "code": "tokushima",
+        "name": "徳島県",
+        "url": "https://www.pref.tokushima.lg.jp/sangyo/hojokin/",
+        "priority": "P3",
+        "kind": "prefecture"
+      },
+      {
+        "code": "kagawa",
+        "name": "香川県",
+        "url": "https://www.pref.kagawa.lg.jp/sangyo/hojokin/index.html",
+        "priority": "P3",
+        "kind": "prefecture"
+      },
+      {
+        "code": "ehime",
+        "name": "愛媛県",
+        "url": "https://www.pref.ehime.jp/h30100/hojokin/index.html",
+        "priority": "P3",
+        "kind": "prefecture"
+      },
+      {
+        "code": "kochi",
+        "name": "高知県",
+        "url": "https://www.pref.kochi.lg.jp/soshiki/150201/hojokin.html",
+        "priority": "P3",
+        "kind": "prefecture"
+      },
+      {
+        "code": "saga",
+        "name": "佐賀県",
+        "url": "https://www.pref.saga.lg.jp/kiji00312345/index.html",
+        "priority": "P3",
+        "kind": "prefecture"
+      },
+      {
+        "code": "nagasaki",
+        "name": "長崎県",
+        "url": "https://www.pref.nagasaki.jp/bunrui/sangyo/hojokin/",
+        "priority": "P3",
+        "kind": "prefecture"
+      },
+      {
+        "code": "kumamoto",
+        "name": "熊本県",
+        "url": "https://www.pref.kumamoto.jp/soshiki/49/hojokin.html",
+        "priority": "P3",
+        "kind": "prefecture"
+      },
+      {
+        "code": "oita",
+        "name": "大分県",
+        "url": "https://www.pref.oita.jp/site/hojokin/",
+        "priority": "P3",
+        "kind": "prefecture"
+      },
+      {
+        "code": "miyazaki",
+        "name": "宮崎県",
+        "url": "https://www.pref.miyazaki.lg.jp/sangyo/hojokin/index.html",
+        "priority": "P3",
+        "kind": "prefecture"
+      },
+      {
+        "code": "kagoshima",
+        "name": "鹿児島県",
+        "url": "https://www.pref.kagoshima.jp/sangyo/hojokin/index.html",
+        "priority": "P3",
+        "kind": "prefecture"
+      },
+      {
+        "code": "okinawa",
+        "name": "沖縄県",
+        "url": "https://www.pref.okinawa.jp/site/shoko/hojokin/index.html",
+        "priority": "P3",
+        "kind": "prefecture"
+      }
+    ]
   },
   "items": [
     {
@@ -7955,7 +8346,7 @@
       "region": null
     },
     {
-      "id": "jnet21-7675303232",
+      "id": "jnet21-5217182282",
       "title": "資金繰り | J-Net21[中小企業ビジネス支援サイト]",
       "institution": "J-Net21掲載（公的支援機関）",
       "detail_url": "https://j-net21.smrj.go.jp/solution/handbook/finance/index.html",
@@ -7982,7 +8373,7 @@
       "region": null
     },
     {
-      "id": "jnet21-8063641060",
+      "id": "jnet21-6959590540",
       "title": "財務の基礎知識  | J-Net21[中小企業ビジネス支援サイト]",
       "institution": "J-Net21掲載（公的支援機関）",
       "detail_url": "https://j-net21.smrj.go.jp/solution/handbook/finance/treasury.html",
@@ -8009,7 +8400,7 @@
       "region": null
     },
     {
-      "id": "jnet21-1468693128",
+      "id": "jnet21-47214962",
       "title": "資金繰り改善のための財務・資本戦略 | J-Net21[中小企業ビジネス支援サイト]",
       "institution": "J-Net21掲載（公的支援機関）",
       "detail_url": "https://j-net21.smrj.go.jp/solution/handbook/finance/capital.html",
@@ -8036,7 +8427,7 @@
       "region": null
     },
     {
-      "id": "jnet21-8798824615",
+      "id": "jnet21-8645426188",
       "title": "コスト削減の仕方 | J-Net21[中小企業ビジネス支援サイト]",
       "institution": "J-Net21掲載（公的支援機関）",
       "detail_url": "https://j-net21.smrj.go.jp/solution/handbook/finance/cost.html",
@@ -8063,7 +8454,7 @@
       "region": null
     },
     {
-      "id": "jnet21-3636087426",
+      "id": "jnet21-3890049126",
       "title": "債権管理・回収の知識と手法 | J-Net21[中小企業ビジネス支援サイト]",
       "institution": "J-Net21掲載（公的支援機関）",
       "detail_url": "https://j-net21.smrj.go.jp/solution/handbook/finance/credit.html",
@@ -8090,7 +8481,7 @@
       "region": null
     },
     {
-      "id": "jnet21-9760401334",
+      "id": "jnet21-1511195026",
       "title": "資金繰り改善のための資金調達手段 | J-Net21[中小企業ビジネス支援サイト]",
       "institution": "J-Net21掲載（公的支援機関）",
       "detail_url": "https://j-net21.smrj.go.jp/solution/handbook/finance/financing.html",
@@ -8117,7 +8508,7 @@
       "region": null
     },
     {
-      "id": "jnet21-2981313814",
+      "id": "jnet21-7483996299",
       "title": "金融機関との関わり方 | J-Net21[中小企業ビジネス支援サイト]",
       "institution": "J-Net21掲載（公的支援機関）",
       "detail_url": "https://j-net21.smrj.go.jp/solution/handbook/finance/banks.html",
@@ -8144,7 +8535,7 @@
       "region": null
     },
     {
-      "id": "jnet21-6003427451",
+      "id": "jnet21-430241299",
       "title": "公的支援の受け方 | J-Net21[中小企業ビジネス支援サイト]",
       "institution": "J-Net21掲載（公的支援機関）",
       "detail_url": "https://j-net21.smrj.go.jp/solution/handbook/finance/public_support.html",
@@ -8171,7 +8562,7 @@
       "region": null
     },
     {
-      "id": "jnet21-8056654072",
+      "id": "jnet21-811804659",
       "title": "資金繰り表を活用する | J-Net21[中小企業ビジネス支援サイト]",
       "institution": "J-Net21掲載（公的支援機関）",
       "detail_url": "https://j-net21.smrj.go.jp/solution/handbook/finance/table.html",
@@ -8198,7 +8589,7 @@
       "region": null
     },
     {
-      "id": "jnet21-9030879893",
+      "id": "jnet21-8165073802",
       "title": "キャッシュポジションを高める | J-Net21[中小企業ビジネス支援サイト]",
       "institution": "J-Net21掲載（公的支援機関）",
       "detail_url": "https://j-net21.smrj.go.jp/solution/handbook/finance/cash-position.html",
@@ -8225,7 +8616,7 @@
       "region": null
     },
     {
-      "id": "jnet21-5273575157",
+      "id": "jnet21-8225577494",
       "title": "クラウドファンディング | J-Net21[中小企業ビジネス支援サイト]",
       "institution": "J-Net21掲載（公的支援機関）",
       "detail_url": "https://j-net21.smrj.go.jp/solution/handbook/finance/cloud.html",
@@ -8252,7 +8643,7 @@
       "region": null
     },
     {
-      "id": "jnet21-5355632310",
+      "id": "jnet21-2696291695",
       "title": "過剰在庫を見直す | J-Net21[中小企業ビジネス支援サイト]",
       "institution": "J-Net21掲載（公的支援機関）",
       "detail_url": "https://j-net21.smrj.go.jp/solution/handbook/finance/stock.html",
@@ -8279,7 +8670,7 @@
       "region": null
     },
     {
-      "id": "jnet21-4872392561",
+      "id": "jnet21-5032441923",
       "title": "支援情報ヘッドライン | J-Net21[中小企業ビジネス支援サイト]",
       "institution": "J-Net21掲載（公的支援機関）",
       "detail_url": "https://j-net21.smrj.go.jp/snavi2/index.html",
@@ -8306,7 +8697,7 @@
       "region": null
     },
     {
-      "id": "jnet21-5269648794",
+      "id": "jnet21-7650157151",
       "title": "支援情報の検索 | J-Net21[中小企業ビジネス支援サイト]",
       "institution": "J-Net21掲載（公的支援機関）",
       "detail_url": "https://j-net21.smrj.go.jp/snavi2/results.php",
@@ -8333,7 +8724,7 @@
       "region": null
     },
     {
-      "id": "jnet21-9194193266",
+      "id": "jnet21-3881495289",
       "title": "J-Net21「支援情報ヘッドライン」アプリ | J-Net21[中小企業ビジネス支援サイト]",
       "institution": "J-Net21掲載（公的支援機関）",
       "detail_url": "https://j-net21.smrj.go.jp/snavi2/etc/app.html",
@@ -8360,7 +8751,7 @@
       "region": null
     },
     {
-      "id": "jnet21-8407767110",
+      "id": "jnet21-4361343094",
       "title": "支援情報ヘッドライン | J-Net21[中小企業ビジネス支援サイト]",
       "institution": "J-Net21掲載（公的支援機関）",
       "detail_url": "https://j-net21.smrj.go.jp/snavi2/articles/detail.php",
@@ -8387,7 +8778,7 @@
       "region": null
     },
     {
-      "id": "jnet21-5555671550",
+      "id": "jnet21-9570517019",
       "title": "J-Net21[中小企業ビジネス支援サイト]",
       "institution": "J-Net21掲載（公的支援機関）",
       "detail_url": "https://j-net21.smrj.go.jp/support/covid-19/news/index.html",
@@ -8414,7 +8805,7 @@
       "region": null
     },
     {
-      "id": "jnet21-2418951242",
+      "id": "jnet21-4983412949",
       "title": "J-Net21[中小企業ビジネス支援サイト]",
       "institution": "J-Net21掲載（公的支援機関）",
       "detail_url": "https://j-net21.smrj.go.jp/support/covid-19/regional/index.html",
@@ -8441,13 +8832,13 @@
       "region": null
     },
     {
-      "id": "ministry-9534791371",
+      "id": "ministry-7804028606",
       "title": "教育訓練給付制度について",
       "institution": "厚生労働省（雇用関係助成金）",
       "detail_url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/jinzaikaihatsu/kyouiku.html",
       "summary_url": null,
       "source_system": "ministry",
-      "source_name": "省庁独自（厚労・雇用関係助成金ほか）",
+      "source_name": "省庁独自（経産・厚労・農水・国交・環境ほか）",
       "industry_slugs": [
         "untagged"
       ],
@@ -8460,7 +8851,7 @@
       "sources": [
         {
           "system": "ministry",
-          "name": "省庁独自（厚労・雇用関係助成金ほか）",
+          "name": "省庁独自（経産・厚労・農水・国交・環境ほか）",
           "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/jinzaikaihatsu/kyouiku.html"
         }
       ],
@@ -8468,13 +8859,13 @@
       "region": null
     },
     {
-      "id": "ministry-4984294417",
+      "id": "ministry-5195156927",
       "title": "各種助成金・奨励金等の制度",
       "institution": "厚生労働省（雇用関係助成金）",
       "detail_url": "https://www.mhlw.go.jp/seisakunitsuite/joseikin_shoureikin/index.html",
       "summary_url": null,
       "source_system": "ministry",
-      "source_name": "省庁独自（厚労・雇用関係助成金ほか）",
+      "source_name": "省庁独自（経産・厚労・農水・国交・環境ほか）",
       "industry_slugs": [
         "untagged"
       ],
@@ -8487,7 +8878,7 @@
       "sources": [
         {
           "system": "ministry",
-          "name": "省庁独自（厚労・雇用関係助成金ほか）",
+          "name": "省庁独自（経産・厚労・農水・国交・環境ほか）",
           "url": "https://www.mhlw.go.jp/seisakunitsuite/joseikin_shoureikin/index.html"
         }
       ],
@@ -8495,13 +8886,13 @@
       "region": null
     },
     {
-      "id": "ministry-6875020493",
+      "id": "ministry-3921554425",
       "title": "リーフレット「助成金に関する勧誘にご注意ください」［165KB］",
       "institution": "厚生労働省（雇用関係助成金）",
       "detail_url": "https://www.mhlw.go.jp/content/11600000/001316327.pdf",
       "summary_url": null,
       "source_system": "ministry",
-      "source_name": "省庁独自（厚労・雇用関係助成金ほか）",
+      "source_name": "省庁独自（経産・厚労・農水・国交・環境ほか）",
       "industry_slugs": [
         "untagged"
       ],
@@ -8514,7 +8905,7 @@
       "sources": [
         {
           "system": "ministry",
-          "name": "省庁独自（厚労・雇用関係助成金ほか）",
+          "name": "省庁独自（経産・厚労・農水・国交・環境ほか）",
           "url": "https://www.mhlw.go.jp/content/11600000/001316327.pdf"
         }
       ],
@@ -8522,13 +8913,13 @@
       "region": null
     },
     {
-      "id": "ministry-9534791371",
+      "id": "ministry-7804028606",
       "title": "教育訓練給付制度",
       "institution": "厚生労働省（助成金・奨励金）",
       "detail_url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/jinzaikaihatsu/kyouiku.html",
       "summary_url": null,
       "source_system": "ministry",
-      "source_name": "省庁独自（厚労・雇用関係助成金ほか）",
+      "source_name": "省庁独自（経産・厚労・農水・国交・環境ほか）",
       "industry_slugs": [
         "untagged"
       ],
@@ -8541,7 +8932,7 @@
       "sources": [
         {
           "system": "ministry",
-          "name": "省庁独自（厚労・雇用関係助成金ほか）",
+          "name": "省庁独自（経産・厚労・農水・国交・環境ほか）",
           "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/jinzaikaihatsu/kyouiku.html"
         }
       ],
@@ -8549,13 +8940,13 @@
       "region": null
     },
     {
-      "id": "ministry-7315920877",
+      "id": "ministry-7261012706",
       "title": "事業主に対する雇用関係助成金（総合案内）",
       "institution": "厚生労働省（助成金・奨励金）",
       "detail_url": "https://www.mhlw.go.jp/seisakunitsuite/bunya/koyou_roudou/koyou/kyufukin/",
       "summary_url": null,
       "source_system": "ministry",
-      "source_name": "省庁独自（厚労・雇用関係助成金ほか）",
+      "source_name": "省庁独自（経産・厚労・農水・国交・環境ほか）",
       "industry_slugs": [
         "untagged"
       ],
@@ -8568,7 +8959,7 @@
       "sources": [
         {
           "system": "ministry",
-          "name": "省庁独自（厚労・雇用関係助成金ほか）",
+          "name": "省庁独自（経産・厚労・農水・国交・環境ほか）",
           "url": "https://www.mhlw.go.jp/seisakunitsuite/bunya/koyou_roudou/koyou/kyufukin/"
         }
       ],
@@ -8576,13 +8967,13 @@
       "region": null
     },
     {
-      "id": "ministry-124082858",
+      "id": "ministry-6748898710",
       "title": "事業主に対する労働条件等関係助成金のご案内",
       "institution": "厚生労働省（助成金・奨励金）",
       "detail_url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/roudoukijun/zigyonushi/index_00051.html",
       "summary_url": null,
       "source_system": "ministry",
-      "source_name": "省庁独自（厚労・雇用関係助成金ほか）",
+      "source_name": "省庁独自（経産・厚労・農水・国交・環境ほか）",
       "industry_slugs": [
         "untagged"
       ],
@@ -8595,7 +8986,7 @@
       "sources": [
         {
           "system": "ministry",
-          "name": "省庁独自（厚労・雇用関係助成金ほか）",
+          "name": "省庁独自（経産・厚労・農水・国交・環境ほか）",
           "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/roudoukijun/zigyonushi/index_00051.html"
         }
       ],
@@ -8603,13 +8994,13 @@
       "region": null
     },
     {
-      "id": "ministry-450651590",
+      "id": "ministry-9071900244",
       "title": "新たに中小企業退職金共済制度に加入する等の事業主に対する助成",
       "institution": "厚生労働省（助成金・奨励金）",
       "detail_url": "https://www.mhlw.go.jp/www2/topics/seido/etc/antei/index11.htm",
       "summary_url": null,
       "source_system": "ministry",
-      "source_name": "省庁独自（厚労・雇用関係助成金ほか）",
+      "source_name": "省庁独自（経産・厚労・農水・国交・環境ほか）",
       "industry_slugs": [
         "untagged"
       ],
@@ -8622,7 +9013,7 @@
       "sources": [
         {
           "system": "ministry",
-          "name": "省庁独自（厚労・雇用関係助成金ほか）",
+          "name": "省庁独自（経産・厚労・農水・国交・環境ほか）",
           "url": "https://www.mhlw.go.jp/www2/topics/seido/etc/antei/index11.htm"
         }
       ],
@@ -8630,13 +9021,13 @@
       "region": null
     },
     {
-      "id": "ministry-2599573003",
+      "id": "ministry-5411476762",
       "title": "最低賃金引上げに向けた中小企業への支援事業（業務改善助成金）",
       "institution": "厚生労働省（助成金・奨励金）",
       "detail_url": "https://www.mhlw.go.jp/bunya/roudoukijun/jigyousya/shienjigyou/03.html",
       "summary_url": null,
       "source_system": "ministry",
-      "source_name": "省庁独自（厚労・雇用関係助成金ほか）",
+      "source_name": "省庁独自（経産・厚労・農水・国交・環境ほか）",
       "industry_slugs": [
         "untagged"
       ],
@@ -8649,7 +9040,7 @@
       "sources": [
         {
           "system": "ministry",
-          "name": "省庁独自（厚労・雇用関係助成金ほか）",
+          "name": "省庁独自（経産・厚労・農水・国交・環境ほか）",
           "url": "https://www.mhlw.go.jp/bunya/roudoukijun/jigyousya/shienjigyou/03.html"
         }
       ],
@@ -8657,13 +9048,13 @@
       "region": null
     },
     {
-      "id": "ministry-8495280990",
+      "id": "ministry-4335097170",
       "title": "高度安全機械等導入支援補助金",
       "institution": "厚生労働省（助成金・奨励金）",
       "detail_url": "https://www.mhlw.go.jp/stf/newpage_27384.html",
       "summary_url": null,
       "source_system": "ministry",
-      "source_name": "省庁独自（厚労・雇用関係助成金ほか）",
+      "source_name": "省庁独自（経産・厚労・農水・国交・環境ほか）",
       "industry_slugs": [
         "untagged"
       ],
@@ -8676,7 +9067,7 @@
       "sources": [
         {
           "system": "ministry",
-          "name": "省庁独自（厚労・雇用関係助成金ほか）",
+          "name": "省庁独自（経産・厚労・農水・国交・環境ほか）",
           "url": "https://www.mhlw.go.jp/stf/newpage_27384.html"
         }
       ],
@@ -8684,13 +9075,13 @@
       "region": null
     },
     {
-      "id": "ministry-8476552349",
+      "id": "ministry-8654672423",
       "title": "団体経由産業保健活動推進助成金",
       "institution": "厚生労働省（助成金・奨励金）",
       "detail_url": "https://www.johas.go.jp/sangyouhoken/tabid/1251/Default.aspx",
       "summary_url": null,
       "source_system": "ministry",
-      "source_name": "省庁独自（厚労・雇用関係助成金ほか）",
+      "source_name": "省庁独自（経産・厚労・農水・国交・環境ほか）",
       "industry_slugs": [
         "untagged"
       ],
@@ -8703,7 +9094,7 @@
       "sources": [
         {
           "system": "ministry",
-          "name": "省庁独自（厚労・雇用関係助成金ほか）",
+          "name": "省庁独自（経産・厚労・農水・国交・環境ほか）",
           "url": "https://www.johas.go.jp/sangyouhoken/tabid/1251/Default.aspx"
         }
       ],
@@ -8711,13 +9102,13 @@
       "region": null
     },
     {
-      "id": "ministry-7835372828",
+      "id": "ministry-4315722795",
       "title": "人材確保等支援助成金（中小企業団体助成コース）",
       "institution": "厚生労働省（助成金・奨励金）",
       "detail_url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000199317.html",
       "summary_url": null,
       "source_system": "ministry",
-      "source_name": "省庁独自（厚労・雇用関係助成金ほか）",
+      "source_name": "省庁独自（経産・厚労・農水・国交・環境ほか）",
       "industry_slugs": [
         "untagged"
       ],
@@ -8730,7 +9121,7 @@
       "sources": [
         {
           "system": "ministry",
-          "name": "省庁独自（厚労・雇用関係助成金ほか）",
+          "name": "省庁独自（経産・厚労・農水・国交・環境ほか）",
           "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000199317.html"
         }
       ],
@@ -8738,13 +9129,13 @@
       "region": null
     },
     {
-      "id": "ministry-6080089045",
+      "id": "ministry-294716218",
       "title": "働き方改革推進支援助成金（団体推進コース）",
       "institution": "厚生労働省（助成金・奨励金）",
       "detail_url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000200273.html",
       "summary_url": null,
       "source_system": "ministry",
-      "source_name": "省庁独自（厚労・雇用関係助成金ほか）",
+      "source_name": "省庁独自（経産・厚労・農水・国交・環境ほか）",
       "industry_slugs": [
         "untagged"
       ],
@@ -8757,7 +9148,7 @@
       "sources": [
         {
           "system": "ministry",
-          "name": "省庁独自（厚労・雇用関係助成金ほか）",
+          "name": "省庁独自（経産・厚労・農水・国交・環境ほか）",
           "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000200273.html"
         }
       ],
@@ -8765,13 +9156,13 @@
       "region": null
     },
     {
-      "id": "ministry-443970988",
+      "id": "ministry-5099835736",
       "title": "建設事業主等に対する助成金",
       "institution": "厚生労働省（助成金・奨励金）",
       "detail_url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/koyou/kensetsu-kouwan/kensetsu-kaizen.html",
       "summary_url": null,
       "source_system": "ministry",
-      "source_name": "省庁独自（厚労・雇用関係助成金ほか）",
+      "source_name": "省庁独自（経産・厚労・農水・国交・環境ほか）",
       "industry_slugs": [
         "untagged"
       ],
@@ -8784,7 +9175,7 @@
       "sources": [
         {
           "system": "ministry",
-          "name": "省庁独自（厚労・雇用関係助成金ほか）",
+          "name": "省庁独自（経産・厚労・農水・国交・環境ほか）",
           "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/koyou/kensetsu-kouwan/kensetsu-kaizen.html"
         }
       ],
@@ -8792,13 +9183,13 @@
       "region": null
     },
     {
-      "id": "ministry-8423145877",
+      "id": "ministry-3691831530",
       "title": "障害者福祉施設設置等助成金（（独）高齢・障害・求職者雇用支援機構）",
       "institution": "厚生労働省（助成金・奨励金）",
       "detail_url": "https://www.jeed.go.jp/disability/subsidy/shisetsu_joseikin/index.html",
       "summary_url": null,
       "source_system": "ministry",
-      "source_name": "省庁独自（厚労・雇用関係助成金ほか）",
+      "source_name": "省庁独自（経産・厚労・農水・国交・環境ほか）",
       "industry_slugs": [
         "untagged"
       ],
@@ -8811,7 +9202,7 @@
       "sources": [
         {
           "system": "ministry",
-          "name": "省庁独自（厚労・雇用関係助成金ほか）",
+          "name": "省庁独自（経産・厚労・農水・国交・環境ほか）",
           "url": "https://www.jeed.go.jp/disability/subsidy/shisetsu_joseikin/index.html"
         }
       ],
@@ -8819,13 +9210,13 @@
       "region": null
     },
     {
-      "id": "ministry-9187194565",
+      "id": "ministry-8606323983",
       "title": "重度障害者等通勤対策助成金（（独）高齢・障害・求職者雇用支援機構）",
       "institution": "厚生労働省（助成金・奨励金）",
       "detail_url": "https://www.jeed.go.jp/disability/subsidy/tsukin_joseikin/index.html",
       "summary_url": null,
       "source_system": "ministry",
-      "source_name": "省庁独自（厚労・雇用関係助成金ほか）",
+      "source_name": "省庁独自（経産・厚労・農水・国交・環境ほか）",
       "industry_slugs": [
         "untagged"
       ],
@@ -8838,7 +9229,7 @@
       "sources": [
         {
           "system": "ministry",
-          "name": "省庁独自（厚労・雇用関係助成金ほか）",
+          "name": "省庁独自（経産・厚労・農水・国交・環境ほか）",
           "url": "https://www.jeed.go.jp/disability/subsidy/tsukin_joseikin/index.html"
         }
       ],
@@ -8846,13 +9237,13 @@
       "region": null
     },
     {
-      "id": "ministry-6995807745",
+      "id": "ministry-804202713",
       "title": "人材開発支援助成金（障害者職業能力開発コース）",
       "institution": "厚生労働省（助成金・奨励金）",
       "detail_url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/koyou/kyufukin/shougai_trial_00002.html",
       "summary_url": null,
       "source_system": "ministry",
-      "source_name": "省庁独自（厚労・雇用関係助成金ほか）",
+      "source_name": "省庁独自（経産・厚労・農水・国交・環境ほか）",
       "industry_slugs": [
         "untagged"
       ],
@@ -8865,7 +9256,7 @@
       "sources": [
         {
           "system": "ministry",
-          "name": "省庁独自（厚労・雇用関係助成金ほか）",
+          "name": "省庁独自（経産・厚労・農水・国交・環境ほか）",
           "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/koyou/kyufukin/shougai_trial_00002.html"
         }
       ],
@@ -8873,13 +9264,13 @@
       "region": null
     },
     {
-      "id": "pref-iwate-998486833",
-      "title": "【岩手県】入札・コンペ・公募情報",
-      "institution": "岩手県",
-      "detail_url": "https://www.pref.iwate.jp/kensei/nyuusatsu/index.html",
+      "id": "ministry-3852267828",
+      "title": "補助事業、税制",
+      "institution": "農林水産省（補助事業）",
+      "detail_url": "https://www.maff.go.jp/j/aid/index.html",
       "summary_url": null,
-      "source_system": "prefecture",
-      "source_name": "自治体パイロット（岩手・東京・大阪・福岡）",
+      "source_system": "ministry",
+      "source_name": "省庁独自（経産・厚労・農水・国交・環境ほか）",
       "industry_slugs": [
         "untagged"
       ],
@@ -8887,12 +9278,255 @@
       "acceptance_end_datetime": null,
       "subsidy_max_limit": null,
       "subsidy_rate": null,
-      "use_purpose": "自治体独自制度（パイロット）",
+      "use_purpose": "省庁独自公募・制度ページ",
+      "dedup_key": "d268e68117bc05b6",
+      "sources": [
+        {
+          "system": "ministry",
+          "name": "省庁独自（経産・厚労・農水・国交・環境ほか）",
+          "url": "https://www.maff.go.jp/j/aid/index.html"
+        }
+      ],
+      "matched_keyword": "ministry",
+      "region": null
+    },
+    {
+      "id": "ministry-8893897159",
+      "title": "補助事業参加者の公募",
+      "institution": "農林水産省（補助事業）",
+      "detail_url": "https://www.maff.go.jp/j/supply/hozyo/index.html",
+      "summary_url": null,
+      "source_system": "ministry",
+      "source_name": "省庁独自（経産・厚労・農水・国交・環境ほか）",
+      "industry_slugs": [
+        "untagged"
+      ],
+      "growth17_slugs": [],
+      "acceptance_end_datetime": null,
+      "subsidy_max_limit": null,
+      "subsidy_rate": null,
+      "use_purpose": "省庁独自公募・制度ページ",
+      "dedup_key": "96d3b7bfa7701615",
+      "sources": [
+        {
+          "system": "ministry",
+          "name": "省庁独自（経産・厚労・農水・国交・環境ほか）",
+          "url": "https://www.maff.go.jp/j/supply/hozyo/index.html"
+        }
+      ],
+      "matched_keyword": "ministry",
+      "region": null
+    },
+    {
+      "id": "ministry-1490646476",
+      "title": "令和7年度補助金等の交付決定情報（下半期分）",
+      "institution": "農林水産省（補助事業）",
+      "detail_url": "https://www.maff.go.jp/j/aid/kohu_kettei/kouhu_r07.html",
+      "summary_url": null,
+      "source_system": "ministry",
+      "source_name": "省庁独自（経産・厚労・農水・国交・環境ほか）",
+      "industry_slugs": [
+        "untagged"
+      ],
+      "growth17_slugs": [],
+      "acceptance_end_datetime": null,
+      "subsidy_max_limit": null,
+      "subsidy_rate": null,
+      "use_purpose": "省庁独自公募・制度ページ",
+      "dedup_key": "70c74aba80e6a1d1",
+      "sources": [
+        {
+          "system": "ministry",
+          "name": "省庁独自（経産・厚労・農水・国交・環境ほか）",
+          "url": "https://www.maff.go.jp/j/aid/kohu_kettei/kouhu_r07.html"
+        }
+      ],
+      "matched_keyword": "ministry",
+      "region": null
+    },
+    {
+      "id": "ministry-7659614906",
+      "title": "令和6年度補助金等の交付決定情報",
+      "institution": "農林水産省（補助事業）",
+      "detail_url": "https://www.maff.go.jp/j/aid/kohu_kettei/kouhu_r06.html",
+      "summary_url": null,
+      "source_system": "ministry",
+      "source_name": "省庁独自（経産・厚労・農水・国交・環境ほか）",
+      "industry_slugs": [
+        "untagged"
+      ],
+      "growth17_slugs": [],
+      "acceptance_end_datetime": null,
+      "subsidy_max_limit": null,
+      "subsidy_rate": null,
+      "use_purpose": "省庁独自公募・制度ページ",
+      "dedup_key": "96c854dc5e0e140f",
+      "sources": [
+        {
+          "system": "ministry",
+          "name": "省庁独自（経産・厚労・農水・国交・環境ほか）",
+          "url": "https://www.maff.go.jp/j/aid/kohu_kettei/kouhu_r06.html"
+        }
+      ],
+      "matched_keyword": "ministry",
+      "region": null
+    },
+    {
+      "id": "ministry-9736556207",
+      "title": "令和5年度補助金等の交付決定情報",
+      "institution": "農林水産省（補助事業）",
+      "detail_url": "https://www.maff.go.jp/j/aid/kohu_kettei/231114.html",
+      "summary_url": null,
+      "source_system": "ministry",
+      "source_name": "省庁独自（経産・厚労・農水・国交・環境ほか）",
+      "industry_slugs": [
+        "untagged"
+      ],
+      "growth17_slugs": [],
+      "acceptance_end_datetime": null,
+      "subsidy_max_limit": null,
+      "subsidy_rate": null,
+      "use_purpose": "省庁独自公募・制度ページ",
+      "dedup_key": "9bda906ffaf6cdf5",
+      "sources": [
+        {
+          "system": "ministry",
+          "name": "省庁独自（経産・厚労・農水・国交・環境ほか）",
+          "url": "https://www.maff.go.jp/j/aid/kohu_kettei/231114.html"
+        }
+      ],
+      "matched_keyword": "ministry",
+      "region": null
+    },
+    {
+      "id": "ministry-1574889504",
+      "title": "令和4年度補助金等の交付決定情報",
+      "institution": "農林水産省（補助事業）",
+      "detail_url": "https://www.maff.go.jp/j/aid/kohu_kettei/r04/index.html",
+      "summary_url": null,
+      "source_system": "ministry",
+      "source_name": "省庁独自（経産・厚労・農水・国交・環境ほか）",
+      "industry_slugs": [
+        "untagged"
+      ],
+      "growth17_slugs": [],
+      "acceptance_end_datetime": null,
+      "subsidy_max_limit": null,
+      "subsidy_rate": null,
+      "use_purpose": "省庁独自公募・制度ページ",
+      "dedup_key": "05e035d5b08b8fdc",
+      "sources": [
+        {
+          "system": "ministry",
+          "name": "省庁独自（経産・厚労・農水・国交・環境ほか）",
+          "url": "https://www.maff.go.jp/j/aid/kohu_kettei/r04/index.html"
+        }
+      ],
+      "matched_keyword": "ministry",
+      "region": null
+    },
+    {
+      "id": "ministry-3319338876",
+      "title": "令和3年度補助金等の交付決定情報",
+      "institution": "農林水産省（補助事業）",
+      "detail_url": "https://www.maff.go.jp/j/aid/kohu_kettei/r03/index.html",
+      "summary_url": null,
+      "source_system": "ministry",
+      "source_name": "省庁独自（経産・厚労・農水・国交・環境ほか）",
+      "industry_slugs": [
+        "untagged"
+      ],
+      "growth17_slugs": [],
+      "acceptance_end_datetime": null,
+      "subsidy_max_limit": null,
+      "subsidy_rate": null,
+      "use_purpose": "省庁独自公募・制度ページ",
+      "dedup_key": "787f9275d445c03d",
+      "sources": [
+        {
+          "system": "ministry",
+          "name": "省庁独自（経産・厚労・農水・国交・環境ほか）",
+          "url": "https://www.maff.go.jp/j/aid/kohu_kettei/r03/index.html"
+        }
+      ],
+      "matched_keyword": "ministry",
+      "region": null
+    },
+    {
+      "id": "ministry-7911550594",
+      "title": "令和2年度補助金等の交付決定情報",
+      "institution": "農林水産省（補助事業）",
+      "detail_url": "https://www.maff.go.jp/j/aid/kohu_kettei/r02/index.html",
+      "summary_url": null,
+      "source_system": "ministry",
+      "source_name": "省庁独自（経産・厚労・農水・国交・環境ほか）",
+      "industry_slugs": [
+        "untagged"
+      ],
+      "growth17_slugs": [],
+      "acceptance_end_datetime": null,
+      "subsidy_max_limit": null,
+      "subsidy_rate": null,
+      "use_purpose": "省庁独自公募・制度ページ",
+      "dedup_key": "f9a1902e9c84352b",
+      "sources": [
+        {
+          "system": "ministry",
+          "name": "省庁独自（経産・厚労・農水・国交・環境ほか）",
+          "url": "https://www.maff.go.jp/j/aid/kohu_kettei/r02/index.html"
+        }
+      ],
+      "matched_keyword": "ministry",
+      "region": null
+    },
+    {
+      "id": "ministry-1356900234",
+      "title": "補助対象財産の利用・処分",
+      "institution": "農林水産省（補助事業）",
+      "detail_url": "https://www.maff.go.jp/j/aid/riyo_syobun/index.html",
+      "summary_url": null,
+      "source_system": "ministry",
+      "source_name": "省庁独自（経産・厚労・農水・国交・環境ほか）",
+      "industry_slugs": [
+        "untagged"
+      ],
+      "growth17_slugs": [],
+      "acceptance_end_datetime": null,
+      "subsidy_max_limit": null,
+      "subsidy_rate": null,
+      "use_purpose": "省庁独自公募・制度ページ",
+      "dedup_key": "bfd8b0f22c026113",
+      "sources": [
+        {
+          "system": "ministry",
+          "name": "省庁独自（経産・厚労・農水・国交・環境ほか）",
+          "url": "https://www.maff.go.jp/j/aid/riyo_syobun/index.html"
+        }
+      ],
+      "matched_keyword": "ministry",
+      "region": null
+    },
+    {
+      "id": "prefecture-iwate-648715318",
+      "title": "【岩手県】入札・コンペ・公募情報",
+      "institution": "岩手県",
+      "detail_url": "https://www.pref.iwate.jp/kensei/nyuusatsu/index.html",
+      "summary_url": null,
+      "source_system": "prefecture",
+      "source_name": "都道府県ポータル（全国ロールアウト）",
+      "industry_slugs": [
+        "untagged"
+      ],
+      "growth17_slugs": [],
+      "acceptance_end_datetime": null,
+      "subsidy_max_limit": null,
+      "subsidy_rate": null,
+      "use_purpose": "自治体独自制度（prefecture）",
       "dedup_key": "5f761300328324c7",
       "sources": [
         {
           "system": "prefecture",
-          "name": "自治体パイロット（岩手・東京・大阪・福岡）",
+          "name": "都道府県ポータル（全国ロールアウト）",
           "url": "https://www.pref.iwate.jp/kensei/nyuusatsu/index.html"
         }
       ],
@@ -8900,13 +9534,13 @@
       "region": "岩手県"
     },
     {
-      "id": "pref-iwate-8334552574",
+      "id": "prefecture-iwate-4707863412",
       "title": "【岩手県】中小企業被災資産復旧事業費補助",
       "institution": "岩手県",
       "detail_url": "https://www.pref.iwate.jp/sangyoukoyou/sangyoushinkou/shinjigyou/shien/1009043.html",
       "summary_url": null,
       "source_system": "prefecture",
-      "source_name": "自治体パイロット（岩手・東京・大阪・福岡）",
+      "source_name": "都道府県ポータル（全国ロールアウト）",
       "industry_slugs": [
         "untagged"
       ],
@@ -8914,12 +9548,12 @@
       "acceptance_end_datetime": null,
       "subsidy_max_limit": null,
       "subsidy_rate": null,
-      "use_purpose": "自治体独自制度（パイロット）",
+      "use_purpose": "自治体独自制度（prefecture）",
       "dedup_key": "b3b07f728e548740",
       "sources": [
         {
           "system": "prefecture",
-          "name": "自治体パイロット（岩手・東京・大阪・福岡）",
+          "name": "都道府県ポータル（全国ロールアウト）",
           "url": "https://www.pref.iwate.jp/sangyoukoyou/sangyoushinkou/shinjigyou/shien/1009043.html"
         }
       ],
@@ -8927,13 +9561,13 @@
       "region": "岩手県"
     },
     {
-      "id": "pref-tokyo-8908752255",
+      "id": "prefecture-tokyo-5709740250",
       "title": "【東京都】助成金を申し込む前に御覧ください (139.87 KB)",
       "institution": "東京都",
       "detail_url": "https://www.tokyo-kosha.or.jp/support/josei/qp64520000001995-att/Precautions_Joseikin-Chuiten.pdf",
       "summary_url": null,
       "source_system": "prefecture",
-      "source_name": "自治体パイロット（岩手・東京・大阪・福岡）",
+      "source_name": "都道府県ポータル（全国ロールアウト）",
       "industry_slugs": [
         "untagged"
       ],
@@ -8941,12 +9575,12 @@
       "acceptance_end_datetime": null,
       "subsidy_max_limit": null,
       "subsidy_rate": null,
-      "use_purpose": "自治体独自制度（パイロット）",
+      "use_purpose": "自治体独自制度（prefecture）",
       "dedup_key": "bf6bfef087148b8c",
       "sources": [
         {
           "system": "prefecture",
-          "name": "自治体パイロット（岩手・東京・大阪・福岡）",
+          "name": "都道府県ポータル（全国ロールアウト）",
           "url": "https://www.tokyo-kosha.or.jp/support/josei/qp64520000001995-att/Precautions_Joseikin-Chuiten.pdf"
         }
       ],
@@ -8954,13 +9588,13 @@
       "region": "東京都"
     },
     {
-      "id": "pref-tokyo-3426413526",
+      "id": "prefecture-tokyo-1425626177",
       "title": "【東京都】令和8年度 申請受付前 ゼロエミ推進製品・サービス等の販路拡大助成【ゼロエミ販路】 正式名称：ゼロエミッション推進に向けた事業転換支援事業（販路拡大助成） 「ゼロエミッションに貢献する商品」の展示会出",
       "institution": "東京都",
       "detail_url": "https://www.tokyo-kosha.or.jp/support/josei/jigyo/zeroemi_hanro.html",
       "summary_url": null,
       "source_system": "prefecture",
-      "source_name": "自治体パイロット（岩手・東京・大阪・福岡）",
+      "source_name": "都道府県ポータル（全国ロールアウト）",
       "industry_slugs": [
         "untagged"
       ],
@@ -8968,12 +9602,12 @@
       "acceptance_end_datetime": null,
       "subsidy_max_limit": null,
       "subsidy_rate": null,
-      "use_purpose": "自治体独自制度（パイロット）",
+      "use_purpose": "自治体独自制度（prefecture）",
       "dedup_key": "2b947e2a57a73b83",
       "sources": [
         {
           "system": "prefecture",
-          "name": "自治体パイロット（岩手・東京・大阪・福岡）",
+          "name": "都道府県ポータル（全国ロールアウト）",
           "url": "https://www.tokyo-kosha.or.jp/support/josei/jigyo/zeroemi_hanro.html"
         }
       ],
@@ -8981,13 +9615,13 @@
       "region": "東京都"
     },
     {
-      "id": "pref-tokyo-8998452072",
+      "id": "prefecture-tokyo-6355414342",
       "title": "【東京都】令和8年度 受付終了 市場開拓助成事業 「都や公社の評価や支援を受けた製品」または「成長産業分野に属する製品」の展示会出展等に利用できる助成金 【申請期間】 令和8年5月15日(金)～5月29日(金)",
       "institution": "東京都",
       "detail_url": "https://www.tokyo-kosha.or.jp/support/josei/jigyo/shijo.html",
       "summary_url": null,
       "source_system": "prefecture",
-      "source_name": "自治体パイロット（岩手・東京・大阪・福岡）",
+      "source_name": "都道府県ポータル（全国ロールアウト）",
       "industry_slugs": [
         "untagged"
       ],
@@ -8995,12 +9629,12 @@
       "acceptance_end_datetime": null,
       "subsidy_max_limit": null,
       "subsidy_rate": null,
-      "use_purpose": "自治体独自制度（パイロット）",
+      "use_purpose": "自治体独自制度（prefecture）",
       "dedup_key": "012d5bd82bae23a0",
       "sources": [
         {
           "system": "prefecture",
-          "name": "自治体パイロット（岩手・東京・大阪・福岡）",
+          "name": "都道府県ポータル（全国ロールアウト）",
           "url": "https://www.tokyo-kosha.or.jp/support/josei/jigyo/shijo.html"
         }
       ],
@@ -9008,13 +9642,13 @@
       "region": "東京都"
     },
     {
-      "id": "pref-tokyo-856070867",
+      "id": "prefecture-tokyo-1145539317",
       "title": "【東京都】令和8年度 申請受付前 課題解決型製品・サービス等の販路拡大助成【課題解決販路】 「都市課題の解決に貢献する製品等」の展示会出展等に利用できる助成金。サイト制作・改修費のみの申請も可能。 【申請期間】",
       "institution": "東京都",
       "detail_url": "https://www.tokyo-kosha.or.jp/support/josei/jigyo/kadai-hanro/index.html",
       "summary_url": null,
       "source_system": "prefecture",
-      "source_name": "自治体パイロット（岩手・東京・大阪・福岡）",
+      "source_name": "都道府県ポータル（全国ロールアウト）",
       "industry_slugs": [
         "untagged"
       ],
@@ -9022,12 +9656,12 @@
       "acceptance_end_datetime": null,
       "subsidy_max_limit": null,
       "subsidy_rate": null,
-      "use_purpose": "自治体独自制度（パイロット）",
+      "use_purpose": "自治体独自制度（prefecture）",
       "dedup_key": "1bcf841216f8ba04",
       "sources": [
         {
           "system": "prefecture",
-          "name": "自治体パイロット（岩手・東京・大阪・福岡）",
+          "name": "都道府県ポータル（全国ロールアウト）",
           "url": "https://www.tokyo-kosha.or.jp/support/josei/jigyo/kadai-hanro/index.html"
         }
       ],
@@ -9035,13 +9669,13 @@
       "region": "東京都"
     },
     {
-      "id": "pref-tokyo-497645466",
+      "id": "prefecture-tokyo-6917835326",
       "title": "【東京都】令和8年度 募集終了 新製品・新技術開発助成事業 新製品や新技術の研究開発に利用できる助成金 【担当】 助成課（TEL：03-3251-7894） 助成限度額 2,500 万円 助成率 1/2 以内（",
       "institution": "東京都",
       "detail_url": "https://www.tokyo-kosha.or.jp/support/josei/jigyo/shinseihin.html",
       "summary_url": null,
       "source_system": "prefecture",
-      "source_name": "自治体パイロット（岩手・東京・大阪・福岡）",
+      "source_name": "都道府県ポータル（全国ロールアウト）",
       "industry_slugs": [
         "untagged"
       ],
@@ -9049,12 +9683,12 @@
       "acceptance_end_datetime": null,
       "subsidy_max_limit": null,
       "subsidy_rate": null,
-      "use_purpose": "自治体独自制度（パイロット）",
+      "use_purpose": "自治体独自制度（prefecture）",
       "dedup_key": "f196b704ad54eae1",
       "sources": [
         {
           "system": "prefecture",
-          "name": "自治体パイロット（岩手・東京・大阪・福岡）",
+          "name": "都道府県ポータル（全国ロールアウト）",
           "url": "https://www.tokyo-kosha.or.jp/support/josei/jigyo/shinseihin.html"
         }
       ],
@@ -9062,13 +9696,13 @@
       "region": "東京都"
     },
     {
-      "id": "pref-tokyo-5231560527",
+      "id": "prefecture-tokyo-5120390392",
       "title": "【東京都】社会情勢の変化に伴う助成金事業",
       "institution": "東京都",
       "detail_url": "https://www.tokyo-kosha.or.jp/support/josei/index.html#social",
       "summary_url": null,
       "source_system": "prefecture",
-      "source_name": "自治体パイロット（岩手・東京・大阪・福岡）",
+      "source_name": "都道府県ポータル（全国ロールアウト）",
       "industry_slugs": [
         "untagged"
       ],
@@ -9076,12 +9710,12 @@
       "acceptance_end_datetime": null,
       "subsidy_max_limit": null,
       "subsidy_rate": null,
-      "use_purpose": "自治体独自制度（パイロット）",
+      "use_purpose": "自治体独自制度（prefecture）",
       "dedup_key": "eae74ff41090875f",
       "sources": [
         {
           "system": "prefecture",
-          "name": "自治体パイロット（岩手・東京・大阪・福岡）",
+          "name": "都道府県ポータル（全国ロールアウト）",
           "url": "https://www.tokyo-kosha.or.jp/support/josei/index.html#social"
         }
       ],
@@ -9089,13 +9723,13 @@
       "region": "東京都"
     },
     {
-      "id": "pref-tokyo-7992089067",
+      "id": "prefecture-tokyo-1030576936",
       "title": "【東京都】令和8年度 助成金事業",
       "institution": "東京都",
       "detail_url": "https://www.tokyo-kosha.or.jp/support/josei/index.html#2026",
       "summary_url": null,
       "source_system": "prefecture",
-      "source_name": "自治体パイロット（岩手・東京・大阪・福岡）",
+      "source_name": "都道府県ポータル（全国ロールアウト）",
       "industry_slugs": [
         "untagged"
       ],
@@ -9103,12 +9737,12 @@
       "acceptance_end_datetime": null,
       "subsidy_max_limit": null,
       "subsidy_rate": null,
-      "use_purpose": "自治体独自制度（パイロット）",
+      "use_purpose": "自治体独自制度（prefecture）",
       "dedup_key": "4fc31924df6050f4",
       "sources": [
         {
           "system": "prefecture",
-          "name": "自治体パイロット（岩手・東京・大阪・福岡）",
+          "name": "都道府県ポータル（全国ロールアウト）",
           "url": "https://www.tokyo-kosha.or.jp/support/josei/index.html#2026"
         }
       ],
@@ -9116,13 +9750,13 @@
       "region": "東京都"
     },
     {
-      "id": "pref-tokyo-784085304",
+      "id": "prefecture-tokyo-8968536953",
       "title": "【東京都】令和7年度 助成金事業",
       "institution": "東京都",
       "detail_url": "https://www.tokyo-kosha.or.jp/support/josei/index.html#2025",
       "summary_url": null,
       "source_system": "prefecture",
-      "source_name": "自治体パイロット（岩手・東京・大阪・福岡）",
+      "source_name": "都道府県ポータル（全国ロールアウト）",
       "industry_slugs": [
         "untagged"
       ],
@@ -9130,12 +9764,12 @@
       "acceptance_end_datetime": null,
       "subsidy_max_limit": null,
       "subsidy_rate": null,
-      "use_purpose": "自治体独自制度（パイロット）",
+      "use_purpose": "自治体独自制度（prefecture）",
       "dedup_key": "ac0017dbfc2fd78f",
       "sources": [
         {
           "system": "prefecture",
-          "name": "自治体パイロット（岩手・東京・大阪・福岡）",
+          "name": "都道府県ポータル（全国ロールアウト）",
           "url": "https://www.tokyo-kosha.or.jp/support/josei/index.html#2025"
         }
       ],
@@ -9143,13 +9777,13 @@
       "region": "東京都"
     },
     {
-      "id": "pref-tokyo-1410979585",
+      "id": "prefecture-tokyo-9690205413",
       "title": "【東京都】募集中 中東情勢による原材料価格高騰に伴う経営基盤安定化緊急対策事業 中東情勢の影響による原材料価格高騰等の影響を回避する取組に対して、必要となる費用を助成します。 【担当】 中東情勢による原材料価格",
       "institution": "東京都",
       "detail_url": "https://www.tokyo-kosha.or.jp/support/josei/jigyo/chuto-kinkyu/index.html",
       "summary_url": null,
       "source_system": "prefecture",
-      "source_name": "自治体パイロット（岩手・東京・大阪・福岡）",
+      "source_name": "都道府県ポータル（全国ロールアウト）",
       "industry_slugs": [
         "untagged"
       ],
@@ -9157,12 +9791,12 @@
       "acceptance_end_datetime": null,
       "subsidy_max_limit": null,
       "subsidy_rate": null,
-      "use_purpose": "自治体独自制度（パイロット）",
+      "use_purpose": "自治体独自制度（prefecture）",
       "dedup_key": "ec5e6f12bca802f3",
       "sources": [
         {
           "system": "prefecture",
-          "name": "自治体パイロット（岩手・東京・大阪・福岡）",
+          "name": "都道府県ポータル（全国ロールアウト）",
           "url": "https://www.tokyo-kosha.or.jp/support/josei/jigyo/chuto-kinkyu/index.html"
         }
       ],
@@ -9170,13 +9804,13 @@
       "region": "東京都"
     },
     {
-      "id": "pref-tokyo-3963453297",
+      "id": "prefecture-tokyo-1134745833",
       "title": "【東京都】第2回 募集前 経営力強化に向けた創意工夫チャレンジ促進事業（新市場・新分野進出コース） 新市場・新分野に進出する経営改善計画を作成した中小企業を対象に、その経営改善計画に基づいて実施する取組を支援",
       "institution": "東京都",
       "detail_url": "https://www.tokyo-kosha.or.jp/support/josei/jigyo/soui-challenge/shin-shijou/index.html",
       "summary_url": null,
       "source_system": "prefecture",
-      "source_name": "自治体パイロット（岩手・東京・大阪・福岡）",
+      "source_name": "都道府県ポータル（全国ロールアウト）",
       "industry_slugs": [
         "untagged"
       ],
@@ -9184,12 +9818,12 @@
       "acceptance_end_datetime": null,
       "subsidy_max_limit": null,
       "subsidy_rate": null,
-      "use_purpose": "自治体独自制度（パイロット）",
+      "use_purpose": "自治体独自制度（prefecture）",
       "dedup_key": "c2d498505b12faab",
       "sources": [
         {
           "system": "prefecture",
-          "name": "自治体パイロット（岩手・東京・大阪・福岡）",
+          "name": "都道府県ポータル（全国ロールアウト）",
           "url": "https://www.tokyo-kosha.or.jp/support/josei/jigyo/soui-challenge/shin-shijou/index.html"
         }
       ],
@@ -9197,13 +9831,13 @@
       "region": "東京都"
     },
     {
-      "id": "pref-tokyo-7138093786",
+      "id": "prefecture-tokyo-7035297605",
       "title": "【東京都】募集前 石油供給不足に伴う課題解決に向けた製品・サービス等の開発・改良助成 石油代替製品や、原材料・エネルギーを削減する製品・サービス等の開発・改良を支援します。 【申請受付期間】 令和8年7月31日",
       "institution": "東京都",
       "detail_url": "https://www.tokyo-kosha.or.jp/support/josei/jigyo/hisekiyu_kaihatsu/index.html",
       "summary_url": null,
       "source_system": "prefecture",
-      "source_name": "自治体パイロット（岩手・東京・大阪・福岡）",
+      "source_name": "都道府県ポータル（全国ロールアウト）",
       "industry_slugs": [
         "untagged"
       ],
@@ -9211,12 +9845,12 @@
       "acceptance_end_datetime": null,
       "subsidy_max_limit": null,
       "subsidy_rate": null,
-      "use_purpose": "自治体独自制度（パイロット）",
+      "use_purpose": "自治体独自制度（prefecture）",
       "dedup_key": "d54f886d7af9a135",
       "sources": [
         {
           "system": "prefecture",
-          "name": "自治体パイロット（岩手・東京・大阪・福岡）",
+          "name": "都道府県ポータル（全国ロールアウト）",
           "url": "https://www.tokyo-kosha.or.jp/support/josei/jigyo/hisekiyu_kaihatsu/index.html"
         }
       ],
@@ -9224,13 +9858,13 @@
       "region": "東京都"
     },
     {
-      "id": "pref-tokyo-7789440510",
+      "id": "prefecture-tokyo-3943464042",
       "title": "【東京都】第2回 募集前 経営力強化に向けた創意工夫チャレンジ促進事業(賃上げ重点コース) 既存事業を深化・発展させる経営改善計画を作成した中小企業を対象に、その経営改善計画に基づいて実施する取組を支援 【担当",
       "institution": "東京都",
       "detail_url": "https://www.tokyo-kosha.or.jp/support/josei/jigyo/soui-challenge/juuten/index.html",
       "summary_url": null,
       "source_system": "prefecture",
-      "source_name": "自治体パイロット（岩手・東京・大阪・福岡）",
+      "source_name": "都道府県ポータル（全国ロールアウト）",
       "industry_slugs": [
         "untagged"
       ],
@@ -9238,12 +9872,12 @@
       "acceptance_end_datetime": null,
       "subsidy_max_limit": null,
       "subsidy_rate": null,
-      "use_purpose": "自治体独自制度（パイロット）",
+      "use_purpose": "自治体独自制度（prefecture）",
       "dedup_key": "c784a3a245a86dc8",
       "sources": [
         {
           "system": "prefecture",
-          "name": "自治体パイロット（岩手・東京・大阪・福岡）",
+          "name": "都道府県ポータル（全国ロールアウト）",
           "url": "https://www.tokyo-kosha.or.jp/support/josei/jigyo/soui-challenge/juuten/index.html"
         }
       ],
@@ -9251,13 +9885,13 @@
       "region": "東京都"
     },
     {
-      "id": "pref-tokyo-2140264576",
+      "id": "prefecture-tokyo-2073350095",
       "title": "【東京都】第2回 募集前 経営力強化に向けた創意工夫チャレンジ促進事業(業務改善コース) 既存事業を深化・発展させる経営改善計画を作成した中小企業を対象に、その経営改善計画に基づいて実施する取組を支援 【担当】",
       "institution": "東京都",
       "detail_url": "https://www.tokyo-kosha.or.jp/support/josei/jigyo/soui-challenge/ippan/index.html",
       "summary_url": null,
       "source_system": "prefecture",
-      "source_name": "自治体パイロット（岩手・東京・大阪・福岡）",
+      "source_name": "都道府県ポータル（全国ロールアウト）",
       "industry_slugs": [
         "untagged"
       ],
@@ -9265,12 +9899,12 @@
       "acceptance_end_datetime": null,
       "subsidy_max_limit": null,
       "subsidy_rate": null,
-      "use_purpose": "自治体独自制度（パイロット）",
+      "use_purpose": "自治体独自制度（prefecture）",
       "dedup_key": "67302f9c4e3e3b47",
       "sources": [
         {
           "system": "prefecture",
-          "name": "自治体パイロット（岩手・東京・大阪・福岡）",
+          "name": "都道府県ポータル（全国ロールアウト）",
           "url": "https://www.tokyo-kosha.or.jp/support/josei/jigyo/soui-challenge/ippan/index.html"
         }
       ],
@@ -9278,13 +9912,13 @@
       "region": "東京都"
     },
     {
-      "id": "pref-tokyo-2254827652",
+      "id": "prefecture-tokyo-8520623569",
       "title": "【東京都】募集中 中小企業収益力強化サポート事業 物価高騰の影響を受ける中小企業の持続可能な経営体質づくりを支援します。 【担当】 中小企業収益力強化サポート事業運営事務局(TEL:03-6868-7029)",
       "institution": "東京都",
       "detail_url": "https://tokyo-shuekiryoku-kyoka.jp",
       "summary_url": null,
       "source_system": "prefecture",
-      "source_name": "自治体パイロット（岩手・東京・大阪・福岡）",
+      "source_name": "都道府県ポータル（全国ロールアウト）",
       "industry_slugs": [
         "untagged"
       ],
@@ -9292,12 +9926,12 @@
       "acceptance_end_datetime": null,
       "subsidy_max_limit": null,
       "subsidy_rate": null,
-      "use_purpose": "自治体独自制度（パイロット）",
+      "use_purpose": "自治体独自制度（prefecture）",
       "dedup_key": "5abad33fe632aa0c",
       "sources": [
         {
           "system": "prefecture",
-          "name": "自治体パイロット（岩手・東京・大阪・福岡）",
+          "name": "都道府県ポータル（全国ロールアウト）",
           "url": "https://tokyo-shuekiryoku-kyoka.jp"
         }
       ],
@@ -9305,13 +9939,13 @@
       "region": "東京都"
     },
     {
-      "id": "pref-tokyo-4213094476",
+      "id": "prefecture-tokyo-313882836",
       "title": "【東京都】募集中 第6回 中小企業特別高圧電力・工業用LPガス価格高騰緊急対策事業支援金 【目的】 特別高圧電力や工業用LPガスを使用する中小企業者等の負担軽減に向けた緊急対策として、重点支援地方交付金を活用し",
       "institution": "東京都",
       "detail_url": "https://www.tokyo-kosha.or.jp/support/josei/jigyo/tokkolpg/shienkin6th.html",
       "summary_url": null,
       "source_system": "prefecture",
-      "source_name": "自治体パイロット（岩手・東京・大阪・福岡）",
+      "source_name": "都道府県ポータル（全国ロールアウト）",
       "industry_slugs": [
         "untagged"
       ],
@@ -9319,12 +9953,12 @@
       "acceptance_end_datetime": null,
       "subsidy_max_limit": null,
       "subsidy_rate": null,
-      "use_purpose": "自治体独自制度（パイロット）",
+      "use_purpose": "自治体独自制度（prefecture）",
       "dedup_key": "b5400b30eea5a445",
       "sources": [
         {
           "system": "prefecture",
-          "name": "自治体パイロット（岩手・東京・大阪・福岡）",
+          "name": "都道府県ポータル（全国ロールアウト）",
           "url": "https://www.tokyo-kosha.or.jp/support/josei/jigyo/tokkolpg/shienkin6th.html"
         }
       ],
@@ -9332,13 +9966,13 @@
       "region": "東京都"
     },
     {
-      "id": "pref-tokyo-9117224436",
+      "id": "prefecture-tokyo-8163887536",
       "title": "【東京都】募集中 環境に配慮したマルチエネルギーステーション化に向けた経営力強化・設備導入等支援事業 環境に配慮したマルチエネルギーステーション化を目指すガソリンスタンドの経営力強化を支援します！ 【担当】 経",
       "institution": "東京都",
       "detail_url": "https://www.tokyo-kosha.or.jp/support/josei/jigyo/multi_energy/index.html",
       "summary_url": null,
       "source_system": "prefecture",
-      "source_name": "自治体パイロット（岩手・東京・大阪・福岡）",
+      "source_name": "都道府県ポータル（全国ロールアウト）",
       "industry_slugs": [
         "untagged"
       ],
@@ -9346,12 +9980,12 @@
       "acceptance_end_datetime": null,
       "subsidy_max_limit": null,
       "subsidy_rate": null,
-      "use_purpose": "自治体独自制度（パイロット）",
+      "use_purpose": "自治体独自制度（prefecture）",
       "dedup_key": "971e35e0ceafa6ea",
       "sources": [
         {
           "system": "prefecture",
-          "name": "自治体パイロット（岩手・東京・大阪・福岡）",
+          "name": "都道府県ポータル（全国ロールアウト）",
           "url": "https://www.tokyo-kosha.or.jp/support/josei/jigyo/multi_energy/index.html"
         }
       ],
@@ -9359,13 +9993,13 @@
       "region": "東京都"
     },
     {
-      "id": "pref-tokyo-9483434551",
+      "id": "prefecture-tokyo-39998186",
       "title": "【東京都】新規申請 受付終了 設備投資緊急支援事業 『2024年問題』への対策として生産性の向上や競争力強化のために必要となる機械設備の導入に利用できる助成金 【担当】 設備支援課（TEL：03-3251-78",
       "institution": "東京都",
       "detail_url": "https://www.tokyo-kosha.or.jp/support/josei/setsubijosei/setsubi_kinkyu/index.html",
       "summary_url": null,
       "source_system": "prefecture",
-      "source_name": "自治体パイロット（岩手・東京・大阪・福岡）",
+      "source_name": "都道府県ポータル（全国ロールアウト）",
       "industry_slugs": [
         "untagged"
       ],
@@ -9373,12 +10007,12 @@
       "acceptance_end_datetime": null,
       "subsidy_max_limit": null,
       "subsidy_rate": null,
-      "use_purpose": "自治体独自制度（パイロット）",
+      "use_purpose": "自治体独自制度（prefecture）",
       "dedup_key": "9352a729b37f2d40",
       "sources": [
         {
           "system": "prefecture",
-          "name": "自治体パイロット（岩手・東京・大阪・福岡）",
+          "name": "都道府県ポータル（全国ロールアウト）",
           "url": "https://www.tokyo-kosha.or.jp/support/josei/setsubijosei/setsubi_kinkyu/index.html"
         }
       ],
@@ -9386,13 +10020,13 @@
       "region": "東京都"
     },
     {
-      "id": "pref-tokyo-9065867770",
+      "id": "prefecture-tokyo-2249528746",
       "title": "【東京都】令和8年度 募集終了 女性活躍のためのフェムテック開発支援・普及促進事業 フェムテックの製品・サービス等の開発に利用できる助成金 【申請期間】 令和8年6月15日（月）～6月30日（火）17時まで 【",
       "institution": "東京都",
       "detail_url": "https://www.tokyo-kosha.or.jp/support/josei/jigyo/femtech/index.html",
       "summary_url": null,
       "source_system": "prefecture",
-      "source_name": "自治体パイロット（岩手・東京・大阪・福岡）",
+      "source_name": "都道府県ポータル（全国ロールアウト）",
       "industry_slugs": [
         "untagged"
       ],
@@ -9400,12 +10034,12 @@
       "acceptance_end_datetime": null,
       "subsidy_max_limit": null,
       "subsidy_rate": null,
-      "use_purpose": "自治体独自制度（パイロット）",
+      "use_purpose": "自治体独自制度（prefecture）",
       "dedup_key": "b0671f23f2a4c715",
       "sources": [
         {
           "system": "prefecture",
-          "name": "自治体パイロット（岩手・東京・大阪・福岡）",
+          "name": "都道府県ポータル（全国ロールアウト）",
           "url": "https://www.tokyo-kosha.or.jp/support/josei/jigyo/femtech/index.html"
         }
       ],
@@ -9413,13 +10047,13 @@
       "region": "東京都"
     },
     {
-      "id": "pref-tokyo-7604733326",
+      "id": "prefecture-tokyo-6127238734",
       "title": "【東京都】令和8年度 申請 エントリー 開始 TOKYO戦略的イノベーション促進事業 他企業・大学等と連携した技術・製品開発に利用できる助成金/ハンズオン支援でのサポート 【担当】 助成課（TEL：03-325",
       "institution": "東京都",
       "detail_url": "https://www.tokyo-kosha.or.jp/support/josei/jigyo/tokyo-innovation.html",
       "summary_url": null,
       "source_system": "prefecture",
-      "source_name": "自治体パイロット（岩手・東京・大阪・福岡）",
+      "source_name": "都道府県ポータル（全国ロールアウト）",
       "industry_slugs": [
         "untagged"
       ],
@@ -9427,12 +10061,12 @@
       "acceptance_end_datetime": null,
       "subsidy_max_limit": null,
       "subsidy_rate": null,
-      "use_purpose": "自治体独自制度（パイロット）",
+      "use_purpose": "自治体独自制度（prefecture）",
       "dedup_key": "63e1e2651e563eda",
       "sources": [
         {
           "system": "prefecture",
-          "name": "自治体パイロット（岩手・東京・大阪・福岡）",
+          "name": "都道府県ポータル（全国ロールアウト）",
           "url": "https://www.tokyo-kosha.or.jp/support/josei/jigyo/tokyo-innovation.html"
         }
       ],
@@ -9440,13 +10074,13 @@
       "region": "東京都"
     },
     {
-      "id": "pref-tokyo-819667777",
+      "id": "prefecture-tokyo-3450856846",
       "title": "【東京都】募集中 航空宇宙産業への参入支援事業（宇宙製品等開発経費助成） 宇宙関連機器・ソフトウェア及びソリューション 【担当】 助成課（TEL：03-3251-7894） 助成限度額（機器開発） 1億円 （下",
       "institution": "東京都",
       "detail_url": "https://www.tokyo-kosha.or.jp/support/josei/jigyo/uchu-josei/index.html",
       "summary_url": null,
       "source_system": "prefecture",
-      "source_name": "自治体パイロット（岩手・東京・大阪・福岡）",
+      "source_name": "都道府県ポータル（全国ロールアウト）",
       "industry_slugs": [
         "g17-aerospace"
       ],
@@ -9456,12 +10090,12 @@
       "acceptance_end_datetime": null,
       "subsidy_max_limit": null,
       "subsidy_rate": null,
-      "use_purpose": "自治体独自制度（パイロット）",
+      "use_purpose": "自治体独自制度（prefecture）",
       "dedup_key": "c25e41da1667317d",
       "sources": [
         {
           "system": "prefecture",
-          "name": "自治体パイロット（岩手・東京・大阪・福岡）",
+          "name": "都道府県ポータル（全国ロールアウト）",
           "url": "https://www.tokyo-kosha.or.jp/support/josei/jigyo/uchu-josei/index.html"
         }
       ],
@@ -9469,13 +10103,13 @@
       "region": "東京都"
     },
     {
-      "id": "pref-tokyo-3610344808",
+      "id": "prefecture-tokyo-1719346165",
       "title": "【東京都】令和8年度 申請受付前 地域資源活用製品等の開発・販売促進事業（販路開拓フェーズ） 東京の地域資源活用や東京の都市・地域課題の解決に資する製品・サービスの販売促進に利用できる助成金。 【申請期間】 令",
       "institution": "東京都",
       "detail_url": "https://www.tokyo-kosha.or.jp/support/josei/jigyo/chiikishigen/index.html",
       "summary_url": null,
       "source_system": "prefecture",
-      "source_name": "自治体パイロット（岩手・東京・大阪・福岡）",
+      "source_name": "都道府県ポータル（全国ロールアウト）",
       "industry_slugs": [
         "untagged"
       ],
@@ -9483,12 +10117,12 @@
       "acceptance_end_datetime": null,
       "subsidy_max_limit": null,
       "subsidy_rate": null,
-      "use_purpose": "自治体独自制度（パイロット）",
+      "use_purpose": "自治体独自制度（prefecture）",
       "dedup_key": "69721bf988d28b11",
       "sources": [
         {
           "system": "prefecture",
-          "name": "自治体パイロット（岩手・東京・大阪・福岡）",
+          "name": "都道府県ポータル（全国ロールアウト）",
           "url": "https://www.tokyo-kosha.or.jp/support/josei/jigyo/chiikishigen/index.html"
         }
       ],
@@ -9496,13 +10130,13 @@
       "region": "東京都"
     },
     {
-      "id": "pref-tokyo-3934508229",
+      "id": "prefecture-tokyo-9366392220",
       "title": "【東京都】募集中 ゼロエミッション推進に向けた事業転換支援事業（製品開発助成） ゼロエミッションに資する製品の開発や改良に利用できる助成金 【担当】 多摩支社（TEL：042-500-3901） 助成限度額（単",
       "institution": "東京都",
       "detail_url": "https://www.tokyo-kosha.or.jp/support/josei/jigyo/zeroemi_kaihatsu.html",
       "summary_url": null,
       "source_system": "prefecture",
-      "source_name": "自治体パイロット（岩手・東京・大阪・福岡）",
+      "source_name": "都道府県ポータル（全国ロールアウト）",
       "industry_slugs": [
         "untagged"
       ],
@@ -9510,12 +10144,12 @@
       "acceptance_end_datetime": null,
       "subsidy_max_limit": null,
       "subsidy_rate": null,
-      "use_purpose": "自治体独自制度（パイロット）",
+      "use_purpose": "自治体独自制度（prefecture）",
       "dedup_key": "b156676e667941bd",
       "sources": [
         {
           "system": "prefecture",
-          "name": "自治体パイロット（岩手・東京・大阪・福岡）",
+          "name": "都道府県ポータル（全国ロールアウト）",
           "url": "https://www.tokyo-kosha.or.jp/support/josei/jigyo/zeroemi_kaihatsu.html"
         }
       ],
@@ -9523,13 +10157,13 @@
       "region": "東京都"
     },
     {
-      "id": "pref-tokyo-115936361",
+      "id": "prefecture-tokyo-2015758442",
       "title": "【東京都】令和8年度 募集中 社会実装参画による多摩イノベーション創出事業 大学・研究機関等が行う研究開発の事業化等への参画支援 ※ 9月10日までに「利用申請書」を提出し、その後決定通知を受けていることが申請",
       "institution": "東京都",
       "detail_url": "https://www.tokyo-kosha.or.jp/support/shien/syakai-jissou/index.html",
       "summary_url": null,
       "source_system": "prefecture",
-      "source_name": "自治体パイロット（岩手・東京・大阪・福岡）",
+      "source_name": "都道府県ポータル（全国ロールアウト）",
       "industry_slugs": [
         "untagged"
       ],
@@ -9537,12 +10171,12 @@
       "acceptance_end_datetime": null,
       "subsidy_max_limit": null,
       "subsidy_rate": null,
-      "use_purpose": "自治体独自制度（パイロット）",
+      "use_purpose": "自治体独自制度（prefecture）",
       "dedup_key": "0c92932d247d84ec",
       "sources": [
         {
           "system": "prefecture",
-          "name": "自治体パイロット（岩手・東京・大阪・福岡）",
+          "name": "都道府県ポータル（全国ロールアウト）",
           "url": "https://www.tokyo-kosha.or.jp/support/shien/syakai-jissou/index.html"
         }
       ],
@@ -9550,13 +10184,13 @@
       "region": "東京都"
     },
     {
-      "id": "pref-tokyo-7494789129",
+      "id": "prefecture-tokyo-1726931",
       "title": "【東京都】第2回 募集前 課題解決型製品・サービス等の試作品開発・改良助成 都市課題（安全安心・高齢者・介護・DX・暑さ等）の解決へ向けた製品・サービスの試作品開発・改良費用に利用できる助成金 【申請受付期間】",
       "institution": "東京都",
       "detail_url": "https://www.tokyo-kosha.or.jp/support/josei/jigyo/kadai-kaihatsu/index.html",
       "summary_url": null,
       "source_system": "prefecture",
-      "source_name": "自治体パイロット（岩手・東京・大阪・福岡）",
+      "source_name": "都道府県ポータル（全国ロールアウト）",
       "industry_slugs": [
         "g17-digital-cyber"
       ],
@@ -9566,12 +10200,12 @@
       "acceptance_end_datetime": null,
       "subsidy_max_limit": null,
       "subsidy_rate": null,
-      "use_purpose": "自治体独自制度（パイロット）",
+      "use_purpose": "自治体独自制度（prefecture）",
       "dedup_key": "a69a65bb78b9b796",
       "sources": [
         {
           "system": "prefecture",
-          "name": "自治体パイロット（岩手・東京・大阪・福岡）",
+          "name": "都道府県ポータル（全国ロールアウト）",
           "url": "https://www.tokyo-kosha.or.jp/support/josei/jigyo/kadai-kaihatsu/index.html"
         }
       ],
@@ -9579,13 +10213,13 @@
       "region": "東京都"
     },
     {
-      "id": "pref-tokyo-6186746856",
+      "id": "prefecture-tokyo-5512498526",
       "title": "【東京都】募集中 成長産業分野への事業転換に向けた製品開発支援事業（技術開発助成） 成長産業分野への事業転換に向けて ①専門家による事業計画の作成支援 ②製品等の開発や改良に要する経費の一部を助成 【申込期間】",
       "institution": "東京都",
       "detail_url": "https://www.tokyo-kosha.or.jp/support/josei/jigyo/business_conversion.html",
       "summary_url": null,
       "source_system": "prefecture",
-      "source_name": "自治体パイロット（岩手・東京・大阪・福岡）",
+      "source_name": "都道府県ポータル（全国ロールアウト）",
       "industry_slugs": [
         "untagged"
       ],
@@ -9593,12 +10227,12 @@
       "acceptance_end_datetime": null,
       "subsidy_max_limit": null,
       "subsidy_rate": null,
-      "use_purpose": "自治体独自制度（パイロット）",
+      "use_purpose": "自治体独自制度（prefecture）",
       "dedup_key": "943052611485cb2c",
       "sources": [
         {
           "system": "prefecture",
-          "name": "自治体パイロット（岩手・東京・大阪・福岡）",
+          "name": "都道府県ポータル（全国ロールアウト）",
           "url": "https://www.tokyo-kosha.or.jp/support/josei/jigyo/business_conversion.html"
         }
       ],
@@ -9606,13 +10240,13 @@
       "region": "東京都"
     },
     {
-      "id": "pref-tokyo-2501318604",
+      "id": "prefecture-tokyo-4466996267",
       "title": "【東京都】募集前 令和8年度 第2回 募集要項等 公開中 創業助成事業 起業・創業時に必要な経費の一部を助成する制度 【申請期間】 第1回:令和8年4月7日(火)～4月16日(木) 第2回:令和8年9月29日(",
       "institution": "東京都",
       "detail_url": "https://startup-station.jp/m2/services/sogyokassei/",
       "summary_url": null,
       "source_system": "prefecture",
-      "source_name": "自治体パイロット（岩手・東京・大阪・福岡）",
+      "source_name": "都道府県ポータル（全国ロールアウト）",
       "industry_slugs": [
         "untagged"
       ],
@@ -9620,12 +10254,12 @@
       "acceptance_end_datetime": null,
       "subsidy_max_limit": null,
       "subsidy_rate": null,
-      "use_purpose": "自治体独自制度（パイロット）",
+      "use_purpose": "自治体独自制度（prefecture）",
       "dedup_key": "300cce5f58190bd5",
       "sources": [
         {
           "system": "prefecture",
-          "name": "自治体パイロット（岩手・東京・大阪・福岡）",
+          "name": "都道府県ポータル（全国ロールアウト）",
           "url": "https://startup-station.jp/m2/services/sogyokassei/"
         }
       ],
@@ -9633,13 +10267,13 @@
       "region": "東京都"
     },
     {
-      "id": "pref-tokyo-1452445320",
+      "id": "prefecture-tokyo-3114725846",
       "title": "【東京都】第2回 募集中 若手・女性リーダー応援プログラム助成事業 【目的】 女性又は若手男性が都内商店街で実店舗を「開業」、「2店舗目」、「移転」する際に、必要な経費の一部を助成することにより、商店街における",
       "institution": "東京都",
       "detail_url": "https://wakajo-shotengai.com/",
       "summary_url": null,
       "source_system": "prefecture",
-      "source_name": "自治体パイロット（岩手・東京・大阪・福岡）",
+      "source_name": "都道府県ポータル（全国ロールアウト）",
       "industry_slugs": [
         "untagged"
       ],
@@ -9647,12 +10281,12 @@
       "acceptance_end_datetime": null,
       "subsidy_max_limit": null,
       "subsidy_rate": null,
-      "use_purpose": "自治体独自制度（パイロット）",
+      "use_purpose": "自治体独自制度（prefecture）",
       "dedup_key": "793c8d9281e4c646",
       "sources": [
         {
           "system": "prefecture",
-          "name": "自治体パイロット（岩手・東京・大阪・福岡）",
+          "name": "都道府県ポータル（全国ロールアウト）",
           "url": "https://wakajo-shotengai.com/"
         }
       ],
@@ -9660,13 +10294,13 @@
       "region": "東京都"
     },
     {
-      "id": "pref-tokyo-8440775922",
+      "id": "prefecture-tokyo-7451179517",
       "title": "【東京都】募集中 受動喫煙防止対策支援 受動喫煙防止等に向けた環境整備に取り組む飲食・宿泊事業者が利用できる助成金 【担当】 助成課（TEL:03-5244-4266） 助成限度額 設置 400 万円 助成率",
       "institution": "東京都",
       "detail_url": "https://www.tokyo-kosha.or.jp/support/josei/jigyo/jyudoukitsuen-boushitaisaku.html",
       "summary_url": null,
       "source_system": "prefecture",
-      "source_name": "自治体パイロット（岩手・東京・大阪・福岡）",
+      "source_name": "都道府県ポータル（全国ロールアウト）",
       "industry_slugs": [
         "untagged"
       ],
@@ -9674,12 +10308,12 @@
       "acceptance_end_datetime": null,
       "subsidy_max_limit": null,
       "subsidy_rate": null,
-      "use_purpose": "自治体独自制度（パイロット）",
+      "use_purpose": "自治体独自制度（prefecture）",
       "dedup_key": "814b93226d374dc2",
       "sources": [
         {
           "system": "prefecture",
-          "name": "自治体パイロット（岩手・東京・大阪・福岡）",
+          "name": "都道府県ポータル（全国ロールアウト）",
           "url": "https://www.tokyo-kosha.or.jp/support/josei/jigyo/jyudoukitsuen-boushitaisaku.html"
         }
       ],
@@ -9687,13 +10321,13 @@
       "region": "東京都"
     },
     {
-      "id": "pref-tokyo-6304431714",
+      "id": "prefecture-tokyo-1740111692",
       "title": "【東京都】募集中 DX推進助成金（生産性向上コース／DX戦略策定支援コース） 公社のアドバイザーの提案に基づき、デジタル技術を用いた企業変革や生産性向上を図るために必要な経費の一部を助成 【担当】 生産性向上支",
       "institution": "東京都",
       "detail_url": "https://iot-robot.jp/business/dxsubsidy/",
       "summary_url": null,
       "source_system": "prefecture",
-      "source_name": "自治体パイロット（岩手・東京・大阪・福岡）",
+      "source_name": "都道府県ポータル（全国ロールアウト）",
       "industry_slugs": [
         "g17-digital-cyber"
       ],
@@ -9703,12 +10337,12 @@
       "acceptance_end_datetime": null,
       "subsidy_max_limit": null,
       "subsidy_rate": null,
-      "use_purpose": "自治体独自制度（パイロット）",
+      "use_purpose": "自治体独自制度（prefecture）",
       "dedup_key": "63b82fc02c0b8f87",
       "sources": [
         {
           "system": "prefecture",
-          "name": "自治体パイロット（岩手・東京・大阪・福岡）",
+          "name": "都道府県ポータル（全国ロールアウト）",
           "url": "https://iot-robot.jp/business/dxsubsidy/"
         }
       ],
@@ -9716,13 +10350,13 @@
       "region": "東京都"
     },
     {
-      "id": "pref-tokyo-3260697183",
+      "id": "prefecture-tokyo-6857671814",
       "title": "【東京都】令和8年度 第1回 募集受付 終了 中小企業デジタル導入促進補助事業 デジタルツールの導入に利用できる助成金 【担当】 中小企業デジタルツール導入促進支援事業事務局／中小企業デジタル導入促進補助事業事",
       "institution": "東京都",
       "detail_url": "https://www.tokyo-kosha.or.jp/support/josei/jigyo/digital-tool.html",
       "summary_url": null,
       "source_system": "prefecture",
-      "source_name": "自治体パイロット（岩手・東京・大阪・福岡）",
+      "source_name": "都道府県ポータル（全国ロールアウト）",
       "industry_slugs": [
         "untagged"
       ],
@@ -9730,12 +10364,12 @@
       "acceptance_end_datetime": null,
       "subsidy_max_limit": null,
       "subsidy_rate": null,
-      "use_purpose": "自治体独自制度（パイロット）",
+      "use_purpose": "自治体独自制度（prefecture）",
       "dedup_key": "6ded1ae791db8106",
       "sources": [
         {
           "system": "prefecture",
-          "name": "自治体パイロット（岩手・東京・大阪・福岡）",
+          "name": "都道府県ポータル（全国ロールアウト）",
           "url": "https://www.tokyo-kosha.or.jp/support/josei/jigyo/digital-tool.html"
         }
       ],
@@ -9743,13 +10377,13 @@
       "region": "東京都"
     },
     {
-      "id": "pref-tokyo-1937264616",
+      "id": "prefecture-tokyo-7603171702",
       "title": "【東京都】令和8年度 募集終了 グローバルニッチトップ助成事業 知的財産権の取得等に要する費用の助成 【担当】 東京都知的財産総合センター（TEL：03-3832-3656） 助成限度額 1,000 万円 助成",
       "institution": "東京都",
       "detail_url": "https://www.tokyo-kosha.or.jp/chizai/josei/nichetop/index.html",
       "summary_url": null,
       "source_system": "prefecture",
-      "source_name": "自治体パイロット（岩手・東京・大阪・福岡）",
+      "source_name": "都道府県ポータル（全国ロールアウト）",
       "industry_slugs": [
         "untagged"
       ],
@@ -9757,12 +10391,12 @@
       "acceptance_end_datetime": null,
       "subsidy_max_limit": null,
       "subsidy_rate": null,
-      "use_purpose": "自治体独自制度（パイロット）",
+      "use_purpose": "自治体独自制度（prefecture）",
       "dedup_key": "fe261c6b7a3e9acd",
       "sources": [
         {
           "system": "prefecture",
-          "name": "自治体パイロット（岩手・東京・大阪・福岡）",
+          "name": "都道府県ポータル（全国ロールアウト）",
           "url": "https://www.tokyo-kosha.or.jp/chizai/josei/nichetop/index.html"
         }
       ],
@@ -9770,13 +10404,13 @@
       "region": "東京都"
     },
     {
-      "id": "pref-tokyo-4705252187",
+      "id": "prefecture-tokyo-3824484964",
       "title": "【東京都】募集前 外国実用新案出願費用助成事業 外国実用新案出願に要する費用の助成 【担当】 東京都知的財産総合センター（TEL：03-3832-3656） 助成限度額 60 万円 助成率 1/2 以内 中小企",
       "institution": "東京都",
       "detail_url": "https://www.tokyo-kosha.or.jp/chizai/josei/jitsushin/index.html",
       "summary_url": null,
       "source_system": "prefecture",
-      "source_name": "自治体パイロット（岩手・東京・大阪・福岡）",
+      "source_name": "都道府県ポータル（全国ロールアウト）",
       "industry_slugs": [
         "untagged"
       ],
@@ -9784,12 +10418,12 @@
       "acceptance_end_datetime": null,
       "subsidy_max_limit": null,
       "subsidy_rate": null,
-      "use_purpose": "自治体独自制度（パイロット）",
+      "use_purpose": "自治体独自制度（prefecture）",
       "dedup_key": "0b6f82166dc56ed8",
       "sources": [
         {
           "system": "prefecture",
-          "name": "自治体パイロット（岩手・東京・大阪・福岡）",
+          "name": "都道府県ポータル（全国ロールアウト）",
           "url": "https://www.tokyo-kosha.or.jp/chizai/josei/jitsushin/index.html"
         }
       ],
@@ -9797,13 +10431,13 @@
       "region": "東京都"
     },
     {
-      "id": "pref-tokyo-4829390658",
+      "id": "prefecture-tokyo-4578959895",
       "title": "【東京都】募集​前 外国特許出願費用助成事業 外国特許出願から中間手続に要する費用の助成 【担当】 東京都知的財産総合センター（TEL：03-3832-3656） 助成限度額 400 万円（ただし、出願に要する",
       "institution": "東京都",
       "detail_url": "https://www.tokyo-kosha.or.jp/chizai/josei/tokkyo/index.html",
       "summary_url": null,
       "source_system": "prefecture",
-      "source_name": "自治体パイロット（岩手・東京・大阪・福岡）",
+      "source_name": "都道府県ポータル（全国ロールアウト）",
       "industry_slugs": [
         "untagged"
       ],
@@ -9811,12 +10445,12 @@
       "acceptance_end_datetime": null,
       "subsidy_max_limit": null,
       "subsidy_rate": null,
-      "use_purpose": "自治体独自制度（パイロット）",
+      "use_purpose": "自治体独自制度（prefecture）",
       "dedup_key": "9b22a2f2a9235ab8",
       "sources": [
         {
           "system": "prefecture",
-          "name": "自治体パイロット（岩手・東京・大阪・福岡）",
+          "name": "都道府県ポータル（全国ロールアウト）",
           "url": "https://www.tokyo-kosha.or.jp/chizai/josei/tokkyo/index.html"
         }
       ],
@@ -9824,13 +10458,13 @@
       "region": "東京都"
     },
     {
-      "id": "pref-tokyo-6271828235",
+      "id": "prefecture-tokyo-5910607786",
       "title": "【東京都】募集前 外国商標出願費用助成事業 外国商標出願に要する費用の助成 【担当】 東京都知的財産総合センター（TEL：03-3832-3656） 助成限度額 60 万円 助成率 1/2 以内 中小企業者 個",
       "institution": "東京都",
       "detail_url": "https://www.tokyo-kosha.or.jp/chizai/josei/shohyo/index.html",
       "summary_url": null,
       "source_system": "prefecture",
-      "source_name": "自治体パイロット（岩手・東京・大阪・福岡）",
+      "source_name": "都道府県ポータル（全国ロールアウト）",
       "industry_slugs": [
         "untagged"
       ],
@@ -9838,12 +10472,12 @@
       "acceptance_end_datetime": null,
       "subsidy_max_limit": null,
       "subsidy_rate": null,
-      "use_purpose": "自治体独自制度（パイロット）",
+      "use_purpose": "自治体独自制度（prefecture）",
       "dedup_key": "b5972e4be29db4c3",
       "sources": [
         {
           "system": "prefecture",
-          "name": "自治体パイロット（岩手・東京・大阪・福岡）",
+          "name": "都道府県ポータル（全国ロールアウト）",
           "url": "https://www.tokyo-kosha.or.jp/chizai/josei/shohyo/index.html"
         }
       ],
@@ -9851,13 +10485,13 @@
       "region": "東京都"
     },
     {
-      "id": "pref-tokyo-7945361879",
+      "id": "prefecture-tokyo-985468047",
       "title": "【東京都】募集前 外国意匠出願費用助成事業 外国意匠出願に要する費用の助成 【担当】 東京都知的財産総合センター（TEL：03-3832-3656） 助成限度額 60 万円 助成率 1/2 以内 中小企業者 個",
       "institution": "東京都",
       "detail_url": "https://www.tokyo-kosha.or.jp/chizai/josei/isho/index.html",
       "summary_url": null,
       "source_system": "prefecture",
-      "source_name": "自治体パイロット（岩手・東京・大阪・福岡）",
+      "source_name": "都道府県ポータル（全国ロールアウト）",
       "industry_slugs": [
         "untagged"
       ],
@@ -9865,12 +10499,12 @@
       "acceptance_end_datetime": null,
       "subsidy_max_limit": null,
       "subsidy_rate": null,
-      "use_purpose": "自治体独自制度（パイロット）",
+      "use_purpose": "自治体独自制度（prefecture）",
       "dedup_key": "ca6d0a0ec1970f98",
       "sources": [
         {
           "system": "prefecture",
-          "name": "自治体パイロット（岩手・東京・大阪・福岡）",
+          "name": "都道府県ポータル（全国ロールアウト）",
           "url": "https://www.tokyo-kosha.or.jp/chizai/josei/isho/index.html"
         }
       ],
@@ -9878,13 +10512,13 @@
       "region": "東京都"
     },
     {
-      "id": "pref-tokyo-746760963",
+      "id": "prefecture-tokyo-8385233370",
       "title": "【東京都】募集中 海外商標対策支援助成事業 他社類似商標等の取消しまたは無効化する取り組みに要する費用の助成 【担当】 東京都知的財産総合センター（TEL：03-3832-3656） 助成限度額 500 万円",
       "institution": "東京都",
       "detail_url": "https://www.tokyo-kosha.or.jp/chizai/josei/syouhyoutaisaku/index.html",
       "summary_url": null,
       "source_system": "prefecture",
-      "source_name": "自治体パイロット（岩手・東京・大阪・福岡）",
+      "source_name": "都道府県ポータル（全国ロールアウト）",
       "industry_slugs": [
         "untagged"
       ],
@@ -9892,12 +10526,12 @@
       "acceptance_end_datetime": null,
       "subsidy_max_limit": null,
       "subsidy_rate": null,
-      "use_purpose": "自治体独自制度（パイロット）",
+      "use_purpose": "自治体独自制度（prefecture）",
       "dedup_key": "e7518df00ad80c6c",
       "sources": [
         {
           "system": "prefecture",
-          "name": "自治体パイロット（岩手・東京・大阪・福岡）",
+          "name": "都道府県ポータル（全国ロールアウト）",
           "url": "https://www.tokyo-kosha.or.jp/chizai/josei/syouhyoutaisaku/index.html"
         }
       ],
@@ -9905,13 +10539,13 @@
       "region": "東京都"
     },
     {
-      "id": "pref-tokyo-9989457036",
+      "id": "prefecture-tokyo-4847367804",
       "title": "【東京都】募集中 外国著作権登録費用助成事業 外国著作権登録に要する費用の助成 【担当】 東京都知的財産総合センター（TEL：03-3832-3656） 助成限度額 10 万円 助成率 1/2 以内 中小企業者",
       "institution": "東京都",
       "detail_url": "https://www.tokyo-kosha.or.jp/chizai/josei/chosaku/index.html",
       "summary_url": null,
       "source_system": "prefecture",
-      "source_name": "自治体パイロット（岩手・東京・大阪・福岡）",
+      "source_name": "都道府県ポータル（全国ロールアウト）",
       "industry_slugs": [
         "untagged"
       ],
@@ -9919,12 +10553,12 @@
       "acceptance_end_datetime": null,
       "subsidy_max_limit": null,
       "subsidy_rate": null,
-      "use_purpose": "自治体独自制度（パイロット）",
+      "use_purpose": "自治体独自制度（prefecture）",
       "dedup_key": "db371dcd96ae11db",
       "sources": [
         {
           "system": "prefecture",
-          "name": "自治体パイロット（岩手・東京・大阪・福岡）",
+          "name": "都道府県ポータル（全国ロールアウト）",
           "url": "https://www.tokyo-kosha.or.jp/chizai/josei/chosaku/index.html"
         }
       ],
@@ -9932,13 +10566,13 @@
       "region": "東京都"
     },
     {
-      "id": "pref-tokyo-4494304362",
+      "id": "prefecture-tokyo-7439821668",
       "title": "【東京都】募集中 特許調査費用助成事業 開発戦略策定等を目的とした他社特許調査に要する費用の助成 【担当】 東京都知的財産総合センター（TEL：03-3832-3656） 助成限度額 100 万円 助成率 1/",
       "institution": "東京都",
       "detail_url": "https://www.tokyo-kosha.or.jp/chizai/josei/chosa/index.html",
       "summary_url": null,
       "source_system": "prefecture",
-      "source_name": "自治体パイロット（岩手・東京・大阪・福岡）",
+      "source_name": "都道府県ポータル（全国ロールアウト）",
       "industry_slugs": [
         "untagged"
       ],
@@ -9946,12 +10580,12 @@
       "acceptance_end_datetime": null,
       "subsidy_max_limit": null,
       "subsidy_rate": null,
-      "use_purpose": "自治体独自制度（パイロット）",
+      "use_purpose": "自治体独自制度（prefecture）",
       "dedup_key": "000136e1dc13ad24",
       "sources": [
         {
           "system": "prefecture",
-          "name": "自治体パイロット（岩手・東京・大阪・福岡）",
+          "name": "都道府県ポータル（全国ロールアウト）",
           "url": "https://www.tokyo-kosha.or.jp/chizai/josei/chosa/index.html"
         }
       ],
@@ -9959,13 +10593,13 @@
       "region": "東京都"
     },
     {
-      "id": "pref-tokyo-7647269034",
+      "id": "prefecture-tokyo-7388398321",
       "title": "【東京都】募集中 外国侵害調査費用助成事業 外国における自社製品・技術の模倣又は権利侵害等の対策に要する費用の助成 【担当】 東京都知的財産総合センター（TEL：03-3832-3656） 助成限度額 200",
       "institution": "東京都",
       "detail_url": "https://www.tokyo-kosha.or.jp/chizai/josei/shingai/index.html",
       "summary_url": null,
       "source_system": "prefecture",
-      "source_name": "自治体パイロット（岩手・東京・大阪・福岡）",
+      "source_name": "都道府県ポータル（全国ロールアウト）",
       "industry_slugs": [
         "untagged"
       ],
@@ -9973,12 +10607,12 @@
       "acceptance_end_datetime": null,
       "subsidy_max_limit": null,
       "subsidy_rate": null,
-      "use_purpose": "自治体独自制度（パイロット）",
+      "use_purpose": "自治体独自制度（prefecture）",
       "dedup_key": "a3fb8dc1fc9c3147",
       "sources": [
         {
           "system": "prefecture",
-          "name": "自治体パイロット（岩手・東京・大阪・福岡）",
+          "name": "都道府県ポータル（全国ロールアウト）",
           "url": "https://www.tokyo-kosha.or.jp/chizai/josei/shingai/index.html"
         }
       ],
@@ -9986,13 +10620,13 @@
       "region": "東京都"
     },
     {
-      "id": "pref-tokyo-8510365469",
+      "id": "prefecture-tokyo-4025742449",
       "title": "【東京都】募集中 躍進的な事業推進のための設備投資支援事業 設備やシステム（ハード/ソフト等）導入に利用できる助成金 【担当】 設備支援課（TEL：03-3251-7884） 助成限度額 2 億円 助成率 4/",
       "institution": "東京都",
       "detail_url": "https://www.tokyo-kosha.or.jp/support/josei/setsubijosei/yakushin.html",
       "summary_url": null,
       "source_system": "prefecture",
-      "source_name": "自治体パイロット（岩手・東京・大阪・福岡）",
+      "source_name": "都道府県ポータル（全国ロールアウト）",
       "industry_slugs": [
         "untagged"
       ],
@@ -10000,12 +10634,12 @@
       "acceptance_end_datetime": null,
       "subsidy_max_limit": null,
       "subsidy_rate": null,
-      "use_purpose": "自治体独自制度（パイロット）",
+      "use_purpose": "自治体独自制度（prefecture）",
       "dedup_key": "d56f96a0287f77dd",
       "sources": [
         {
           "system": "prefecture",
-          "name": "自治体パイロット（岩手・東京・大阪・福岡）",
+          "name": "都道府県ポータル（全国ロールアウト）",
           "url": "https://www.tokyo-kosha.or.jp/support/josei/setsubijosei/yakushin.html"
         }
       ],
@@ -10013,13 +10647,13 @@
       "region": "東京都"
     },
     {
-      "id": "pref-tokyo-9740466794",
+      "id": "prefecture-tokyo-9495424752",
       "title": "【東京都】第1回 募集終了 事業承継支援助成金 事業承継や経営改善に向けて、外部専門家等に委託して行う取組に要する経費の一部を助成します。 【担当】 総合支援課（TEL：03-3251-7885） 助成限度額",
       "institution": "東京都",
       "detail_url": "https://www.tokyo-kosha.or.jp/support/josei/jigyo/shoukei.html",
       "summary_url": null,
       "source_system": "prefecture",
-      "source_name": "自治体パイロット（岩手・東京・大阪・福岡）",
+      "source_name": "都道府県ポータル（全国ロールアウト）",
       "industry_slugs": [
         "untagged"
       ],
@@ -10027,12 +10661,12 @@
       "acceptance_end_datetime": null,
       "subsidy_max_limit": null,
       "subsidy_rate": null,
-      "use_purpose": "自治体独自制度（パイロット）",
+      "use_purpose": "自治体独自制度（prefecture）",
       "dedup_key": "b9b2b90fc8df40d5",
       "sources": [
         {
           "system": "prefecture",
-          "name": "自治体パイロット（岩手・東京・大阪・福岡）",
+          "name": "都道府県ポータル（全国ロールアウト）",
           "url": "https://www.tokyo-kosha.or.jp/support/josei/jigyo/shoukei.html"
         }
       ],
@@ -10040,13 +10674,13 @@
       "region": "東京都"
     },
     {
-      "id": "pref-tokyo-2416133204",
+      "id": "prefecture-tokyo-9045238428",
       "title": "【東京都】第1回 募集中 事業承継を契機とした成長支援事業（販路開拓コース） 事業承継後の後継者による新規販路開拓事業を、東京都の助成金で支援 【申請受付期間】 第1回：令和8年7月1日から7月31日16時まで",
       "institution": "東京都",
       "detail_url": "https://www.tokyo-kosha.or.jp/support/josei/jigyo/shokei-seicho-hanro/index.html",
       "summary_url": null,
       "source_system": "prefecture",
-      "source_name": "自治体パイロット（岩手・東京・大阪・福岡）",
+      "source_name": "都道府県ポータル（全国ロールアウト）",
       "industry_slugs": [
         "untagged"
       ],
@@ -10054,12 +10688,12 @@
       "acceptance_end_datetime": null,
       "subsidy_max_limit": null,
       "subsidy_rate": null,
-      "use_purpose": "自治体独自制度（パイロット）",
+      "use_purpose": "自治体独自制度（prefecture）",
       "dedup_key": "97f7300f7762b53e",
       "sources": [
         {
           "system": "prefecture",
-          "name": "自治体パイロット（岩手・東京・大阪・福岡）",
+          "name": "都道府県ポータル（全国ロールアウト）",
           "url": "https://www.tokyo-kosha.or.jp/support/josei/jigyo/shokei-seicho-hanro/index.html"
         }
       ],
@@ -10067,13 +10701,13 @@
       "region": "東京都"
     },
     {
-      "id": "pref-tokyo-9588345980",
+      "id": "prefecture-tokyo-9947459452",
       "title": "【東京都】第2回 募集前 事業承継を契機とした成長支援事業（一般コース） 事業承継後の後継者の新規事業展開の取組を支援 【申請受付】 第1回：令和8年5月18日～6月17日 第2回：令和8年9月1日～9月30日",
       "institution": "東京都",
       "detail_url": "https://www.tokyo-kosha.or.jp/support/josei/jigyo/shokei-seicho/index.html",
       "summary_url": null,
       "source_system": "prefecture",
-      "source_name": "自治体パイロット（岩手・東京・大阪・福岡）",
+      "source_name": "都道府県ポータル（全国ロールアウト）",
       "industry_slugs": [
         "untagged"
       ],
@@ -10081,12 +10715,12 @@
       "acceptance_end_datetime": null,
       "subsidy_max_limit": null,
       "subsidy_rate": null,
-      "use_purpose": "自治体独自制度（パイロット）",
+      "use_purpose": "自治体独自制度（prefecture）",
       "dedup_key": "85e1143c7c315e7f",
       "sources": [
         {
           "system": "prefecture",
-          "name": "自治体パイロット（岩手・東京・大阪・福岡）",
+          "name": "都道府県ポータル（全国ロールアウト）",
           "url": "https://www.tokyo-kosha.or.jp/support/josei/jigyo/shokei-seicho/index.html"
         }
       ],
@@ -10094,13 +10728,13 @@
       "region": "東京都"
     },
     {
-      "id": "pref-tokyo-1530781211",
+      "id": "prefecture-tokyo-7922552580",
       "title": "【東京都】募集前 令和8年度 募集要項等 公開中 サイバーセキュリティ対策促進助成金 サイバーセキュリティの向上のために必要な設備等の導入に利用できる助成金 【担当】 設備支援課（TEL：03-3251-788",
       "institution": "東京都",
       "detail_url": "https://www.tokyo-kosha.or.jp/support/josei/setsubijosei/cyber.html",
       "summary_url": null,
       "source_system": "prefecture",
-      "source_name": "自治体パイロット（岩手・東京・大阪・福岡）",
+      "source_name": "都道府県ポータル（全国ロールアウト）",
       "industry_slugs": [
         "g17-digital-cyber"
       ],
@@ -10110,12 +10744,12 @@
       "acceptance_end_datetime": null,
       "subsidy_max_limit": null,
       "subsidy_rate": null,
-      "use_purpose": "自治体独自制度（パイロット）",
+      "use_purpose": "自治体独自制度（prefecture）",
       "dedup_key": "ba9a6e4a04409259",
       "sources": [
         {
           "system": "prefecture",
-          "name": "自治体パイロット（岩手・東京・大阪・福岡）",
+          "name": "都道府県ポータル（全国ロールアウト）",
           "url": "https://www.tokyo-kosha.or.jp/support/josei/setsubijosei/cyber.html"
         }
       ],
@@ -10123,13 +10757,13 @@
       "region": "東京都"
     },
     {
-      "id": "pref-tokyo-9592612236",
+      "id": "prefecture-tokyo-303103118",
       "title": "【東京都】募集前 令和8年度 募集要項等 公開中 BCP実践促進助成金 策定したBCPを実践するために必要となる基本的な物品や設備等の導入に利用できる助成金 【担当】 設備支援課（TEL：03-3251-788",
       "institution": "東京都",
       "detail_url": "https://www.tokyo-kosha.or.jp/support/josei/setsubijosei/bcp.html",
       "summary_url": null,
       "source_system": "prefecture",
-      "source_name": "自治体パイロット（岩手・東京・大阪・福岡）",
+      "source_name": "都道府県ポータル（全国ロールアウト）",
       "industry_slugs": [
         "g17-disaster-resilience"
       ],
@@ -10139,12 +10773,12 @@
       "acceptance_end_datetime": null,
       "subsidy_max_limit": null,
       "subsidy_rate": null,
-      "use_purpose": "自治体独自制度（パイロット）",
+      "use_purpose": "自治体独自制度（prefecture）",
       "dedup_key": "824c8b2a12221317",
       "sources": [
         {
           "system": "prefecture",
-          "name": "自治体パイロット（岩手・東京・大阪・福岡）",
+          "name": "都道府県ポータル（全国ロールアウト）",
           "url": "https://www.tokyo-kosha.or.jp/support/josei/setsubijosei/bcp.html"
         }
       ],
@@ -10152,13 +10786,13 @@
       "region": "東京都"
     },
     {
-      "id": "pref-tokyo-3932804235",
+      "id": "prefecture-tokyo-7143406270",
       "title": "【東京都】令和8年度 募集中 展示会出展助成事業 展示会出展等に利用できる助成金 【担当】 助成課（TEL：03-3251-7895） 助成限度額 150 万円 助成率 2/3 以内 中小企業者 個人事業主",
       "institution": "東京都",
       "detail_url": "https://www.tokyo-kosha.or.jp/support/josei/jigyo/tenjikai/r8/index.html",
       "summary_url": null,
       "source_system": "prefecture",
-      "source_name": "自治体パイロット（岩手・東京・大阪・福岡）",
+      "source_name": "都道府県ポータル（全国ロールアウト）",
       "industry_slugs": [
         "untagged"
       ],
@@ -10166,12 +10800,12 @@
       "acceptance_end_datetime": null,
       "subsidy_max_limit": null,
       "subsidy_rate": null,
-      "use_purpose": "自治体独自制度（パイロット）",
+      "use_purpose": "自治体独自制度（prefecture）",
       "dedup_key": "bddafbd2e2f893b5",
       "sources": [
         {
           "system": "prefecture",
-          "name": "自治体パイロット（岩手・東京・大阪・福岡）",
+          "name": "都道府県ポータル（全国ロールアウト）",
           "url": "https://www.tokyo-kosha.or.jp/support/josei/jigyo/tenjikai/r8/index.html"
         }
       ],
@@ -10179,13 +10813,13 @@
       "region": "東京都"
     },
     {
-      "id": "pref-tokyo-3019206260",
+      "id": "prefecture-tokyo-6993276873",
       "title": "【東京都】令和​7年度 受付終了 広域ものづくりネットワーク形成支援事業（技術提案助成 / 新事業展開助成） 複数の中小企業が連携して行う、大手企業等への製品・技術提案や自社事業の新規展開に必要な試作品開発に利",
       "institution": "東京都",
       "detail_url": "https://www.tokyo-kosha.or.jp/support/shien/monozukuri/index.html",
       "summary_url": null,
       "source_system": "prefecture",
-      "source_name": "自治体パイロット（岩手・東京・大阪・福岡）",
+      "source_name": "都道府県ポータル（全国ロールアウト）",
       "industry_slugs": [
         "manufacturing-total"
       ],
@@ -10193,12 +10827,12 @@
       "acceptance_end_datetime": null,
       "subsidy_max_limit": null,
       "subsidy_rate": null,
-      "use_purpose": "自治体独自制度（パイロット）",
+      "use_purpose": "自治体独自制度（prefecture）",
       "dedup_key": "9c1a2f28f1d81750",
       "sources": [
         {
           "system": "prefecture",
-          "name": "自治体パイロット（岩手・東京・大阪・福岡）",
+          "name": "都道府県ポータル（全国ロールアウト）",
           "url": "https://www.tokyo-kosha.or.jp/support/shien/monozukuri/index.html"
         }
       ],
@@ -10206,13 +10840,13 @@
       "region": "東京都"
     },
     {
-      "id": "pref-tokyo-8748719264",
+      "id": "prefecture-tokyo-9842320073",
       "title": "【東京都】令和7年度 受付終了 製品開発着手支援助成事業 外部資源を活用した製品開発等の企画・構想段階に利用できる助成金 【担当】 助成課（TEL：03-3251-7894） 助成限度額 100 万円（下限額：",
       "institution": "東京都",
       "detail_url": "https://www.tokyo-kosha.or.jp/support/josei/jigyo/chakushu.html",
       "summary_url": null,
       "source_system": "prefecture",
-      "source_name": "自治体パイロット（岩手・東京・大阪・福岡）",
+      "source_name": "都道府県ポータル（全国ロールアウト）",
       "industry_slugs": [
         "untagged"
       ],
@@ -10220,12 +10854,12 @@
       "acceptance_end_datetime": null,
       "subsidy_max_limit": null,
       "subsidy_rate": null,
-      "use_purpose": "自治体独自制度（パイロット）",
+      "use_purpose": "自治体独自制度（prefecture）",
       "dedup_key": "a755eb4bef73b156",
       "sources": [
         {
           "system": "prefecture",
-          "name": "自治体パイロット（岩手・東京・大阪・福岡）",
+          "name": "都道府県ポータル（全国ロールアウト）",
           "url": "https://www.tokyo-kosha.or.jp/support/josei/jigyo/chakushu.html"
         }
       ],
@@ -10233,13 +10867,13 @@
       "region": "東京都"
     },
     {
-      "id": "pref-tokyo-3152543615",
+      "id": "prefecture-tokyo-4802077682",
       "title": "【東京都】令和7年度 受付終了 製品改良／規格適合・認証取得支援事業 製品改良や規格適合、認証取得に利用できる助成金 【担当】 助成課（TEL：03-3251-7894） 助成限度額 500 万円（下限額：50",
       "institution": "東京都",
       "detail_url": "https://www.tokyo-kosha.or.jp/support/josei/jigyo/kairyo.html",
       "summary_url": null,
       "source_system": "prefecture",
-      "source_name": "自治体パイロット（岩手・東京・大阪・福岡）",
+      "source_name": "都道府県ポータル（全国ロールアウト）",
       "industry_slugs": [
         "untagged"
       ],
@@ -10247,12 +10881,12 @@
       "acceptance_end_datetime": null,
       "subsidy_max_limit": null,
       "subsidy_rate": null,
-      "use_purpose": "自治体独自制度（パイロット）",
+      "use_purpose": "自治体独自制度（prefecture）",
       "dedup_key": "28179e53beab939a",
       "sources": [
         {
           "system": "prefecture",
-          "name": "自治体パイロット（岩手・東京・大阪・福岡）",
+          "name": "都道府県ポータル（全国ロールアウト）",
           "url": "https://www.tokyo-kosha.or.jp/support/josei/jigyo/kairyo.html"
         }
       ],
@@ -10260,13 +10894,13 @@
       "region": "東京都"
     },
     {
-      "id": "pref-tokyo-882987782",
+      "id": "prefecture-tokyo-9046742158",
       "title": "【東京都】令和​7年度 受付終了 介護現場のニーズに対応した製品開発支援事業 介護現場のニーズに対応した次世代介護機器等の開発・改良・普及に利用できる助成金 【担当】 助成課（TEL：03-3251-7894）",
       "institution": "東京都",
       "detail_url": "https://www.tokyo-kosha.or.jp/support/josei/jigyo/kaigoneeds/index.html",
       "summary_url": null,
       "source_system": "prefecture",
-      "source_name": "自治体パイロット（岩手・東京・大阪・福岡）",
+      "source_name": "都道府県ポータル（全国ロールアウト）",
       "industry_slugs": [
         "untagged"
       ],
@@ -10274,12 +10908,12 @@
       "acceptance_end_datetime": null,
       "subsidy_max_limit": null,
       "subsidy_rate": null,
-      "use_purpose": "自治体独自制度（パイロット）",
+      "use_purpose": "自治体独自制度（prefecture）",
       "dedup_key": "acd5884094be0724",
       "sources": [
         {
           "system": "prefecture",
-          "name": "自治体パイロット（岩手・東京・大阪・福岡）",
+          "name": "都道府県ポータル（全国ロールアウト）",
           "url": "https://www.tokyo-kosha.or.jp/support/josei/jigyo/kaigoneeds/index.html"
         }
       ],
@@ -10287,13 +10921,13 @@
       "region": "東京都"
     },
     {
-      "id": "pref-tokyo-8939143094",
+      "id": "prefecture-tokyo-7707572143",
       "title": "【東京都】令和7年度​ 受付終了 TOKYO地域資源等を活用したイノベーション創出事業 地域資源を活用または東京の都市課題の解決に資する製品・サービスの開発に利用できる助成金 【担当】 助成課（TEL：03-3",
       "institution": "東京都",
       "detail_url": "https://www.tokyo-kosha.or.jp/support/josei/jigyo/chiiki.html",
       "summary_url": null,
       "source_system": "prefecture",
-      "source_name": "自治体パイロット（岩手・東京・大阪・福岡）",
+      "source_name": "都道府県ポータル（全国ロールアウト）",
       "industry_slugs": [
         "untagged"
       ],
@@ -10301,12 +10935,12 @@
       "acceptance_end_datetime": null,
       "subsidy_max_limit": null,
       "subsidy_rate": null,
-      "use_purpose": "自治体独自制度（パイロット）",
+      "use_purpose": "自治体独自制度（prefecture）",
       "dedup_key": "3255f4221b489ad4",
       "sources": [
         {
           "system": "prefecture",
-          "name": "自治体パイロット（岩手・東京・大阪・福岡）",
+          "name": "都道府県ポータル（全国ロールアウト）",
           "url": "https://www.tokyo-kosha.or.jp/support/josei/jigyo/chiiki.html"
         }
       ],
@@ -10314,13 +10948,13 @@
       "region": "東京都"
     },
     {
-      "id": "pref-tokyo-6160609954",
+      "id": "prefecture-tokyo-5448595345",
       "title": "【東京都】令和7年度 受付終了 高齢者向け新ビジネス創出支援事業 【目的】 都内中小企業者等が高齢者市場でビジネスチャンスを獲得できるよう、製品・サービスの開発・改良や設備投資等を支援 【担当】 助成課 高齢者",
       "institution": "東京都",
       "detail_url": "https://www.tokyo-kosha.or.jp/support/josei/jigyo/koureisha/index.html",
       "summary_url": null,
       "source_system": "prefecture",
-      "source_name": "自治体パイロット（岩手・東京・大阪・福岡）",
+      "source_name": "都道府県ポータル（全国ロールアウト）",
       "industry_slugs": [
         "untagged"
       ],
@@ -10328,12 +10962,12 @@
       "acceptance_end_datetime": null,
       "subsidy_max_limit": null,
       "subsidy_rate": null,
-      "use_purpose": "自治体独自制度（パイロット）",
+      "use_purpose": "自治体独自制度（prefecture）",
       "dedup_key": "b26416645eca99bb",
       "sources": [
         {
           "system": "prefecture",
-          "name": "自治体パイロット（岩手・東京・大阪・福岡）",
+          "name": "都道府県ポータル（全国ロールアウト）",
           "url": "https://www.tokyo-kosha.or.jp/support/josei/jigyo/koureisha/index.html"
         }
       ],
@@ -10341,13 +10975,13 @@
       "region": "東京都"
     },
     {
-      "id": "pref-tokyo-5492161734",
+      "id": "prefecture-tokyo-7386473948",
       "title": "【東京都】令和7年度 受付終了 安全・安心な東京の実現に向けた製品開発支援事業 自然災害等の様々なリスクに対処する危機管理製品を実用化するための助成金 【担当】 助成課（TEL：03-3251-7894） 助成",
       "institution": "東京都",
       "detail_url": "https://www.tokyo-kosha.or.jp/support/josei/jigyo/anzen-anshin.html",
       "summary_url": null,
       "source_system": "prefecture",
-      "source_name": "自治体パイロット（岩手・東京・大阪・福岡）",
+      "source_name": "都道府県ポータル（全国ロールアウト）",
       "industry_slugs": [
         "untagged"
       ],
@@ -10355,12 +10989,12 @@
       "acceptance_end_datetime": null,
       "subsidy_max_limit": null,
       "subsidy_rate": null,
-      "use_purpose": "自治体独自制度（パイロット）",
+      "use_purpose": "自治体独自制度（prefecture）",
       "dedup_key": "7e1f7ce3e65e27b9",
       "sources": [
         {
           "system": "prefecture",
-          "name": "自治体パイロット（岩手・東京・大阪・福岡）",
+          "name": "都道府県ポータル（全国ロールアウト）",
           "url": "https://www.tokyo-kosha.or.jp/support/josei/jigyo/anzen-anshin.html"
         }
       ],
@@ -10368,13 +11002,13 @@
       "region": "東京都"
     },
     {
-      "id": "pref-tokyo-3138194846",
+      "id": "prefecture-tokyo-1751254236",
       "title": "【東京都】募集中 医療機器等事業化支援助成事業 医療機器等の製品開発から事業化に利用できる助成金 【担当】 取引振興課（TEL：03-5822-7250） 助成限度額 5,000 万円 助成率 2/3 以内 中",
       "institution": "東京都",
       "detail_url": "https://www.tokyo-kosha.or.jp/support/josei/medical/index.html",
       "summary_url": null,
       "source_system": "prefecture",
-      "source_name": "自治体パイロット（岩手・東京・大阪・福岡）",
+      "source_name": "都道府県ポータル（全国ロールアウト）",
       "industry_slugs": [
         "g17-pharma-advanced-med"
       ],
@@ -10384,12 +11018,12 @@
       "acceptance_end_datetime": null,
       "subsidy_max_limit": null,
       "subsidy_rate": null,
-      "use_purpose": "自治体独自制度（パイロット）",
+      "use_purpose": "自治体独自制度（prefecture）",
       "dedup_key": "9f21c50a2ec6f15d",
       "sources": [
         {
           "system": "prefecture",
-          "name": "自治体パイロット（岩手・東京・大阪・福岡）",
+          "name": "都道府県ポータル（全国ロールアウト）",
           "url": "https://www.tokyo-kosha.or.jp/support/josei/medical/index.html"
         }
       ],
@@ -10397,13 +11031,13 @@
       "region": "東京都"
     },
     {
-      "id": "pref-tokyo-8652544146",
+      "id": "prefecture-tokyo-6925672769",
       "title": "【東京都】令和7年度 受付終了 事業環境変化に対応した経営基盤強化事業（賃上げ重点コース） コロナ後の需要回復や消費者ニーズを捉えた経営基盤の強化に向け、各社がこれまで実施してきた事業をさらに深化・発展させる取",
       "institution": "東京都",
       "detail_url": "https://www.tokyo-kosha.or.jp/support/josei/jigyo/kankyo-juuten/index.html",
       "summary_url": null,
       "source_system": "prefecture",
-      "source_name": "自治体パイロット（岩手・東京・大阪・福岡）",
+      "source_name": "都道府県ポータル（全国ロールアウト）",
       "industry_slugs": [
         "untagged"
       ],
@@ -10411,12 +11045,12 @@
       "acceptance_end_datetime": null,
       "subsidy_max_limit": null,
       "subsidy_rate": null,
-      "use_purpose": "自治体独自制度（パイロット）",
+      "use_purpose": "自治体独自制度（prefecture）",
       "dedup_key": "c4ed9205380dc3ba",
       "sources": [
         {
           "system": "prefecture",
-          "name": "自治体パイロット（岩手・東京・大阪・福岡）",
+          "name": "都道府県ポータル（全国ロールアウト）",
           "url": "https://www.tokyo-kosha.or.jp/support/josei/jigyo/kankyo-juuten/index.html"
         }
       ],
@@ -10424,13 +11058,13 @@
       "region": "東京都"
     },
     {
-      "id": "pref-tokyo-4911650947",
+      "id": "prefecture-tokyo-3714579234",
       "title": "【東京都】令和7年度 受付終了 事業環境変化に対応した経営基盤強化事業（小規模事業者向けアシストコース） コロナ後の需要回復や消費者ニーズを捉えた経営基盤の強化に向け、既存事業を深化・発展させる生産性向上や業務",
       "institution": "東京都",
       "detail_url": "https://www.tokyo-kosha.or.jp/support/josei/jigyo/shokibo-sokuo/index.html",
       "summary_url": null,
       "source_system": "prefecture",
-      "source_name": "自治体パイロット（岩手・東京・大阪・福岡）",
+      "source_name": "都道府県ポータル（全国ロールアウト）",
       "industry_slugs": [
         "untagged"
       ],
@@ -10438,12 +11072,12 @@
       "acceptance_end_datetime": null,
       "subsidy_max_limit": null,
       "subsidy_rate": null,
-      "use_purpose": "自治体独自制度（パイロット）",
+      "use_purpose": "自治体独自制度（prefecture）",
       "dedup_key": "b99c78e5dde1d9b9",
       "sources": [
         {
           "system": "prefecture",
-          "name": "自治体パイロット（岩手・東京・大阪・福岡）",
+          "name": "都道府県ポータル（全国ロールアウト）",
           "url": "https://www.tokyo-kosha.or.jp/support/josei/jigyo/shokibo-sokuo/index.html"
         }
       ],
@@ -10451,13 +11085,13 @@
       "region": "東京都"
     },
     {
-      "id": "pref-tokyo-8332591492",
+      "id": "prefecture-tokyo-5140154059",
       "title": "【東京都】令和7年度 受付終了 事業環境変化に対応した経営基盤強化事業（一般コース） コロナ後の需要回復や消費者ニーズを捉えた経営基盤の強化に向け、各社がこれまで実施してきた事業をさらに深化・発展させる取組を支",
       "institution": "東京都",
       "detail_url": "https://www.tokyo-kosha.or.jp/support/josei/jigyo/kankyo-ippan/index.html",
       "summary_url": null,
       "source_system": "prefecture",
-      "source_name": "自治体パイロット（岩手・東京・大阪・福岡）",
+      "source_name": "都道府県ポータル（全国ロールアウト）",
       "industry_slugs": [
         "untagged"
       ],
@@ -10465,12 +11099,12 @@
       "acceptance_end_datetime": null,
       "subsidy_max_limit": null,
       "subsidy_rate": null,
-      "use_purpose": "自治体独自制度（パイロット）",
+      "use_purpose": "自治体独自制度（prefecture）",
       "dedup_key": "3e0e01749ce27095",
       "sources": [
         {
           "system": "prefecture",
-          "name": "自治体パイロット（岩手・東京・大阪・福岡）",
+          "name": "都道府県ポータル（全国ロールアウト）",
           "url": "https://www.tokyo-kosha.or.jp/support/josei/jigyo/kankyo-ippan/index.html"
         }
       ],
@@ -10478,13 +11112,13 @@
       "region": "東京都"
     },
     {
-      "id": "pref-tokyo-4061630266",
+      "id": "prefecture-tokyo-9829860058",
       "title": "【東京都】令和7年度 受付終了 緊急デジタル技術活用推進助成金 【目的】 生産性向上に向けたICT・AI・ロボット等、デジタル技術の導入・活用に要する経費の一部を助成 【担当】 生産性向上支援課（TEL:03-",
       "institution": "東京都",
       "detail_url": "https://iot-robot.jp/business/dx2024-02/",
       "summary_url": null,
       "source_system": "prefecture",
-      "source_name": "自治体パイロット（岩手・東京・大阪・福岡）",
+      "source_name": "都道府県ポータル（全国ロールアウト）",
       "industry_slugs": [
         "g17-ai-semiconductor"
       ],
@@ -10494,12 +11128,12 @@
       "acceptance_end_datetime": null,
       "subsidy_max_limit": null,
       "subsidy_rate": null,
-      "use_purpose": "自治体独自制度（パイロット）",
+      "use_purpose": "自治体独自制度（prefecture）",
       "dedup_key": "8159117ea7781417",
       "sources": [
         {
           "system": "prefecture",
-          "name": "自治体パイロット（岩手・東京・大阪・福岡）",
+          "name": "都道府県ポータル（全国ロールアウト）",
           "url": "https://iot-robot.jp/business/dx2024-02/"
         }
       ],
@@ -10507,13 +11141,13 @@
       "region": "東京都"
     },
     {
-      "id": "pref-tokyo-9457388010",
+      "id": "prefecture-tokyo-6200660652",
       "title": "【東京都】募集中 知的財産活用製品化支援助成事業 大企業等の保有する開放特許等の知的財産を活用して新製品開発するために要する費用の助成 【担当】 東京都知的財産総合センター（TEL：03-6284-3131）",
       "institution": "東京都",
       "detail_url": "https://www.tokyo-kosha.or.jp/chizai/josei/seihinka/",
       "summary_url": null,
       "source_system": "prefecture",
-      "source_name": "自治体パイロット（岩手・東京・大阪・福岡）",
+      "source_name": "都道府県ポータル（全国ロールアウト）",
       "industry_slugs": [
         "untagged"
       ],
@@ -10521,12 +11155,12 @@
       "acceptance_end_datetime": null,
       "subsidy_max_limit": null,
       "subsidy_rate": null,
-      "use_purpose": "自治体独自制度（パイロット）",
+      "use_purpose": "自治体独自制度（prefecture）",
       "dedup_key": "7f5014ab94478b28",
       "sources": [
         {
           "system": "prefecture",
-          "name": "自治体パイロット（岩手・東京・大阪・福岡）",
+          "name": "都道府県ポータル（全国ロールアウト）",
           "url": "https://www.tokyo-kosha.or.jp/chizai/josei/seihinka/"
         }
       ],
@@ -10534,13 +11168,13 @@
       "region": "東京都"
     },
     {
-      "id": "pref-tokyo-5686068602",
+      "id": "prefecture-tokyo-1118920240",
       "title": "【東京都】ハンズオン 支援採択者 のみ募集 スタートアップ知的財産支援助成事業 公社の支援を受ける企業が、知的財産の出願や権利化に向けた開発等に利用できる助成金 【担当】 東京都知的財産総合センター（TEL：0",
       "institution": "東京都",
       "detail_url": "https://www.tokyo-kosha.or.jp/chizai/startup/handson/",
       "summary_url": null,
       "source_system": "prefecture",
-      "source_name": "自治体パイロット（岩手・東京・大阪・福岡）",
+      "source_name": "都道府県ポータル（全国ロールアウト）",
       "industry_slugs": [
         "untagged"
       ],
@@ -10548,12 +11182,12 @@
       "acceptance_end_datetime": null,
       "subsidy_max_limit": null,
       "subsidy_rate": null,
-      "use_purpose": "自治体独自制度（パイロット）",
+      "use_purpose": "自治体独自制度（prefecture）",
       "dedup_key": "aab2c9f3717e8b15",
       "sources": [
         {
           "system": "prefecture",
-          "name": "自治体パイロット（岩手・東京・大阪・福岡）",
+          "name": "都道府県ポータル（全国ロールアウト）",
           "url": "https://www.tokyo-kosha.or.jp/chizai/startup/handson/"
         }
       ],
@@ -10561,13 +11195,13 @@
       "region": "東京都"
     },
     {
-      "id": "pref-tokyo-969207018",
+      "id": "prefecture-tokyo-2002308838",
       "title": "【東京都】令和7年度 募集終了 中小企業のサプライチェーンにおける脱炭素化促進支援事業 サプライチェーンで取り組むCO2排出量の見える化やCO2排出削減等に向けた一体的な事業活動を支援します。 【担当】 多摩支",
       "institution": "東京都",
       "detail_url": "https://www.tokyo-kosha.or.jp/support/josei/jigyo/supply_chain/index.html",
       "summary_url": null,
       "source_system": "prefecture",
-      "source_name": "自治体パイロット（岩手・東京・大阪・福岡）",
+      "source_name": "都道府県ポータル（全国ロールアウト）",
       "industry_slugs": [
         "g17-port-logistics",
         "g17-resources-gx"
@@ -10579,12 +11213,12 @@
       "acceptance_end_datetime": null,
       "subsidy_max_limit": null,
       "subsidy_rate": null,
-      "use_purpose": "自治体独自制度（パイロット）",
+      "use_purpose": "自治体独自制度（prefecture）",
       "dedup_key": "cd38573f1d98d1cc",
       "sources": [
         {
           "system": "prefecture",
-          "name": "自治体パイロット（岩手・東京・大阪・福岡）",
+          "name": "都道府県ポータル（全国ロールアウト）",
           "url": "https://www.tokyo-kosha.or.jp/support/josei/jigyo/supply_chain/index.html"
         }
       ],
@@ -10592,13 +11226,13 @@
       "region": "東京都"
     },
     {
-      "id": "pref-tokyo-7657429376",
+      "id": "prefecture-tokyo-2923840086",
       "title": "【東京都】令和7年度 受付終了 ゼロエミッション実現に向けた経営推進支援事業助成金（省エネ設備・自社PR） 【目的】 省エネ設備の導入や脱炭素化の​PRに要する費用の一部を助成。 ​※ハンズオン支援先のみ申請可",
       "institution": "東京都",
       "detail_url": "https://www.tokyo-kosha.or.jp/support/shien/zeroemi/projects/josei.html",
       "summary_url": null,
       "source_system": "prefecture",
-      "source_name": "自治体パイロット（岩手・東京・大阪・福岡）",
+      "source_name": "都道府県ポータル（全国ロールアウト）",
       "industry_slugs": [
         "g17-resources-gx"
       ],
@@ -10608,12 +11242,12 @@
       "acceptance_end_datetime": null,
       "subsidy_max_limit": null,
       "subsidy_rate": null,
-      "use_purpose": "自治体独自制度（パイロット）",
+      "use_purpose": "自治体独自制度（prefecture）",
       "dedup_key": "a4019750bcf8f2f7",
       "sources": [
         {
           "system": "prefecture",
-          "name": "自治体パイロット（岩手・東京・大阪・福岡）",
+          "name": "都道府県ポータル（全国ロールアウト）",
           "url": "https://www.tokyo-kosha.or.jp/support/shien/zeroemi/projects/josei.html"
         }
       ],
@@ -10621,13 +11255,13 @@
       "region": "東京都"
     },
     {
-      "id": "pref-tokyo-9225491473",
+      "id": "prefecture-tokyo-2848939255",
       "title": "【東京都】令和7年度 受付終了 中小企業の経営安定化に向けたエネルギー自給促進事業 公社の専門家の提案に基づき、創電や蓄電に必要な設備の導入に利用できる助成金 【担当】 エネルギー対策支援事務局（TEL：03-",
       "institution": "東京都",
       "detail_url": "https://www.tokyo-kosha.or.jp/support/josei/jigyo/energy_jikyu.html",
       "summary_url": null,
       "source_system": "prefecture",
-      "source_name": "自治体パイロット（岩手・東京・大阪・福岡）",
+      "source_name": "都道府県ポータル（全国ロールアウト）",
       "industry_slugs": [
         "untagged"
       ],
@@ -10635,12 +11269,12 @@
       "acceptance_end_datetime": null,
       "subsidy_max_limit": null,
       "subsidy_rate": null,
-      "use_purpose": "自治体独自制度（パイロット）",
+      "use_purpose": "自治体独自制度（prefecture）",
       "dedup_key": "dc7bd80d5b6fd23d",
       "sources": [
         {
           "system": "prefecture",
-          "name": "自治体パイロット（岩手・東京・大阪・福岡）",
+          "name": "都道府県ポータル（全国ロールアウト）",
           "url": "https://www.tokyo-kosha.or.jp/support/josei/jigyo/energy_jikyu.html"
         }
       ],
@@ -10648,13 +11282,13 @@
       "region": "東京都"
     },
     {
-      "id": "pref-tokyo-8385561375",
+      "id": "prefecture-tokyo-2565038748",
       "title": "【東京都】令和7年度 受付終了 経営統合等による産業力強化支援事業 経営統合等を契機とした新たな取組として、東京都内に「工場を新設・増改築」等する際の経費の一部を助成 【担当】 取引振興課（TEL：03-582",
       "institution": "東京都",
       "detail_url": "https://www.tokyo-kosha.or.jp/support/josei/keiei_togo/index.html",
       "summary_url": null,
       "source_system": "prefecture",
-      "source_name": "自治体パイロット（岩手・東京・大阪・福岡）",
+      "source_name": "都道府県ポータル（全国ロールアウト）",
       "industry_slugs": [
         "manufacturing-total"
       ],
@@ -10662,12 +11296,12 @@
       "acceptance_end_datetime": null,
       "subsidy_max_limit": null,
       "subsidy_rate": null,
-      "use_purpose": "自治体独自制度（パイロット）",
+      "use_purpose": "自治体独自制度（prefecture）",
       "dedup_key": "cd96e5d63c8e2af4",
       "sources": [
         {
           "system": "prefecture",
-          "name": "自治体パイロット（岩手・東京・大阪・福岡）",
+          "name": "都道府県ポータル（全国ロールアウト）",
           "url": "https://www.tokyo-kosha.or.jp/support/josei/keiei_togo/index.html"
         }
       ],
@@ -10675,13 +11309,13 @@
       "region": "東京都"
     },
     {
-      "id": "pref-tokyo-7854129217",
+      "id": "prefecture-tokyo-4382086570",
       "title": "【東京都】令和7年度 受付終了 オフィスビル等のエネルギー効率化による経営安定事業 【目的】 都内に所有しているオフィスビル等の省エネ化、創エネ化に取り組む中小企業者に対し、専門家の診断・助言に基づく省エネ、創",
       "institution": "東京都",
       "detail_url": "https://www.tokyo-kosha.or.jp/support/josei/jigyo/building_energy.html",
       "summary_url": null,
       "source_system": "prefecture",
-      "source_name": "自治体パイロット（岩手・東京・大阪・福岡）",
+      "source_name": "都道府県ポータル（全国ロールアウト）",
       "industry_slugs": [
         "g17-resources-gx"
       ],
@@ -10691,12 +11325,12 @@
       "acceptance_end_datetime": null,
       "subsidy_max_limit": null,
       "subsidy_rate": null,
-      "use_purpose": "自治体独自制度（パイロット）",
+      "use_purpose": "自治体独自制度（prefecture）",
       "dedup_key": "6334d8bf7a0a45a4",
       "sources": [
         {
           "system": "prefecture",
-          "name": "自治体パイロット（岩手・東京・大阪・福岡）",
+          "name": "都道府県ポータル（全国ロールアウト）",
           "url": "https://www.tokyo-kosha.or.jp/support/josei/jigyo/building_energy.html"
         }
       ],
@@ -10704,13 +11338,13 @@
       "region": "東京都"
     },
     {
-      "id": "pref-tokyo-2648853631",
+      "id": "prefecture-tokyo-7780543155",
       "title": "【東京都】令和7年度 申請受付 終了 シニア・福祉・アクセシビリティ関連製品等の販路開拓助成事業 「シニア・福祉・アクセシビリティ関連製品」等の展示会出展等、販路拡大に利用できる助成金。サイト制作・改修費のみの",
       "institution": "東京都",
       "detail_url": "https://www.tokyo-kosha.or.jp/support/josei/jigyo/senior-hanro/index.html",
       "summary_url": null,
       "source_system": "prefecture",
-      "source_name": "自治体パイロット（岩手・東京・大阪・福岡）",
+      "source_name": "都道府県ポータル（全国ロールアウト）",
       "industry_slugs": [
         "untagged"
       ],
@@ -10718,12 +11352,12 @@
       "acceptance_end_datetime": null,
       "subsidy_max_limit": null,
       "subsidy_rate": null,
-      "use_purpose": "自治体独自制度（パイロット）",
+      "use_purpose": "自治体独自制度（prefecture）",
       "dedup_key": "aaad4785364eb210",
       "sources": [
         {
           "system": "prefecture",
-          "name": "自治体パイロット（岩手・東京・大阪・福岡）",
+          "name": "都道府県ポータル（全国ロールアウト）",
           "url": "https://www.tokyo-kosha.or.jp/support/josei/jigyo/senior-hanro/index.html"
         }
       ],
@@ -10731,13 +11365,13 @@
       "region": "東京都"
     },
     {
-      "id": "pref-tokyo-2440191586",
+      "id": "prefecture-tokyo-7224700845",
       "title": "【東京都】令和6年度 受付終了 新たな事業環境に即応した経営展開サポート事業（経営改善計画策定による経営基盤強化支援）（一般コース） コロナ後の需要回復や消費者ニーズを捉えた経営基盤の強化に向け、各社がこれまで",
       "institution": "東京都",
       "detail_url": "https://www.tokyo-kosha.or.jp/support/josei/jigyo/kankyo-sokuo/index.html",
       "summary_url": null,
       "source_system": "prefecture",
-      "source_name": "自治体パイロット（岩手・東京・大阪・福岡）",
+      "source_name": "都道府県ポータル（全国ロールアウト）",
       "industry_slugs": [
         "untagged"
       ],
@@ -10745,12 +11379,12 @@
       "acceptance_end_datetime": null,
       "subsidy_max_limit": null,
       "subsidy_rate": null,
-      "use_purpose": "自治体独自制度（パイロット）",
+      "use_purpose": "自治体独自制度（prefecture）",
       "dedup_key": "8389d70eeb26c250",
       "sources": [
         {
           "system": "prefecture",
-          "name": "自治体パイロット（岩手・東京・大阪・福岡）",
+          "name": "都道府県ポータル（全国ロールアウト）",
           "url": "https://www.tokyo-kosha.or.jp/support/josei/jigyo/kankyo-sokuo/index.html"
         }
       ],
@@ -10758,13 +11392,13 @@
       "region": "東京都"
     },
     {
-      "id": "pref-tokyo-4515818329",
+      "id": "prefecture-tokyo-3163206590",
       "title": "【東京都】令和6年度受付終了 5Gによる製造工場のDX・GX推進事業 【目的】 ローカル5Gを製造工場に導入して、DX・GXを推進する取組を支援します 【担当】 経営戦略課（TEL：03-5822-7232）",
       "institution": "東京都",
       "detail_url": "https://www.tokyo-kosha.or.jp/support/josei/jigyo/5g-dx_gx/index.html",
       "summary_url": null,
       "source_system": "prefecture",
-      "source_name": "自治体パイロット（岩手・東京・大阪・福岡）",
+      "source_name": "都道府県ポータル（全国ロールアウト）",
       "industry_slugs": [
         "g17-digital-cyber",
         "g17-resources-gx",
@@ -10779,12 +11413,12 @@
       "acceptance_end_datetime": null,
       "subsidy_max_limit": null,
       "subsidy_rate": null,
-      "use_purpose": "自治体独自制度（パイロット）",
+      "use_purpose": "自治体独自制度（prefecture）",
       "dedup_key": "c634095d03c373a1",
       "sources": [
         {
           "system": "prefecture",
-          "name": "自治体パイロット（岩手・東京・大阪・福岡）",
+          "name": "都道府県ポータル（全国ロールアウト）",
           "url": "https://www.tokyo-kosha.or.jp/support/josei/jigyo/5g-dx_gx/index.html"
         }
       ],
@@ -10792,13 +11426,13 @@
       "region": "東京都"
     },
     {
-      "id": "pref-tokyo-8179404493",
+      "id": "prefecture-tokyo-5831298483",
       "title": "【東京都】受付終了 障害者向け製品等の販路開拓支援事業 「パラスポーツ関連製品」や「福祉・ユニバーサルデザイン製品」等の展示会出展等、販路拡大に利用できる助成金 【担当】 助成課（TEL:03-3251-789",
       "institution": "東京都",
       "detail_url": "https://www.tokyo-kosha.or.jp/support/josei/jigyo/shogaisha.html",
       "summary_url": null,
       "source_system": "prefecture",
-      "source_name": "自治体パイロット（岩手・東京・大阪・福岡）",
+      "source_name": "都道府県ポータル（全国ロールアウト）",
       "industry_slugs": [
         "untagged"
       ],
@@ -10806,12 +11440,12 @@
       "acceptance_end_datetime": null,
       "subsidy_max_limit": null,
       "subsidy_rate": null,
-      "use_purpose": "自治体独自制度（パイロット）",
+      "use_purpose": "自治体独自制度（prefecture）",
       "dedup_key": "366483d9d0a9a6af",
       "sources": [
         {
           "system": "prefecture",
-          "name": "自治体パイロット（岩手・東京・大阪・福岡）",
+          "name": "都道府県ポータル（全国ロールアウト）",
           "url": "https://www.tokyo-kosha.or.jp/support/josei/jigyo/shogaisha.html"
         }
       ],
@@ -10819,13 +11453,13 @@
       "region": "東京都"
     },
     {
-      "id": "pref-tokyo-1482108905",
+      "id": "prefecture-tokyo-5615882404",
       "title": "【東京都】受付終了 高齢者向け製品・サービスの販路開拓支援事業 「高齢者向け製品・サービス」等の展示会出展等、販路拡大に利用できる助成金 【担当】 助成課（TEL:03-3251-7895） 助成限度額 150",
       "institution": "東京都",
       "detail_url": "https://www.tokyo-kosha.or.jp/support/josei/jigyo/koureisya_hanrokaitaku.html",
       "summary_url": null,
       "source_system": "prefecture",
-      "source_name": "自治体パイロット（岩手・東京・大阪・福岡）",
+      "source_name": "都道府県ポータル（全国ロールアウト）",
       "industry_slugs": [
         "untagged"
       ],
@@ -10833,12 +11467,12 @@
       "acceptance_end_datetime": null,
       "subsidy_max_limit": null,
       "subsidy_rate": null,
-      "use_purpose": "自治体独自制度（パイロット）",
+      "use_purpose": "自治体独自制度（prefecture）",
       "dedup_key": "c414d46bc54b9658",
       "sources": [
         {
           "system": "prefecture",
-          "name": "自治体パイロット（岩手・東京・大阪・福岡）",
+          "name": "都道府県ポータル（全国ロールアウト）",
           "url": "https://www.tokyo-kosha.or.jp/support/josei/jigyo/koureisya_hanrokaitaku.html"
         }
       ],
@@ -10846,13 +11480,13 @@
       "region": "東京都"
     },
     {
-      "id": "pref-tokyo-5083132339",
+      "id": "prefecture-tokyo-3307875867",
       "title": "【東京都】過年度に終了した助成金はこちら",
       "institution": "東京都",
       "detail_url": "https://www.tokyo-kosha.or.jp/support/josei/ichiran/index_end.html",
       "summary_url": null,
       "source_system": "prefecture",
-      "source_name": "自治体パイロット（岩手・東京・大阪・福岡）",
+      "source_name": "都道府県ポータル（全国ロールアウト）",
       "industry_slugs": [
         "untagged"
       ],
@@ -10860,12 +11494,12 @@
       "acceptance_end_datetime": null,
       "subsidy_max_limit": null,
       "subsidy_rate": null,
-      "use_purpose": "自治体独自制度（パイロット）",
+      "use_purpose": "自治体独自制度（prefecture）",
       "dedup_key": "ec8ae1b436f50e3d",
       "sources": [
         {
           "system": "prefecture",
-          "name": "自治体パイロット（岩手・東京・大阪・福岡）",
+          "name": "都道府県ポータル（全国ロールアウト）",
           "url": "https://www.tokyo-kosha.or.jp/support/josei/ichiran/index_end.html"
         }
       ],
@@ -10873,13 +11507,13 @@
       "region": "東京都"
     },
     {
-      "id": "pref-osaka-621420056",
+      "id": "prefecture-osaka-131179460",
       "title": "【大阪府】大阪府社会福祉協議会で案内している助成金情報については、こちらからご覧いただけます。（外部サイトへリンク）",
       "institution": "大阪府",
       "detail_url": "https://www.osakafusyakyo.or.jp/joseikin/index.php",
       "summary_url": null,
       "source_system": "prefecture",
-      "source_name": "自治体パイロット（岩手・東京・大阪・福岡）",
+      "source_name": "都道府県ポータル（全国ロールアウト）",
       "industry_slugs": [
         "untagged"
       ],
@@ -10887,12 +11521,12 @@
       "acceptance_end_datetime": null,
       "subsidy_max_limit": null,
       "subsidy_rate": null,
-      "use_purpose": "自治体独自制度（パイロット）",
+      "use_purpose": "自治体独自制度（prefecture）",
       "dedup_key": "8e067544a11dbdf7",
       "sources": [
         {
           "system": "prefecture",
-          "name": "自治体パイロット（岩手・東京・大阪・福岡）",
+          "name": "都道府県ポータル（全国ロールアウト）",
           "url": "https://www.osakafusyakyo.or.jp/joseikin/index.php"
         }
       ],
@@ -10900,13 +11534,13 @@
       "region": "大阪府"
     },
     {
-      "id": "pref-osaka-7498669010",
+      "id": "prefecture-osaka-5120395104",
       "title": "【大阪府】令和7年度上期・一般助成(西日本・首都圏含む)公募のご案内（外部サイトへリンク）",
       "institution": "大阪府",
       "detail_url": "https://swf.or.jp/support1/",
       "summary_url": null,
       "source_system": "prefecture",
-      "source_name": "自治体パイロット（岩手・東京・大阪・福岡）",
+      "source_name": "都道府県ポータル（全国ロールアウト）",
       "industry_slugs": [
         "untagged"
       ],
@@ -10914,12 +11548,12 @@
       "acceptance_end_datetime": null,
       "subsidy_max_limit": null,
       "subsidy_rate": null,
-      "use_purpose": "自治体独自制度（パイロット）",
+      "use_purpose": "自治体独自制度（prefecture）",
       "dedup_key": "d6a8a3b8a463fd00",
       "sources": [
         {
           "system": "prefecture",
-          "name": "自治体パイロット（岩手・東京・大阪・福岡）",
+          "name": "都道府県ポータル（全国ロールアウト）",
           "url": "https://swf.or.jp/support1/"
         }
       ],
@@ -10927,13 +11561,13 @@
       "region": "大阪府"
     },
     {
-      "id": "pref-osaka-7880946188",
+      "id": "prefecture-osaka-5025461012",
       "title": "【大阪府】令和6年度 みどりづくり推進事業（活動助成）（別ウィンドウで開きます）",
       "institution": "大阪府",
       "detail_url": "https://www.pref.osaka.lg.jp/o120030/midorikikaku/toshiryokka/midorizukuri2.html",
       "summary_url": null,
       "source_system": "prefecture",
-      "source_name": "自治体パイロット（岩手・東京・大阪・福岡）",
+      "source_name": "都道府県ポータル（全国ロールアウト）",
       "industry_slugs": [
         "untagged"
       ],
@@ -10941,12 +11575,12 @@
       "acceptance_end_datetime": null,
       "subsidy_max_limit": null,
       "subsidy_rate": null,
-      "use_purpose": "自治体独自制度（パイロット）",
+      "use_purpose": "自治体独自制度（prefecture）",
       "dedup_key": "d2bccf2e818c0bf8",
       "sources": [
         {
           "system": "prefecture",
-          "name": "自治体パイロット（岩手・東京・大阪・福岡）",
+          "name": "都道府県ポータル（全国ロールアウト）",
           "url": "https://www.pref.osaka.lg.jp/o120030/midorikikaku/toshiryokka/midorizukuri2.html"
         }
       ],
@@ -10954,13 +11588,13 @@
       "region": "大阪府"
     },
     {
-      "id": "pref-osaka-1515660405",
+      "id": "prefecture-osaka-7233495579",
       "title": "【大阪府】生き生きチャレンジ2025 福祉作業所助成事業（外部サイトへリンク）",
       "institution": "大阪府",
       "detail_url": "https://www.yomiuri-hikari.or.jp/kihusyougai/kihusyougainaiyou/kihujiritu/post-422.html",
       "summary_url": null,
       "source_system": "prefecture",
-      "source_name": "自治体パイロット（岩手・東京・大阪・福岡）",
+      "source_name": "都道府県ポータル（全国ロールアウト）",
       "industry_slugs": [
         "untagged"
       ],
@@ -10968,12 +11602,12 @@
       "acceptance_end_datetime": null,
       "subsidy_max_limit": null,
       "subsidy_rate": null,
-      "use_purpose": "自治体独自制度（パイロット）",
+      "use_purpose": "自治体独自制度（prefecture）",
       "dedup_key": "7cc7da81a9a5a3f5",
       "sources": [
         {
           "system": "prefecture",
-          "name": "自治体パイロット（岩手・東京・大阪・福岡）",
+          "name": "都道府県ポータル（全国ロールアウト）",
           "url": "https://www.yomiuri-hikari.or.jp/kihusyougai/kihusyougainaiyou/kihujiritu/post-422.html"
         }
       ],
@@ -10981,13 +11615,13 @@
       "region": "大阪府"
     },
     {
-      "id": "pref-osaka-5228325606",
+      "id": "prefecture-osaka-7793266791",
       "title": "【大阪府】困難な状況にある子ども達への学習支援 2026年公募（外部サイトへリンク）",
       "institution": "大阪府",
       "detail_url": "https://nakatsuji-ff.org/programs/kodomo/",
       "summary_url": null,
       "source_system": "prefecture",
-      "source_name": "自治体パイロット（岩手・東京・大阪・福岡）",
+      "source_name": "都道府県ポータル（全国ロールアウト）",
       "industry_slugs": [
         "untagged"
       ],
@@ -10995,12 +11629,12 @@
       "acceptance_end_datetime": null,
       "subsidy_max_limit": null,
       "subsidy_rate": null,
-      "use_purpose": "自治体独自制度（パイロット）",
+      "use_purpose": "自治体独自制度（prefecture）",
       "dedup_key": "1bcecd612960a9a8",
       "sources": [
         {
           "system": "prefecture",
-          "name": "自治体パイロット（岩手・東京・大阪・福岡）",
+          "name": "都道府県ポータル（全国ロールアウト）",
           "url": "https://nakatsuji-ff.org/programs/kodomo/"
         }
       ],
@@ -11008,13 +11642,13 @@
       "region": "大阪府"
     },
     {
-      "id": "pref-osaka-1384605361",
+      "id": "prefecture-osaka-9964014655",
       "title": "【大阪府】2026年度「児童・少年の健全育成助成」",
       "institution": "大阪府",
       "detail_url": "https://www.pref.osaka.lg.jp/kenkoufukushi/fukushisa-bisujigyousha/shakaifukushihoujin/kouhodantaiboshuu/index.html",
       "summary_url": null,
       "source_system": "prefecture",
-      "source_name": "自治体パイロット（岩手・東京・大阪・福岡）",
+      "source_name": "都道府県ポータル（全国ロールアウト）",
       "industry_slugs": [
         "untagged"
       ],
@@ -11022,12 +11656,12 @@
       "acceptance_end_datetime": null,
       "subsidy_max_limit": null,
       "subsidy_rate": null,
-      "use_purpose": "自治体独自制度（パイロット）",
+      "use_purpose": "自治体独自制度（prefecture）",
       "dedup_key": "be32a0afd01f75ab",
       "sources": [
         {
           "system": "prefecture",
-          "name": "自治体パイロット（岩手・東京・大阪・福岡）",
+          "name": "都道府県ポータル（全国ロールアウト）",
           "url": "https://www.pref.osaka.lg.jp/kenkoufukushi/fukushisa-bisujigyousha/shakaifukushihoujin/kouhodantaiboshuu/index.html"
         }
       ],
@@ -11035,13 +11669,13 @@
       "region": "大阪府"
     },
     {
-      "id": "pref-osaka-8619166871",
+      "id": "prefecture-osaka-5734371262",
       "title": "【大阪府】大阪府環境保全活動補助金 令和7年度募集（別ウィンドウで開きます）",
       "institution": "大阪府",
       "detail_url": "http://www.pref.osaka.lg.jp/chikyukankyo/katsudo/hojyokin.html",
       "summary_url": null,
       "source_system": "prefecture",
-      "source_name": "自治体パイロット（岩手・東京・大阪・福岡）",
+      "source_name": "都道府県ポータル（全国ロールアウト）",
       "industry_slugs": [
         "untagged"
       ],
@@ -11049,12 +11683,12 @@
       "acceptance_end_datetime": null,
       "subsidy_max_limit": null,
       "subsidy_rate": null,
-      "use_purpose": "自治体独自制度（パイロット）",
+      "use_purpose": "自治体独自制度（prefecture）",
       "dedup_key": "41c26b617e008d68",
       "sources": [
         {
           "system": "prefecture",
-          "name": "自治体パイロット（岩手・東京・大阪・福岡）",
+          "name": "都道府県ポータル（全国ロールアウト）",
           "url": "http://www.pref.osaka.lg.jp/chikyukankyo/katsudo/hojyokin.html"
         }
       ],
@@ -11062,13 +11696,13 @@
       "region": "大阪府"
     },
     {
-      "id": "pref-osaka-5397803725",
+      "id": "prefecture-osaka-1353664058",
       "title": "【大阪府】公益財団法人 樫の芽会 伴走型就学・学習支援活動助成（外部サイトへリンク）",
       "institution": "大阪府",
       "detail_url": "https://www.kashinomekai.or.jp/assisting/",
       "summary_url": null,
       "source_system": "prefecture",
-      "source_name": "自治体パイロット（岩手・東京・大阪・福岡）",
+      "source_name": "都道府県ポータル（全国ロールアウト）",
       "industry_slugs": [
         "untagged"
       ],
@@ -11076,12 +11710,12 @@
       "acceptance_end_datetime": null,
       "subsidy_max_limit": null,
       "subsidy_rate": null,
-      "use_purpose": "自治体独自制度（パイロット）",
+      "use_purpose": "自治体独自制度（prefecture）",
       "dedup_key": "dd412fd74c888b14",
       "sources": [
         {
           "system": "prefecture",
-          "name": "自治体パイロット（岩手・東京・大阪・福岡）",
+          "name": "都道府県ポータル（全国ロールアウト）",
           "url": "https://www.kashinomekai.or.jp/assisting/"
         }
       ],
@@ -11089,13 +11723,13 @@
       "region": "大阪府"
     },
     {
-      "id": "pref-osaka-2739029183",
+      "id": "prefecture-osaka-9422283353",
       "title": "【大阪府】2025年度「児童・少年の健全育成助成」及び「生き生きシニア活動顕彰」",
       "institution": "大阪府",
       "detail_url": "https://www.pref.osaka.lg.jp/o090040/houjin/nissei/2025nissei.html",
       "summary_url": null,
       "source_system": "prefecture",
-      "source_name": "自治体パイロット（岩手・東京・大阪・福岡）",
+      "source_name": "都道府県ポータル（全国ロールアウト）",
       "industry_slugs": [
         "untagged"
       ],
@@ -11103,12 +11737,12 @@
       "acceptance_end_datetime": null,
       "subsidy_max_limit": null,
       "subsidy_rate": null,
-      "use_purpose": "自治体独自制度（パイロット）",
+      "use_purpose": "自治体独自制度（prefecture）",
       "dedup_key": "4900abef90997611",
       "sources": [
         {
           "system": "prefecture",
-          "name": "自治体パイロット（岩手・東京・大阪・福岡）",
+          "name": "都道府県ポータル（全国ロールアウト）",
           "url": "https://www.pref.osaka.lg.jp/o090040/houjin/nissei/2025nissei.html"
         }
       ],
@@ -11116,13 +11750,13 @@
       "region": "大阪府"
     },
     {
-      "id": "pref-osaka-1106704816",
+      "id": "prefecture-osaka-9016468930",
       "title": "【大阪府】令和6年度 上期・一般助成（西日本）（外部サイトへリンク）",
       "institution": "大阪府",
       "detail_url": "https://swf.or.jp/josei",
       "summary_url": null,
       "source_system": "prefecture",
-      "source_name": "自治体パイロット（岩手・東京・大阪・福岡）",
+      "source_name": "都道府県ポータル（全国ロールアウト）",
       "industry_slugs": [
         "untagged"
       ],
@@ -11130,12 +11764,12 @@
       "acceptance_end_datetime": null,
       "subsidy_max_limit": null,
       "subsidy_rate": null,
-      "use_purpose": "自治体独自制度（パイロット）",
+      "use_purpose": "自治体独自制度（prefecture）",
       "dedup_key": "50bbb005be632611",
       "sources": [
         {
           "system": "prefecture",
-          "name": "自治体パイロット（岩手・東京・大阪・福岡）",
+          "name": "都道府県ポータル（全国ロールアウト）",
           "url": "https://swf.or.jp/josei"
         }
       ],
@@ -11143,13 +11777,13 @@
       "region": "大阪府"
     },
     {
-      "id": "pref-osaka-6048360667",
+      "id": "prefecture-osaka-388451901",
       "title": "【大阪府】令和6年度 子どもゆめ基金助成金 二次募集（外部サイトへリンク）",
       "institution": "大阪府",
       "detail_url": "https://yumekikin.niye.go.jp/jyosei/",
       "summary_url": null,
       "source_system": "prefecture",
-      "source_name": "自治体パイロット（岩手・東京・大阪・福岡）",
+      "source_name": "都道府県ポータル（全国ロールアウト）",
       "industry_slugs": [
         "untagged"
       ],
@@ -11157,12 +11791,12 @@
       "acceptance_end_datetime": null,
       "subsidy_max_limit": null,
       "subsidy_rate": null,
-      "use_purpose": "自治体独自制度（パイロット）",
+      "use_purpose": "自治体独自制度（prefecture）",
       "dedup_key": "b6289b8b1c5ac6c2",
       "sources": [
         {
           "system": "prefecture",
-          "name": "自治体パイロット（岩手・東京・大阪・福岡）",
+          "name": "都道府県ポータル（全国ロールアウト）",
           "url": "https://yumekikin.niye.go.jp/jyosei/"
         }
       ],
@@ -11170,13 +11804,13 @@
       "region": "大阪府"
     },
     {
-      "id": "pref-osaka-7215081373",
+      "id": "prefecture-osaka-8370609129",
       "title": "【大阪府】つなぐいのち基金 2024年助成事業（外部サイトへリンク）",
       "institution": "大阪府",
       "detail_url": "https://tsunagu-inochi.org/2024%e5%b9%b4%e5%8a%a9%e6%88%90%e4%ba%8b%e6%a5%ad%e5%8b%9f%e9%9b%86%e9%96%8b%e5%a7%8b%ef%bc%81/",
       "summary_url": null,
       "source_system": "prefecture",
-      "source_name": "自治体パイロット（岩手・東京・大阪・福岡）",
+      "source_name": "都道府県ポータル（全国ロールアウト）",
       "industry_slugs": [
         "untagged"
       ],
@@ -11184,12 +11818,12 @@
       "acceptance_end_datetime": null,
       "subsidy_max_limit": null,
       "subsidy_rate": null,
-      "use_purpose": "自治体独自制度（パイロット）",
+      "use_purpose": "自治体独自制度（prefecture）",
       "dedup_key": "00aa76c9a4a989a1",
       "sources": [
         {
           "system": "prefecture",
-          "name": "自治体パイロット（岩手・東京・大阪・福岡）",
+          "name": "都道府県ポータル（全国ロールアウト）",
           "url": "https://tsunagu-inochi.org/2024%e5%b9%b4%e5%8a%a9%e6%88%90%e4%ba%8b%e6%a5%ad%e5%8b%9f%e9%9b%86%e9%96%8b%e5%a7%8b%ef%bc%81/"
         }
       ],
@@ -11197,13 +11831,13 @@
       "region": "大阪府"
     },
     {
-      "id": "pref-fukuoka-8561256728",
+      "id": "prefecture-fukuoka-6873832859",
       "title": "【福岡県】支援 窓口 助成金 、 関連バナー",
       "institution": "福岡県",
       "detail_url": "https://hatarakikatakaeru.pref.fukuoka.lg.jp/support/",
       "summary_url": null,
       "source_system": "prefecture",
-      "source_name": "自治体パイロット（岩手・東京・大阪・福岡）",
+      "source_name": "都道府県ポータル（全国ロールアウト）",
       "industry_slugs": [
         "untagged"
       ],
@@ -11211,12 +11845,12 @@
       "acceptance_end_datetime": null,
       "subsidy_max_limit": null,
       "subsidy_rate": null,
-      "use_purpose": "自治体独自制度（パイロット）",
+      "use_purpose": "自治体独自制度（prefecture）",
       "dedup_key": "07132887f2cf6acc",
       "sources": [
         {
           "system": "prefecture",
-          "name": "自治体パイロット（岩手・東京・大阪・福岡）",
+          "name": "都道府県ポータル（全国ロールアウト）",
           "url": "https://hatarakikatakaeru.pref.fukuoka.lg.jp/support/"
         }
       ],
@@ -11224,13 +11858,13 @@
       "region": "福岡県"
     },
     {
-      "id": "pref-fukuoka-272881758",
+      "id": "prefecture-fukuoka-9689172365",
       "title": "【福岡県】この助成金に関するホームページはこちら",
       "institution": "福岡県",
       "detail_url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/part_haken/jigyounushi/career.html",
       "summary_url": null,
       "source_system": "prefecture",
-      "source_name": "自治体パイロット（岩手・東京・大阪・福岡）",
+      "source_name": "都道府県ポータル（全国ロールアウト）",
       "industry_slugs": [
         "untagged"
       ],
@@ -11238,12 +11872,12 @@
       "acceptance_end_datetime": null,
       "subsidy_max_limit": null,
       "subsidy_rate": null,
-      "use_purpose": "自治体独自制度（パイロット）",
+      "use_purpose": "自治体独自制度（prefecture）",
       "dedup_key": "f32dca265a442436",
       "sources": [
         {
           "system": "prefecture",
-          "name": "自治体パイロット（岩手・東京・大阪・福岡）",
+          "name": "都道府県ポータル（全国ロールアウト）",
           "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/part_haken/jigyounushi/career.html"
         }
       ],
@@ -11251,13 +11885,13 @@
       "region": "福岡県"
     },
     {
-      "id": "pref-fukuoka-6956294779",
+      "id": "prefecture-fukuoka-430421663",
       "title": "【福岡県】この助成金に関するホームページはこちら",
       "institution": "福岡県",
       "detail_url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/koyou/kyufukin/d01-1.html",
       "summary_url": null,
       "source_system": "prefecture",
-      "source_name": "自治体パイロット（岩手・東京・大阪・福岡）",
+      "source_name": "都道府県ポータル（全国ロールアウト）",
       "industry_slugs": [
         "untagged"
       ],
@@ -11265,12 +11899,12 @@
       "acceptance_end_datetime": null,
       "subsidy_max_limit": null,
       "subsidy_rate": null,
-      "use_purpose": "自治体独自制度（パイロット）",
+      "use_purpose": "自治体独自制度（prefecture）",
       "dedup_key": "7fa8915edcfae739",
       "sources": [
         {
           "system": "prefecture",
-          "name": "自治体パイロット（岩手・東京・大阪・福岡）",
+          "name": "都道府県ポータル（全国ロールアウト）",
           "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/koyou/kyufukin/d01-1.html"
         }
       ],
@@ -11278,13 +11912,13 @@
       "region": "福岡県"
     },
     {
-      "id": "pref-fukuoka-239002531",
+      "id": "prefecture-fukuoka-6919114888",
       "title": "【福岡県】この助成金に関するホームページはこちら",
       "institution": "福岡県",
       "detail_url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kodomo/shokuba_kosodate/ryouritsu01/index.html",
       "summary_url": null,
       "source_system": "prefecture",
-      "source_name": "自治体パイロット（岩手・東京・大阪・福岡）",
+      "source_name": "都道府県ポータル（全国ロールアウト）",
       "industry_slugs": [
         "untagged"
       ],
@@ -11292,12 +11926,12 @@
       "acceptance_end_datetime": null,
       "subsidy_max_limit": null,
       "subsidy_rate": null,
-      "use_purpose": "自治体独自制度（パイロット）",
+      "use_purpose": "自治体独自制度（prefecture）",
       "dedup_key": "205dfba7eb099a1f",
       "sources": [
         {
           "system": "prefecture",
-          "name": "自治体パイロット（岩手・東京・大阪・福岡）",
+          "name": "都道府県ポータル（全国ロールアウト）",
           "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kodomo/shokuba_kosodate/ryouritsu01/index.html"
         }
       ],
@@ -11305,13 +11939,13 @@
       "region": "福岡県"
     },
     {
-      "id": "pref-fukuoka-9854295841",
+      "id": "prefecture-fukuoka-9605233271",
       "title": "【福岡県】この助成金に関するホームページはこちら",
       "institution": "福岡県",
       "detail_url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/roudoukijun/jikan/index.html",
       "summary_url": null,
       "source_system": "prefecture",
-      "source_name": "自治体パイロット（岩手・東京・大阪・福岡）",
+      "source_name": "都道府県ポータル（全国ロールアウト）",
       "industry_slugs": [
         "untagged"
       ],
@@ -11319,12 +11953,12 @@
       "acceptance_end_datetime": null,
       "subsidy_max_limit": null,
       "subsidy_rate": null,
-      "use_purpose": "自治体独自制度（パイロット）",
+      "use_purpose": "自治体独自制度（prefecture）",
       "dedup_key": "8a93d72956047bfd",
       "sources": [
         {
           "system": "prefecture",
-          "name": "自治体パイロット（岩手・東京・大阪・福岡）",
+          "name": "都道府県ポータル（全国ロールアウト）",
           "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/roudoukijun/jikan/index.html"
         }
       ],
@@ -11332,13 +11966,13 @@
       "region": "福岡県"
     },
     {
-      "id": "pref-fukuoka-6231930704",
+      "id": "prefecture-fukuoka-1523855847",
       "title": "【福岡県】この助成金に関するホームページはこちら",
       "institution": "福岡県",
       "detail_url": "https://www.mhlw.go.jp/stf/newpage_07843.html",
       "summary_url": null,
       "source_system": "prefecture",
-      "source_name": "自治体パイロット（岩手・東京・大阪・福岡）",
+      "source_name": "都道府県ポータル（全国ロールアウト）",
       "industry_slugs": [
         "untagged"
       ],
@@ -11346,12 +11980,12 @@
       "acceptance_end_datetime": null,
       "subsidy_max_limit": null,
       "subsidy_rate": null,
-      "use_purpose": "自治体独自制度（パイロット）",
+      "use_purpose": "自治体独自制度（prefecture）",
       "dedup_key": "6a4774870ca3b074",
       "sources": [
         {
           "system": "prefecture",
-          "name": "自治体パイロット（岩手・東京・大阪・福岡）",
+          "name": "都道府県ポータル（全国ロールアウト）",
           "url": "https://www.mhlw.go.jp/stf/newpage_07843.html"
         }
       ],
@@ -11359,13 +11993,13 @@
       "region": "福岡県"
     },
     {
-      "id": "pref-fukuoka-7019790435",
+      "id": "prefecture-fukuoka-8996917113",
       "title": "【福岡県】この助成金に関するホームページはこちら",
       "institution": "福岡県",
       "detail_url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/roudoukijun/zigyonushi/shienjigyou/03.html",
       "summary_url": null,
       "source_system": "prefecture",
-      "source_name": "自治体パイロット（岩手・東京・大阪・福岡）",
+      "source_name": "都道府県ポータル（全国ロールアウト）",
       "industry_slugs": [
         "untagged"
       ],
@@ -11373,17 +12007,181 @@
       "acceptance_end_datetime": null,
       "subsidy_max_limit": null,
       "subsidy_rate": null,
-      "use_purpose": "自治体独自制度（パイロット）",
+      "use_purpose": "自治体独自制度（prefecture）",
       "dedup_key": "1b1508536deb98d9",
       "sources": [
         {
           "system": "prefecture",
-          "name": "自治体パイロット（岩手・東京・大阪・福岡）",
+          "name": "都道府県ポータル（全国ロールアウト）",
           "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/roudoukijun/zigyonushi/shienjigyou/03.html"
         }
       ],
       "matched_keyword": "fukuoka",
       "region": "福岡県"
+    },
+    {
+      "id": "prefecture-aichi-660948517",
+      "title": "【愛知県】新あいち創造研究開発補助金",
+      "institution": "愛知県",
+      "detail_url": "https://www.pref.aichi.jp/site/shin-aichi/about.html",
+      "summary_url": null,
+      "source_system": "prefecture",
+      "source_name": "都道府県ポータル（全国ロールアウト）",
+      "industry_slugs": [
+        "g17-ai-semiconductor"
+      ],
+      "growth17_slugs": [
+        "g17-ai-semiconductor"
+      ],
+      "acceptance_end_datetime": null,
+      "subsidy_max_limit": null,
+      "subsidy_rate": null,
+      "use_purpose": "自治体独自制度（prefecture）",
+      "dedup_key": "4062733e6994a787",
+      "sources": [
+        {
+          "system": "prefecture",
+          "name": "都道府県ポータル（全国ロールアウト）",
+          "url": "https://www.pref.aichi.jp/site/shin-aichi/about.html"
+        }
+      ],
+      "matched_keyword": "aichi",
+      "region": "愛知県"
+    },
+    {
+      "id": "prefecture-kochi-9089178503",
+      "title": "【高知県】2026年07月02日 高知県サテライトオフィス等立地促進事業費補助金について",
+      "institution": "高知県",
+      "detail_url": "https://www.pref.kochi.lg.jp/doc/2025061700254/",
+      "summary_url": null,
+      "source_system": "prefecture",
+      "source_name": "都道府県ポータル（全国ロールアウト）",
+      "industry_slugs": [
+        "untagged"
+      ],
+      "growth17_slugs": [],
+      "acceptance_end_datetime": null,
+      "subsidy_max_limit": null,
+      "subsidy_rate": null,
+      "use_purpose": "自治体独自制度（prefecture）",
+      "dedup_key": "83a204063a78aaed",
+      "sources": [
+        {
+          "system": "prefecture",
+          "name": "都道府県ポータル（全国ロールアウト）",
+          "url": "https://www.pref.kochi.lg.jp/doc/2025061700254/"
+        }
+      ],
+      "matched_keyword": "kochi",
+      "region": "高知県"
+    },
+    {
+      "id": "prefecture-saga-5502921774",
+      "title": "【佐賀県】県営住宅・支援・補助",
+      "institution": "佐賀県",
+      "detail_url": "https://www.pref.saga.lg.jp/list00531.html",
+      "summary_url": null,
+      "source_system": "prefecture",
+      "source_name": "都道府県ポータル（全国ロールアウト）",
+      "industry_slugs": [
+        "untagged"
+      ],
+      "growth17_slugs": [],
+      "acceptance_end_datetime": null,
+      "subsidy_max_limit": null,
+      "subsidy_rate": null,
+      "use_purpose": "自治体独自制度（prefecture）",
+      "dedup_key": "e0d6802001b6f5a3",
+      "sources": [
+        {
+          "system": "prefecture",
+          "name": "都道府県ポータル（全国ロールアウト）",
+          "url": "https://www.pref.saga.lg.jp/list00531.html"
+        }
+      ],
+      "matched_keyword": "saga",
+      "region": "佐賀県"
+    },
+    {
+      "id": "prefecture-saga-6438026681",
+      "title": "【佐賀県】入札・補助金・公募事業",
+      "institution": "佐賀県",
+      "detail_url": "https://www.pref.saga.lg.jp/list00631.html",
+      "summary_url": null,
+      "source_system": "prefecture",
+      "source_name": "都道府県ポータル（全国ロールアウト）",
+      "industry_slugs": [
+        "untagged"
+      ],
+      "growth17_slugs": [],
+      "acceptance_end_datetime": null,
+      "subsidy_max_limit": null,
+      "subsidy_rate": null,
+      "use_purpose": "自治体独自制度（prefecture）",
+      "dedup_key": "4d6c43d14c49c077",
+      "sources": [
+        {
+          "system": "prefecture",
+          "name": "都道府県ポータル（全国ロールアウト）",
+          "url": "https://www.pref.saga.lg.jp/list00631.html"
+        }
+      ],
+      "matched_keyword": "saga",
+      "region": "佐賀県"
+    },
+    {
+      "id": "prefecture-saga-9494060166",
+      "title": "【佐賀県】金融制度・補助金制度・セミナー",
+      "institution": "佐賀県",
+      "detail_url": "https://www.pref.saga.lg.jp/list00633.html",
+      "summary_url": null,
+      "source_system": "prefecture",
+      "source_name": "都道府県ポータル（全国ロールアウト）",
+      "industry_slugs": [
+        "untagged"
+      ],
+      "growth17_slugs": [],
+      "acceptance_end_datetime": null,
+      "subsidy_max_limit": null,
+      "subsidy_rate": null,
+      "use_purpose": "自治体独自制度（prefecture）",
+      "dedup_key": "eaaf492afa378a3e",
+      "sources": [
+        {
+          "system": "prefecture",
+          "name": "都道府県ポータル（全国ロールアウト）",
+          "url": "https://www.pref.saga.lg.jp/list00633.html"
+        }
+      ],
+      "matched_keyword": "saga",
+      "region": "佐賀県"
+    },
+    {
+      "id": "city-nagoya-1786595956",
+      "title": "【名古屋市】地下鉄や市バスに乗って出かけよう！ー子どもの体験活動交通費助成モデル事業ー",
+      "institution": "名古屋市",
+      "detail_url": "https://www.city.nagoya.jp/kodomo/kosodate/1034342/1008991/1036125.html",
+      "summary_url": null,
+      "source_system": "city",
+      "source_name": "政令市ポータル（パイロット拡張）",
+      "industry_slugs": [
+        "untagged"
+      ],
+      "growth17_slugs": [],
+      "acceptance_end_datetime": null,
+      "subsidy_max_limit": null,
+      "subsidy_rate": null,
+      "use_purpose": "自治体独自制度（city）",
+      "dedup_key": "38c9a6932438a054",
+      "sources": [
+        {
+          "system": "city",
+          "name": "政令市ポータル（パイロット拡張）",
+          "url": "https://www.city.nagoya.jp/kodomo/kosodate/1034342/1008991/1036125.html"
+        }
+      ],
+      "matched_keyword": "nagoya",
+      "region": "名古屋市"
     }
   ]
 }
