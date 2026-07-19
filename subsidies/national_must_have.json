@@ -100,7 +100,8 @@
         "national-canonical:mhlw-jinzai-人材育成支援コース",
         "national-canonical:mhlw-jinzai-事業展開等リスキリング支援コース",
         "national-canonical:mhlw-jinzai-人への投資促進コース",
-        "city-sendai-fix-9730649445"
+        "city-sendai-fix-9730649445",
+        "prefecture-oita-w3-8339820278"
       ],
       "eligibility_depth": "guidelines"
     },
@@ -128,7 +129,10 @@
         "city-24216-9520100918",
         "city-11301-5301862851",
         "prefecture-yamaguchi-fix-8596572283",
-        "city-sendai-fix-6235084397"
+        "city-sendai-fix-6235084397",
+        "prefecture-oita-w3-7451199211",
+        "prefecture-oita-w3-8506697323",
+        "prefecture-yamanashi-w3b3-9629787959"
       ],
       "eligibility_depth": "guidelines"
     },
@@ -154,7 +158,9 @@
         "national-canonical:mhlw-ryoritsu",
         "city-11222-2392572259",
         "city-03209-9018257677",
-        "city-43203-9868746932"
+        "city-43203-9868746932",
+        "prefecture-oita-w3-7750668991",
+        "prefecture-oita-w3-3287066588"
       ],
       "eligibility_depth": "guidelines"
     },
@@ -174,7 +180,8 @@
         "ministry-9100522071",
         "national-canonical:mhlw-koyo-chosei",
         "city-niigata-city-3249512892",
-        "city-okayama-city-9742121814"
+        "city-okayama-city-9742121814",
+        "prefecture-oita-w3-1796146166"
       ],
       "eligibility_depth": "guidelines"
     },
@@ -200,7 +207,8 @@
         "ministry-9311048860",
         "ministry-8569049155",
         "national-canonical:mhlw-tokutei",
-        "city-08225-7620445748"
+        "city-08225-7620445748",
+        "city-kumamoto-city-w3-6293085062"
       ],
       "eligibility_depth": "guidelines"
     },
@@ -288,7 +296,8 @@
         "city-12236-1164254497",
         "city-42205-135337704",
         "city-22305-8344870929",
-        "city-06382-7441758811"
+        "city-06382-7441758811",
+        "prefecture-oita-w3-6923251302"
       ],
       "eligibility_depth": "guidelines"
     },
@@ -641,7 +650,10 @@
         "national-canonical:meti-saikochiku",
         "city-34202-442780274",
         "city-23230-4945585373",
-        "city-sendai-fix-4737164223"
+        "city-sendai-fix-4737164223",
+        "prefecture-oita-w3-5962024454",
+        "prefecture-oita-w3-9561307594",
+        "prefecture-yamanashi-w3b4-4900774676"
       ],
       "eligibility_depth": "guidelines"
     },
@@ -778,7 +790,8 @@
         "city-06382-6167655171",
         "city-06382-5120738651",
         "city-kobe-fix2-76503736",
-        "city-kobe-fix2-190270021"
+        "city-kobe-fix2-190270021",
+        "prefecture-oita-w3-7287640445"
       ],
       "eligibility_depth": "page_detail"
     },
@@ -811,7 +824,9 @@
         "city-06382-6167655171",
         "city-06382-5120738651",
         "city-kobe-fix2-76503736",
-        "city-kobe-fix2-190270021"
+        "city-kobe-fix2-190270021",
+        "prefecture-oita-w3-7287640445",
+        "prefecture-oita-w3-6923251302"
       ],
       "eligibility_depth": "page_detail"
     },
@@ -844,7 +859,9 @@
         "city-06382-6167655171",
         "city-06382-5120738651",
         "city-kobe-fix2-76503736",
-        "city-kobe-fix2-190270021"
+        "city-kobe-fix2-190270021",
+        "prefecture-oita-w3-7287640445",
+        "prefecture-oita-w3-6923251302"
       ],
       "eligibility_depth": "page_detail"
     },
@@ -943,7 +960,8 @@
       "acceptance_note_ja": null,
       "in_active_feed": true,
       "matched_item_ids": [
-        "national-canonical:cao-chiho"
+        "national-canonical:cao-chiho",
+        "prefecture-oita-w3-6923251302"
       ],
       "eligibility_depth": "page_detail"
     },
@@ -960,7 +978,8 @@
       "in_active_feed": true,
       "matched_item_ids": [
         "ministry-6158675858",
-        "national-canonical:soumu-digital"
+        "national-canonical:soumu-digital",
+        "prefecture-yamanashi-w3b1-7659439048"
       ],
       "eligibility_depth": "page_detail"
     },
@@ -1041,7 +1060,9 @@
         "city-06382-6167655171",
         "city-06382-5120738651",
         "city-kobe-fix2-76503736",
-        "city-kobe-fix2-190270021"
+        "city-kobe-fix2-190270021",
+        "prefecture-oita-w3-7287640445",
+        "prefecture-oita-w3-6923251302"
       ],
       "eligibility_depth": "page_detail"
     },
