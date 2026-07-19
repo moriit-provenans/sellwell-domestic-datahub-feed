@@ -57,10 +57,10 @@
         "jnet21-179463",
         "ministry-2357098813",
         "ministry-9466349919",
-        "agency-2909289116",
-        "prefecture-fukushima-1775808878",
         "prefecture-fukui-2285044084",
-        "prefecture-nagasaki-5079928732"
+        "prefecture-nagasaki-5079928732",
+        "city-hamamatsu-4080697346",
+        "city-fukuoka-city-847586150"
       ],
       "eligibility_depth": "guidelines"
     },
@@ -99,7 +99,8 @@
         "national-canonical:mhlw-jinzai",
         "national-canonical:mhlw-jinzai-人材育成支援コース",
         "national-canonical:mhlw-jinzai-事業展開等リスキリング支援コース",
-        "national-canonical:mhlw-jinzai-人への投資促進コース"
+        "national-canonical:mhlw-jinzai-人への投資促進コース",
+        "city-sendai-fix-9730649445"
       ],
       "eligibility_depth": "guidelines"
     },
@@ -125,7 +126,9 @@
         "city-12236-4983198711",
         "city-23220-4321552710",
         "city-24216-9520100918",
-        "city-11301-5301862851"
+        "city-11301-5301862851",
+        "prefecture-yamaguchi-fix-8596572283",
+        "city-sendai-fix-6235084397"
       ],
       "eligibility_depth": "guidelines"
     },
@@ -252,11 +255,11 @@
         "jnet21-178500",
         "ministry-4846231570",
         "national-canonical:mhlw-hatarakikata",
-        "prefecture-tochigi-5743748625",
         "city-fukuoka-city-8750175253",
         "city-28202-2652455595",
         "city-12236-7311780790",
-        "city-28222-2129346449"
+        "city-28222-2129346449",
+        "city-02405-8269255631"
       ],
       "eligibility_depth": "guidelines"
     },
@@ -413,8 +416,8 @@
         "agency-8440233985",
         "agency-9157518232",
         "agency-9077400420",
-        "prefecture-tochigi-7798759668",
-        "city-hamamatsu-188185331"
+        "city-hamamatsu-188185331",
+        "city-kobe-7051000593"
       ],
       "eligibility_depth": "guidelines"
     },
@@ -637,7 +640,8 @@
         "a0WJ200000CDQEJMA5",
         "national-canonical:meti-saikochiku",
         "city-34202-442780274",
-        "city-23230-4945585373"
+        "city-23230-4945585373",
+        "city-sendai-fix-4737164223"
       ],
       "eligibility_depth": "guidelines"
     },
@@ -722,25 +726,25 @@
       "in_active_feed": true,
       "matched_item_ids": [
         "mirasapo-29438",
-        "ministry-9594017667",
         "ministry-6296832706",
         "ministry-9856414283",
         "agency-3263154005",
-        "agency-9894202104",
-        "agency-5546979418",
-        "agency-600327001",
-        "agency-3796901460",
-        "agency-3612654291",
-        "agency-1725132156",
-        "agency-6870402136",
-        "agency-822561363",
-        "agency-2723228444",
-        "agency-7856225",
-        "agency-6903331274",
-        "agency-8643403208",
-        "agency-6609193485",
-        "agency-7817269032",
-        "agency-4297180634"
+        "prefecture-niigata-6978652408",
+        "prefecture-niigata-6607804522",
+        "prefecture-niigata-7093359660",
+        "prefecture-kumamoto-6337265426",
+        "city-sagamihara-9685360194",
+        "city-sagamihara-6471890132",
+        "city-hamamatsu-188185331",
+        "city-hiroshima-city-1695610531",
+        "city-hiroshima-city-6435938876",
+        "city-hiroshima-city-2809908719",
+        "city-hiroshima-city-802182311",
+        "city-hiroshima-city-1862113379",
+        "city-hiroshima-city-8032207811",
+        "city-21201-7754369022",
+        "city-27205-8902209599",
+        "city-29201-410344659"
       ],
       "eligibility_depth": "page_detail"
     },
@@ -772,7 +776,9 @@
         "city-46527-6045771762",
         "city-06382-7441758811",
         "city-06382-6167655171",
-        "city-06382-5120738651"
+        "city-06382-5120738651",
+        "city-kobe-fix2-76503736",
+        "city-kobe-fix2-190270021"
       ],
       "eligibility_depth": "page_detail"
     },
@@ -803,7 +809,9 @@
         "city-46527-6045771762",
         "city-06382-7441758811",
         "city-06382-6167655171",
-        "city-06382-5120738651"
+        "city-06382-5120738651",
+        "city-kobe-fix2-76503736",
+        "city-kobe-fix2-190270021"
       ],
       "eligibility_depth": "page_detail"
     },
@@ -834,7 +842,9 @@
         "city-46527-6045771762",
         "city-06382-7441758811",
         "city-06382-6167655171",
-        "city-06382-5120738651"
+        "city-06382-5120738651",
+        "city-kobe-fix2-76503736",
+        "city-kobe-fix2-190270021"
       ],
       "eligibility_depth": "page_detail"
     },
@@ -998,8 +1008,7 @@
       "acceptance_note_ja": null,
       "in_active_feed": true,
       "matched_item_ids": [
-        "agency-4285128690",
-        "national-canonical:jogmec"
+        "agency-4285128690"
       ],
       "eligibility_depth": "page_detail"
     },
@@ -1030,7 +1039,9 @@
         "city-46527-6045771762",
         "city-06382-7441758811",
         "city-06382-6167655171",
-        "city-06382-5120738651"
+        "city-06382-5120738651",
+        "city-kobe-fix2-76503736",
+        "city-kobe-fix2-190270021"
       ],
       "eligibility_depth": "page_detail"
     },
