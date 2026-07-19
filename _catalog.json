@@ -1,13 +1,51 @@
 {
   "schema_version": "1.0.0",
-  "last_updated": "2026-07-18",
+  "last_updated": "2026-07-20",
   "feeds": [
-    {"id": "metrics_dict", "path": "metrics_dict.json", "description": "metric_id dictionary (jp.*)"},
-    {"id": "industries", "path": "industries.json", "description": "JSIC mid-class ↔ slug"},
-    {"id": "theme_tags", "path": "theme_tags.json", "description": "Cross-cutting theme tags (synthetic JSIC sets)"},
-    {"id": "as_of_manifest", "path": "as_of_manifest.json", "description": "Per-series as_of / validity"},
-    {"id": "subsidies_active", "path": "subsidies/active.json", "description": "jGrants open calls (daily)"},
-    {"id": "timeseries", "path": "timeseries/", "description": "Per-metric time series (Phase 1+)"},
-    {"id": "sellwell_exclusive", "path": "sellwell_exclusive/", "description": "J1-J3 Smith-supplied exclusives"}
+    {
+      "id": "metrics_dict",
+      "path": "metrics_dict.json",
+      "description": "metric_id dictionary (jp.*)"
+    },
+    {
+      "id": "industries",
+      "path": "industries.json",
+      "description": "JSIC mid-class ↔ slug"
+    },
+    {
+      "id": "theme_tags",
+      "path": "theme_tags.json",
+      "description": "Cross-cutting theme tags (synthetic JSIC sets)"
+    },
+    {
+      "id": "as_of_manifest",
+      "path": "as_of_manifest.json",
+      "description": "Per-series as_of / validity"
+    },
+    {
+      "id": "subsidies_active",
+      "path": "subsidies/active.json",
+      "description": "jGrants open calls (daily)"
+    },
+    {
+      "id": "timeseries",
+      "path": "timeseries/",
+      "description": "Per-metric time series (Phase 1+)"
+    },
+    {
+      "id": "sellwell_exclusive",
+      "path": "sellwell_exclusive/",
+      "description": "J1-J3 Smith-supplied exclusives"
+    },
+    {
+      "id": "subsidies_finder_index",
+      "path": "subsidies/finder_index.json",
+      "description": "REQ-031 lightweight finder index (+ .gz)"
+    },
+    {
+      "id": "subsidies_national_must_have",
+      "path": "subsidies/national_must_have.json",
+      "description": "REQ-033 national must-have catalog match status"
+    }
   ]
 }

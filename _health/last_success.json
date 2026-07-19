@@ -1,7 +1,12 @@
-﻿{
-    "ok":  true,
-    "note_ja":  "REQ-030 AtoF 最終push",
-    "retrieved_at":  "2026-07-19T23:16:09+09:00",
-    "as_of_date":  "2026-07-19",
-    "workflow":  "REQ-030-manual-push"
+{
+  "ok": true,
+  "retrieved_at": "2026-07-20",
+  "wave": "REQ-031to034",
+  "collected": 22797,
+  "noise_dropped": 1250,
+  "national_must_have_missing": [
+    "出生時育児休業等支援関連助成（両立支援の関連）",
+    "みらさぽplus"
+  ],
+  "warn": true
 }
