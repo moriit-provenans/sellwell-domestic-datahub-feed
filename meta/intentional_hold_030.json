@@ -1,0 +1,3654 @@
+{
+  "as_of": "2026-07-19",
+  "count": 456,
+  "items": [
+    {
+      "code": "17201",
+      "name_ja": "金沢市",
+      "type": "core_city",
+      "url": "https://www.city.kanazawa.lg.jp/:",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "37201",
+      "name_ja": "高松市",
+      "type": "core_city",
+      "url": "https://www.city.takamatsu.kagawa.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "14201",
+      "name_ja": "横須賀市",
+      "type": "core_city",
+      "url": "https://www.city.yokosuka.kanagawa.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "10202",
+      "name_ja": "高崎市",
+      "type": "core_city",
+      "url": "https://www.city.takasaki.gunma.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "27207",
+      "name_ja": "高槻市",
+      "type": "core_city",
+      "url": "https://www.city.takatsuki.osaka.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "08201",
+      "name_ja": "水戸市",
+      "type": "core_city",
+      "url": "https://www.city.mito.lg.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "42202",
+      "name_ja": "佐世保市",
+      "type": "core_city",
+      "url": "https://www.city.sasebo.lg.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "14205",
+      "name_ja": "藤沢市",
+      "type": "city",
+      "url": "https://www.city.fujisawa.kanagawa.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "12216",
+      "name_ja": "市原市",
+      "type": "city",
+      "url": "https://www.city.ichihara.chiba.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "24201",
+      "name_ja": "津市",
+      "type": "city",
+      "url": "https://www.city.tsu.mie.jp/:",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "28212",
+      "name_ja": "加古川市",
+      "type": "city",
+      "url": "https://www.city.kakogawa.lg.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "08203",
+      "name_ja": "つくば市",
+      "type": "city",
+      "url": "https://www.city.tsukuba.lg.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "14213",
+      "name_ja": "大和市",
+      "type": "city",
+      "url": "https://www.city.yamato.lg.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "11215",
+      "name_ja": "春日部市",
+      "type": "city",
+      "url": "https://www.city.kasukabe.lg.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "10203",
+      "name_ja": "伊勢崎市",
+      "type": "city",
+      "url": "https://www.city.isesaki.lg.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "12219",
+      "name_ja": "流山市",
+      "type": "city",
+      "url": "https://www.city.nagareyama.chiba.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "12220",
+      "name_ja": "八千代市",
+      "type": "city",
+      "url": "https://www.city.yachiyo.chiba.jp/:",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "35203",
+      "name_ja": "山口市",
+      "type": "city",
+      "url": "https://www.city.yamaguchi.lg.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "12210",
+      "name_ja": "佐倉市",
+      "type": "city",
+      "url": "https://www.city.sakura.lg.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "12215",
+      "name_ja": "習志野市",
+      "type": "city",
+      "url": "https://www.city.narashino.lg.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "16202",
+      "name_ja": "高岡市",
+      "type": "city",
+      "url": "https://www.city.takaoka.toyama.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "09205",
+      "name_ja": "栃木市",
+      "type": "city",
+      "url": "https://www.city.tochigi.lg.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "11231",
+      "name_ja": "入間市",
+      "type": "city",
+      "url": "https://www.city.iruma.saitama.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "21213",
+      "name_ja": "各務原市",
+      "type": "city",
+      "url": "https://www.city.kakamigahara.lg.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "23219",
+      "name_ja": "小牧市",
+      "type": "city",
+      "url": "https://www.city.komaki.lg.jp/:",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "22212",
+      "name_ja": "焼津市",
+      "type": "city",
+      "url": "https://www.city.yaizu.lg.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "42204",
+      "name_ja": "諫早市",
+      "type": "city",
+      "url": "https://www.city.isahaya.nagasaki.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "43202",
+      "name_ja": "八代市",
+      "type": "city",
+      "url": "https://www.city.yatsushiro.lg.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "14214",
+      "name_ja": "伊勢原市",
+      "type": "city",
+      "url": "https://www.city.isehara.kanagawa.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "25213",
+      "name_ja": "東近江市",
+      "type": "city",
+      "url": "https://www.city.higashiomi.shiga.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "27214",
+      "name_ja": "富田林市",
+      "type": "city",
+      "url": "https://www.city.tondabayashi.lg.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "40217",
+      "name_ja": "筑紫野市",
+      "type": "city",
+      "url": "https://www.city.chikushino.lg.jp/:",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "40219",
+      "name_ja": "大野城市",
+      "type": "city",
+      "url": "https://www.city.onojo.fukuoka.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "01207",
+      "name_ja": "帯広市",
+      "type": "city",
+      "url": "https://www.city.obihiro.hokkaido.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "01208",
+      "name_ja": "北見市",
+      "type": "city",
+      "url": "https://www.city.kitami.lg.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "01212",
+      "name_ja": "留萌市",
+      "type": "city",
+      "url": "https://www.e-rumoi.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "01220",
+      "name_ja": "士別市",
+      "type": "city",
+      "url": "https://www.city.shibetsu.lg.jp/www/index.html",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "dead"
+    },
+    {
+      "code": "01229",
+      "name_ja": "富良野市",
+      "type": "city",
+      "url": "https://www.city.furano.hokkaido.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "01231",
+      "name_ja": "恵庭市",
+      "type": "city",
+      "url": "https://www.city.eniwa.hokkaido.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "01234",
+      "name_ja": "北広島市",
+      "type": "city",
+      "url": "https://www.city.kitahiroshima.hokkaido.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "02209",
+      "name_ja": "つがる市",
+      "type": "city",
+      "url": "https://www.city.tsugaru.aomori.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "03205",
+      "name_ja": "花巻市",
+      "type": "city",
+      "url": "https://www.city.hanamaki.iwate.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "03206",
+      "name_ja": "北上市",
+      "type": "city",
+      "url": "https://www.city.kitakami.iwate.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "03207",
+      "name_ja": "久慈市",
+      "type": "city",
+      "url": "https://www.city.kuji.iwate.jp/index.html",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "03208",
+      "name_ja": "遠野市",
+      "type": "city",
+      "url": "https://www.city.tono.iwate.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "03210",
+      "name_ja": "陸前高田市",
+      "type": "city",
+      "url": "https://www.city.rikuzentakata.iwate.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "04209",
+      "name_ja": "多賀城市",
+      "type": "city",
+      "url": "https://www.city.tagajo.miyagi.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "04211",
+      "name_ja": "岩沼市",
+      "type": "city",
+      "url": "https://www.city.iwanuma.miyagi.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "04215",
+      "name_ja": "大崎市",
+      "type": "city",
+      "url": "https://www.city.osaki.miyagi.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "05206",
+      "name_ja": "男鹿市",
+      "type": "city",
+      "url": "https://www.city.oga.akita.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "05209",
+      "name_ja": "鹿角市",
+      "type": "city",
+      "url": "https://www.city.kazuno.lg.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "05210",
+      "name_ja": "由利本荘市",
+      "type": "city",
+      "url": "https://www.city.yurihonjo.lg.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "05211",
+      "name_ja": "潟上市",
+      "type": "city",
+      "url": "https://www.city.katagami.lg.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "06210",
+      "name_ja": "天童市",
+      "type": "city",
+      "url": "https://www.city.tendo.yamagata.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "07207",
+      "name_ja": "須賀川市",
+      "type": "city",
+      "url": "https://www.city.sukagawa.fukushima.jp/:",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "07209",
+      "name_ja": "相馬市",
+      "type": "city",
+      "url": "https://www.city.soma.fukushima.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "07211",
+      "name_ja": "田村市",
+      "type": "city",
+      "url": "https://www.city.tamura.lg.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "07212",
+      "name_ja": "南相馬市",
+      "type": "city",
+      "url": "https://www.city.minamisoma.lg.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "08220",
+      "name_ja": "つくば市",
+      "type": "city",
+      "url": "https://www.city.tsukuba.lg.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "09202",
+      "name_ja": "足利市",
+      "type": "city",
+      "url": "https://www.city.ashikaga.tochigi.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "09204",
+      "name_ja": "佐野市",
+      "type": "city",
+      "url": "https://www.city.sano.lg.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "09206",
+      "name_ja": "日光市",
+      "type": "city",
+      "url": "https://www.city.nikko.lg.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "09209",
+      "name_ja": "真岡市",
+      "type": "city",
+      "url": "https://www.city.moka.lg.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "09210",
+      "name_ja": "大田原市",
+      "type": "city",
+      "url": "https://www.city.ohtawara.tochigi.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "09216",
+      "name_ja": "下野市",
+      "type": "city",
+      "url": "https://www.city.shimotsuke.lg.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "10206",
+      "name_ja": "沼田市",
+      "type": "city",
+      "url": "https://www.city.numata.gunma.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "10210",
+      "name_ja": "富岡市",
+      "type": "city",
+      "url": "https://www.city.tomioka.lg.jp/www/index.html:",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "dead"
+    },
+    {
+      "code": "11206",
+      "name_ja": "行田市",
+      "type": "city",
+      "url": "https://www.city.gyoda.lg.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "11211",
+      "name_ja": "本庄市",
+      "type": "city",
+      "url": "https://www.city.honjo.lg.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "12205",
+      "name_ja": "館山市",
+      "type": "city",
+      "url": "https://www.city.tateyama.chiba.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "12212",
+      "name_ja": "佐倉市",
+      "type": "city",
+      "url": "https://www.city.sakura.lg.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "12218",
+      "name_ja": "勝浦市",
+      "type": "city",
+      "url": "https://www.city.katsuura.lg.jp/forms/top/top.aspx",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "dead"
+    },
+    {
+      "code": "12239",
+      "name_ja": "大網白里市",
+      "type": "city",
+      "url": "https://www.city.oamishirasato.lg.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "13219",
+      "name_ja": "狛江市",
+      "type": "city",
+      "url": "https://www.city.komae.tokyo.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "13225",
+      "name_ja": "稲城市",
+      "type": "city",
+      "url": "https://www.city.inagi.tokyo.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "14218",
+      "name_ja": "綾瀬市",
+      "type": "city",
+      "url": "https://www.city.ayase.kanagawa.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "15206",
+      "name_ja": "新発田市",
+      "type": "city",
+      "url": "https://www.city.shibata.lg.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "15210",
+      "name_ja": "十日町市",
+      "type": "city",
+      "url": "https://www.city.tokamachi.lg.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "15213",
+      "name_ja": "燕市",
+      "type": "city",
+      "url": "https://www.city.tsubame.niigata.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "15217",
+      "name_ja": "妙高市",
+      "type": "city",
+      "url": "https://www.city.myoko.niigata.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "15224",
+      "name_ja": "佐渡市",
+      "type": "city",
+      "url": "https://www.city.sado.niigata.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "15225",
+      "name_ja": "魚沼市",
+      "type": "city",
+      "url": "https://www.city.uonuma.lg.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "16205",
+      "name_ja": "氷見市",
+      "type": "city",
+      "url": "https://www.city.himi.toyama.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "16206",
+      "name_ja": "滑川市",
+      "type": "city",
+      "url": "https://www.city.namerikawa.toyama.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "16207",
+      "name_ja": "黒部市",
+      "type": "city",
+      "url": "https://www.city.kurobe.toyama.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "16210",
+      "name_ja": "南砺市",
+      "type": "city",
+      "url": "https://www.city.nanto.toyama.jp/cms-sypher/www/index.jsp",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "dead"
+    },
+    {
+      "code": "17206",
+      "name_ja": "加賀市",
+      "type": "city",
+      "url": "https://www.city.kaga.ishikawa.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "17211",
+      "name_ja": "能美市",
+      "type": "city",
+      "url": "https://www.city.nomi.ishikawa.jp/www/index.html:",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "17212",
+      "name_ja": "野々市市",
+      "type": "city",
+      "url": "https://www.city.nonoichi.lg.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "19202",
+      "name_ja": "富士吉田市",
+      "type": "city",
+      "url": "https://www.city.fujiyoshida.yamanashi.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "19204",
+      "name_ja": "都留市",
+      "type": "city",
+      "url": "https://www.city.tsuru.yamanashi.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "19211",
+      "name_ja": "笛吹市",
+      "type": "city",
+      "url": "https://www.city.fuefuki.yamanashi.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "20204",
+      "name_ja": "岡谷市",
+      "type": "city",
+      "url": "https://www.city.okaya.lg.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "20206",
+      "name_ja": "諏訪市",
+      "type": "city",
+      "url": "https://www.city.suwa.lg.jp/www/index.jsp",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "dead"
+    },
+    {
+      "code": "20208",
+      "name_ja": "小諸市",
+      "type": "city",
+      "url": "https://www.city.komoro.lg.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "20209",
+      "name_ja": "伊那市",
+      "type": "city",
+      "url": "https://www.inacity.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "20210",
+      "name_ja": "駒ヶ根市",
+      "type": "city",
+      "url": "https://www.city.komagane.nagano.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "20218",
+      "name_ja": "千曲市",
+      "type": "city",
+      "url": "https://www.city.chikuma.lg.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "21206",
+      "name_ja": "中津川市",
+      "type": "city",
+      "url": "https://www.city.nakatsugawa.lg.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "21211",
+      "name_ja": "美濃加茂市",
+      "type": "city",
+      "url": "https://www.city.minokamo.gifu.jp/shimin/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "dead"
+    },
+    {
+      "code": "21215",
+      "name_ja": "山県市",
+      "type": "city",
+      "url": "https://www.city.yamagata.gifu.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "22205",
+      "name_ja": "熱海市",
+      "type": "city",
+      "url": "https://www.city.atami.lg.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "22208",
+      "name_ja": "伊東市",
+      "type": "city",
+      "url": "https://www.city.ito.shizuoka.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "22221",
+      "name_ja": "湖西市",
+      "type": "city",
+      "url": "https://www.city.kosai.shizuoka.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "22223",
+      "name_ja": "御前崎市",
+      "type": "city",
+      "url": "https://www.city.omaezaki.shizuoka.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "23209",
+      "name_ja": "碧南市",
+      "type": "city",
+      "url": "https://www.city.hekinan.lg.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "23215",
+      "name_ja": "犬山市",
+      "type": "city",
+      "url": "https://www.city.inuyama.aichi.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "23226",
+      "name_ja": "尾張旭市",
+      "type": "city",
+      "url": "https://www.city.owariasahi.lg.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "23236",
+      "name_ja": "みよし市",
+      "type": "city",
+      "url": "https://www.city.aichi-miyoshi.lg.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "23238",
+      "name_ja": "長久手市",
+      "type": "city",
+      "url": "https://www.city.nagakute.lg.jp/index.html",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "24211",
+      "name_ja": "鳥羽市",
+      "type": "city",
+      "url": "https://www.city.toba.mie.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "24215",
+      "name_ja": "志摩市",
+      "type": "city",
+      "url": "https://www.city.shima.mie.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "25212",
+      "name_ja": "高島市",
+      "type": "city",
+      "url": "https://www.city.takashima.lg.jp/www/toppage/0000000000000/APM03000.html",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "dead"
+    },
+    {
+      "code": "26201",
+      "name_ja": "福知山市",
+      "type": "city",
+      "url": "https://www.city.fukuchiyama.lg.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "26207",
+      "name_ja": "城陽市",
+      "type": "city",
+      "url": "https://www.city.joyo.kyoto.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "27213",
+      "name_ja": "泉佐野市",
+      "type": "city",
+      "url": "https://www.city.izumisano.lg.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "27225",
+      "name_ja": "高石市",
+      "type": "city",
+      "url": "https://www.city.takaishi.lg.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "27229",
+      "name_ja": "四條畷市",
+      "type": "city",
+      "url": "https://www.city.shijonawate.lg.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "28221",
+      "name_ja": "丹波篠山市",
+      "type": "city",
+      "url": "https://www.city.tambasasayama.lg.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "28227",
+      "name_ja": "宍粟市",
+      "type": "city",
+      "url": "https://www.city.shiso.lg.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "28228",
+      "name_ja": "加東市",
+      "type": "city",
+      "url": "https://www.city.kato.lg.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "30202",
+      "name_ja": "海南市",
+      "type": "city",
+      "url": "https://www.city.kainan.lg.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "30203",
+      "name_ja": "橋本市",
+      "type": "city",
+      "url": "https://www.city.hashimoto.lg.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "30204",
+      "name_ja": "有田市",
+      "type": "city",
+      "url": "https://www.city.arida.lg.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "30206",
+      "name_ja": "田辺市",
+      "type": "city",
+      "url": "https://www.city.tanabe.lg.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "30207",
+      "name_ja": "新宮市",
+      "type": "city",
+      "url": "https://www.city.shingu.lg.jp/forms/top/top.aspx",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "30209",
+      "name_ja": "岩出市",
+      "type": "city",
+      "url": "https://www.city.iwade.lg.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "32204",
+      "name_ja": "益田市",
+      "type": "city",
+      "url": "https://www.city.masuda.lg.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "33203",
+      "name_ja": "津山市",
+      "type": "city",
+      "url": "https://www.city.tsuyama.lg.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "34208",
+      "name_ja": "府中市",
+      "type": "city",
+      "url": "https://www.city.fuchu.hiroshima.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "34211",
+      "name_ja": "大竹市",
+      "type": "city",
+      "url": "https://www.city.otake.hiroshima.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "35213",
+      "name_ja": "美祢市",
+      "type": "city",
+      "url": "https://www2.city.mine.lg.jp/www/toppage/0000000000000/APM03000.html",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "dead"
+    },
+    {
+      "code": "36204",
+      "name_ja": "阿南市",
+      "type": "city",
+      "url": "https://www.city.anan.tokushima.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "36208",
+      "name_ja": "三好市",
+      "type": "city",
+      "url": "https://www.miyoshi.i-tokushima.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "37206",
+      "name_ja": "さぬき市",
+      "type": "city",
+      "url": "https://www.city.sanuki.kagawa.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "dead"
+    },
+    {
+      "code": "37207",
+      "name_ja": "東かがわ市",
+      "type": "city",
+      "url": "https://www.higashikagawa.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "38203",
+      "name_ja": "宇和島市",
+      "type": "city",
+      "url": "https://www.city.uwajima.ehime.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "38213",
+      "name_ja": "四国中央市",
+      "type": "city",
+      "url": "https://www.city.shikokuchuo.ehime.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "39202",
+      "name_ja": "室戸市",
+      "type": "city",
+      "url": "https://www.city.muroto.kochi.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "39205",
+      "name_ja": "土佐市",
+      "type": "city",
+      "url": "https://www.city.tosa.lg.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "39208",
+      "name_ja": "宿毛市",
+      "type": "city",
+      "url": "https://www.city.sukumo.kochi.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "39209",
+      "name_ja": "土佐清水市",
+      "type": "city",
+      "url": "https://www.city.tosashimizu.kochi.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "39211",
+      "name_ja": "香南市",
+      "type": "city",
+      "url": "https://www.city.kochi-konan.lg.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "40206",
+      "name_ja": "田川市",
+      "type": "city",
+      "url": "https://www.joho.tagawa.fukuoka.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "40210",
+      "name_ja": "八女市",
+      "type": "city",
+      "url": "https://www.city.yame.fukuoka.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "40221",
+      "name_ja": "太宰府市",
+      "type": "city",
+      "url": "https://www.city.dazaifu.lg.jp",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "40224",
+      "name_ja": "福津市",
+      "type": "city",
+      "url": "https://www.city.fukutsu.lg.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "40228",
+      "name_ja": "朝倉市",
+      "type": "city",
+      "url": "https://www.city.asakura.lg.jp/www/toppage/0000000000000/APM03000.html",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "dead"
+    },
+    {
+      "code": "41206",
+      "name_ja": "武雄市",
+      "type": "city",
+      "url": "https://www.city.takeo.lg.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "41208",
+      "name_ja": "小城市",
+      "type": "city",
+      "url": "https://www.city.ogi.lg.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "42207",
+      "name_ja": "平戸市",
+      "type": "city",
+      "url": "https://www.city.hirado.nagasaki.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "42208",
+      "name_ja": "松浦市",
+      "type": "city",
+      "url": "https://www.city-matsuura.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "42214",
+      "name_ja": "南島原市",
+      "type": "city",
+      "url": "https://www.city.minamishimabara.lg.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "43205",
+      "name_ja": "水俣市",
+      "type": "city",
+      "url": "https://www.city.minamata.lg.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "43213",
+      "name_ja": "宇城市",
+      "type": "city",
+      "url": "https://www.city.uki.kumamoto.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "43215",
+      "name_ja": "天草市",
+      "type": "city",
+      "url": "https://www.city.amakusa.kumamoto.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "44204",
+      "name_ja": "日田市",
+      "type": "city",
+      "url": "https://www.city.hita.oita.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "44208",
+      "name_ja": "竹田市",
+      "type": "city",
+      "url": "https://www.city.taketa.oita.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "45204",
+      "name_ja": "日南市",
+      "type": "city",
+      "url": "https://www.city.nichinan.lg.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "46208",
+      "name_ja": "出水市",
+      "type": "city",
+      "url": "https://www.city.kagoshima-izumi.lg.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "46213",
+      "name_ja": "西之表市",
+      "type": "city",
+      "url": "https://www.city.nishinoomote.lg.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "46215",
+      "name_ja": "薩摩川内市",
+      "type": "city",
+      "url": "https://www.city.satsumasendai.lg.jp/www/index.html",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "dead"
+    },
+    {
+      "code": "46220",
+      "name_ja": "南さつま市",
+      "type": "city",
+      "url": "https://www.city.minamisatsuma.lg.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "46224",
+      "name_ja": "伊佐市",
+      "type": "city",
+      "url": "https://www.city.isa.kagoshima.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "46225",
+      "name_ja": "姶良市",
+      "type": "city",
+      "url": "https://www.city.aira.lg.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "47207",
+      "name_ja": "石垣市",
+      "type": "city",
+      "url": "https://www.city.ishigaki.okinawa.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "47215",
+      "name_ja": "南城市",
+      "type": "city",
+      "url": "https://www.city.nanjo.okinawa.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "01303",
+      "name_ja": "当別町",
+      "type": "town",
+      "url": "https://www.town.tobetsu.hokkaido.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "01343",
+      "name_ja": "鹿部町",
+      "type": "town",
+      "url": "https://www.town.shikabe.lg.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "01345",
+      "name_ja": "森町",
+      "type": "town",
+      "url": "https://www.town.hokkaido-mori.lg.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "01363",
+      "name_ja": "厚沢部町",
+      "type": "town",
+      "url": "https://www.town.assabu.lg.jp/index.php",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "01367",
+      "name_ja": "奥尻町",
+      "type": "town",
+      "url": "https://www.town.okushiri.lg.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "01370",
+      "name_ja": "今金町",
+      "type": "town",
+      "url": "https://www.town.imakane.lg.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "01392",
+      "name_ja": "寿都町",
+      "type": "town",
+      "url": "http://www.town.suttu.lg.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "01394",
+      "name_ja": "蘭越町",
+      "type": "town",
+      "url": "https://www.town.rankoshi.hokkaido.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "01400",
+      "name_ja": "倶知安町",
+      "type": "town",
+      "url": "https://www.town.kutchan.hokkaido.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "01405",
+      "name_ja": "積丹町",
+      "type": "town",
+      "url": "https://www.town.shakotan.lg.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "01425",
+      "name_ja": "上砂川町",
+      "type": "town",
+      "url": "https://town.kamisunagawa.hokkaido.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "01431",
+      "name_ja": "浦臼町",
+      "type": "town",
+      "url": "https://www.town.urausu.hokkaido.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "01432",
+      "name_ja": "新十津川町",
+      "type": "town",
+      "url": "https://www.town.shintotsukawa.lg.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "01438",
+      "name_ja": "沼田町",
+      "type": "town",
+      "url": "https://www.town.numata.hokkaido.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "01458",
+      "name_ja": "東川町",
+      "type": "town",
+      "url": "https://town.higashikawa.hokkaido.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "01460",
+      "name_ja": "上富良野町",
+      "type": "town",
+      "url": "https://www.town.kamifurano.hokkaido.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "01464",
+      "name_ja": "和寒町",
+      "type": "town",
+      "url": "https://www.town.wassamu.hokkaido.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "01465",
+      "name_ja": "剣淵町",
+      "type": "town",
+      "url": "https://www.town.kembuchi.hokkaido.jp/wp-content/cache/all//index.html",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "dead"
+    },
+    {
+      "code": "01518",
+      "name_ja": "利尻町",
+      "type": "town",
+      "url": "https://www.town.rishiri.hokkaido.jp/2s_index.htm:",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "01560",
+      "name_ja": "滝上町",
+      "type": "town",
+      "url": "https://www.town.takinoue.hokkaido.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "01581",
+      "name_ja": "厚真町",
+      "type": "town",
+      "url": "https://www.town.atsuma.lg.jp/office/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "dead"
+    },
+    {
+      "code": "01607",
+      "name_ja": "浦河町",
+      "type": "town",
+      "url": "https://www.town.urakawa.hokkaido.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "01608",
+      "name_ja": "様似町",
+      "type": "town",
+      "url": "http://www.samani.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "01647",
+      "name_ja": "足寄町",
+      "type": "town",
+      "url": "https://www.town.ashoro.hokkaido.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "01664",
+      "name_ja": "標茶町",
+      "type": "town",
+      "url": "https://town.shibecha.hokkaido.jp/top/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "01665",
+      "name_ja": "弟子屈町",
+      "type": "town",
+      "url": "https://www.town.teshikaga.hokkaido.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "01668",
+      "name_ja": "白糠町",
+      "type": "town",
+      "url": "https://www.town.shiranuka.lg.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "01694",
+      "name_ja": "羅臼町",
+      "type": "town",
+      "url": "https://www.rausu-town.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "02301",
+      "name_ja": "平内町",
+      "type": "town",
+      "url": "https://www.town.hiranai.aomori.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "02361",
+      "name_ja": "藤崎町",
+      "type": "town",
+      "url": "https://www.town.fujisaki.lg.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "02362",
+      "name_ja": "大鰐町",
+      "type": "town",
+      "url": "http://www.town.owani.lg.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "02381",
+      "name_ja": "板柳町",
+      "type": "town",
+      "url": "https://www.town.itayanagi.aomori.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "02387",
+      "name_ja": "中泊町",
+      "type": "town",
+      "url": "https://www.town.nakadomari.lg.jp/index.cfm",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "dead"
+    },
+    {
+      "code": "02401",
+      "name_ja": "野辺地町",
+      "type": "town",
+      "url": "https://www.town.noheji.aomori.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "02442",
+      "name_ja": "五戸町",
+      "type": "town",
+      "url": "https://www.town.gonohe.aomori.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "02445",
+      "name_ja": "南部町",
+      "type": "town",
+      "url": "https://www.town.aomori-nanbu.lg.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "02446",
+      "name_ja": "階上町",
+      "type": "town",
+      "url": "https://www.town.hashikami.lg.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "03301",
+      "name_ja": "雫石町",
+      "type": "town",
+      "url": "https://www.town.shizukuishi.iwate.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "03302",
+      "name_ja": "葛巻町",
+      "type": "town",
+      "url": "https://www.town.kuzumaki.iwate.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "03303",
+      "name_ja": "岩手町",
+      "type": "town",
+      "url": "https://town.iwate.iwate.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "03321",
+      "name_ja": "紫波町",
+      "type": "town",
+      "url": "https://www.town.shiwa.iwate.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "03366",
+      "name_ja": "西和賀町",
+      "type": "town",
+      "url": "https://www.town.nishiwaga.lg.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "03402",
+      "name_ja": "平泉町",
+      "type": "town",
+      "url": "https://www.town.hiraizumi.iwate.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "04401",
+      "name_ja": "松島町",
+      "type": "town",
+      "url": "https://www.town.miyagi-matsushima.lg.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "04404",
+      "name_ja": "七ヶ浜町",
+      "type": "town",
+      "url": "https://www.shichigahama.com/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "04421",
+      "name_ja": "大和町",
+      "type": "town",
+      "url": "https://www.town.taiwa.miyagi.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "04444",
+      "name_ja": "色麻町",
+      "type": "town",
+      "url": "https://www.town.shikama.miyagi.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "04505",
+      "name_ja": "美里町",
+      "type": "town",
+      "url": "https://www.town.misato.miyagi.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "04606",
+      "name_ja": "南三陸町",
+      "type": "town",
+      "url": "https://www.town.minamisanriku.miyagi.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "05303",
+      "name_ja": "小坂町",
+      "type": "town",
+      "url": "https://www.town.kosaka.akita.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "05346",
+      "name_ja": "藤里町",
+      "type": "town",
+      "url": "https://www.town.fujisato.akita.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "05348",
+      "name_ja": "三種町",
+      "type": "town",
+      "url": "https://www.town.mitane.akita.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "06302",
+      "name_ja": "中山町",
+      "type": "town",
+      "url": "https://www.town.nakayama.yamagata.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "06323",
+      "name_ja": "朝日町",
+      "type": "town",
+      "url": "https://www.town.asahi.yamagata.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "06362",
+      "name_ja": "最上町",
+      "type": "town",
+      "url": "https://town.mogami.lg.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "07301",
+      "name_ja": "桑折町",
+      "type": "town",
+      "url": "https://www.town.koori.fukushima.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "07368",
+      "name_ja": "南会津町",
+      "type": "town",
+      "url": "https://www.town.minamiaizu.lg.jp/index.html",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "07405",
+      "name_ja": "西会津町",
+      "type": "town",
+      "url": "https://www.town.nishiaizu.fukushima.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "07408",
+      "name_ja": "猪苗代町",
+      "type": "town",
+      "url": "https://www.town.inawashiro.fukushima.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "07445",
+      "name_ja": "金山町",
+      "type": "town",
+      "url": "https://www.town.kaneyama.fukushima.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "07447",
+      "name_ja": "会津美里町",
+      "type": "town",
+      "url": "https://www.town.aizumisato.fukushima.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "07522",
+      "name_ja": "小野町",
+      "type": "town",
+      "url": "https://www.town.ono.fukushima.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "07561",
+      "name_ja": "新地町",
+      "type": "town",
+      "url": "https://www.shinchi-town.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "08310",
+      "name_ja": "城里町",
+      "type": "town",
+      "url": "https://www.town.shirosato.lg.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "08542",
+      "name_ja": "五霞町",
+      "type": "town",
+      "url": "https://www.town.goka.lg.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "09342",
+      "name_ja": "益子町",
+      "type": "town",
+      "url": "https://www.town.mashiko.tochigi.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "09386",
+      "name_ja": "高根沢町",
+      "type": "town",
+      "url": "https://www.town.takanezawa.tochigi.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "09407",
+      "name_ja": "那須町",
+      "type": "town",
+      "url": "https://www.town.nasu.lg.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "10345",
+      "name_ja": "吉岡町",
+      "type": "town",
+      "url": "https://www.town.yoshioka.gunma.jp/:",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "dead"
+    },
+    {
+      "code": "10367",
+      "name_ja": "神流町",
+      "type": "town",
+      "url": "https://www.town.kanna.gunma.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "10426",
+      "name_ja": "草津町",
+      "type": "town",
+      "url": "https://www.town.kusatsu.gunma.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "10464",
+      "name_ja": "玉村町",
+      "type": "town",
+      "url": "https://www.town.tamamura.lg.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "11326",
+      "name_ja": "毛呂山町",
+      "type": "town",
+      "url": "https://www.town.moroyama.saitama.jp/www/index.html",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "dead"
+    },
+    {
+      "code": "11327",
+      "name_ja": "越生町",
+      "type": "town",
+      "url": "https://www.town.ogose.saitama.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "11341",
+      "name_ja": "滑川町",
+      "type": "town",
+      "url": "https://www.town.namegawa.saitama.jp/index.html",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "11347",
+      "name_ja": "吉見町",
+      "type": "town",
+      "url": "https://www.town.yoshimi.saitama.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "11385",
+      "name_ja": "上里町",
+      "type": "town",
+      "url": "https://www.town.kamisato.saitama.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "12441",
+      "name_ja": "大多喜町",
+      "type": "town",
+      "url": "https://www.town.otaki.chiba.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "13305",
+      "name_ja": "日の出町",
+      "type": "town",
+      "url": "https://www.town.hinode.tokyo.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "13308",
+      "name_ja": "奥多摩町",
+      "type": "town",
+      "url": "https://www.town.okutama.tokyo.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "14301",
+      "name_ja": "葉山町",
+      "type": "town",
+      "url": "https://www.town.hayama.lg.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "14341",
+      "name_ja": "大磯町",
+      "type": "town",
+      "url": "https://www.town.oiso.kanagawa.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "14361",
+      "name_ja": "中井町",
+      "type": "town",
+      "url": "https://www.town.nakai.kanagawa.jp/forms/top/top.aspx",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "dead"
+    },
+    {
+      "code": "14401",
+      "name_ja": "愛川町",
+      "type": "town",
+      "url": "https://www.town.aikawa.kanagawa.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "15307",
+      "name_ja": "聖籠町",
+      "type": "town",
+      "url": "https://www.town.seiro.niigata.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "15361",
+      "name_ja": "田上町",
+      "type": "town",
+      "url": "https://www.town.tagami.niigata.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "15385",
+      "name_ja": "阿賀町",
+      "type": "town",
+      "url": "https://www.town.aga.niigata.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "15461",
+      "name_ja": "湯沢町",
+      "type": "town",
+      "url": "https://www.town.yuzawa.lg.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "15482",
+      "name_ja": "津南町",
+      "type": "town",
+      "url": "https://www.town.tsunan.niigata.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "16322",
+      "name_ja": "上市町",
+      "type": "town",
+      "url": "https://www.town.kamiichi.toyama.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "16323",
+      "name_ja": "立山町",
+      "type": "town",
+      "url": "https://www.town.tateyama.toyama.jp/pub/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "dead"
+    },
+    {
+      "code": "16342",
+      "name_ja": "入善町",
+      "type": "town",
+      "url": "https://www.town.nyuzen.toyama.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "16343",
+      "name_ja": "朝日町",
+      "type": "town",
+      "url": "https://www.town.asahi.toyama.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "17324",
+      "name_ja": "川北町",
+      "type": "town",
+      "url": "https://www.town.kawakita.ishikawa.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "17361",
+      "name_ja": "津幡町",
+      "type": "town",
+      "url": "https://www.town.tsubata.lg.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "17386",
+      "name_ja": "宝達志水町",
+      "type": "town",
+      "url": "https://www.hodatsushimizu.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "17407",
+      "name_ja": "中能登町",
+      "type": "town",
+      "url": "https://www.town.nakanoto.ishikawa.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "17463",
+      "name_ja": "能登町",
+      "type": "town",
+      "url": "https://www.town.noto.lg.jp/www/total_top.jsp",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "dead"
+    },
+    {
+      "code": "19365",
+      "name_ja": "身延町",
+      "type": "town",
+      "url": "https://www.town.minobu.lg.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "20303",
+      "name_ja": "小海町",
+      "type": "town",
+      "url": "https://www.koumi-town.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "20323",
+      "name_ja": "御代田町",
+      "type": "town",
+      "url": "https://www.town.miyota.nagano.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "20324",
+      "name_ja": "立科町",
+      "type": "town",
+      "url": "https://www.town.tateshina.nagano.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "20362",
+      "name_ja": "富士見町",
+      "type": "town",
+      "url": "https://www.town.fujimi.lg.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "20402",
+      "name_ja": "松川町",
+      "type": "town",
+      "url": "https://www.town.matsukawa.lg.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "20422",
+      "name_ja": "上松町",
+      "type": "town",
+      "url": "https://www.town.agematsu.nagano.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "20521",
+      "name_ja": "坂城町",
+      "type": "town",
+      "url": "https://www.town.sakaki.nagano.jp/www/index.html",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "dead"
+    },
+    {
+      "code": "21403",
+      "name_ja": "大野町",
+      "type": "town",
+      "url": "https://www.town-ono.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "21421",
+      "name_ja": "北方町",
+      "type": "town",
+      "url": "https://www.town.kitagata.gifu.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "21506",
+      "name_ja": "白川町",
+      "type": "town",
+      "url": "https://www.vill.shirakawa.lg.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "22301",
+      "name_ja": "東伊豆町",
+      "type": "town",
+      "url": "https://www.town.higashiizu.lg.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "22306",
+      "name_ja": "西伊豆町",
+      "type": "town",
+      "url": "https://www.town.nishiizu.shizuoka.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "22325",
+      "name_ja": "函南町",
+      "type": "town",
+      "url": "https://www.town.kannami.shizuoka.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "22342",
+      "name_ja": "長泉町",
+      "type": "town",
+      "url": "https://www.town.nagaizumi.lg.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "23445",
+      "name_ja": "南知多町",
+      "type": "town",
+      "url": "https://www.town.minamichita.lg.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "24324",
+      "name_ja": "東員町",
+      "type": "town",
+      "url": "https://www.town.toin.lg.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "24442",
+      "name_ja": "明和町",
+      "type": "town",
+      "url": "https://www.town.meiwa.mie.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "24470",
+      "name_ja": "度会町",
+      "type": "town",
+      "url": "https://www.town.watarai.lg.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "24561",
+      "name_ja": "御浜町",
+      "type": "town",
+      "url": "https://www.town.mihama.mie.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "24562",
+      "name_ja": "紀宝町",
+      "type": "town",
+      "url": "https://www.town.kiho.lg.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "25383",
+      "name_ja": "日野町",
+      "type": "town",
+      "url": "https://www.town.shiga-hino.lg.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "25425",
+      "name_ja": "愛荘町",
+      "type": "town",
+      "url": "https://www.town.aisho.shiga.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "25441",
+      "name_ja": "豊郷町",
+      "type": "town",
+      "url": "https://www.town.toyosato.shiga.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "25442",
+      "name_ja": "甲良町",
+      "type": "town",
+      "url": "https://www.kouratown.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "26343",
+      "name_ja": "井手町",
+      "type": "town",
+      "url": "https://www.town.ide.kyoto.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "26364",
+      "name_ja": "笠置町",
+      "type": "town",
+      "url": "https://www.town.kasagi.lg.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "27322",
+      "name_ja": "能勢町",
+      "type": "town",
+      "url": "https://www.town.nose.osaka.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "27382",
+      "name_ja": "河南町",
+      "type": "town",
+      "url": "https://www.town.kanan.osaka.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "28301",
+      "name_ja": "猪名川町",
+      "type": "town",
+      "url": "https://www.town.inagawa.lg.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "28381",
+      "name_ja": "稲美町",
+      "type": "town",
+      "url": "https://www.town.hyogo-inami.lg.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "28464",
+      "name_ja": "太子町",
+      "type": "town",
+      "url": "https://www.town.hyogo-taishi.lg.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "28481",
+      "name_ja": "上郡町",
+      "type": "town",
+      "url": "https://www.town.kamigori.hyogo.jp/cms-sypher/www/index.jsp",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "dead"
+    },
+    {
+      "code": "28585",
+      "name_ja": "香美町",
+      "type": "town",
+      "url": "https://www.town.mikata-kami.lg.jp/www/index.html",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "dead"
+    },
+    {
+      "code": "29345",
+      "name_ja": "安堵町",
+      "type": "town",
+      "url": "https://www.town.ando.nara.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "29363",
+      "name_ja": "田原本町",
+      "type": "town",
+      "url": "https://www.town.tawaramoto.nara.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "29401",
+      "name_ja": "高取町",
+      "type": "town",
+      "url": "https://www.town.takatori.nara.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "29424",
+      "name_ja": "上牧町",
+      "type": "town",
+      "url": "https://www.town.kanmaki.nara.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "29426",
+      "name_ja": "広陵町",
+      "type": "town",
+      "url": "https://www.town.koryo.nara.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "29427",
+      "name_ja": "河合町",
+      "type": "town",
+      "url": "https://www.town.kawai.nara.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "30304",
+      "name_ja": "紀美野町",
+      "type": "town",
+      "url": "https://www.town.kimino.wakayama.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "30366",
+      "name_ja": "有田川町",
+      "type": "town",
+      "url": "https://www.town.aridagawa.lg.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "30401",
+      "name_ja": "白浜町",
+      "type": "town",
+      "url": "https://www.town.shirahama.wakayama.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "30404",
+      "name_ja": "上富田町",
+      "type": "town",
+      "url": "https://www.town.kamitonda.lg.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "30424",
+      "name_ja": "古座川町",
+      "type": "town",
+      "url": "https://www.town.kozagawa.lg.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "31328",
+      "name_ja": "智頭町",
+      "type": "town",
+      "url": "https://www1.town.chizu.tottori.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "31370",
+      "name_ja": "湯梨浜町",
+      "type": "town",
+      "url": "https://www.yurihama.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "32441",
+      "name_ja": "川本町",
+      "type": "town",
+      "url": "https://www.town.shimane-kawamoto.lg.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "32528",
+      "name_ja": "隠岐の島町",
+      "type": "town",
+      "url": "https://www.town.okinoshima.shimane.jp/www/index.html",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "dead"
+    },
+    {
+      "code": "33423",
+      "name_ja": "早島町",
+      "type": "town",
+      "url": "https://www.town.hayashima.lg.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "33623",
+      "name_ja": "奈義町",
+      "type": "town",
+      "url": "https://www.town.nagi.okayama.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "34307",
+      "name_ja": "熊野町",
+      "type": "town",
+      "url": "https://www.town.kumano.hiroshima.jp/:",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "dead"
+    },
+    {
+      "code": "34369",
+      "name_ja": "北広島町",
+      "type": "town",
+      "url": "https://www.town.kitahiroshima.lg.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "34545",
+      "name_ja": "神石高原町",
+      "type": "town",
+      "url": "https://www.jinsekigun.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "35343",
+      "name_ja": "田布施町",
+      "type": "town",
+      "url": "https://www.town.tabuse.lg.jp/www/index.html",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "dead"
+    },
+    {
+      "code": "36301",
+      "name_ja": "勝浦町",
+      "type": "town",
+      "url": "https://www.town.katsuura.lg.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "36368",
+      "name_ja": "那賀町",
+      "type": "town",
+      "url": "https://www.town.tokushima-naka.lg.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "36383",
+      "name_ja": "牟岐町",
+      "type": "town",
+      "url": "https://www.town.tokushima-mugi.lg.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "37322",
+      "name_ja": "土庄町",
+      "type": "town",
+      "url": "https://www.town.tonosho.kagawa.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "37324",
+      "name_ja": "小豆島町",
+      "type": "town",
+      "url": "https://www.town.shodoshima.lg.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "37341",
+      "name_ja": "三木町",
+      "type": "town",
+      "url": "https://www.town.miki.lg.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "38442",
+      "name_ja": "伊方町",
+      "type": "town",
+      "url": "https://www.town.ikata.ehime.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "dead"
+    },
+    {
+      "code": "38488",
+      "name_ja": "鬼北町",
+      "type": "town",
+      "url": "https://www.town.kihoku.ehime.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "dead"
+    },
+    {
+      "code": "38506",
+      "name_ja": "愛南町",
+      "type": "town",
+      "url": "https://www.town.ainan.ehime.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "dead"
+    },
+    {
+      "code": "39302",
+      "name_ja": "奈半利町",
+      "type": "town",
+      "url": "https://www.town.nahari.kochi.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "39304",
+      "name_ja": "安田町",
+      "type": "town",
+      "url": "https://www.town.yasuda.kochi.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "39341",
+      "name_ja": "本山町",
+      "type": "town",
+      "url": "https://www.town.motoyama.kochi.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "39344",
+      "name_ja": "大豊町",
+      "type": "town",
+      "url": "https://www.town.otoyo.kochi.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "39405",
+      "name_ja": "檮原町",
+      "type": "town",
+      "url": "https://www.town.yusuhara.lg.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "39411",
+      "name_ja": "津野町",
+      "type": "town",
+      "url": "https://town.kochi-tsuno.lg.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "39424",
+      "name_ja": "大月町",
+      "type": "town",
+      "url": "https://www.town.otsuki.kochi.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "40341",
+      "name_ja": "宇美町",
+      "type": "town",
+      "url": "https://www.town.umi.lg.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "40344",
+      "name_ja": "須恵町",
+      "type": "town",
+      "url": "https://www.town.sue.fukuoka.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "40348",
+      "name_ja": "久山町",
+      "type": "town",
+      "url": "https://www.town.hisayama.fukuoka.jp/fullflash/index.html",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "dead"
+    },
+    {
+      "code": "40522",
+      "name_ja": "大木町",
+      "type": "town",
+      "url": "https://www.town.ooki.lg.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "40601",
+      "name_ja": "香春町",
+      "type": "town",
+      "url": "https://www.town.kawara.fukuoka.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "40610",
+      "name_ja": "福智町",
+      "type": "town",
+      "url": "https://www.town.fukuchi.lg.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "40642",
+      "name_ja": "吉富町",
+      "type": "town",
+      "url": "https://www.town.yoshitomi.lg.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "40646",
+      "name_ja": "上毛町",
+      "type": "town",
+      "url": "https://www.town.koge.lg.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "41327",
+      "name_ja": "吉野ヶ里町",
+      "type": "town",
+      "url": "https://www.town.yoshinogari.lg.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "41401",
+      "name_ja": "有田町",
+      "type": "town",
+      "url": "https://www.town.arita.lg.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "42308",
+      "name_ja": "時津町",
+      "type": "town",
+      "url": "https://www.town.togitsu.nagasaki.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "42321",
+      "name_ja": "東彼杵町",
+      "type": "town",
+      "url": "https://www.sonogi.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "42383",
+      "name_ja": "小値賀町",
+      "type": "town",
+      "url": "https://www.town.ojika.lg.jp/index.html",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "43368",
+      "name_ja": "長洲町",
+      "type": "town",
+      "url": "https://www.town.nagasu.lg.jp/index.html",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "dead"
+    },
+    {
+      "code": "43424",
+      "name_ja": "小国町",
+      "type": "town",
+      "url": "https://www.town.kumamoto-oguni.lg.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "43428",
+      "name_ja": "高森町",
+      "type": "town",
+      "url": "https://www.town.takamori.kumamoto.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "dead"
+    },
+    {
+      "code": "43442",
+      "name_ja": "嘉島町",
+      "type": "town",
+      "url": "https://www.town.kumamoto-kashima.lg.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "43444",
+      "name_ja": "甲佐町",
+      "type": "town",
+      "url": "https://www.town.kosa.lg.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "43447",
+      "name_ja": "山都町",
+      "type": "town",
+      "url": "https://www.town.kumamoto-yamato.lg.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "43482",
+      "name_ja": "芦北町",
+      "type": "town",
+      "url": "https://www.town.ashikita.lg.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "43501",
+      "name_ja": "錦町",
+      "type": "town",
+      "url": "https://www.town.kumamoto-nishiki.lg.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "43505",
+      "name_ja": "多良木町",
+      "type": "town",
+      "url": "https://www.town.taragi.lg.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "43531",
+      "name_ja": "苓北町",
+      "type": "town",
+      "url": "https://reihoku-kumamoto.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "45341",
+      "name_ja": "三股町",
+      "type": "town",
+      "url": "https://www.town.mimata.lg.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "45361",
+      "name_ja": "高原町",
+      "type": "town",
+      "url": "https://www.town.takaharu.lg.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "45383",
+      "name_ja": "綾町",
+      "type": "town",
+      "url": "https://www.town.aya.miyazaki.jp/ayatown/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "dead"
+    },
+    {
+      "code": "45402",
+      "name_ja": "新富町",
+      "type": "town",
+      "url": "https://www.town.shintomi.lg.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "45406",
+      "name_ja": "都農町",
+      "type": "town",
+      "url": "https://www.town.tsuno.lg.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "45441",
+      "name_ja": "高千穂町",
+      "type": "town",
+      "url": "https://www.town-takachiho.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "45443",
+      "name_ja": "五ヶ瀬町",
+      "type": "town",
+      "url": "https://www.town.gokase.miyazaki.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "46491",
+      "name_ja": "南大隅町",
+      "type": "town",
+      "url": "https://www.town.minamiosumi.lg.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "46492",
+      "name_ja": "肝付町",
+      "type": "town",
+      "url": "https://kimotsuki-town.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "46529",
+      "name_ja": "喜界町",
+      "type": "town",
+      "url": "https://www.town.kikai.lg.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "46534",
+      "name_ja": "知名町",
+      "type": "town",
+      "url": "https://www.town.china.lg.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "46535",
+      "name_ja": "与論町",
+      "type": "town",
+      "url": "https://www.yoron.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "47325",
+      "name_ja": "嘉手納町",
+      "type": "town",
+      "url": "https://www.town.kadena.okinawa.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "01397",
+      "name_ja": "留寿都村",
+      "type": "village",
+      "url": "https://www.vill.rusutsu.lg.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "01404",
+      "name_ja": "神恵内村",
+      "type": "village",
+      "url": "https://www.vill.kamoenai.hokkaido.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "01485",
+      "name_ja": "初山別村",
+      "type": "village",
+      "url": "https://www.vill.shosanbetsu.lg.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "02411",
+      "name_ja": "六ヶ所村",
+      "type": "village",
+      "url": "https://www.rokkasho.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "02424",
+      "name_ja": "東通村",
+      "type": "village",
+      "url": "http://www.vill.higashidoori.lg.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "02425",
+      "name_ja": "風間浦村",
+      "type": "village",
+      "url": "https://www.kazamaura.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "03484",
+      "name_ja": "田野畑村",
+      "type": "village",
+      "url": "https://www.vill.tanohata.iwate.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "03485",
+      "name_ja": "普代村",
+      "type": "village",
+      "url": "https://www.vill.fudai.iwate.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "03503",
+      "name_ja": "野田村",
+      "type": "village",
+      "url": "https://www.vill.noda.iwate.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "04424",
+      "name_ja": "大衡村",
+      "type": "village",
+      "url": "https://www.village.ohira.miyagi.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "05368",
+      "name_ja": "大潟村",
+      "type": "village",
+      "url": "https://www.vill.ogata.akita.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "05464",
+      "name_ja": "東成瀬村",
+      "type": "village",
+      "url": "https://www.higashinaruse.com/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "06365",
+      "name_ja": "大蔵村",
+      "type": "village",
+      "url": "https://www.vill.ohkura.yamagata.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "07402",
+      "name_ja": "北塩原村",
+      "type": "village",
+      "url": "https://www.vill.kitashiobara.fukushima.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "07422",
+      "name_ja": "湯川村",
+      "type": "village",
+      "url": "https://www.vill.yugawa.fukushima.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "07446",
+      "name_ja": "昭和村",
+      "type": "village",
+      "url": "https://www.vill.showa.fukushima.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "07502",
+      "name_ja": "玉川村",
+      "type": "village",
+      "url": "https://www.vill.tamakawa.fukushima.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "07564",
+      "name_ja": "飯舘村",
+      "type": "village",
+      "url": "https://www.vill.iitate.fukushima.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "10383",
+      "name_ja": "南牧村",
+      "type": "village",
+      "url": "https://nanmoku.ne.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "10425",
+      "name_ja": "嬬恋村",
+      "type": "village",
+      "url": "https://www.vill.tsumagoi.gunma.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "10428",
+      "name_ja": "高山村",
+      "type": "village",
+      "url": "https://vill.takayama.gunma.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "10443",
+      "name_ja": "片品村",
+      "type": "village",
+      "url": "https://www.vill.katashina.gunma.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "10444",
+      "name_ja": "川場村",
+      "type": "village",
+      "url": "https://www.vill.kawaba.gunma.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "10448",
+      "name_ja": "昭和村",
+      "type": "village",
+      "url": "https://www.vill.showa.gunma.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "12423",
+      "name_ja": "長生村",
+      "type": "village",
+      "url": "https://www.vill.chosei.chiba.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "13364",
+      "name_ja": "神津島村",
+      "type": "village",
+      "url": "https://vill.kouzushima.tokyo.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "13402",
+      "name_ja": "青ヶ島村",
+      "type": "village",
+      "url": "https://www.vill.aogashima.tokyo.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "15504",
+      "name_ja": "刈羽村",
+      "type": "village",
+      "url": "https://www.vill.kariwa.niigata.jp/www/index.jsp",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "15586",
+      "name_ja": "粟島浦村",
+      "type": "village",
+      "url": "https://www.vill.awashimaura.lg.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "16321",
+      "name_ja": "舟橋村",
+      "type": "village",
+      "url": "https://www.vill.funahashi.toyama.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "19422",
+      "name_ja": "道志村",
+      "type": "village",
+      "url": "http://www.vill.doshi.lg.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "19429",
+      "name_ja": "鳴沢村",
+      "type": "village",
+      "url": "https://www.vill.narusawa.yamanashi.jp/forms/top/top.aspx",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "dead"
+    },
+    {
+      "code": "20304",
+      "name_ja": "川上村",
+      "type": "village",
+      "url": "https://www.vill.kawakami.nagano.jp/www/index.html",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "20305",
+      "name_ja": "南牧村",
+      "type": "village",
+      "url": "https://www.minamimakimura.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "20349",
+      "name_ja": "青木村",
+      "type": "village",
+      "url": "https://www.vill.aoki.nagano.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "20388",
+      "name_ja": "宮田村",
+      "type": "village",
+      "url": "https://www.vill.miyada.nagano.jp/?",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "20410",
+      "name_ja": "根羽村",
+      "type": "village",
+      "url": "https://nebamura.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "20411",
+      "name_ja": "下條村",
+      "type": "village",
+      "url": "https://www.vill-shimojo.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "20412",
+      "name_ja": "売木村",
+      "type": "village",
+      "url": "https://www.urugi.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "20415",
+      "name_ja": "喬木村",
+      "type": "village",
+      "url": "https://www.vill.takagi.lg.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "20429",
+      "name_ja": "王滝村",
+      "type": "village",
+      "url": "https://www.vill.otaki.nagano.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "20451",
+      "name_ja": "朝日村",
+      "type": "village",
+      "url": "https://www.vill.asahi.nagano.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "20485",
+      "name_ja": "白馬村",
+      "type": "village",
+      "url": "https://www.vill.hakuba.nagano.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "20486",
+      "name_ja": "小谷村",
+      "type": "village",
+      "url": "https://www.vill.otari.nagano.jp/www/menu.html",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "dead"
+    },
+    {
+      "code": "21507",
+      "name_ja": "東白川村",
+      "type": "village",
+      "url": "https://www.vill.higashishirakawa.gifu.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "21604",
+      "name_ja": "白川村",
+      "type": "village",
+      "url": "https://shirakawa-go.org/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "27383",
+      "name_ja": "千早赤阪村",
+      "type": "village",
+      "url": "https://www.vill.chihayaakasaka.osaka.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "29322",
+      "name_ja": "山添村",
+      "type": "village",
+      "url": "https://www.vill.yamazoe.nara.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "29385",
+      "name_ja": "曽爾村",
+      "type": "village",
+      "url": "https://www.vill.soni.nara.jp/forms/top/top.aspx",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "29386",
+      "name_ja": "御杖村",
+      "type": "village",
+      "url": "https://www.vill.mitsue.nara.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "29444",
+      "name_ja": "黒滝村",
+      "type": "village",
+      "url": "https://www.vill.kurotaki.nara.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "29446",
+      "name_ja": "天川村",
+      "type": "village",
+      "url": "https://www.vill.tenkawa.nara.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "29449",
+      "name_ja": "十津川村",
+      "type": "village",
+      "url": "https://www.vill.totsukawa.lg.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "29451",
+      "name_ja": "上北山村",
+      "type": "village",
+      "url": "https://vill.kamikitayama.nara.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "29452",
+      "name_ja": "川上村",
+      "type": "village",
+      "url": "https://www.vill.kawakami.nara.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "29453",
+      "name_ja": "東吉野村",
+      "type": "village",
+      "url": "http://www.vill.higashiyoshino.nara.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "32527",
+      "name_ja": "知夫村",
+      "type": "village",
+      "url": "http://www.vill.chibu.lg.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "33586",
+      "name_ja": "新庄村",
+      "type": "village",
+      "url": "http://www.vill.shinjo.okayama.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "33643",
+      "name_ja": "西粟倉村",
+      "type": "village",
+      "url": "https://www.vill.nishiawakura.okayama.jp/wp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "36321",
+      "name_ja": "佐那河内村",
+      "type": "village",
+      "url": "https://www.vill.sanagochi.lg.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "39306",
+      "name_ja": "馬路村",
+      "type": "village",
+      "url": "https://vill.umaji.lg.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "39307",
+      "name_ja": "芸西村",
+      "type": "village",
+      "url": "https://www.vill.geisei.kochi.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "39410",
+      "name_ja": "日高村",
+      "type": "village",
+      "url": "https://www.vill.hidaka.kochi.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "40448",
+      "name_ja": "東峰村",
+      "type": "village",
+      "url": "https://vill.toho-info.com/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "40609",
+      "name_ja": "赤村",
+      "type": "village",
+      "url": "https://www.akamura.net/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "43432",
+      "name_ja": "西原村",
+      "type": "village",
+      "url": "https://www.vill.nishihara.kumamoto.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "43433",
+      "name_ja": "南阿蘇村",
+      "type": "village",
+      "url": "https://www.vill.minamiaso.lg.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "43507",
+      "name_ja": "水上村",
+      "type": "village",
+      "url": "https://www.vill.mizukami.lg.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "43510",
+      "name_ja": "相良村",
+      "type": "village",
+      "url": "https://www.vill.sagara.lg.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "43511",
+      "name_ja": "五木村",
+      "type": "village",
+      "url": "https://www.vill.itsuki.lg.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "43512",
+      "name_ja": "山江村",
+      "type": "village",
+      "url": "https://www.vill.yamae.lg.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "43513",
+      "name_ja": "球磨村",
+      "type": "village",
+      "url": "https://www.kumamura.com/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "45403",
+      "name_ja": "西米良村",
+      "type": "village",
+      "url": "https://www.vill.nishimera.lg.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "45429",
+      "name_ja": "諸塚村",
+      "type": "village",
+      "url": "https://www.vill.morotsuka.miyazaki.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "45430",
+      "name_ja": "椎葉村",
+      "type": "village",
+      "url": "https://www.vill.shiiba.miyazaki.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "46524",
+      "name_ja": "宇検村",
+      "type": "village",
+      "url": "https://www.uken.net/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "47303",
+      "name_ja": "東村",
+      "type": "village",
+      "url": "https://www.vill.higashi.okinawa.jp/index.jsp",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "dead"
+    },
+    {
+      "code": "47306",
+      "name_ja": "今帰仁村",
+      "type": "village",
+      "url": "https://www.nakijin.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "47311",
+      "name_ja": "恩納村",
+      "type": "village",
+      "url": "https://www.vill.onna.okinawa.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "47313",
+      "name_ja": "宜野座村",
+      "type": "village",
+      "url": "https://www.vill.ginoza.okinawa.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "47327",
+      "name_ja": "北中城村",
+      "type": "village",
+      "url": "https://www.vill.kitanakagusuku.lg.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "47353",
+      "name_ja": "渡嘉敷村",
+      "type": "village",
+      "url": "https://www.vill.tokashiki.okinawa.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "47355",
+      "name_ja": "粟国村",
+      "type": "village",
+      "url": "https://www.vill.aguni.okinawa.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    },
+    {
+      "code": "47360",
+      "name_ja": "伊是名村",
+      "type": "village",
+      "url": "https://vill.izena.okinawa.jp/",
+      "reason": "no_subsidy_page_or_unreachable_after_030_blitz",
+      "probe": "empty"
+    }
+  ]
+}
