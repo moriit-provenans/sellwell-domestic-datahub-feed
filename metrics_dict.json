@@ -140,7 +140,8 @@
       "mvp": "G1",
       "source_primary": "Smith editorial",
       "freq": "monthly",
-      "status": "smith_supply"
+      "status": "live",
+      "last_feed_update": "2026-07-19"
     },
     {
       "metric_id": "jp.subsidy.open_count",
