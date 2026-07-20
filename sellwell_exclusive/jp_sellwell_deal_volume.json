@@ -4,7 +4,7 @@
   "mvp": "J1",
   "title_ja": "実現相場",
   "status": "awaiting_smith_supply",
-  "last_updated": "2026-07-19",
+  "last_updated": "2026-07-20",
   "how_to_fill": "業界別に typical_deal_jpy_min/max または band_label を投入（SF集計可）。",
   "observations": []
 }

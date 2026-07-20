@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "metric_id": "jp.patent.applications",
   "title_ja": "特許出願（IPC業界割付）",
-  "last_updated": "2026-07-19",
+  "last_updated": "2026-07-20",
   "source": "e-Stat 特許行政年次報告書",
   "observations": [
     {
       "as_of_date": "2005-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "ai",
@@ -25,7 +25,7 @@
     {
       "as_of_date": "2005-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "ai",
@@ -42,7 +42,7 @@
     {
       "as_of_date": "2005-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "ai",
@@ -59,7 +59,7 @@
     {
       "as_of_date": "2006-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "ai",
@@ -76,7 +76,7 @@
     {
       "as_of_date": "2006-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "ai",
@@ -93,7 +93,7 @@
     {
       "as_of_date": "2006-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "ai",
@@ -110,7 +110,7 @@
     {
       "as_of_date": "2007-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "ai",
@@ -127,7 +127,7 @@
     {
       "as_of_date": "2007-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "ai",
@@ -144,7 +144,7 @@
     {
       "as_of_date": "2007-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "ai",
@@ -161,7 +161,7 @@
     {
       "as_of_date": "2008-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "ai",
@@ -178,7 +178,7 @@
     {
       "as_of_date": "2008-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "ai",
@@ -195,7 +195,7 @@
     {
       "as_of_date": "2008-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "ai",
@@ -212,7 +212,7 @@
     {
       "as_of_date": "2009-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "ai",
@@ -229,7 +229,7 @@
     {
       "as_of_date": "2009-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "ai",
@@ -246,7 +246,7 @@
     {
       "as_of_date": "2009-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "ai",
@@ -263,7 +263,7 @@
     {
       "as_of_date": "2010-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "ai",
@@ -280,7 +280,7 @@
     {
       "as_of_date": "2010-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "ai",
@@ -297,7 +297,7 @@
     {
       "as_of_date": "2010-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "ai",
@@ -314,7 +314,7 @@
     {
       "as_of_date": "2011-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "ai",
@@ -331,7 +331,7 @@
     {
       "as_of_date": "2011-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "ai",
@@ -348,7 +348,7 @@
     {
       "as_of_date": "2011-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "ai",
@@ -365,7 +365,7 @@
     {
       "as_of_date": "2012-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "ai",
@@ -382,7 +382,7 @@
     {
       "as_of_date": "2012-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "ai",
@@ -399,7 +399,7 @@
     {
       "as_of_date": "2012-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "ai",
@@ -416,7 +416,7 @@
     {
       "as_of_date": "2013-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "ai",
@@ -433,7 +433,7 @@
     {
       "as_of_date": "2013-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "ai",
@@ -450,7 +450,7 @@
     {
       "as_of_date": "2013-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "ai",
@@ -467,7 +467,7 @@
     {
       "as_of_date": "2014-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "ai",
@@ -484,7 +484,7 @@
     {
       "as_of_date": "2014-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "ai",
@@ -501,7 +501,7 @@
     {
       "as_of_date": "2014-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "ai",
@@ -518,7 +518,7 @@
     {
       "as_of_date": "2015-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "ai",
@@ -535,7 +535,7 @@
     {
       "as_of_date": "2015-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "ai",
@@ -552,7 +552,7 @@
     {
       "as_of_date": "2015-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "ai",
@@ -569,7 +569,7 @@
     {
       "as_of_date": "2016-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "ai",
@@ -586,7 +586,7 @@
     {
       "as_of_date": "2016-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "ai",
@@ -603,7 +603,7 @@
     {
       "as_of_date": "2016-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "ai",
@@ -620,7 +620,7 @@
     {
       "as_of_date": "2017-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "ai",
@@ -637,7 +637,7 @@
     {
       "as_of_date": "2017-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "ai",
@@ -654,7 +654,7 @@
     {
       "as_of_date": "2017-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "ai",
@@ -671,7 +671,7 @@
     {
       "as_of_date": "2018-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "ai",
@@ -688,7 +688,7 @@
     {
       "as_of_date": "2018-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "ai",
@@ -705,7 +705,7 @@
     {
       "as_of_date": "2018-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "ai",
@@ -722,7 +722,7 @@
     {
       "as_of_date": "2019-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "ai",
@@ -739,7 +739,7 @@
     {
       "as_of_date": "2019-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "ai",
@@ -756,7 +756,7 @@
     {
       "as_of_date": "2019-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "ai",
@@ -773,7 +773,7 @@
     {
       "as_of_date": "2020-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "ai",
@@ -790,7 +790,7 @@
     {
       "as_of_date": "2020-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "ai",
@@ -807,7 +807,7 @@
     {
       "as_of_date": "2020-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "ai",
@@ -824,7 +824,7 @@
     {
       "as_of_date": "2021-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "ai",
@@ -841,7 +841,7 @@
     {
       "as_of_date": "2021-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "ai",
@@ -858,7 +858,7 @@
     {
       "as_of_date": "2021-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "ai",
@@ -875,7 +875,7 @@
     {
       "as_of_date": "2022-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "ai",
@@ -892,7 +892,7 @@
     {
       "as_of_date": "2022-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "ai",
@@ -909,7 +909,7 @@
     {
       "as_of_date": "2022-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "ai",
@@ -926,7 +926,7 @@
     {
       "as_of_date": "2023-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "ai",
@@ -943,7 +943,7 @@
     {
       "as_of_date": "2023-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "ai",
@@ -960,7 +960,7 @@
     {
       "as_of_date": "2023-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "ai",
@@ -977,7 +977,7 @@
     {
       "as_of_date": "2005-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "automotive-mobility",
@@ -994,7 +994,7 @@
     {
       "as_of_date": "2005-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "automotive-mobility",
@@ -1011,7 +1011,7 @@
     {
       "as_of_date": "2005-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "automotive-mobility",
@@ -1028,7 +1028,7 @@
     {
       "as_of_date": "2006-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "automotive-mobility",
@@ -1045,7 +1045,7 @@
     {
       "as_of_date": "2006-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "automotive-mobility",
@@ -1062,7 +1062,7 @@
     {
       "as_of_date": "2006-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "automotive-mobility",
@@ -1079,7 +1079,7 @@
     {
       "as_of_date": "2007-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "automotive-mobility",
@@ -1096,7 +1096,7 @@
     {
       "as_of_date": "2007-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "automotive-mobility",
@@ -1113,7 +1113,7 @@
     {
       "as_of_date": "2007-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "automotive-mobility",
@@ -1130,7 +1130,7 @@
     {
       "as_of_date": "2008-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "automotive-mobility",
@@ -1147,7 +1147,7 @@
     {
       "as_of_date": "2008-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "automotive-mobility",
@@ -1164,7 +1164,7 @@
     {
       "as_of_date": "2008-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "automotive-mobility",
@@ -1181,7 +1181,7 @@
     {
       "as_of_date": "2009-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "automotive-mobility",
@@ -1198,7 +1198,7 @@
     {
       "as_of_date": "2009-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "automotive-mobility",
@@ -1215,7 +1215,7 @@
     {
       "as_of_date": "2009-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "automotive-mobility",
@@ -1232,7 +1232,7 @@
     {
       "as_of_date": "2010-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "automotive-mobility",
@@ -1249,7 +1249,7 @@
     {
       "as_of_date": "2010-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "automotive-mobility",
@@ -1266,7 +1266,7 @@
     {
       "as_of_date": "2010-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "automotive-mobility",
@@ -1283,7 +1283,7 @@
     {
       "as_of_date": "2011-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "automotive-mobility",
@@ -1300,7 +1300,7 @@
     {
       "as_of_date": "2011-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "automotive-mobility",
@@ -1317,7 +1317,7 @@
     {
       "as_of_date": "2011-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "automotive-mobility",
@@ -1334,7 +1334,7 @@
     {
       "as_of_date": "2012-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "automotive-mobility",
@@ -1351,7 +1351,7 @@
     {
       "as_of_date": "2012-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "automotive-mobility",
@@ -1368,7 +1368,7 @@
     {
       "as_of_date": "2012-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "automotive-mobility",
@@ -1385,7 +1385,7 @@
     {
       "as_of_date": "2013-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "automotive-mobility",
@@ -1402,7 +1402,7 @@
     {
       "as_of_date": "2013-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "automotive-mobility",
@@ -1419,7 +1419,7 @@
     {
       "as_of_date": "2013-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "automotive-mobility",
@@ -1436,7 +1436,7 @@
     {
       "as_of_date": "2014-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "automotive-mobility",
@@ -1453,7 +1453,7 @@
     {
       "as_of_date": "2014-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "automotive-mobility",
@@ -1470,7 +1470,7 @@
     {
       "as_of_date": "2014-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "automotive-mobility",
@@ -1487,7 +1487,7 @@
     {
       "as_of_date": "2015-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "automotive-mobility",
@@ -1504,7 +1504,7 @@
     {
       "as_of_date": "2015-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "automotive-mobility",
@@ -1521,7 +1521,7 @@
     {
       "as_of_date": "2015-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "automotive-mobility",
@@ -1538,7 +1538,7 @@
     {
       "as_of_date": "2016-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "automotive-mobility",
@@ -1555,7 +1555,7 @@
     {
       "as_of_date": "2016-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "automotive-mobility",
@@ -1572,7 +1572,7 @@
     {
       "as_of_date": "2016-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "automotive-mobility",
@@ -1589,7 +1589,7 @@
     {
       "as_of_date": "2017-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "automotive-mobility",
@@ -1606,7 +1606,7 @@
     {
       "as_of_date": "2017-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "automotive-mobility",
@@ -1623,7 +1623,7 @@
     {
       "as_of_date": "2017-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "automotive-mobility",
@@ -1640,7 +1640,7 @@
     {
       "as_of_date": "2018-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "automotive-mobility",
@@ -1657,7 +1657,7 @@
     {
       "as_of_date": "2018-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "automotive-mobility",
@@ -1674,7 +1674,7 @@
     {
       "as_of_date": "2018-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "automotive-mobility",
@@ -1691,7 +1691,7 @@
     {
       "as_of_date": "2019-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "automotive-mobility",
@@ -1708,7 +1708,7 @@
     {
       "as_of_date": "2019-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "automotive-mobility",
@@ -1725,7 +1725,7 @@
     {
       "as_of_date": "2019-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "automotive-mobility",
@@ -1742,7 +1742,7 @@
     {
       "as_of_date": "2020-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "automotive-mobility",
@@ -1759,7 +1759,7 @@
     {
       "as_of_date": "2020-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "automotive-mobility",
@@ -1776,7 +1776,7 @@
     {
       "as_of_date": "2020-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "automotive-mobility",
@@ -1793,7 +1793,7 @@
     {
       "as_of_date": "2021-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "automotive-mobility",
@@ -1810,7 +1810,7 @@
     {
       "as_of_date": "2021-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "automotive-mobility",
@@ -1827,7 +1827,7 @@
     {
       "as_of_date": "2021-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "automotive-mobility",
@@ -1844,7 +1844,7 @@
     {
       "as_of_date": "2022-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "automotive-mobility",
@@ -1861,7 +1861,7 @@
     {
       "as_of_date": "2022-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "automotive-mobility",
@@ -1878,7 +1878,7 @@
     {
       "as_of_date": "2022-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "automotive-mobility",
@@ -1895,7 +1895,7 @@
     {
       "as_of_date": "2023-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "automotive-mobility",
@@ -1912,7 +1912,7 @@
     {
       "as_of_date": "2023-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "automotive-mobility",
@@ -1929,7 +1929,7 @@
     {
       "as_of_date": "2023-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "automotive-mobility",
@@ -1946,7 +1946,7 @@
     {
       "as_of_date": "2005-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "consumer-goods",
@@ -1963,7 +1963,7 @@
     {
       "as_of_date": "2005-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "consumer-goods",
@@ -1980,7 +1980,7 @@
     {
       "as_of_date": "2005-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "consumer-goods",
@@ -1997,7 +1997,7 @@
     {
       "as_of_date": "2006-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "consumer-goods",
@@ -2014,7 +2014,7 @@
     {
       "as_of_date": "2006-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "consumer-goods",
@@ -2031,7 +2031,7 @@
     {
       "as_of_date": "2006-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "consumer-goods",
@@ -2048,7 +2048,7 @@
     {
       "as_of_date": "2007-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "consumer-goods",
@@ -2065,7 +2065,7 @@
     {
       "as_of_date": "2007-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "consumer-goods",
@@ -2082,7 +2082,7 @@
     {
       "as_of_date": "2007-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "consumer-goods",
@@ -2099,7 +2099,7 @@
     {
       "as_of_date": "2008-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "consumer-goods",
@@ -2116,7 +2116,7 @@
     {
       "as_of_date": "2008-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "consumer-goods",
@@ -2133,7 +2133,7 @@
     {
       "as_of_date": "2008-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "consumer-goods",
@@ -2150,7 +2150,7 @@
     {
       "as_of_date": "2009-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "consumer-goods",
@@ -2167,7 +2167,7 @@
     {
       "as_of_date": "2009-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "consumer-goods",
@@ -2184,7 +2184,7 @@
     {
       "as_of_date": "2009-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "consumer-goods",
@@ -2201,7 +2201,7 @@
     {
       "as_of_date": "2010-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "consumer-goods",
@@ -2218,7 +2218,7 @@
     {
       "as_of_date": "2010-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "consumer-goods",
@@ -2235,7 +2235,7 @@
     {
       "as_of_date": "2010-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "consumer-goods",
@@ -2252,7 +2252,7 @@
     {
       "as_of_date": "2011-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "consumer-goods",
@@ -2269,7 +2269,7 @@
     {
       "as_of_date": "2011-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "consumer-goods",
@@ -2286,7 +2286,7 @@
     {
       "as_of_date": "2011-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "consumer-goods",
@@ -2303,7 +2303,7 @@
     {
       "as_of_date": "2012-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "consumer-goods",
@@ -2320,7 +2320,7 @@
     {
       "as_of_date": "2012-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "consumer-goods",
@@ -2337,7 +2337,7 @@
     {
       "as_of_date": "2012-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "consumer-goods",
@@ -2354,7 +2354,7 @@
     {
       "as_of_date": "2013-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "consumer-goods",
@@ -2371,7 +2371,7 @@
     {
       "as_of_date": "2013-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "consumer-goods",
@@ -2388,7 +2388,7 @@
     {
       "as_of_date": "2013-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "consumer-goods",
@@ -2405,7 +2405,7 @@
     {
       "as_of_date": "2014-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "consumer-goods",
@@ -2422,7 +2422,7 @@
     {
       "as_of_date": "2014-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "consumer-goods",
@@ -2439,7 +2439,7 @@
     {
       "as_of_date": "2014-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "consumer-goods",
@@ -2456,7 +2456,7 @@
     {
       "as_of_date": "2015-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "consumer-goods",
@@ -2473,7 +2473,7 @@
     {
       "as_of_date": "2015-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "consumer-goods",
@@ -2490,7 +2490,7 @@
     {
       "as_of_date": "2015-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "consumer-goods",
@@ -2507,7 +2507,7 @@
     {
       "as_of_date": "2016-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "consumer-goods",
@@ -2524,7 +2524,7 @@
     {
       "as_of_date": "2016-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "consumer-goods",
@@ -2541,7 +2541,7 @@
     {
       "as_of_date": "2016-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "consumer-goods",
@@ -2558,7 +2558,7 @@
     {
       "as_of_date": "2017-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "consumer-goods",
@@ -2575,7 +2575,7 @@
     {
       "as_of_date": "2017-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "consumer-goods",
@@ -2592,7 +2592,7 @@
     {
       "as_of_date": "2017-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "consumer-goods",
@@ -2609,7 +2609,7 @@
     {
       "as_of_date": "2018-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "consumer-goods",
@@ -2626,7 +2626,7 @@
     {
       "as_of_date": "2018-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "consumer-goods",
@@ -2643,7 +2643,7 @@
     {
       "as_of_date": "2018-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "consumer-goods",
@@ -2660,7 +2660,7 @@
     {
       "as_of_date": "2019-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "consumer-goods",
@@ -2677,7 +2677,7 @@
     {
       "as_of_date": "2019-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "consumer-goods",
@@ -2694,7 +2694,7 @@
     {
       "as_of_date": "2019-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "consumer-goods",
@@ -2711,7 +2711,7 @@
     {
       "as_of_date": "2020-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "consumer-goods",
@@ -2728,7 +2728,7 @@
     {
       "as_of_date": "2020-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "consumer-goods",
@@ -2745,7 +2745,7 @@
     {
       "as_of_date": "2020-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "consumer-goods",
@@ -2762,7 +2762,7 @@
     {
       "as_of_date": "2021-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "consumer-goods",
@@ -2779,7 +2779,7 @@
     {
       "as_of_date": "2021-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "consumer-goods",
@@ -2796,7 +2796,7 @@
     {
       "as_of_date": "2021-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "consumer-goods",
@@ -2813,7 +2813,7 @@
     {
       "as_of_date": "2022-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "consumer-goods",
@@ -2830,7 +2830,7 @@
     {
       "as_of_date": "2022-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "consumer-goods",
@@ -2847,7 +2847,7 @@
     {
       "as_of_date": "2022-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "consumer-goods",
@@ -2864,7 +2864,7 @@
     {
       "as_of_date": "2023-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "consumer-goods",
@@ -2881,7 +2881,7 @@
     {
       "as_of_date": "2023-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "consumer-goods",
@@ -2898,7 +2898,7 @@
     {
       "as_of_date": "2023-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "consumer-goods",
@@ -2915,7 +2915,7 @@
     {
       "as_of_date": "2005-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "electrical-equipment",
@@ -2932,7 +2932,7 @@
     {
       "as_of_date": "2005-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "electrical-equipment",
@@ -2949,7 +2949,7 @@
     {
       "as_of_date": "2005-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "electrical-equipment",
@@ -2966,7 +2966,7 @@
     {
       "as_of_date": "2006-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "electrical-equipment",
@@ -2983,7 +2983,7 @@
     {
       "as_of_date": "2006-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "electrical-equipment",
@@ -3000,7 +3000,7 @@
     {
       "as_of_date": "2006-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "electrical-equipment",
@@ -3017,7 +3017,7 @@
     {
       "as_of_date": "2007-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "electrical-equipment",
@@ -3034,7 +3034,7 @@
     {
       "as_of_date": "2007-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "electrical-equipment",
@@ -3051,7 +3051,7 @@
     {
       "as_of_date": "2007-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "electrical-equipment",
@@ -3068,7 +3068,7 @@
     {
       "as_of_date": "2008-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "electrical-equipment",
@@ -3085,7 +3085,7 @@
     {
       "as_of_date": "2008-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "electrical-equipment",
@@ -3102,7 +3102,7 @@
     {
       "as_of_date": "2008-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "electrical-equipment",
@@ -3119,7 +3119,7 @@
     {
       "as_of_date": "2009-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "electrical-equipment",
@@ -3136,7 +3136,7 @@
     {
       "as_of_date": "2009-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "electrical-equipment",
@@ -3153,7 +3153,7 @@
     {
       "as_of_date": "2009-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "electrical-equipment",
@@ -3170,7 +3170,7 @@
     {
       "as_of_date": "2010-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "electrical-equipment",
@@ -3187,7 +3187,7 @@
     {
       "as_of_date": "2010-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "electrical-equipment",
@@ -3204,7 +3204,7 @@
     {
       "as_of_date": "2010-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "electrical-equipment",
@@ -3221,7 +3221,7 @@
     {
       "as_of_date": "2011-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "electrical-equipment",
@@ -3238,7 +3238,7 @@
     {
       "as_of_date": "2011-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "electrical-equipment",
@@ -3255,7 +3255,7 @@
     {
       "as_of_date": "2011-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "electrical-equipment",
@@ -3272,7 +3272,7 @@
     {
       "as_of_date": "2012-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "electrical-equipment",
@@ -3289,7 +3289,7 @@
     {
       "as_of_date": "2012-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "electrical-equipment",
@@ -3306,7 +3306,7 @@
     {
       "as_of_date": "2012-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "electrical-equipment",
@@ -3323,7 +3323,7 @@
     {
       "as_of_date": "2013-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "electrical-equipment",
@@ -3340,7 +3340,7 @@
     {
       "as_of_date": "2013-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "electrical-equipment",
@@ -3357,7 +3357,7 @@
     {
       "as_of_date": "2013-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "electrical-equipment",
@@ -3374,7 +3374,7 @@
     {
       "as_of_date": "2014-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "electrical-equipment",
@@ -3391,7 +3391,7 @@
     {
       "as_of_date": "2014-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "electrical-equipment",
@@ -3408,7 +3408,7 @@
     {
       "as_of_date": "2014-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "electrical-equipment",
@@ -3425,7 +3425,7 @@
     {
       "as_of_date": "2015-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "electrical-equipment",
@@ -3442,7 +3442,7 @@
     {
       "as_of_date": "2015-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "electrical-equipment",
@@ -3459,7 +3459,7 @@
     {
       "as_of_date": "2015-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "electrical-equipment",
@@ -3476,7 +3476,7 @@
     {
       "as_of_date": "2016-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "electrical-equipment",
@@ -3493,7 +3493,7 @@
     {
       "as_of_date": "2016-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "electrical-equipment",
@@ -3510,7 +3510,7 @@
     {
       "as_of_date": "2016-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "electrical-equipment",
@@ -3527,7 +3527,7 @@
     {
       "as_of_date": "2017-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "electrical-equipment",
@@ -3544,7 +3544,7 @@
     {
       "as_of_date": "2017-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "electrical-equipment",
@@ -3561,7 +3561,7 @@
     {
       "as_of_date": "2017-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "electrical-equipment",
@@ -3578,7 +3578,7 @@
     {
       "as_of_date": "2018-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "electrical-equipment",
@@ -3595,7 +3595,7 @@
     {
       "as_of_date": "2018-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "electrical-equipment",
@@ -3612,7 +3612,7 @@
     {
       "as_of_date": "2018-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "electrical-equipment",
@@ -3629,7 +3629,7 @@
     {
       "as_of_date": "2019-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "electrical-equipment",
@@ -3646,7 +3646,7 @@
     {
       "as_of_date": "2019-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "electrical-equipment",
@@ -3663,7 +3663,7 @@
     {
       "as_of_date": "2019-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "electrical-equipment",
@@ -3680,7 +3680,7 @@
     {
       "as_of_date": "2020-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "electrical-equipment",
@@ -3697,7 +3697,7 @@
     {
       "as_of_date": "2020-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "electrical-equipment",
@@ -3714,7 +3714,7 @@
     {
       "as_of_date": "2020-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "electrical-equipment",
@@ -3731,7 +3731,7 @@
     {
       "as_of_date": "2021-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "electrical-equipment",
@@ -3748,7 +3748,7 @@
     {
       "as_of_date": "2021-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "electrical-equipment",
@@ -3765,7 +3765,7 @@
     {
       "as_of_date": "2021-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "electrical-equipment",
@@ -3782,7 +3782,7 @@
     {
       "as_of_date": "2022-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "electrical-equipment",
@@ -3799,7 +3799,7 @@
     {
       "as_of_date": "2022-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "electrical-equipment",
@@ -3816,7 +3816,7 @@
     {
       "as_of_date": "2022-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "electrical-equipment",
@@ -3833,7 +3833,7 @@
     {
       "as_of_date": "2023-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "electrical-equipment",
@@ -3850,7 +3850,7 @@
     {
       "as_of_date": "2023-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "electrical-equipment",
@@ -3867,7 +3867,7 @@
     {
       "as_of_date": "2023-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "electrical-equipment",
@@ -3884,7 +3884,7 @@
     {
       "as_of_date": "2005-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "energy-gx",
@@ -3901,7 +3901,7 @@
     {
       "as_of_date": "2005-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "energy-gx",
@@ -3918,7 +3918,7 @@
     {
       "as_of_date": "2006-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "energy-gx",
@@ -3935,7 +3935,7 @@
     {
       "as_of_date": "2006-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "energy-gx",
@@ -3952,7 +3952,7 @@
     {
       "as_of_date": "2007-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "energy-gx",
@@ -3969,7 +3969,7 @@
     {
       "as_of_date": "2007-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "energy-gx",
@@ -3986,7 +3986,7 @@
     {
       "as_of_date": "2008-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "energy-gx",
@@ -4003,7 +4003,7 @@
     {
       "as_of_date": "2008-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "energy-gx",
@@ -4020,7 +4020,7 @@
     {
       "as_of_date": "2009-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "energy-gx",
@@ -4037,7 +4037,7 @@
     {
       "as_of_date": "2009-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "energy-gx",
@@ -4054,7 +4054,7 @@
     {
       "as_of_date": "2010-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "energy-gx",
@@ -4071,7 +4071,7 @@
     {
       "as_of_date": "2010-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "energy-gx",
@@ -4088,7 +4088,7 @@
     {
       "as_of_date": "2011-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "energy-gx",
@@ -4105,7 +4105,7 @@
     {
       "as_of_date": "2011-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "energy-gx",
@@ -4122,7 +4122,7 @@
     {
       "as_of_date": "2012-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "energy-gx",
@@ -4139,7 +4139,7 @@
     {
       "as_of_date": "2012-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "energy-gx",
@@ -4156,7 +4156,7 @@
     {
       "as_of_date": "2013-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "energy-gx",
@@ -4173,7 +4173,7 @@
     {
       "as_of_date": "2013-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "energy-gx",
@@ -4190,7 +4190,7 @@
     {
       "as_of_date": "2014-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "energy-gx",
@@ -4207,7 +4207,7 @@
     {
       "as_of_date": "2014-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "energy-gx",
@@ -4224,7 +4224,7 @@
     {
       "as_of_date": "2015-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "energy-gx",
@@ -4241,7 +4241,7 @@
     {
       "as_of_date": "2015-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "energy-gx",
@@ -4258,7 +4258,7 @@
     {
       "as_of_date": "2016-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "energy-gx",
@@ -4275,7 +4275,7 @@
     {
       "as_of_date": "2016-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "energy-gx",
@@ -4292,7 +4292,7 @@
     {
       "as_of_date": "2017-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "energy-gx",
@@ -4309,7 +4309,7 @@
     {
       "as_of_date": "2017-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "energy-gx",
@@ -4326,7 +4326,7 @@
     {
       "as_of_date": "2018-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "energy-gx",
@@ -4343,7 +4343,7 @@
     {
       "as_of_date": "2018-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "energy-gx",
@@ -4360,7 +4360,7 @@
     {
       "as_of_date": "2019-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "energy-gx",
@@ -4377,7 +4377,7 @@
     {
       "as_of_date": "2019-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "energy-gx",
@@ -4394,7 +4394,7 @@
     {
       "as_of_date": "2020-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "energy-gx",
@@ -4411,7 +4411,7 @@
     {
       "as_of_date": "2020-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "energy-gx",
@@ -4428,7 +4428,7 @@
     {
       "as_of_date": "2021-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "energy-gx",
@@ -4445,7 +4445,7 @@
     {
       "as_of_date": "2021-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "energy-gx",
@@ -4462,7 +4462,7 @@
     {
       "as_of_date": "2022-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "energy-gx",
@@ -4479,7 +4479,7 @@
     {
       "as_of_date": "2022-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "energy-gx",
@@ -4496,7 +4496,7 @@
     {
       "as_of_date": "2023-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "energy-gx",
@@ -4513,7 +4513,7 @@
     {
       "as_of_date": "2023-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "energy-gx",
@@ -4530,7 +4530,7 @@
     {
       "as_of_date": "2005-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "food-beverage",
@@ -4547,7 +4547,7 @@
     {
       "as_of_date": "2006-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "food-beverage",
@@ -4564,7 +4564,7 @@
     {
       "as_of_date": "2007-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "food-beverage",
@@ -4581,7 +4581,7 @@
     {
       "as_of_date": "2008-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "food-beverage",
@@ -4598,7 +4598,7 @@
     {
       "as_of_date": "2009-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "food-beverage",
@@ -4615,7 +4615,7 @@
     {
       "as_of_date": "2010-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "food-beverage",
@@ -4632,7 +4632,7 @@
     {
       "as_of_date": "2011-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "food-beverage",
@@ -4649,7 +4649,7 @@
     {
       "as_of_date": "2012-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "food-beverage",
@@ -4666,7 +4666,7 @@
     {
       "as_of_date": "2013-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "food-beverage",
@@ -4683,7 +4683,7 @@
     {
       "as_of_date": "2014-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "food-beverage",
@@ -4700,7 +4700,7 @@
     {
       "as_of_date": "2015-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "food-beverage",
@@ -4717,7 +4717,7 @@
     {
       "as_of_date": "2016-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "food-beverage",
@@ -4734,7 +4734,7 @@
     {
       "as_of_date": "2017-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "food-beverage",
@@ -4751,7 +4751,7 @@
     {
       "as_of_date": "2018-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "food-beverage",
@@ -4768,7 +4768,7 @@
     {
       "as_of_date": "2019-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "food-beverage",
@@ -4785,7 +4785,7 @@
     {
       "as_of_date": "2020-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "food-beverage",
@@ -4802,7 +4802,7 @@
     {
       "as_of_date": "2021-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "food-beverage",
@@ -4819,7 +4819,7 @@
     {
       "as_of_date": "2022-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "food-beverage",
@@ -4836,7 +4836,7 @@
     {
       "as_of_date": "2023-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "food-beverage",
@@ -4853,7 +4853,7 @@
     {
       "as_of_date": "2005-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "industrial-machinery",
@@ -4870,7 +4870,7 @@
     {
       "as_of_date": "2005-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "industrial-machinery",
@@ -4887,7 +4887,7 @@
     {
       "as_of_date": "2005-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "industrial-machinery",
@@ -4904,7 +4904,7 @@
     {
       "as_of_date": "2005-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "industrial-machinery",
@@ -4921,7 +4921,7 @@
     {
       "as_of_date": "2006-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "industrial-machinery",
@@ -4938,7 +4938,7 @@
     {
       "as_of_date": "2006-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "industrial-machinery",
@@ -4955,7 +4955,7 @@
     {
       "as_of_date": "2006-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "industrial-machinery",
@@ -4972,7 +4972,7 @@
     {
       "as_of_date": "2006-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "industrial-machinery",
@@ -4989,7 +4989,7 @@
     {
       "as_of_date": "2007-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "industrial-machinery",
@@ -5006,7 +5006,7 @@
     {
       "as_of_date": "2007-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "industrial-machinery",
@@ -5023,7 +5023,7 @@
     {
       "as_of_date": "2007-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "industrial-machinery",
@@ -5040,7 +5040,7 @@
     {
       "as_of_date": "2007-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "industrial-machinery",
@@ -5057,7 +5057,7 @@
     {
       "as_of_date": "2008-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "industrial-machinery",
@@ -5074,7 +5074,7 @@
     {
       "as_of_date": "2008-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "industrial-machinery",
@@ -5091,7 +5091,7 @@
     {
       "as_of_date": "2008-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "industrial-machinery",
@@ -5108,7 +5108,7 @@
     {
       "as_of_date": "2008-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "industrial-machinery",
@@ -5125,7 +5125,7 @@
     {
       "as_of_date": "2009-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "industrial-machinery",
@@ -5142,7 +5142,7 @@
     {
       "as_of_date": "2009-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "industrial-machinery",
@@ -5159,7 +5159,7 @@
     {
       "as_of_date": "2009-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "industrial-machinery",
@@ -5176,7 +5176,7 @@
     {
       "as_of_date": "2009-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "industrial-machinery",
@@ -5193,7 +5193,7 @@
     {
       "as_of_date": "2010-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "industrial-machinery",
@@ -5210,7 +5210,7 @@
     {
       "as_of_date": "2010-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "industrial-machinery",
@@ -5227,7 +5227,7 @@
     {
       "as_of_date": "2010-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "industrial-machinery",
@@ -5244,7 +5244,7 @@
     {
       "as_of_date": "2010-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "industrial-machinery",
@@ -5261,7 +5261,7 @@
     {
       "as_of_date": "2011-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "industrial-machinery",
@@ -5278,7 +5278,7 @@
     {
       "as_of_date": "2011-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "industrial-machinery",
@@ -5295,7 +5295,7 @@
     {
       "as_of_date": "2011-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "industrial-machinery",
@@ -5312,7 +5312,7 @@
     {
       "as_of_date": "2011-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "industrial-machinery",
@@ -5329,7 +5329,7 @@
     {
       "as_of_date": "2012-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "industrial-machinery",
@@ -5346,7 +5346,7 @@
     {
       "as_of_date": "2012-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "industrial-machinery",
@@ -5363,7 +5363,7 @@
     {
       "as_of_date": "2012-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "industrial-machinery",
@@ -5380,7 +5380,7 @@
     {
       "as_of_date": "2012-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "industrial-machinery",
@@ -5397,7 +5397,7 @@
     {
       "as_of_date": "2013-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "industrial-machinery",
@@ -5414,7 +5414,7 @@
     {
       "as_of_date": "2013-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "industrial-machinery",
@@ -5431,7 +5431,7 @@
     {
       "as_of_date": "2013-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "industrial-machinery",
@@ -5448,7 +5448,7 @@
     {
       "as_of_date": "2013-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "industrial-machinery",
@@ -5465,7 +5465,7 @@
     {
       "as_of_date": "2014-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "industrial-machinery",
@@ -5482,7 +5482,7 @@
     {
       "as_of_date": "2014-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "industrial-machinery",
@@ -5499,7 +5499,7 @@
     {
       "as_of_date": "2014-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "industrial-machinery",
@@ -5516,7 +5516,7 @@
     {
       "as_of_date": "2014-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "industrial-machinery",
@@ -5533,7 +5533,7 @@
     {
       "as_of_date": "2015-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "industrial-machinery",
@@ -5550,7 +5550,7 @@
     {
       "as_of_date": "2015-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "industrial-machinery",
@@ -5567,7 +5567,7 @@
     {
       "as_of_date": "2015-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "industrial-machinery",
@@ -5584,7 +5584,7 @@
     {
       "as_of_date": "2015-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "industrial-machinery",
@@ -5601,7 +5601,7 @@
     {
       "as_of_date": "2016-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "industrial-machinery",
@@ -5618,7 +5618,7 @@
     {
       "as_of_date": "2016-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "industrial-machinery",
@@ -5635,7 +5635,7 @@
     {
       "as_of_date": "2016-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "industrial-machinery",
@@ -5652,7 +5652,7 @@
     {
       "as_of_date": "2016-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "industrial-machinery",
@@ -5669,7 +5669,7 @@
     {
       "as_of_date": "2017-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "industrial-machinery",
@@ -5686,7 +5686,7 @@
     {
       "as_of_date": "2017-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "industrial-machinery",
@@ -5703,7 +5703,7 @@
     {
       "as_of_date": "2017-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "industrial-machinery",
@@ -5720,7 +5720,7 @@
     {
       "as_of_date": "2017-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "industrial-machinery",
@@ -5737,7 +5737,7 @@
     {
       "as_of_date": "2018-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "industrial-machinery",
@@ -5754,7 +5754,7 @@
     {
       "as_of_date": "2018-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "industrial-machinery",
@@ -5771,7 +5771,7 @@
     {
       "as_of_date": "2018-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "industrial-machinery",
@@ -5788,7 +5788,7 @@
     {
       "as_of_date": "2018-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "industrial-machinery",
@@ -5805,7 +5805,7 @@
     {
       "as_of_date": "2019-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "industrial-machinery",
@@ -5822,7 +5822,7 @@
     {
       "as_of_date": "2019-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "industrial-machinery",
@@ -5839,7 +5839,7 @@
     {
       "as_of_date": "2019-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "industrial-machinery",
@@ -5856,7 +5856,7 @@
     {
       "as_of_date": "2019-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "industrial-machinery",
@@ -5873,7 +5873,7 @@
     {
       "as_of_date": "2020-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "industrial-machinery",
@@ -5890,7 +5890,7 @@
     {
       "as_of_date": "2020-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "industrial-machinery",
@@ -5907,7 +5907,7 @@
     {
       "as_of_date": "2020-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "industrial-machinery",
@@ -5924,7 +5924,7 @@
     {
       "as_of_date": "2020-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "industrial-machinery",
@@ -5941,7 +5941,7 @@
     {
       "as_of_date": "2021-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "industrial-machinery",
@@ -5958,7 +5958,7 @@
     {
       "as_of_date": "2021-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "industrial-machinery",
@@ -5975,7 +5975,7 @@
     {
       "as_of_date": "2021-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "industrial-machinery",
@@ -5992,7 +5992,7 @@
     {
       "as_of_date": "2021-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "industrial-machinery",
@@ -6009,7 +6009,7 @@
     {
       "as_of_date": "2022-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "industrial-machinery",
@@ -6026,7 +6026,7 @@
     {
       "as_of_date": "2022-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "industrial-machinery",
@@ -6043,7 +6043,7 @@
     {
       "as_of_date": "2022-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "industrial-machinery",
@@ -6060,7 +6060,7 @@
     {
       "as_of_date": "2022-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "industrial-machinery",
@@ -6077,7 +6077,7 @@
     {
       "as_of_date": "2023-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "industrial-machinery",
@@ -6094,7 +6094,7 @@
     {
       "as_of_date": "2023-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "industrial-machinery",
@@ -6111,7 +6111,7 @@
     {
       "as_of_date": "2023-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "industrial-machinery",
@@ -6128,7 +6128,7 @@
     {
       "as_of_date": "2023-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-19",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.patent.applications",
       "industry_slug": "industrial-machinery",

@@ -1,16 +1,19 @@
 {
   "ok": true,
-  "wave": "REQ-035-final",
-  "judgment_ready_total": 6874,
+  "workflow": "sellwell_domestic_feed_daily",
+  "retrieved_at": "2026-07-20T11:17:41+09:00",
+  "as_of_date": "2026-07-20",
+  "note_ja": "日次補助金＋Stage4 judgment更新成功（REQ-030 F / REQ-035）",
+  "judgment_ready_total": 5145,
   "p0": {
-    "n": 52,
-    "ready": 52,
+    "n": 48,
+    "ready": 48,
     "pct": 100.0
   },
   "p1": {
-    "n": 316,
-    "ready": 302,
-    "pct": 95.6
+    "n": 318,
+    "ready": 289,
+    "pct": 90.9
   },
-  "retrieved_at": "2026-07-20"
+  "stage4_items": 5212
 }
