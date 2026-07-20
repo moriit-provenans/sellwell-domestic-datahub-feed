@@ -102,7 +102,12 @@
         "national-canonical:mhlw-jinzai-事業展開等リスキリング支援コース",
         "national-canonical:mhlw-jinzai-人への投資促進コース",
         "city-sendai-fix-9730649445",
-        "deep-hiroshima-c384bd82d26a"
+        "deep-hiroshima-n1-c384bd82d26a",
+        "deep-mhlw-jinzai-16f5b0e2c1ab",
+        "deep-mhlw-jinzai-e9dbd11a94d2",
+        "deep-mhlw-jinzai-4582abfdf41f",
+        "deep-mhlw-jinzai-05be9eef581d",
+        "deep-mhlw-jinzai-9643fbe669d3"
       ],
       "eligibility_depth": "guidelines"
     },
@@ -122,9 +127,9 @@
         "deep-mhlw-hub-a0cf8014a694",
         "ministry-4810450911",
         "national-canonical:mhlw-gyomu",
-        "prefecture-fukui-8890137267",
-        "prefecture-fukui-2164313559",
-        "city-niigata-city-8050752769",
+        "deep-fukui-bac89314289d",
+        "deep-fukui-97b2f82b2449",
+        "deep-niigata-city-c-aa56ef091e6b",
         "city-12236-4983198711",
         "city-23220-4321552710",
         "city-24216-9520100918",
@@ -133,7 +138,7 @@
         "city-sendai-fix-6235084397",
         "prefecture-oita-w3-7451199211",
         "prefecture-yamanashi-w3b3-9629787959",
-        "deep-fukuoka-city-d70d7f054aa7",
+        "deep-fukuoka-city-c-d70d7f054aa7",
         "deep-mhlw-hub-440b0f54ca8d",
         "deep-mhlw-hub-64a00bef012e",
         "deep-mhlw-hub-2756aed54d29",
@@ -164,7 +169,7 @@
         "national-canonical:mhlw-ryoritsu",
         "city-11222-2392572259",
         "city-43203-9868746932",
-        "prefecture-oita-w3-3287066588",
+        "deep-oita-n1-84e244902087",
         "deep-iwate2-f4ffa52f6242"
       ],
       "eligibility_depth": "guidelines"
@@ -184,7 +189,7 @@
         "jnet21-179669",
         "ministry-9100522071",
         "national-canonical:mhlw-koyo-chosei",
-        "city-niigata-city-3249512892",
+        "deep-niigata-city-c-8edd1aa22c4c",
         "deep-okayama-city4-cbf72bb7feb6",
         "deep-okayama-city4-ab2b50e3baff",
         "deep-okayama-city4-18751da99809",
@@ -215,7 +220,7 @@
         "ministry-8569049155",
         "national-canonical:mhlw-tokutei",
         "city-08225-7620445748",
-        "city-kumamoto-city-w3-6293085062"
+        "deep-kumamoto-city-c-027cf054f482"
       ],
       "eligibility_depth": "guidelines"
     },
@@ -299,12 +304,13 @@
         "prefecture-wakayama-2366959643",
         "prefecture-tokushima-1238778957",
         "prefecture-tokushima-4598530513",
-        "city-niigata-city-9915934229",
+        "deep-niigata-city-c-8c5e78dd00dc",
         "city-12236-1164254497",
         "city-42205-135337704",
         "city-22305-8344870929",
         "city-06382-7441758811",
-        "prefecture-oita-w3-6923251302"
+        "prefecture-oita-w3-6923251302",
+        "deep-niigata-city-c-a0bc0f53e62c"
       ],
       "eligibility_depth": "guidelines"
     },
@@ -780,7 +786,6 @@
         "jnet21-183454",
         "national-canonical:maff-hojo",
         "prefecture-hiroshima-3383563625",
-        "prefecture-nagasaki-6269864929",
         "city-08217-9614114824",
         "city-08226-2125710603",
         "city-08226-1063819923",
@@ -796,7 +801,8 @@
         "city-kobe-fix2-190270021",
         "prefecture-oita-w3-7287640445",
         "prefecture-oita-w3-6923251302",
-        "prefecture-oita-w3-6729445227"
+        "prefecture-oita-w3-6729445227",
+        "prefecture-oita-w3-5486732098"
       ],
       "eligibility_depth": "page_detail"
     },
@@ -814,7 +820,6 @@
       "matched_item_ids": [
         "national-canonical:mlit-hojo",
         "prefecture-hiroshima-3383563625",
-        "prefecture-nagasaki-6269864929",
         "city-08217-9614114824",
         "city-08226-2125710603",
         "city-08226-1063819923",
@@ -831,7 +836,8 @@
         "prefecture-oita-w3-7287640445",
         "prefecture-oita-w3-6923251302",
         "prefecture-oita-w3-6729445227",
-        "prefecture-oita-w3-5486732098"
+        "prefecture-oita-w3-5486732098",
+        "prefecture-yamanashi-w3b4-1539298353"
       ],
       "eligibility_depth": "page_detail"
     },
@@ -849,7 +855,6 @@
       "matched_item_ids": [
         "national-canonical:moe-hojo",
         "prefecture-hiroshima-3383563625",
-        "prefecture-nagasaki-6269864929",
         "city-08217-9614114824",
         "city-08226-2125710603",
         "city-08226-1063819923",
@@ -866,7 +871,8 @@
         "prefecture-oita-w3-7287640445",
         "prefecture-oita-w3-6923251302",
         "prefecture-oita-w3-6729445227",
-        "prefecture-oita-w3-5486732098"
+        "prefecture-oita-w3-5486732098",
+        "prefecture-yamanashi-w3b4-1539298353"
       ],
       "eligibility_depth": "page_detail"
     },
@@ -1053,7 +1059,6 @@
       "matched_item_ids": [
         "national-canonical:kanko-hojo",
         "prefecture-hiroshima-3383563625",
-        "prefecture-nagasaki-6269864929",
         "city-08217-9614114824",
         "city-08226-2125710603",
         "city-08226-1063819923",
@@ -1070,7 +1075,8 @@
         "prefecture-oita-w3-7287640445",
         "prefecture-oita-w3-6923251302",
         "prefecture-oita-w3-6729445227",
-        "prefecture-oita-w3-5486732098"
+        "prefecture-oita-w3-5486732098",
+        "prefecture-yamanashi-w3b4-1539298353"
       ],
       "eligibility_depth": "page_detail"
     },
