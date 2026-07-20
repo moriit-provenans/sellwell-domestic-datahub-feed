@@ -1,108 +1,18 @@
 {
   "ok": true,
-  "workflow": "REQ-039-deep-enrich",
-  "retrieved_at": "2026-07-20T11:59:19+09:00",
+  "workflow": "REQ-038-039-FINAL",
+  "retrieved_at": "2026-07-20T12:45:58+09:00",
   "as_of_date": "2026-07-20",
-  "note_ja": "REQ-039 enrich: deep=607 deep_ready=39 numeric_how_much=130 pilot_ready=30 depth={'2': 61, '3': 199, '1': 10, '4': 236, '5': 81, '6': 20} verified_okayama_city=3",
-  "judgment_ready_total": 1079,
+  "note_ja": "closeout-b: ready=1166 amount_fixed=28; prefs>=5 4/47 pilot pref {'岡山県': 7, '岩手県': 9, '福岡県': 1} city {'岡山市': 19, '盛岡市': 1, '福岡市': 15}",
+  "judgment_ready_total": 1166,
   "p0": {
-    "n": 27,
-    "ready": 27,
+    "n": 29,
+    "ready": 29,
     "pct": 100.0
   },
   "p1": {
     "n": 316,
     "ready": 293,
     "pct": 92.7
-  },
-  "req039": {
-    "deep_count": 607,
-    "deep_ready": 39,
-    "numeric_how_much": 130,
-    "pilot_ready": 30,
-    "depth_hist": {
-      "2": 61,
-      "3": 199,
-      "1": 10,
-      "4": 236,
-      "5": 81,
-      "6": 20
-    },
-    "hub_report": {
-      "hubs": [
-        {
-          "id": "meti-gojosei",
-          "agency": "中小企業庁",
-          "pages": 1,
-          "leaves": 0,
-          "depth_hist": {
-            "1": 1
-          },
-          "skipped_ops": 0
-        },
-        {
-          "id": "meti-gojosei2",
-          "agency": "中小企業庁",
-          "pages": 1,
-          "leaves": 0,
-          "depth_hist": {
-            "1": 1
-          },
-          "skipped_ops": 0
-        },
-        {
-          "id": "meti-jizokuka",
-          "agency": "中小企業庁",
-          "pages": 1,
-          "leaves": 8,
-          "depth_hist": {
-            "1": 1,
-            "2": 19
-          },
-          "skipped_ops": 20
-        },
-        {
-          "id": "meti-monozukuri",
-          "agency": "中小企業庁",
-          "pages": 44,
-          "leaves": 39,
-          "depth_hist": {
-            "1": 1,
-            "2": 19,
-            "3": 105,
-            "4": 20,
-            "5": 1
-          },
-          "skipped_ops": 26
-        },
-        {
-          "id": "mhlw-hub",
-          "agency": "厚生労働省",
-          "pages": 128,
-          "leaves": 118,
-          "depth_hist": {
-            "1": 1,
-            "2": 19,
-            "3": 252,
-            "4": 144
-          },
-          "skipped_ops": 129
-        },
-        {
-          "id": "jogmec",
-          "agency": "JOGMEC",
-          "pages": 41,
-          "leaves": 32,
-          "depth_hist": {
-            "1": 1,
-            "2": 34,
-            "3": 63,
-            "4": 21
-          },
-          "skipped_ops": 37
-        }
-      ],
-      "total_schemes": 197
-    }
   }
 }
