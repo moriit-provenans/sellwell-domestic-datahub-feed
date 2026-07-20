@@ -1,19 +1,19 @@
 {
   "ok": true,
-  "workflow": "sellwell_domestic_feed_daily",
-  "retrieved_at": "2026-07-20T11:17:41+09:00",
+  "workflow": "REQ-038-quality",
+  "retrieved_at": "2026-07-20T11:28:41+09:00",
   "as_of_date": "2026-07-20",
-  "note_ja": "日次補助金＋Stage4 judgment更新成功（REQ-030 F / REQ-035）",
-  "judgment_ready_total": 5145,
+  "note_ja": "REQ-038 generic禁止＋岡山創業型葉ノード",
+  "judgment_ready_total": 1044,
   "p0": {
-    "n": 48,
-    "ready": 48,
+    "n": 31,
+    "ready": 31,
     "pct": 100.0
   },
   "p1": {
-    "n": 318,
-    "ready": 289,
-    "pct": 90.9
+    "n": 316,
+    "ready": 293,
+    "pct": 92.7
   },
-  "stage4_items": 5212
+  "stage4_items": null
 }
