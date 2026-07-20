@@ -2,10 +2,12 @@
   "schema_version": "1.0.0",
   "as_of": "2026-07-20",
   "catalog_total": 40,
-  "present": 40,
-  "missing": 0,
-  "missing_names": [],
-  "clean_canonical_rate": 1.0,
+  "present": 39,
+  "missing": 1,
+  "missing_names": [
+    "jGrants（電子申請ポータル）"
+  ],
+  "clean_canonical_rate": 0.975,
   "note_ja": "REQ-033: canonical注入後のマッチ。missingはタイトル照合失敗のみ（注入自体は実施）。",
   "items": [
     {
@@ -60,7 +62,7 @@
         "prefecture-fukui-2285044084",
         "prefecture-nagasaki-5079928732",
         "city-hamamatsu-4080697346",
-        "city-fukuoka-city-847586150"
+        "city-20425-496896232"
       ],
       "eligibility_depth": "guidelines"
     },
@@ -93,9 +95,8 @@
         "jnet21-180439",
         "jnet21-180192",
         "jnet21-180193",
-        "ministry-1587854473",
+        "deep-mhlw-hub-ac406ba1b694",
         "ministry-8259550584",
-        "city-fukuoka-city-1872991894",
         "national-canonical:mhlw-jinzai",
         "national-canonical:mhlw-jinzai-人材育成支援コース",
         "national-canonical:mhlw-jinzai-事業展開等リスキリング支援コース",
@@ -117,7 +118,7 @@
       "in_active_feed": true,
       "matched_item_ids": [
         "a0WJ200000CDIvFMAX",
-        "ministry-2418416814",
+        "deep-mhlw-hub-a0cf8014a694",
         "ministry-4810450911",
         "national-canonical:mhlw-gyomu",
         "prefecture-fukui-8890137267",
@@ -127,10 +128,15 @@
         "city-23220-4321552710",
         "city-24216-9520100918",
         "city-11301-5301862851",
-        "prefecture-yamaguchi-fix-8596572283",
+        "deep-mhlw-hub-2252a2aacdcd",
         "city-sendai-fix-6235084397",
         "prefecture-oita-w3-7451199211",
-        "prefecture-yamanashi-w3b3-9629787959"
+        "prefecture-yamanashi-w3b3-9629787959",
+        "deep-fukuoka-city-d70d7f054aa7",
+        "deep-mhlw-hub-440b0f54ca8d",
+        "deep-mhlw-hub-64a00bef012e",
+        "deep-mhlw-hub-2756aed54d29",
+        "deep-mhlw-hub-9bb51cb4d2da"
       ],
       "eligibility_depth": "guidelines"
     },
@@ -152,12 +158,13 @@
         "jnet21-180329",
         "jnet21-180332",
         "jnet21-180335",
+        "deep-mhlw-hub-690cfa08203d",
         "ministry-8255822062",
         "national-canonical:mhlw-ryoritsu",
         "city-11222-2392572259",
-        "city-03209-9018257677",
         "city-43203-9868746932",
-        "prefecture-oita-w3-3287066588"
+        "prefecture-oita-w3-3287066588",
+        "deep-iwate2-f4ffa52f6242"
       ],
       "eligibility_depth": "guidelines"
     },
@@ -177,7 +184,10 @@
         "ministry-9100522071",
         "national-canonical:mhlw-koyo-chosei",
         "city-niigata-city-3249512892",
-        "city-okayama-city-9742121814"
+        "deep-okayama-city4-cbf72bb7feb6",
+        "deep-okayama-city4-ab2b50e3baff",
+        "deep-okayama-city4-18751da99809",
+        "deep-okayama-city4-d248ea8f34cb"
       ],
       "eligibility_depth": "guidelines"
     },
@@ -257,13 +267,13 @@
         "jnet21-180229",
         "jnet21-180231",
         "jnet21-178500",
-        "ministry-4846231570",
+        "deep-mhlw-hub-858baa7cf497",
         "national-canonical:mhlw-hatarakikata",
-        "city-fukuoka-city-8750175253",
         "city-28202-2652455595",
         "city-12236-7311780790",
         "city-28222-2129346449",
-        "city-02405-8269255631"
+        "city-02405-8269255631",
+        "deep-mhlw-hub-337650177938"
       ],
       "eligibility_depth": "guidelines"
     },
@@ -316,7 +326,6 @@
         "ministry-2595749167",
         "ministry-4259809213",
         "ministry-9617239855",
-        "national-canonical:mhlw-chukarei",
         "city-28222-6092656895"
       ],
       "eligibility_depth": "guidelines"
@@ -416,13 +425,13 @@
         "ministry-6189130165",
         "ministry-2246435186",
         "ministry-1734106871",
-        "national-canonical:meti-it",
         "agency-7448399380",
         "agency-8440233985",
         "agency-9157518232",
         "agency-9077400420",
         "city-hamamatsu-188185331",
-        "city-kobe-7051000593"
+        "city-kobe-7051000593",
+        "city-01203-2935417808"
       ],
       "eligibility_depth": "guidelines"
     },
@@ -526,8 +535,8 @@
         "national-canonical:meti-seicho",
         "agency-9975359636",
         "prefecture-shiga-4101962167",
-        "city-40203-5305208655",
-        "city-40203-6576403424"
+        "city-12221-3417696811",
+        "city-26211-5299390133"
       ],
       "eligibility_depth": "guidelines"
     },
@@ -581,10 +590,10 @@
         "ministry-5850749923",
         "ministry-4248488690",
         "ministry-7834400438",
+        "deep-okayama3-bdac8d2de953",
         "agency-333158411",
         "agency-8146605676",
-        "agency-1789915233",
-        "agency-4124782588"
+        "agency-1789915233"
       ],
       "eligibility_depth": "guidelines"
     },
@@ -777,8 +786,6 @@
         "city-13209-2388796202",
         "city-14204-5577483075",
         "city-15227-8706630241",
-        "city-33209-2205070826",
-        "city-40231-4492525694",
         "city-46219-5636998541",
         "city-46527-6045771762",
         "city-06382-7441758811",
@@ -786,7 +793,9 @@
         "city-06382-5120738651",
         "city-kobe-fix2-76503736",
         "city-kobe-fix2-190270021",
-        "prefecture-oita-w3-7287640445"
+        "prefecture-oita-w3-7287640445",
+        "prefecture-oita-w3-6923251302",
+        "prefecture-oita-w3-6729445227"
       ],
       "eligibility_depth": "page_detail"
     },
@@ -811,8 +820,6 @@
         "city-13209-2388796202",
         "city-14204-5577483075",
         "city-15227-8706630241",
-        "city-33209-2205070826",
-        "city-40231-4492525694",
         "city-46219-5636998541",
         "city-46527-6045771762",
         "city-06382-7441758811",
@@ -821,7 +828,9 @@
         "city-kobe-fix2-76503736",
         "city-kobe-fix2-190270021",
         "prefecture-oita-w3-7287640445",
-        "prefecture-oita-w3-6923251302"
+        "prefecture-oita-w3-6923251302",
+        "prefecture-oita-w3-6729445227",
+        "prefecture-oita-w3-5486732098"
       ],
       "eligibility_depth": "page_detail"
     },
@@ -846,8 +855,6 @@
         "city-13209-2388796202",
         "city-14204-5577483075",
         "city-15227-8706630241",
-        "city-33209-2205070826",
-        "city-40231-4492525694",
         "city-46219-5636998541",
         "city-46527-6045771762",
         "city-06382-7441758811",
@@ -856,7 +863,9 @@
         "city-kobe-fix2-76503736",
         "city-kobe-fix2-190270021",
         "prefecture-oita-w3-7287640445",
-        "prefecture-oita-w3-6923251302"
+        "prefecture-oita-w3-6923251302",
+        "prefecture-oita-w3-6729445227",
+        "prefecture-oita-w3-5486732098"
       ],
       "eligibility_depth": "page_detail"
     },
@@ -873,22 +882,6 @@
       "in_active_feed": true,
       "matched_item_ids": [
         "national-canonical:smrj-seisansei"
-      ],
-      "eligibility_depth": "page_detail"
-    },
-    {
-      "id": "jgrants-portal",
-      "canonical_name": "jGrants（電子申請ポータル）",
-      "kind": "other",
-      "agency": "デジタル庁",
-      "official_url": "https://www.jgrants-portal.go.jp/",
-      "acceptance_status": "open",
-      "detail_url": "https://www.jgrants-portal.go.jp/",
-      "courses": [],
-      "acceptance_note_ja": null,
-      "in_active_feed": true,
-      "matched_item_ids": [
-        "national-canonical:jgrants-portal"
       ],
       "eligibility_depth": "page_detail"
     },
@@ -1022,7 +1015,26 @@
       "acceptance_note_ja": null,
       "in_active_feed": true,
       "matched_item_ids": [
-        "agency-4285128690"
+        "deep-jogmec-401bc8db8859",
+        "deep-jogmec-d1a949acf499",
+        "deep-jogmec-a10fcde1900d",
+        "deep-jogmec-4271971092fc",
+        "agency-4285128690",
+        "deep-jogmec-226a0fa57a58",
+        "deep-jogmec-1fb8ca7da0f9",
+        "deep-jogmec-71a33eaef318",
+        "deep-jogmec-162602b15ffe",
+        "deep-jogmec-89b474ae6c0a",
+        "deep-jogmec-3d6059770608",
+        "deep-jogmec-24a9533aa1bb",
+        "deep-jogmec-8c556b15e867",
+        "deep-jogmec-12ab4c24c650",
+        "deep-jogmec-104ecd2176d1",
+        "deep-jogmec-076ad975871e",
+        "deep-jogmec-53b4066e8940",
+        "deep-jogmec-c5b55ec7403d",
+        "deep-jogmec-d7ab05c18790",
+        "deep-jogmec-a22e07f95ce0"
       ],
       "eligibility_depth": "page_detail"
     },
@@ -1047,8 +1059,6 @@
         "city-13209-2388796202",
         "city-14204-5577483075",
         "city-15227-8706630241",
-        "city-33209-2205070826",
-        "city-40231-4492525694",
         "city-46219-5636998541",
         "city-46527-6045771762",
         "city-06382-7441758811",
@@ -1057,7 +1067,9 @@
         "city-kobe-fix2-76503736",
         "city-kobe-fix2-190270021",
         "prefecture-oita-w3-7287640445",
-        "prefecture-oita-w3-6923251302"
+        "prefecture-oita-w3-6923251302",
+        "prefecture-oita-w3-6729445227",
+        "prefecture-oita-w3-5486732098"
       ],
       "eligibility_depth": "page_detail"
     },
@@ -1109,6 +1121,20 @@
         "city-45202-1914789247",
         "national-canonical:mhlw-hub"
       ],
+      "eligibility_depth": "page_detail"
+    },
+    {
+      "id": "jgrants-portal",
+      "canonical_name": "jGrants（電子申請ポータル）",
+      "kind": "other",
+      "agency": "デジタル庁",
+      "official_url": "https://www.jgrants-portal.go.jp/",
+      "acceptance_status": "open",
+      "detail_url": "https://www.jgrants-portal.go.jp/",
+      "courses": [],
+      "acceptance_note_ja": null,
+      "in_active_feed": false,
+      "matched_item_ids": [],
       "eligibility_depth": "page_detail"
     }
   ]
