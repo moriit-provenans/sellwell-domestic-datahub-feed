@@ -2,7 +2,7 @@
   "schema_version": "1.0.0",
   "feed_id": "sellwell-domestic-datahub",
   "title": "Sellwell Domestic Data Hub Public Feed",
-  "last_updated": "2026-07-21",
+  "last_updated": "2026-07-20",
   "status": "mvp_req010_multisource_g1",
   "owner": "Atlas",
   "consumer": "Smith / sellwell.jp",

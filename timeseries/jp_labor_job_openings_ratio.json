@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "metric_id": "jp.labor.job_openings_ratio",
   "title_ja": "有効求人倍率",
-  "last_updated": "2026-07-21",
+  "last_updated": "2026-07-20",
   "source": "e-Stat 景気動向指数",
   "observations": [
     {
       "as_of_date": "2015-01-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.labor.job_openings_ratio",
       "industry_slug": "national",
@@ -24,7 +24,7 @@
     {
       "as_of_date": "2015-02-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.labor.job_openings_ratio",
       "industry_slug": "national",
@@ -40,7 +40,7 @@
     {
       "as_of_date": "2015-03-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.labor.job_openings_ratio",
       "industry_slug": "national",
@@ -56,7 +56,7 @@
     {
       "as_of_date": "2015-04-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.labor.job_openings_ratio",
       "industry_slug": "national",
@@ -72,7 +72,7 @@
     {
       "as_of_date": "2015-05-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.labor.job_openings_ratio",
       "industry_slug": "national",
@@ -88,7 +88,7 @@
     {
       "as_of_date": "2015-06-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.labor.job_openings_ratio",
       "industry_slug": "national",
@@ -104,7 +104,7 @@
     {
       "as_of_date": "2015-07-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.labor.job_openings_ratio",
       "industry_slug": "national",
@@ -120,7 +120,7 @@
     {
       "as_of_date": "2015-08-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.labor.job_openings_ratio",
       "industry_slug": "national",
@@ -136,7 +136,7 @@
     {
       "as_of_date": "2015-09-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.labor.job_openings_ratio",
       "industry_slug": "national",
@@ -152,7 +152,7 @@
     {
       "as_of_date": "2015-10-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.labor.job_openings_ratio",
       "industry_slug": "national",
@@ -168,7 +168,7 @@
     {
       "as_of_date": "2015-11-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.labor.job_openings_ratio",
       "industry_slug": "national",
@@ -184,7 +184,7 @@
     {
       "as_of_date": "2015-12-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.labor.job_openings_ratio",
       "industry_slug": "national",
@@ -200,7 +200,7 @@
     {
       "as_of_date": "2016-01-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.labor.job_openings_ratio",
       "industry_slug": "national",
@@ -216,7 +216,7 @@
     {
       "as_of_date": "2016-02-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.labor.job_openings_ratio",
       "industry_slug": "national",
@@ -232,7 +232,7 @@
     {
       "as_of_date": "2016-03-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.labor.job_openings_ratio",
       "industry_slug": "national",
@@ -248,7 +248,7 @@
     {
       "as_of_date": "2016-04-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.labor.job_openings_ratio",
       "industry_slug": "national",
@@ -264,7 +264,7 @@
     {
       "as_of_date": "2016-05-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.labor.job_openings_ratio",
       "industry_slug": "national",
@@ -280,7 +280,7 @@
     {
       "as_of_date": "2016-06-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.labor.job_openings_ratio",
       "industry_slug": "national",
@@ -296,7 +296,7 @@
     {
       "as_of_date": "2016-07-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.labor.job_openings_ratio",
       "industry_slug": "national",
@@ -312,7 +312,7 @@
     {
       "as_of_date": "2016-08-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.labor.job_openings_ratio",
       "industry_slug": "national",
@@ -328,7 +328,7 @@
     {
       "as_of_date": "2016-09-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.labor.job_openings_ratio",
       "industry_slug": "national",
@@ -344,7 +344,7 @@
     {
       "as_of_date": "2016-10-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.labor.job_openings_ratio",
       "industry_slug": "national",
@@ -360,7 +360,7 @@
     {
       "as_of_date": "2016-11-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.labor.job_openings_ratio",
       "industry_slug": "national",
@@ -376,7 +376,7 @@
     {
       "as_of_date": "2016-12-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.labor.job_openings_ratio",
       "industry_slug": "national",
@@ -392,7 +392,7 @@
     {
       "as_of_date": "2017-01-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.labor.job_openings_ratio",
       "industry_slug": "national",
@@ -408,7 +408,7 @@
     {
       "as_of_date": "2017-02-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.labor.job_openings_ratio",
       "industry_slug": "national",
@@ -424,7 +424,7 @@
     {
       "as_of_date": "2017-03-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.labor.job_openings_ratio",
       "industry_slug": "national",
@@ -440,7 +440,7 @@
     {
       "as_of_date": "2017-04-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.labor.job_openings_ratio",
       "industry_slug": "national",
@@ -456,7 +456,7 @@
     {
       "as_of_date": "2017-05-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.labor.job_openings_ratio",
       "industry_slug": "national",
@@ -472,7 +472,7 @@
     {
       "as_of_date": "2017-06-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.labor.job_openings_ratio",
       "industry_slug": "national",
@@ -488,7 +488,7 @@
     {
       "as_of_date": "2017-07-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.labor.job_openings_ratio",
       "industry_slug": "national",
@@ -504,7 +504,7 @@
     {
       "as_of_date": "2017-08-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.labor.job_openings_ratio",
       "industry_slug": "national",
@@ -520,7 +520,7 @@
     {
       "as_of_date": "2017-09-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.labor.job_openings_ratio",
       "industry_slug": "national",
@@ -536,7 +536,7 @@
     {
       "as_of_date": "2017-10-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.labor.job_openings_ratio",
       "industry_slug": "national",
@@ -552,7 +552,7 @@
     {
       "as_of_date": "2017-11-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.labor.job_openings_ratio",
       "industry_slug": "national",
@@ -568,7 +568,7 @@
     {
       "as_of_date": "2017-12-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.labor.job_openings_ratio",
       "industry_slug": "national",
@@ -584,7 +584,7 @@
     {
       "as_of_date": "2018-01-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.labor.job_openings_ratio",
       "industry_slug": "national",
@@ -600,7 +600,7 @@
     {
       "as_of_date": "2018-02-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.labor.job_openings_ratio",
       "industry_slug": "national",
@@ -616,7 +616,7 @@
     {
       "as_of_date": "2018-03-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.labor.job_openings_ratio",
       "industry_slug": "national",
@@ -632,7 +632,7 @@
     {
       "as_of_date": "2018-04-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.labor.job_openings_ratio",
       "industry_slug": "national",
@@ -648,7 +648,7 @@
     {
       "as_of_date": "2018-05-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.labor.job_openings_ratio",
       "industry_slug": "national",
@@ -664,7 +664,7 @@
     {
       "as_of_date": "2018-06-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.labor.job_openings_ratio",
       "industry_slug": "national",
@@ -680,7 +680,7 @@
     {
       "as_of_date": "2018-07-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.labor.job_openings_ratio",
       "industry_slug": "national",
@@ -696,7 +696,7 @@
     {
       "as_of_date": "2018-08-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.labor.job_openings_ratio",
       "industry_slug": "national",
@@ -712,7 +712,7 @@
     {
       "as_of_date": "2018-09-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.labor.job_openings_ratio",
       "industry_slug": "national",
@@ -728,7 +728,7 @@
     {
       "as_of_date": "2018-10-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.labor.job_openings_ratio",
       "industry_slug": "national",
@@ -744,7 +744,7 @@
     {
       "as_of_date": "2018-11-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.labor.job_openings_ratio",
       "industry_slug": "national",
@@ -760,7 +760,7 @@
     {
       "as_of_date": "2018-12-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.labor.job_openings_ratio",
       "industry_slug": "national",
@@ -776,7 +776,7 @@
     {
       "as_of_date": "2019-01-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.labor.job_openings_ratio",
       "industry_slug": "national",
@@ -792,7 +792,7 @@
     {
       "as_of_date": "2019-02-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.labor.job_openings_ratio",
       "industry_slug": "national",
@@ -808,7 +808,7 @@
     {
       "as_of_date": "2019-03-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.labor.job_openings_ratio",
       "industry_slug": "national",
@@ -824,7 +824,7 @@
     {
       "as_of_date": "2019-04-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.labor.job_openings_ratio",
       "industry_slug": "national",
@@ -840,7 +840,7 @@
     {
       "as_of_date": "2019-05-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.labor.job_openings_ratio",
       "industry_slug": "national",
@@ -856,7 +856,7 @@
     {
       "as_of_date": "2019-06-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.labor.job_openings_ratio",
       "industry_slug": "national",
@@ -872,7 +872,7 @@
     {
       "as_of_date": "2019-07-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.labor.job_openings_ratio",
       "industry_slug": "national",
@@ -888,7 +888,7 @@
     {
       "as_of_date": "2019-08-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.labor.job_openings_ratio",
       "industry_slug": "national",
@@ -904,7 +904,7 @@
     {
       "as_of_date": "2019-09-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.labor.job_openings_ratio",
       "industry_slug": "national",
@@ -920,7 +920,7 @@
     {
       "as_of_date": "2019-10-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.labor.job_openings_ratio",
       "industry_slug": "national",
@@ -936,7 +936,7 @@
     {
       "as_of_date": "2019-11-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.labor.job_openings_ratio",
       "industry_slug": "national",
@@ -952,7 +952,7 @@
     {
       "as_of_date": "2019-12-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.labor.job_openings_ratio",
       "industry_slug": "national",
@@ -968,7 +968,7 @@
     {
       "as_of_date": "2020-01-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.labor.job_openings_ratio",
       "industry_slug": "national",
@@ -984,7 +984,7 @@
     {
       "as_of_date": "2020-02-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.labor.job_openings_ratio",
       "industry_slug": "national",
@@ -1000,7 +1000,7 @@
     {
       "as_of_date": "2020-03-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.labor.job_openings_ratio",
       "industry_slug": "national",
@@ -1016,7 +1016,7 @@
     {
       "as_of_date": "2020-04-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.labor.job_openings_ratio",
       "industry_slug": "national",
@@ -1032,7 +1032,7 @@
     {
       "as_of_date": "2020-05-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.labor.job_openings_ratio",
       "industry_slug": "national",
@@ -1048,7 +1048,7 @@
     {
       "as_of_date": "2020-06-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.labor.job_openings_ratio",
       "industry_slug": "national",
@@ -1064,7 +1064,7 @@
     {
       "as_of_date": "2020-07-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.labor.job_openings_ratio",
       "industry_slug": "national",
@@ -1080,7 +1080,7 @@
     {
       "as_of_date": "2020-08-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.labor.job_openings_ratio",
       "industry_slug": "national",
@@ -1096,7 +1096,7 @@
     {
       "as_of_date": "2020-09-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.labor.job_openings_ratio",
       "industry_slug": "national",
@@ -1112,7 +1112,7 @@
     {
       "as_of_date": "2020-10-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.labor.job_openings_ratio",
       "industry_slug": "national",
@@ -1128,7 +1128,7 @@
     {
       "as_of_date": "2020-11-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.labor.job_openings_ratio",
       "industry_slug": "national",
@@ -1144,7 +1144,7 @@
     {
       "as_of_date": "2020-12-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.labor.job_openings_ratio",
       "industry_slug": "national",
@@ -1160,7 +1160,7 @@
     {
       "as_of_date": "2021-01-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.labor.job_openings_ratio",
       "industry_slug": "national",
@@ -1176,7 +1176,7 @@
     {
       "as_of_date": "2021-02-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.labor.job_openings_ratio",
       "industry_slug": "national",
@@ -1192,7 +1192,7 @@
     {
       "as_of_date": "2021-03-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.labor.job_openings_ratio",
       "industry_slug": "national",
@@ -1208,7 +1208,7 @@
     {
       "as_of_date": "2021-04-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.labor.job_openings_ratio",
       "industry_slug": "national",
@@ -1224,7 +1224,7 @@
     {
       "as_of_date": "2021-05-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.labor.job_openings_ratio",
       "industry_slug": "national",
@@ -1240,7 +1240,7 @@
     {
       "as_of_date": "2021-06-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.labor.job_openings_ratio",
       "industry_slug": "national",
@@ -1256,7 +1256,7 @@
     {
       "as_of_date": "2021-07-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.labor.job_openings_ratio",
       "industry_slug": "national",
@@ -1272,7 +1272,7 @@
     {
       "as_of_date": "2021-08-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.labor.job_openings_ratio",
       "industry_slug": "national",
@@ -1288,7 +1288,7 @@
     {
       "as_of_date": "2021-09-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.labor.job_openings_ratio",
       "industry_slug": "national",
@@ -1304,7 +1304,7 @@
     {
       "as_of_date": "2021-10-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.labor.job_openings_ratio",
       "industry_slug": "national",
@@ -1320,7 +1320,7 @@
     {
       "as_of_date": "2021-11-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.labor.job_openings_ratio",
       "industry_slug": "national",
@@ -1336,7 +1336,7 @@
     {
       "as_of_date": "2021-12-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.labor.job_openings_ratio",
       "industry_slug": "national",
@@ -1352,7 +1352,7 @@
     {
       "as_of_date": "2022-01-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.labor.job_openings_ratio",
       "industry_slug": "national",
@@ -1368,7 +1368,7 @@
     {
       "as_of_date": "2022-02-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.labor.job_openings_ratio",
       "industry_slug": "national",
@@ -1384,7 +1384,7 @@
     {
       "as_of_date": "2022-03-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.labor.job_openings_ratio",
       "industry_slug": "national",
@@ -1400,7 +1400,7 @@
     {
       "as_of_date": "2022-04-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.labor.job_openings_ratio",
       "industry_slug": "national",
@@ -1416,7 +1416,7 @@
     {
       "as_of_date": "2022-05-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.labor.job_openings_ratio",
       "industry_slug": "national",
@@ -1432,7 +1432,7 @@
     {
       "as_of_date": "2022-06-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.labor.job_openings_ratio",
       "industry_slug": "national",
@@ -1448,7 +1448,7 @@
     {
       "as_of_date": "2022-07-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.labor.job_openings_ratio",
       "industry_slug": "national",
@@ -1464,7 +1464,7 @@
     {
       "as_of_date": "2022-08-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.labor.job_openings_ratio",
       "industry_slug": "national",
@@ -1480,7 +1480,7 @@
     {
       "as_of_date": "2022-09-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.labor.job_openings_ratio",
       "industry_slug": "national",
@@ -1496,7 +1496,7 @@
     {
       "as_of_date": "2022-10-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.labor.job_openings_ratio",
       "industry_slug": "national",
@@ -1512,7 +1512,7 @@
     {
       "as_of_date": "2022-11-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.labor.job_openings_ratio",
       "industry_slug": "national",
@@ -1528,7 +1528,7 @@
     {
       "as_of_date": "2022-12-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.labor.job_openings_ratio",
       "industry_slug": "national",
@@ -1544,7 +1544,7 @@
     {
       "as_of_date": "2023-01-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.labor.job_openings_ratio",
       "industry_slug": "national",
@@ -1560,7 +1560,7 @@
     {
       "as_of_date": "2023-02-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.labor.job_openings_ratio",
       "industry_slug": "national",
@@ -1576,7 +1576,7 @@
     {
       "as_of_date": "2023-03-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.labor.job_openings_ratio",
       "industry_slug": "national",
@@ -1592,7 +1592,7 @@
     {
       "as_of_date": "2023-04-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.labor.job_openings_ratio",
       "industry_slug": "national",
@@ -1608,7 +1608,7 @@
     {
       "as_of_date": "2023-05-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.labor.job_openings_ratio",
       "industry_slug": "national",
@@ -1624,7 +1624,7 @@
     {
       "as_of_date": "2023-06-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.labor.job_openings_ratio",
       "industry_slug": "national",
@@ -1640,7 +1640,7 @@
     {
       "as_of_date": "2023-07-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.labor.job_openings_ratio",
       "industry_slug": "national",
@@ -1656,7 +1656,7 @@
     {
       "as_of_date": "2023-08-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.labor.job_openings_ratio",
       "industry_slug": "national",
@@ -1672,7 +1672,7 @@
     {
       "as_of_date": "2023-09-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.labor.job_openings_ratio",
       "industry_slug": "national",
@@ -1688,7 +1688,7 @@
     {
       "as_of_date": "2023-10-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.labor.job_openings_ratio",
       "industry_slug": "national",
@@ -1704,7 +1704,7 @@
     {
       "as_of_date": "2023-11-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.labor.job_openings_ratio",
       "industry_slug": "national",
@@ -1720,7 +1720,7 @@
     {
       "as_of_date": "2023-12-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.labor.job_openings_ratio",
       "industry_slug": "national",
@@ -1736,7 +1736,7 @@
     {
       "as_of_date": "2024-01-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.labor.job_openings_ratio",
       "industry_slug": "national",
@@ -1752,7 +1752,7 @@
     {
       "as_of_date": "2024-02-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.labor.job_openings_ratio",
       "industry_slug": "national",
@@ -1768,7 +1768,7 @@
     {
       "as_of_date": "2024-03-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.labor.job_openings_ratio",
       "industry_slug": "national",
@@ -1784,7 +1784,7 @@
     {
       "as_of_date": "2024-04-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.labor.job_openings_ratio",
       "industry_slug": "national",
@@ -1800,7 +1800,7 @@
     {
       "as_of_date": "2024-05-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.labor.job_openings_ratio",
       "industry_slug": "national",
@@ -1816,7 +1816,7 @@
     {
       "as_of_date": "2024-06-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.labor.job_openings_ratio",
       "industry_slug": "national",
@@ -1832,7 +1832,7 @@
     {
       "as_of_date": "2024-07-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.labor.job_openings_ratio",
       "industry_slug": "national",
@@ -1848,7 +1848,7 @@
     {
       "as_of_date": "2024-08-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.labor.job_openings_ratio",
       "industry_slug": "national",
@@ -1864,7 +1864,7 @@
     {
       "as_of_date": "2024-09-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.labor.job_openings_ratio",
       "industry_slug": "national",
@@ -1880,7 +1880,7 @@
     {
       "as_of_date": "2024-10-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.labor.job_openings_ratio",
       "industry_slug": "national",
@@ -1896,7 +1896,7 @@
     {
       "as_of_date": "2024-11-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.labor.job_openings_ratio",
       "industry_slug": "national",
@@ -1912,7 +1912,7 @@
     {
       "as_of_date": "2024-12-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.labor.job_openings_ratio",
       "industry_slug": "national",
@@ -1928,7 +1928,7 @@
     {
       "as_of_date": "2025-01-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.labor.job_openings_ratio",
       "industry_slug": "national",
@@ -1944,7 +1944,7 @@
     {
       "as_of_date": "2025-02-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.labor.job_openings_ratio",
       "industry_slug": "national",
@@ -1960,7 +1960,7 @@
     {
       "as_of_date": "2025-03-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.labor.job_openings_ratio",
       "industry_slug": "national",
@@ -1976,7 +1976,7 @@
     {
       "as_of_date": "2025-04-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.labor.job_openings_ratio",
       "industry_slug": "national",
@@ -1992,7 +1992,7 @@
     {
       "as_of_date": "2025-05-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.labor.job_openings_ratio",
       "industry_slug": "national",
@@ -2008,7 +2008,7 @@
     {
       "as_of_date": "2025-06-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.labor.job_openings_ratio",
       "industry_slug": "national",
@@ -2024,7 +2024,7 @@
     {
       "as_of_date": "2025-07-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.labor.job_openings_ratio",
       "industry_slug": "national",
@@ -2040,7 +2040,7 @@
     {
       "as_of_date": "2025-08-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.labor.job_openings_ratio",
       "industry_slug": "national",
@@ -2056,7 +2056,7 @@
     {
       "as_of_date": "2025-09-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.labor.job_openings_ratio",
       "industry_slug": "national",
@@ -2072,7 +2072,7 @@
     {
       "as_of_date": "2025-10-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.labor.job_openings_ratio",
       "industry_slug": "national",
@@ -2088,7 +2088,7 @@
     {
       "as_of_date": "2025-11-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.labor.job_openings_ratio",
       "industry_slug": "national",
@@ -2104,7 +2104,7 @@
     {
       "as_of_date": "2025-12-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.labor.job_openings_ratio",
       "industry_slug": "national",
@@ -2120,7 +2120,7 @@
     {
       "as_of_date": "2026-01-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.labor.job_openings_ratio",
       "industry_slug": "national",
@@ -2136,7 +2136,7 @@
     {
       "as_of_date": "2026-02-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.labor.job_openings_ratio",
       "industry_slug": "national",
@@ -2152,7 +2152,7 @@
     {
       "as_of_date": "2026-03-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.labor.job_openings_ratio",
       "industry_slug": "national",
@@ -2168,7 +2168,7 @@
     {
       "as_of_date": "2026-04-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.labor.job_openings_ratio",
       "industry_slug": "national",
@@ -2184,7 +2184,7 @@
     {
       "as_of_date": "2026-05-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-20",
       "veritas": "✅",
       "metric_id": "jp.labor.job_openings_ratio",
       "industry_slug": "national",

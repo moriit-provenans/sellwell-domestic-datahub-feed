@@ -1,19 +1,18 @@
 {
   "ok": true,
-  "workflow": "sellwell_domestic_feed_daily",
-  "retrieved_at": "2026-07-21T14:47:27+09:00",
-  "as_of_date": "2026-07-21",
-  "note_ja": "日次補助金＋Stage4 judgment更新成功（REQ-030 F / REQ-035）",
-  "judgment_ready_total": 756,
+  "workflow": "REQ-038-039-FINAL",
+  "retrieved_at": "2026-07-20T12:45:58+09:00",
+  "as_of_date": "2026-07-20",
+  "note_ja": "closeout-b: ready=1166 amount_fixed=28; prefs>=5 4/47 pilot pref {'岡山県': 7, '岩手県': 9, '福岡県': 1} city {'岡山市': 19, '盛岡市': 1, '福岡市': 15}",
+  "judgment_ready_total": 1166,
   "p0": {
-    "n": 52,
-    "ready": 32,
-    "pct": 61.5
+    "n": 29,
+    "ready": 29,
+    "pct": 100.0
   },
   "p1": {
-    "n": 319,
-    "ready": 243,
-    "pct": 76.2
-  },
-  "stage4_items": 14244
+    "n": 316,
+    "ready": 293,
+    "pct": 92.7
+  }
 }
