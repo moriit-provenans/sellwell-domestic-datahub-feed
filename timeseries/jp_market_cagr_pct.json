@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "metric_id": "jp.market.cagr_pct",
   "title_ja": "市場成長率 CAGR",
-  "last_updated": "2026-07-20",
+  "last_updated": "2026-07-21",
   "source": "derived",
   "observations": [
     {
       "as_of_date": "2024-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.market.cagr_pct",
       "industry_id": "37",
@@ -24,7 +24,7 @@
     {
       "as_of_date": "2024-03-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.market.cagr_pct",
       "industry_id": "30",
@@ -40,7 +40,7 @@
     {
       "as_of_date": "2024-03-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.market.cagr_pct",
       "industry_id": "27",
@@ -56,7 +56,7 @@
     {
       "as_of_date": "2024-03-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.market.cagr_pct",
       "industry_id": "21",
@@ -72,7 +72,7 @@
     {
       "as_of_date": "2024-03-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.market.cagr_pct",
       "industry_id": "16",
@@ -88,7 +88,7 @@
     {
       "as_of_date": "2024-03-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.market.cagr_pct",
       "industry_id": "11",
@@ -104,7 +104,7 @@
     {
       "as_of_date": "2024-03-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.market.cagr_pct",
       "industry_id": "29",
@@ -120,7 +120,7 @@
     {
       "as_of_date": "2024-03-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.market.cagr_pct",
       "industry_id": "28",
@@ -136,7 +136,7 @@
     {
       "as_of_date": "2024-03-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.market.cagr_pct",
       "industry_id": "33",
@@ -152,7 +152,7 @@
     {
       "as_of_date": "2024-03-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.market.cagr_pct",
       "industry_id": "09",
@@ -168,7 +168,7 @@
     {
       "as_of_date": "2024-03-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.market.cagr_pct",
       "industry_id": "09FT",
@@ -184,7 +184,7 @@
     {
       "as_of_date": "2024-03-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.market.cagr_pct",
       "industry_id": "25a",
@@ -200,7 +200,7 @@
     {
       "as_of_date": "2024-03-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.market.cagr_pct",
       "industry_id": "25",
@@ -216,7 +216,7 @@
     {
       "as_of_date": "2024-03-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.market.cagr_pct",
       "industry_id": "C",
@@ -232,7 +232,7 @@
     {
       "as_of_date": "2024-03-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.market.cagr_pct",
       "industry_id": "24",
@@ -248,7 +248,7 @@
     {
       "as_of_date": "2024-03-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.market.cagr_pct",
       "industry_id": "23",
@@ -264,7 +264,7 @@
     {
       "as_of_date": "2024-03-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.market.cagr_pct",
       "industry_id": "17",
@@ -280,7 +280,7 @@
     {
       "as_of_date": "2024-03-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.market.cagr_pct",
       "industry_id": "14",
@@ -296,7 +296,7 @@
     {
       "as_of_date": "2024-03-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.market.cagr_pct",
       "industry_id": "22",

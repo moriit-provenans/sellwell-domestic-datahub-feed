@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "metric_id": "jp.io.fx_sensitivity_score",
   "title_ja": "為替感応度スコア（派生）",
-  "last_updated": "2026-07-20",
+  "last_updated": "2026-07-21",
   "source": "derived",
   "observations": [
     {
       "as_of_date": "2023-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.io.fx_sensitivity_score",
       "industry_slug": "ai",
@@ -26,7 +26,7 @@
     {
       "as_of_date": "2019-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.io.fx_sensitivity_score",
       "industry_slug": "all-industries",
@@ -44,7 +44,7 @@
     {
       "as_of_date": "2020-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.io.fx_sensitivity_score",
       "industry_slug": "all-industries",
@@ -62,7 +62,7 @@
     {
       "as_of_date": "2021-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.io.fx_sensitivity_score",
       "industry_slug": "all-industries",
@@ -80,7 +80,7 @@
     {
       "as_of_date": "2022-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.io.fx_sensitivity_score",
       "industry_slug": "all-industries",
@@ -98,7 +98,7 @@
     {
       "as_of_date": "2023-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.io.fx_sensitivity_score",
       "industry_slug": "all-industries",
@@ -116,7 +116,7 @@
     {
       "as_of_date": "2023-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.io.fx_sensitivity_score",
       "industry_slug": "automotive-mobility",
@@ -134,7 +134,7 @@
     {
       "as_of_date": "2023-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.io.fx_sensitivity_score",
       "industry_slug": "consumer-goods",
@@ -152,7 +152,7 @@
     {
       "as_of_date": "2023-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.io.fx_sensitivity_score",
       "industry_slug": "electrical-equipment",
@@ -170,7 +170,7 @@
     {
       "as_of_date": "2023-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.io.fx_sensitivity_score",
       "industry_slug": "energy-gx",
@@ -188,7 +188,7 @@
     {
       "as_of_date": "2023-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.io.fx_sensitivity_score",
       "industry_slug": "food-beverage",
@@ -206,7 +206,7 @@
     {
       "as_of_date": "2023-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.io.fx_sensitivity_score",
       "industry_slug": "foodtech",
@@ -224,7 +224,7 @@
     {
       "as_of_date": "2023-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.io.fx_sensitivity_score",
       "industry_slug": "industrial-machinery",

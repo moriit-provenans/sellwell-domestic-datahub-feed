@@ -1,6 +1,6 @@
 {
   "schema_version": "1.1.0",
-  "last_updated": "2026-07-20",
+  "last_updated": "2026-07-21",
   "lens_guide": {
     "jsic_manufacturing": "公的業種コードで切れる製造業（法人企業統計・経済構造・IIP等）",
     "growth17": "政策テーマ。JSIC合成／代理／編集部評定。製造業リストに混ぜない",
