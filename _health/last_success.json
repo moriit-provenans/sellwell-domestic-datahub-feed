@@ -1,8 +1,8 @@
 {
   "ok": true,
   "workflow": "sellwell_domestic_feed_daily",
-  "retrieved_at": "2026-07-21T20:41:03+09:00",
-  "as_of_date": "2026-07-21",
+  "retrieved_at": "2026-07-22T08:02:29+09:00",
+  "as_of_date": "2026-07-22",
   "note_ja": "日次補助金＋Stage4 judgment更新成功（REQ-030 F / REQ-035）",
   "judgment_ready_total": 1567,
   "p0": {
@@ -15,5 +15,5 @@
     "ready": 291,
     "pct": 92.1
   },
-  "stage4_items": 14230
+  "stage4_items": 14210
 }
