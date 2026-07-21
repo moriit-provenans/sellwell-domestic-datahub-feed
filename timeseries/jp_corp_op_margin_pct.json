@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "metric_id": "jp.corp.op_margin_pct",
   "title_ja": "売上高営業利益率（法人企業統計）",
-  "last_updated": "2026-07-20",
+  "last_updated": "2026-07-21",
   "source": "e-Stat",
   "observations": [
     {
       "as_of_date": "2005-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "37",
@@ -26,7 +26,7 @@
     {
       "as_of_date": "2006-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "37",
@@ -44,7 +44,7 @@
     {
       "as_of_date": "2007-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "37",
@@ -62,7 +62,7 @@
     {
       "as_of_date": "2008-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "37",
@@ -80,7 +80,7 @@
     {
       "as_of_date": "2009-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "37",
@@ -98,7 +98,7 @@
     {
       "as_of_date": "2010-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "37",
@@ -116,7 +116,7 @@
     {
       "as_of_date": "2011-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "37",
@@ -134,7 +134,7 @@
     {
       "as_of_date": "2012-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "37",
@@ -152,7 +152,7 @@
     {
       "as_of_date": "2013-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "37",
@@ -170,7 +170,7 @@
     {
       "as_of_date": "2014-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "37",
@@ -188,7 +188,7 @@
     {
       "as_of_date": "2015-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "37",
@@ -206,7 +206,7 @@
     {
       "as_of_date": "2016-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "37",
@@ -224,7 +224,7 @@
     {
       "as_of_date": "2017-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "37",
@@ -242,7 +242,7 @@
     {
       "as_of_date": "2018-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "37",
@@ -260,7 +260,7 @@
     {
       "as_of_date": "2019-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "37",
@@ -278,7 +278,7 @@
     {
       "as_of_date": "2020-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "37",
@@ -296,7 +296,7 @@
     {
       "as_of_date": "2021-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "37",
@@ -314,7 +314,7 @@
     {
       "as_of_date": "2022-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "37",
@@ -332,7 +332,7 @@
     {
       "as_of_date": "2023-03-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "37",
@@ -350,7 +350,7 @@
     {
       "as_of_date": "2024-03-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "37",
@@ -368,7 +368,7 @@
     {
       "as_of_date": "2005-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "00",
@@ -386,7 +386,7 @@
     {
       "as_of_date": "2006-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "00",
@@ -404,7 +404,7 @@
     {
       "as_of_date": "2007-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "00",
@@ -422,7 +422,7 @@
     {
       "as_of_date": "2008-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "00",
@@ -440,7 +440,7 @@
     {
       "as_of_date": "2009-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "00",
@@ -458,7 +458,7 @@
     {
       "as_of_date": "2010-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "00",
@@ -476,7 +476,7 @@
     {
       "as_of_date": "2011-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "00",
@@ -494,7 +494,7 @@
     {
       "as_of_date": "2012-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "00",
@@ -512,7 +512,7 @@
     {
       "as_of_date": "2013-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "00",
@@ -530,7 +530,7 @@
     {
       "as_of_date": "2014-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "00",
@@ -548,7 +548,7 @@
     {
       "as_of_date": "2015-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "00",
@@ -566,7 +566,7 @@
     {
       "as_of_date": "2016-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "00",
@@ -584,7 +584,7 @@
     {
       "as_of_date": "2017-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "00",
@@ -602,7 +602,7 @@
     {
       "as_of_date": "2018-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "00",
@@ -620,7 +620,7 @@
     {
       "as_of_date": "2019-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "00",
@@ -638,7 +638,7 @@
     {
       "as_of_date": "2020-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "00",
@@ -656,7 +656,7 @@
     {
       "as_of_date": "2021-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "00",
@@ -674,7 +674,7 @@
     {
       "as_of_date": "2022-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "00",
@@ -692,7 +692,7 @@
     {
       "as_of_date": "2023-03-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "00",
@@ -710,7 +710,7 @@
     {
       "as_of_date": "2024-03-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "00",
@@ -728,7 +728,7 @@
     {
       "as_of_date": "2005-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "30",
@@ -746,7 +746,7 @@
     {
       "as_of_date": "2006-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "30",
@@ -764,7 +764,7 @@
     {
       "as_of_date": "2007-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "30",
@@ -782,7 +782,7 @@
     {
       "as_of_date": "2008-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "30",
@@ -800,7 +800,7 @@
     {
       "as_of_date": "2009-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "30",
@@ -818,7 +818,7 @@
     {
       "as_of_date": "2010-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "30",
@@ -836,7 +836,7 @@
     {
       "as_of_date": "2011-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "30",
@@ -854,7 +854,7 @@
     {
       "as_of_date": "2012-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "30",
@@ -872,7 +872,7 @@
     {
       "as_of_date": "2013-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "30",
@@ -890,7 +890,7 @@
     {
       "as_of_date": "2014-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "30",
@@ -908,7 +908,7 @@
     {
       "as_of_date": "2015-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "30",
@@ -926,7 +926,7 @@
     {
       "as_of_date": "2016-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "30",
@@ -944,7 +944,7 @@
     {
       "as_of_date": "2017-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "30",
@@ -962,7 +962,7 @@
     {
       "as_of_date": "2018-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "30",
@@ -980,7 +980,7 @@
     {
       "as_of_date": "2019-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "30",
@@ -998,7 +998,7 @@
     {
       "as_of_date": "2020-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "30",
@@ -1016,7 +1016,7 @@
     {
       "as_of_date": "2021-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "30",
@@ -1034,7 +1034,7 @@
     {
       "as_of_date": "2022-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "30",
@@ -1052,7 +1052,7 @@
     {
       "as_of_date": "2023-03-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "30",
@@ -1070,7 +1070,7 @@
     {
       "as_of_date": "2024-03-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "30",
@@ -1088,7 +1088,7 @@
     {
       "as_of_date": "2005-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "27",
@@ -1106,7 +1106,7 @@
     {
       "as_of_date": "2006-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "27",
@@ -1124,7 +1124,7 @@
     {
       "as_of_date": "2007-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "27",
@@ -1142,7 +1142,7 @@
     {
       "as_of_date": "2008-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "27",
@@ -1160,7 +1160,7 @@
     {
       "as_of_date": "2009-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "27",
@@ -1178,7 +1178,7 @@
     {
       "as_of_date": "2010-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "27",
@@ -1196,7 +1196,7 @@
     {
       "as_of_date": "2011-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "27",
@@ -1214,7 +1214,7 @@
     {
       "as_of_date": "2012-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "27",
@@ -1232,7 +1232,7 @@
     {
       "as_of_date": "2013-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "27",
@@ -1250,7 +1250,7 @@
     {
       "as_of_date": "2014-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "27",
@@ -1268,7 +1268,7 @@
     {
       "as_of_date": "2015-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "27",
@@ -1286,7 +1286,7 @@
     {
       "as_of_date": "2016-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "27",
@@ -1304,7 +1304,7 @@
     {
       "as_of_date": "2017-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "27",
@@ -1322,7 +1322,7 @@
     {
       "as_of_date": "2018-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "27",
@@ -1340,7 +1340,7 @@
     {
       "as_of_date": "2019-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "27",
@@ -1358,7 +1358,7 @@
     {
       "as_of_date": "2020-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "27",
@@ -1376,7 +1376,7 @@
     {
       "as_of_date": "2021-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "27",
@@ -1394,7 +1394,7 @@
     {
       "as_of_date": "2022-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "27",
@@ -1412,7 +1412,7 @@
     {
       "as_of_date": "2023-03-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "27",
@@ -1430,7 +1430,7 @@
     {
       "as_of_date": "2024-03-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "27",
@@ -1448,7 +1448,7 @@
     {
       "as_of_date": "2005-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "21",
@@ -1466,7 +1466,7 @@
     {
       "as_of_date": "2006-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "21",
@@ -1484,7 +1484,7 @@
     {
       "as_of_date": "2007-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "21",
@@ -1502,7 +1502,7 @@
     {
       "as_of_date": "2008-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "21",
@@ -1520,7 +1520,7 @@
     {
       "as_of_date": "2009-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "21",
@@ -1538,7 +1538,7 @@
     {
       "as_of_date": "2010-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "21",
@@ -1556,7 +1556,7 @@
     {
       "as_of_date": "2011-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "21",
@@ -1574,7 +1574,7 @@
     {
       "as_of_date": "2012-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "21",
@@ -1592,7 +1592,7 @@
     {
       "as_of_date": "2013-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "21",
@@ -1610,7 +1610,7 @@
     {
       "as_of_date": "2014-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "21",
@@ -1628,7 +1628,7 @@
     {
       "as_of_date": "2015-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "21",
@@ -1646,7 +1646,7 @@
     {
       "as_of_date": "2016-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "21",
@@ -1664,7 +1664,7 @@
     {
       "as_of_date": "2017-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "21",
@@ -1682,7 +1682,7 @@
     {
       "as_of_date": "2018-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "21",
@@ -1700,7 +1700,7 @@
     {
       "as_of_date": "2019-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "21",
@@ -1718,7 +1718,7 @@
     {
       "as_of_date": "2020-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "21",
@@ -1736,7 +1736,7 @@
     {
       "as_of_date": "2021-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "21",
@@ -1754,7 +1754,7 @@
     {
       "as_of_date": "2022-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "21",
@@ -1772,7 +1772,7 @@
     {
       "as_of_date": "2023-03-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "21",
@@ -1790,7 +1790,7 @@
     {
       "as_of_date": "2024-03-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "21",
@@ -1808,7 +1808,7 @@
     {
       "as_of_date": "2005-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "16",
@@ -1826,7 +1826,7 @@
     {
       "as_of_date": "2006-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "16",
@@ -1844,7 +1844,7 @@
     {
       "as_of_date": "2007-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "16",
@@ -1862,7 +1862,7 @@
     {
       "as_of_date": "2008-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "16",
@@ -1880,7 +1880,7 @@
     {
       "as_of_date": "2009-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "16",
@@ -1898,7 +1898,7 @@
     {
       "as_of_date": "2010-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "16",
@@ -1916,7 +1916,7 @@
     {
       "as_of_date": "2011-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "16",
@@ -1934,7 +1934,7 @@
     {
       "as_of_date": "2012-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "16",
@@ -1952,7 +1952,7 @@
     {
       "as_of_date": "2013-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "16",
@@ -1970,7 +1970,7 @@
     {
       "as_of_date": "2014-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "16",
@@ -1988,7 +1988,7 @@
     {
       "as_of_date": "2015-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "16",
@@ -2006,7 +2006,7 @@
     {
       "as_of_date": "2016-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "16",
@@ -2024,7 +2024,7 @@
     {
       "as_of_date": "2017-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "16",
@@ -2042,7 +2042,7 @@
     {
       "as_of_date": "2018-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "16",
@@ -2060,7 +2060,7 @@
     {
       "as_of_date": "2019-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "16",
@@ -2078,7 +2078,7 @@
     {
       "as_of_date": "2020-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "16",
@@ -2096,7 +2096,7 @@
     {
       "as_of_date": "2021-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "16",
@@ -2114,7 +2114,7 @@
     {
       "as_of_date": "2022-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "16",
@@ -2132,7 +2132,7 @@
     {
       "as_of_date": "2023-03-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "16",
@@ -2150,7 +2150,7 @@
     {
       "as_of_date": "2024-03-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "16",
@@ -2168,7 +2168,7 @@
     {
       "as_of_date": "2009-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "11",
@@ -2186,7 +2186,7 @@
     {
       "as_of_date": "2010-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "11",
@@ -2204,7 +2204,7 @@
     {
       "as_of_date": "2011-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "11",
@@ -2222,7 +2222,7 @@
     {
       "as_of_date": "2012-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "11",
@@ -2240,7 +2240,7 @@
     {
       "as_of_date": "2013-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "11",
@@ -2258,7 +2258,7 @@
     {
       "as_of_date": "2014-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "11",
@@ -2276,7 +2276,7 @@
     {
       "as_of_date": "2015-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "11",
@@ -2294,7 +2294,7 @@
     {
       "as_of_date": "2016-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "11",
@@ -2312,7 +2312,7 @@
     {
       "as_of_date": "2017-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "11",
@@ -2330,7 +2330,7 @@
     {
       "as_of_date": "2018-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "11",
@@ -2348,7 +2348,7 @@
     {
       "as_of_date": "2019-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "11",
@@ -2366,7 +2366,7 @@
     {
       "as_of_date": "2020-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "11",
@@ -2384,7 +2384,7 @@
     {
       "as_of_date": "2021-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "11",
@@ -2402,7 +2402,7 @@
     {
       "as_of_date": "2022-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "11",
@@ -2420,7 +2420,7 @@
     {
       "as_of_date": "2023-03-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "11",
@@ -2438,7 +2438,7 @@
     {
       "as_of_date": "2024-03-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "11",
@@ -2456,7 +2456,7 @@
     {
       "as_of_date": "2005-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "29",
@@ -2474,7 +2474,7 @@
     {
       "as_of_date": "2006-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "29",
@@ -2492,7 +2492,7 @@
     {
       "as_of_date": "2007-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "29",
@@ -2510,7 +2510,7 @@
     {
       "as_of_date": "2008-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "29",
@@ -2528,7 +2528,7 @@
     {
       "as_of_date": "2009-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "29",
@@ -2546,7 +2546,7 @@
     {
       "as_of_date": "2010-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "29",
@@ -2564,7 +2564,7 @@
     {
       "as_of_date": "2011-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "29",
@@ -2582,7 +2582,7 @@
     {
       "as_of_date": "2012-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "29",
@@ -2600,7 +2600,7 @@
     {
       "as_of_date": "2013-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "29",
@@ -2618,7 +2618,7 @@
     {
       "as_of_date": "2014-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "29",
@@ -2636,7 +2636,7 @@
     {
       "as_of_date": "2015-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "29",
@@ -2654,7 +2654,7 @@
     {
       "as_of_date": "2016-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "29",
@@ -2672,7 +2672,7 @@
     {
       "as_of_date": "2017-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "29",
@@ -2690,7 +2690,7 @@
     {
       "as_of_date": "2018-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "29",
@@ -2708,7 +2708,7 @@
     {
       "as_of_date": "2019-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "29",
@@ -2726,7 +2726,7 @@
     {
       "as_of_date": "2020-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "29",
@@ -2744,7 +2744,7 @@
     {
       "as_of_date": "2021-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "29",
@@ -2762,7 +2762,7 @@
     {
       "as_of_date": "2022-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "29",
@@ -2780,7 +2780,7 @@
     {
       "as_of_date": "2023-03-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "29",
@@ -2798,7 +2798,7 @@
     {
       "as_of_date": "2024-03-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "29",
@@ -2816,7 +2816,7 @@
     {
       "as_of_date": "2005-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "28",
@@ -2834,7 +2834,7 @@
     {
       "as_of_date": "2006-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "28",
@@ -2852,7 +2852,7 @@
     {
       "as_of_date": "2007-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "28",
@@ -2870,7 +2870,7 @@
     {
       "as_of_date": "2008-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "28",
@@ -2888,7 +2888,7 @@
     {
       "as_of_date": "2009-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "28",
@@ -2906,7 +2906,7 @@
     {
       "as_of_date": "2010-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "28",
@@ -2924,7 +2924,7 @@
     {
       "as_of_date": "2011-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "28",
@@ -2942,7 +2942,7 @@
     {
       "as_of_date": "2012-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "28",
@@ -2960,7 +2960,7 @@
     {
       "as_of_date": "2013-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "28",
@@ -2978,7 +2978,7 @@
     {
       "as_of_date": "2014-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "28",
@@ -2996,7 +2996,7 @@
     {
       "as_of_date": "2015-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "28",
@@ -3014,7 +3014,7 @@
     {
       "as_of_date": "2016-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "28",
@@ -3032,7 +3032,7 @@
     {
       "as_of_date": "2017-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "28",
@@ -3050,7 +3050,7 @@
     {
       "as_of_date": "2018-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "28",
@@ -3068,7 +3068,7 @@
     {
       "as_of_date": "2019-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "28",
@@ -3086,7 +3086,7 @@
     {
       "as_of_date": "2020-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "28",
@@ -3104,7 +3104,7 @@
     {
       "as_of_date": "2021-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "28",
@@ -3122,7 +3122,7 @@
     {
       "as_of_date": "2022-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "28",
@@ -3140,7 +3140,7 @@
     {
       "as_of_date": "2023-03-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "28",
@@ -3158,7 +3158,7 @@
     {
       "as_of_date": "2024-03-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "28",
@@ -3176,7 +3176,7 @@
     {
       "as_of_date": "2005-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "33",
@@ -3194,7 +3194,7 @@
     {
       "as_of_date": "2006-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "33",
@@ -3212,7 +3212,7 @@
     {
       "as_of_date": "2007-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "33",
@@ -3230,7 +3230,7 @@
     {
       "as_of_date": "2008-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "33",
@@ -3248,7 +3248,7 @@
     {
       "as_of_date": "2009-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "33",
@@ -3266,7 +3266,7 @@
     {
       "as_of_date": "2010-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "33",
@@ -3284,7 +3284,7 @@
     {
       "as_of_date": "2011-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "33",
@@ -3302,7 +3302,7 @@
     {
       "as_of_date": "2012-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "33",
@@ -3320,7 +3320,7 @@
     {
       "as_of_date": "2013-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "33",
@@ -3338,7 +3338,7 @@
     {
       "as_of_date": "2014-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "33",
@@ -3356,7 +3356,7 @@
     {
       "as_of_date": "2015-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "33",
@@ -3374,7 +3374,7 @@
     {
       "as_of_date": "2016-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "33",
@@ -3392,7 +3392,7 @@
     {
       "as_of_date": "2017-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "33",
@@ -3410,7 +3410,7 @@
     {
       "as_of_date": "2018-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "33",
@@ -3428,7 +3428,7 @@
     {
       "as_of_date": "2019-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "33",
@@ -3446,7 +3446,7 @@
     {
       "as_of_date": "2020-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "33",
@@ -3464,7 +3464,7 @@
     {
       "as_of_date": "2021-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "33",
@@ -3482,7 +3482,7 @@
     {
       "as_of_date": "2022-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "33",
@@ -3500,7 +3500,7 @@
     {
       "as_of_date": "2023-03-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "33",
@@ -3518,7 +3518,7 @@
     {
       "as_of_date": "2024-03-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "33",
@@ -3536,7 +3536,7 @@
     {
       "as_of_date": "2005-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "09",
@@ -3554,7 +3554,7 @@
     {
       "as_of_date": "2006-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "09",
@@ -3572,7 +3572,7 @@
     {
       "as_of_date": "2007-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "09",
@@ -3590,7 +3590,7 @@
     {
       "as_of_date": "2008-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "09",
@@ -3608,7 +3608,7 @@
     {
       "as_of_date": "2009-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "09",
@@ -3626,7 +3626,7 @@
     {
       "as_of_date": "2010-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "09",
@@ -3644,7 +3644,7 @@
     {
       "as_of_date": "2011-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "09",
@@ -3662,7 +3662,7 @@
     {
       "as_of_date": "2012-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "09",
@@ -3680,7 +3680,7 @@
     {
       "as_of_date": "2013-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "09",
@@ -3698,7 +3698,7 @@
     {
       "as_of_date": "2014-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "09",
@@ -3716,7 +3716,7 @@
     {
       "as_of_date": "2015-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "09",
@@ -3734,7 +3734,7 @@
     {
       "as_of_date": "2016-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "09",
@@ -3752,7 +3752,7 @@
     {
       "as_of_date": "2017-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "09",
@@ -3770,7 +3770,7 @@
     {
       "as_of_date": "2018-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "09",
@@ -3788,7 +3788,7 @@
     {
       "as_of_date": "2019-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "09",
@@ -3806,7 +3806,7 @@
     {
       "as_of_date": "2020-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "09",
@@ -3824,7 +3824,7 @@
     {
       "as_of_date": "2021-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "09",
@@ -3842,7 +3842,7 @@
     {
       "as_of_date": "2022-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "09",
@@ -3860,7 +3860,7 @@
     {
       "as_of_date": "2023-03-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "09",
@@ -3878,7 +3878,7 @@
     {
       "as_of_date": "2024-03-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "09",
@@ -3896,7 +3896,7 @@
     {
       "as_of_date": "2009-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "25a",
@@ -3914,7 +3914,7 @@
     {
       "as_of_date": "2010-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "25a",
@@ -3932,7 +3932,7 @@
     {
       "as_of_date": "2011-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "25a",
@@ -3950,7 +3950,7 @@
     {
       "as_of_date": "2012-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "25a",
@@ -3968,7 +3968,7 @@
     {
       "as_of_date": "2013-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "25a",
@@ -3986,7 +3986,7 @@
     {
       "as_of_date": "2014-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "25a",
@@ -4004,7 +4004,7 @@
     {
       "as_of_date": "2015-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "25a",
@@ -4022,7 +4022,7 @@
     {
       "as_of_date": "2016-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "25a",
@@ -4040,7 +4040,7 @@
     {
       "as_of_date": "2017-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "25a",
@@ -4058,7 +4058,7 @@
     {
       "as_of_date": "2018-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "25a",
@@ -4076,7 +4076,7 @@
     {
       "as_of_date": "2019-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "25a",
@@ -4094,7 +4094,7 @@
     {
       "as_of_date": "2020-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "25a",
@@ -4112,7 +4112,7 @@
     {
       "as_of_date": "2021-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "25a",
@@ -4130,7 +4130,7 @@
     {
       "as_of_date": "2022-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "25a",
@@ -4148,7 +4148,7 @@
     {
       "as_of_date": "2023-03-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "25a",
@@ -4166,7 +4166,7 @@
     {
       "as_of_date": "2024-03-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "25a",
@@ -4184,7 +4184,7 @@
     {
       "as_of_date": "2005-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "25",
@@ -4202,7 +4202,7 @@
     {
       "as_of_date": "2006-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "25",
@@ -4220,7 +4220,7 @@
     {
       "as_of_date": "2007-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "25",
@@ -4238,7 +4238,7 @@
     {
       "as_of_date": "2008-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "25",
@@ -4256,7 +4256,7 @@
     {
       "as_of_date": "2009-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "25",
@@ -4274,7 +4274,7 @@
     {
       "as_of_date": "2010-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "25",
@@ -4292,7 +4292,7 @@
     {
       "as_of_date": "2011-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "25",
@@ -4310,7 +4310,7 @@
     {
       "as_of_date": "2012-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "25",
@@ -4328,7 +4328,7 @@
     {
       "as_of_date": "2013-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "25",
@@ -4346,7 +4346,7 @@
     {
       "as_of_date": "2014-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "25",
@@ -4364,7 +4364,7 @@
     {
       "as_of_date": "2015-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "25",
@@ -4382,7 +4382,7 @@
     {
       "as_of_date": "2016-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "25",
@@ -4400,7 +4400,7 @@
     {
       "as_of_date": "2017-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "25",
@@ -4418,7 +4418,7 @@
     {
       "as_of_date": "2018-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "25",
@@ -4436,7 +4436,7 @@
     {
       "as_of_date": "2019-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "25",
@@ -4454,7 +4454,7 @@
     {
       "as_of_date": "2020-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "25",
@@ -4472,7 +4472,7 @@
     {
       "as_of_date": "2021-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "25",
@@ -4490,7 +4490,7 @@
     {
       "as_of_date": "2022-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "25",
@@ -4508,7 +4508,7 @@
     {
       "as_of_date": "2023-03-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "25",
@@ -4526,7 +4526,7 @@
     {
       "as_of_date": "2024-03-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "25",
@@ -4544,7 +4544,7 @@
     {
       "as_of_date": "2005-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "C",
@@ -4562,7 +4562,7 @@
     {
       "as_of_date": "2006-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "C",
@@ -4580,7 +4580,7 @@
     {
       "as_of_date": "2007-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "C",
@@ -4598,7 +4598,7 @@
     {
       "as_of_date": "2008-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "C",
@@ -4616,7 +4616,7 @@
     {
       "as_of_date": "2009-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "C",
@@ -4634,7 +4634,7 @@
     {
       "as_of_date": "2010-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "C",
@@ -4652,7 +4652,7 @@
     {
       "as_of_date": "2011-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "C",
@@ -4670,7 +4670,7 @@
     {
       "as_of_date": "2012-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "C",
@@ -4688,7 +4688,7 @@
     {
       "as_of_date": "2013-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "C",
@@ -4706,7 +4706,7 @@
     {
       "as_of_date": "2014-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "C",
@@ -4724,7 +4724,7 @@
     {
       "as_of_date": "2015-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "C",
@@ -4742,7 +4742,7 @@
     {
       "as_of_date": "2016-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "C",
@@ -4760,7 +4760,7 @@
     {
       "as_of_date": "2017-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "C",
@@ -4778,7 +4778,7 @@
     {
       "as_of_date": "2018-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "C",
@@ -4796,7 +4796,7 @@
     {
       "as_of_date": "2019-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "C",
@@ -4814,7 +4814,7 @@
     {
       "as_of_date": "2020-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "C",
@@ -4832,7 +4832,7 @@
     {
       "as_of_date": "2021-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "C",
@@ -4850,7 +4850,7 @@
     {
       "as_of_date": "2022-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "C",
@@ -4868,7 +4868,7 @@
     {
       "as_of_date": "2023-03-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "C",
@@ -4886,7 +4886,7 @@
     {
       "as_of_date": "2024-03-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "C",
@@ -4904,7 +4904,7 @@
     {
       "as_of_date": "2005-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "24",
@@ -4922,7 +4922,7 @@
     {
       "as_of_date": "2006-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "24",
@@ -4940,7 +4940,7 @@
     {
       "as_of_date": "2007-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "24",
@@ -4958,7 +4958,7 @@
     {
       "as_of_date": "2008-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "24",
@@ -4976,7 +4976,7 @@
     {
       "as_of_date": "2009-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "24",
@@ -4994,7 +4994,7 @@
     {
       "as_of_date": "2010-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "24",
@@ -5012,7 +5012,7 @@
     {
       "as_of_date": "2011-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "24",
@@ -5030,7 +5030,7 @@
     {
       "as_of_date": "2012-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "24",
@@ -5048,7 +5048,7 @@
     {
       "as_of_date": "2013-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "24",
@@ -5066,7 +5066,7 @@
     {
       "as_of_date": "2014-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "24",
@@ -5084,7 +5084,7 @@
     {
       "as_of_date": "2015-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "24",
@@ -5102,7 +5102,7 @@
     {
       "as_of_date": "2016-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "24",
@@ -5120,7 +5120,7 @@
     {
       "as_of_date": "2017-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "24",
@@ -5138,7 +5138,7 @@
     {
       "as_of_date": "2018-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "24",
@@ -5156,7 +5156,7 @@
     {
       "as_of_date": "2019-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "24",
@@ -5174,7 +5174,7 @@
     {
       "as_of_date": "2020-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "24",
@@ -5192,7 +5192,7 @@
     {
       "as_of_date": "2021-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "24",
@@ -5210,7 +5210,7 @@
     {
       "as_of_date": "2022-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "24",
@@ -5228,7 +5228,7 @@
     {
       "as_of_date": "2023-03-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "24",
@@ -5246,7 +5246,7 @@
     {
       "as_of_date": "2024-03-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "24",
@@ -5264,7 +5264,7 @@
     {
       "as_of_date": "2005-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "23",
@@ -5282,7 +5282,7 @@
     {
       "as_of_date": "2006-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "23",
@@ -5300,7 +5300,7 @@
     {
       "as_of_date": "2007-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "23",
@@ -5318,7 +5318,7 @@
     {
       "as_of_date": "2008-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "23",
@@ -5336,7 +5336,7 @@
     {
       "as_of_date": "2009-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "23",
@@ -5354,7 +5354,7 @@
     {
       "as_of_date": "2010-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "23",
@@ -5372,7 +5372,7 @@
     {
       "as_of_date": "2011-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "23",
@@ -5390,7 +5390,7 @@
     {
       "as_of_date": "2012-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "23",
@@ -5408,7 +5408,7 @@
     {
       "as_of_date": "2013-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "23",
@@ -5426,7 +5426,7 @@
     {
       "as_of_date": "2014-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "23",
@@ -5444,7 +5444,7 @@
     {
       "as_of_date": "2015-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "23",
@@ -5462,7 +5462,7 @@
     {
       "as_of_date": "2016-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "23",
@@ -5480,7 +5480,7 @@
     {
       "as_of_date": "2017-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "23",
@@ -5498,7 +5498,7 @@
     {
       "as_of_date": "2018-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "23",
@@ -5516,7 +5516,7 @@
     {
       "as_of_date": "2019-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "23",
@@ -5534,7 +5534,7 @@
     {
       "as_of_date": "2020-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "23",
@@ -5552,7 +5552,7 @@
     {
       "as_of_date": "2021-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "23",
@@ -5570,7 +5570,7 @@
     {
       "as_of_date": "2022-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "23",
@@ -5588,7 +5588,7 @@
     {
       "as_of_date": "2023-03-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "23",
@@ -5606,7 +5606,7 @@
     {
       "as_of_date": "2024-03-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "23",
@@ -5624,7 +5624,7 @@
     {
       "as_of_date": "2005-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "17",
@@ -5642,7 +5642,7 @@
     {
       "as_of_date": "2006-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "17",
@@ -5660,7 +5660,7 @@
     {
       "as_of_date": "2007-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "17",
@@ -5678,7 +5678,7 @@
     {
       "as_of_date": "2008-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "17",
@@ -5696,7 +5696,7 @@
     {
       "as_of_date": "2009-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "17",
@@ -5714,7 +5714,7 @@
     {
       "as_of_date": "2010-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "17",
@@ -5732,7 +5732,7 @@
     {
       "as_of_date": "2011-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "17",
@@ -5750,7 +5750,7 @@
     {
       "as_of_date": "2012-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "17",
@@ -5768,7 +5768,7 @@
     {
       "as_of_date": "2013-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "17",
@@ -5786,7 +5786,7 @@
     {
       "as_of_date": "2014-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "17",
@@ -5804,7 +5804,7 @@
     {
       "as_of_date": "2015-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "17",
@@ -5822,7 +5822,7 @@
     {
       "as_of_date": "2016-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "17",
@@ -5840,7 +5840,7 @@
     {
       "as_of_date": "2017-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "17",
@@ -5858,7 +5858,7 @@
     {
       "as_of_date": "2018-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "17",
@@ -5876,7 +5876,7 @@
     {
       "as_of_date": "2019-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "17",
@@ -5894,7 +5894,7 @@
     {
       "as_of_date": "2020-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "17",
@@ -5912,7 +5912,7 @@
     {
       "as_of_date": "2021-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "17",
@@ -5930,7 +5930,7 @@
     {
       "as_of_date": "2022-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "17",
@@ -5948,7 +5948,7 @@
     {
       "as_of_date": "2023-03-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "17",
@@ -5966,7 +5966,7 @@
     {
       "as_of_date": "2024-03-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "17",
@@ -5984,7 +5984,7 @@
     {
       "as_of_date": "2005-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "14",
@@ -6002,7 +6002,7 @@
     {
       "as_of_date": "2006-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "14",
@@ -6020,7 +6020,7 @@
     {
       "as_of_date": "2007-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "14",
@@ -6038,7 +6038,7 @@
     {
       "as_of_date": "2008-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "14",
@@ -6056,7 +6056,7 @@
     {
       "as_of_date": "2009-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "14",
@@ -6074,7 +6074,7 @@
     {
       "as_of_date": "2010-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "14",
@@ -6092,7 +6092,7 @@
     {
       "as_of_date": "2011-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "14",
@@ -6110,7 +6110,7 @@
     {
       "as_of_date": "2012-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "14",
@@ -6128,7 +6128,7 @@
     {
       "as_of_date": "2013-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "14",
@@ -6146,7 +6146,7 @@
     {
       "as_of_date": "2014-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "14",
@@ -6164,7 +6164,7 @@
     {
       "as_of_date": "2015-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "14",
@@ -6182,7 +6182,7 @@
     {
       "as_of_date": "2016-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "14",
@@ -6200,7 +6200,7 @@
     {
       "as_of_date": "2017-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "14",
@@ -6218,7 +6218,7 @@
     {
       "as_of_date": "2018-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "14",
@@ -6236,7 +6236,7 @@
     {
       "as_of_date": "2019-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "14",
@@ -6254,7 +6254,7 @@
     {
       "as_of_date": "2020-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "14",
@@ -6272,7 +6272,7 @@
     {
       "as_of_date": "2021-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "14",
@@ -6290,7 +6290,7 @@
     {
       "as_of_date": "2022-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "14",
@@ -6308,7 +6308,7 @@
     {
       "as_of_date": "2023-03-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "14",
@@ -6326,7 +6326,7 @@
     {
       "as_of_date": "2024-03-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "14",
@@ -6344,7 +6344,7 @@
     {
       "as_of_date": "2005-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "22",
@@ -6362,7 +6362,7 @@
     {
       "as_of_date": "2006-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "22",
@@ -6380,7 +6380,7 @@
     {
       "as_of_date": "2007-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "22",
@@ -6398,7 +6398,7 @@
     {
       "as_of_date": "2008-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "22",
@@ -6416,7 +6416,7 @@
     {
       "as_of_date": "2009-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "22",
@@ -6434,7 +6434,7 @@
     {
       "as_of_date": "2010-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "22",
@@ -6452,7 +6452,7 @@
     {
       "as_of_date": "2011-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "22",
@@ -6470,7 +6470,7 @@
     {
       "as_of_date": "2012-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "22",
@@ -6488,7 +6488,7 @@
     {
       "as_of_date": "2013-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "22",
@@ -6506,7 +6506,7 @@
     {
       "as_of_date": "2014-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "22",
@@ -6524,7 +6524,7 @@
     {
       "as_of_date": "2015-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "22",
@@ -6542,7 +6542,7 @@
     {
       "as_of_date": "2016-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "22",
@@ -6560,7 +6560,7 @@
     {
       "as_of_date": "2017-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "22",
@@ -6578,7 +6578,7 @@
     {
       "as_of_date": "2018-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "22",
@@ -6596,7 +6596,7 @@
     {
       "as_of_date": "2019-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "22",
@@ -6614,7 +6614,7 @@
     {
       "as_of_date": "2020-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "22",
@@ -6632,7 +6632,7 @@
     {
       "as_of_date": "2021-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "22",
@@ -6650,7 +6650,7 @@
     {
       "as_of_date": "2022-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "22",
@@ -6668,7 +6668,7 @@
     {
       "as_of_date": "2023-03-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "22",
@@ -6686,7 +6686,7 @@
     {
       "as_of_date": "2024-03-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.corp.op_margin_pct",
       "industry_id": "22",

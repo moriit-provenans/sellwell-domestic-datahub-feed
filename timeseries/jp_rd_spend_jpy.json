@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "metric_id": "jp.rd.spend_jpy",
   "title_ja": "社内使用研究費",
-  "last_updated": "2026-07-20",
+  "last_updated": "2026-07-21",
   "source": "e-Stat 科学技術研究調査",
   "observations": [
     {
       "as_of_date": "2021-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.rd.spend_jpy",
       "industry_slug": "ai",
@@ -24,7 +24,7 @@
     {
       "as_of_date": "2022-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.rd.spend_jpy",
       "industry_slug": "ai",
@@ -40,7 +40,7 @@
     {
       "as_of_date": "2023-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.rd.spend_jpy",
       "industry_slug": "ai",
@@ -56,7 +56,7 @@
     {
       "as_of_date": "2024-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.rd.spend_jpy",
       "industry_slug": "ai",
@@ -72,7 +72,7 @@
     {
       "as_of_date": "2025-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.rd.spend_jpy",
       "industry_slug": "ai",
@@ -88,7 +88,7 @@
     {
       "as_of_date": "2021-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.rd.spend_jpy",
       "industry_slug": "automotive-mobility",
@@ -104,7 +104,7 @@
     {
       "as_of_date": "2022-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.rd.spend_jpy",
       "industry_slug": "automotive-mobility",
@@ -120,7 +120,7 @@
     {
       "as_of_date": "2023-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.rd.spend_jpy",
       "industry_slug": "automotive-mobility",
@@ -136,7 +136,7 @@
     {
       "as_of_date": "2024-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.rd.spend_jpy",
       "industry_slug": "automotive-mobility",
@@ -152,7 +152,7 @@
     {
       "as_of_date": "2025-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.rd.spend_jpy",
       "industry_slug": "automotive-mobility",
@@ -168,7 +168,7 @@
     {
       "as_of_date": "2021-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.rd.spend_jpy",
       "industry_slug": "business-machinery",
@@ -184,7 +184,7 @@
     {
       "as_of_date": "2022-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.rd.spend_jpy",
       "industry_slug": "business-machinery",
@@ -200,7 +200,7 @@
     {
       "as_of_date": "2023-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.rd.spend_jpy",
       "industry_slug": "business-machinery",
@@ -216,7 +216,7 @@
     {
       "as_of_date": "2024-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.rd.spend_jpy",
       "industry_slug": "business-machinery",
@@ -232,7 +232,7 @@
     {
       "as_of_date": "2025-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.rd.spend_jpy",
       "industry_slug": "business-machinery",
@@ -248,7 +248,7 @@
     {
       "as_of_date": "2021-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.rd.spend_jpy",
       "industry_slug": "ceramics",
@@ -264,7 +264,7 @@
     {
       "as_of_date": "2022-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.rd.spend_jpy",
       "industry_slug": "ceramics",
@@ -280,7 +280,7 @@
     {
       "as_of_date": "2023-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.rd.spend_jpy",
       "industry_slug": "ceramics",
@@ -296,7 +296,7 @@
     {
       "as_of_date": "2024-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.rd.spend_jpy",
       "industry_slug": "ceramics",
@@ -312,7 +312,7 @@
     {
       "as_of_date": "2025-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.rd.spend_jpy",
       "industry_slug": "ceramics",
@@ -328,7 +328,7 @@
     {
       "as_of_date": "2021-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.rd.spend_jpy",
       "industry_slug": "chemicals",
@@ -344,7 +344,7 @@
     {
       "as_of_date": "2022-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.rd.spend_jpy",
       "industry_slug": "chemicals",
@@ -360,7 +360,7 @@
     {
       "as_of_date": "2023-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.rd.spend_jpy",
       "industry_slug": "chemicals",
@@ -376,7 +376,7 @@
     {
       "as_of_date": "2024-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.rd.spend_jpy",
       "industry_slug": "chemicals",
@@ -392,7 +392,7 @@
     {
       "as_of_date": "2025-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.rd.spend_jpy",
       "industry_slug": "chemicals",
@@ -408,7 +408,7 @@
     {
       "as_of_date": "2021-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.rd.spend_jpy",
       "industry_slug": "consumer-goods",
@@ -424,7 +424,7 @@
     {
       "as_of_date": "2022-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.rd.spend_jpy",
       "industry_slug": "consumer-goods",
@@ -440,7 +440,7 @@
     {
       "as_of_date": "2023-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.rd.spend_jpy",
       "industry_slug": "consumer-goods",
@@ -456,7 +456,7 @@
     {
       "as_of_date": "2024-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.rd.spend_jpy",
       "industry_slug": "consumer-goods",
@@ -472,7 +472,7 @@
     {
       "as_of_date": "2025-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.rd.spend_jpy",
       "industry_slug": "consumer-goods",
@@ -488,7 +488,7 @@
     {
       "as_of_date": "2021-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.rd.spend_jpy",
       "industry_slug": "electrical-equipment",
@@ -504,7 +504,7 @@
     {
       "as_of_date": "2022-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.rd.spend_jpy",
       "industry_slug": "electrical-equipment",
@@ -520,7 +520,7 @@
     {
       "as_of_date": "2023-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.rd.spend_jpy",
       "industry_slug": "electrical-equipment",
@@ -536,7 +536,7 @@
     {
       "as_of_date": "2024-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.rd.spend_jpy",
       "industry_slug": "electrical-equipment",
@@ -552,7 +552,7 @@
     {
       "as_of_date": "2025-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.rd.spend_jpy",
       "industry_slug": "electrical-equipment",
@@ -568,7 +568,7 @@
     {
       "as_of_date": "2021-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.rd.spend_jpy",
       "industry_slug": "electronic-components",
@@ -584,7 +584,7 @@
     {
       "as_of_date": "2022-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.rd.spend_jpy",
       "industry_slug": "electronic-components",
@@ -600,7 +600,7 @@
     {
       "as_of_date": "2023-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.rd.spend_jpy",
       "industry_slug": "electronic-components",
@@ -616,7 +616,7 @@
     {
       "as_of_date": "2024-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.rd.spend_jpy",
       "industry_slug": "electronic-components",
@@ -632,7 +632,7 @@
     {
       "as_of_date": "2025-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.rd.spend_jpy",
       "industry_slug": "electronic-components",
@@ -648,7 +648,7 @@
     {
       "as_of_date": "2021-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.rd.spend_jpy",
       "industry_slug": "energy-gx",
@@ -664,7 +664,7 @@
     {
       "as_of_date": "2022-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.rd.spend_jpy",
       "industry_slug": "energy-gx",
@@ -680,7 +680,7 @@
     {
       "as_of_date": "2023-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.rd.spend_jpy",
       "industry_slug": "energy-gx",
@@ -696,7 +696,7 @@
     {
       "as_of_date": "2024-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.rd.spend_jpy",
       "industry_slug": "energy-gx",
@@ -712,7 +712,7 @@
     {
       "as_of_date": "2025-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.rd.spend_jpy",
       "industry_slug": "energy-gx",
@@ -728,7 +728,7 @@
     {
       "as_of_date": "2021-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.rd.spend_jpy",
       "industry_slug": "food-beverage",
@@ -744,7 +744,7 @@
     {
       "as_of_date": "2022-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.rd.spend_jpy",
       "industry_slug": "food-beverage",
@@ -760,7 +760,7 @@
     {
       "as_of_date": "2023-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.rd.spend_jpy",
       "industry_slug": "food-beverage",
@@ -776,7 +776,7 @@
     {
       "as_of_date": "2024-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.rd.spend_jpy",
       "industry_slug": "food-beverage",
@@ -792,7 +792,7 @@
     {
       "as_of_date": "2025-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.rd.spend_jpy",
       "industry_slug": "food-beverage",
@@ -808,7 +808,7 @@
     {
       "as_of_date": "2021-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.rd.spend_jpy",
       "industry_slug": "foodtech",
@@ -824,7 +824,7 @@
     {
       "as_of_date": "2022-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.rd.spend_jpy",
       "industry_slug": "foodtech",
@@ -840,7 +840,7 @@
     {
       "as_of_date": "2023-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.rd.spend_jpy",
       "industry_slug": "foodtech",
@@ -856,7 +856,7 @@
     {
       "as_of_date": "2024-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.rd.spend_jpy",
       "industry_slug": "foodtech",
@@ -872,7 +872,7 @@
     {
       "as_of_date": "2025-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.rd.spend_jpy",
       "industry_slug": "foodtech",
@@ -888,7 +888,7 @@
     {
       "as_of_date": "2021-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.rd.spend_jpy",
       "industry_slug": "general-machinery",
@@ -904,7 +904,7 @@
     {
       "as_of_date": "2022-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.rd.spend_jpy",
       "industry_slug": "general-machinery",
@@ -920,7 +920,7 @@
     {
       "as_of_date": "2023-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.rd.spend_jpy",
       "industry_slug": "general-machinery",
@@ -936,7 +936,7 @@
     {
       "as_of_date": "2024-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.rd.spend_jpy",
       "industry_slug": "general-machinery",
@@ -952,7 +952,7 @@
     {
       "as_of_date": "2025-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.rd.spend_jpy",
       "industry_slug": "general-machinery",
@@ -968,7 +968,7 @@
     {
       "as_of_date": "2021-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.rd.spend_jpy",
       "industry_slug": "industrial-machinery",
@@ -984,7 +984,7 @@
     {
       "as_of_date": "2022-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.rd.spend_jpy",
       "industry_slug": "industrial-machinery",
@@ -1000,7 +1000,7 @@
     {
       "as_of_date": "2023-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.rd.spend_jpy",
       "industry_slug": "industrial-machinery",
@@ -1016,7 +1016,7 @@
     {
       "as_of_date": "2024-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.rd.spend_jpy",
       "industry_slug": "industrial-machinery",
@@ -1032,7 +1032,7 @@
     {
       "as_of_date": "2025-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.rd.spend_jpy",
       "industry_slug": "industrial-machinery",
@@ -1048,7 +1048,7 @@
     {
       "as_of_date": "2021-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.rd.spend_jpy",
       "industry_slug": "manufacturing-total",
@@ -1064,7 +1064,7 @@
     {
       "as_of_date": "2022-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.rd.spend_jpy",
       "industry_slug": "manufacturing-total",
@@ -1080,7 +1080,7 @@
     {
       "as_of_date": "2023-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.rd.spend_jpy",
       "industry_slug": "manufacturing-total",
@@ -1096,7 +1096,7 @@
     {
       "as_of_date": "2024-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.rd.spend_jpy",
       "industry_slug": "manufacturing-total",
@@ -1112,7 +1112,7 @@
     {
       "as_of_date": "2025-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.rd.spend_jpy",
       "industry_slug": "manufacturing-total",
@@ -1128,7 +1128,7 @@
     {
       "as_of_date": "2021-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.rd.spend_jpy",
       "industry_slug": "metal-products",
@@ -1144,7 +1144,7 @@
     {
       "as_of_date": "2022-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.rd.spend_jpy",
       "industry_slug": "metal-products",
@@ -1160,7 +1160,7 @@
     {
       "as_of_date": "2023-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.rd.spend_jpy",
       "industry_slug": "metal-products",
@@ -1176,7 +1176,7 @@
     {
       "as_of_date": "2024-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.rd.spend_jpy",
       "industry_slug": "metal-products",
@@ -1192,7 +1192,7 @@
     {
       "as_of_date": "2025-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.rd.spend_jpy",
       "industry_slug": "metal-products",
@@ -1208,7 +1208,7 @@
     {
       "as_of_date": "2021-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.rd.spend_jpy",
       "industry_slug": "nonferrous-metals",
@@ -1224,7 +1224,7 @@
     {
       "as_of_date": "2022-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.rd.spend_jpy",
       "industry_slug": "nonferrous-metals",
@@ -1240,7 +1240,7 @@
     {
       "as_of_date": "2023-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.rd.spend_jpy",
       "industry_slug": "nonferrous-metals",
@@ -1256,7 +1256,7 @@
     {
       "as_of_date": "2024-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.rd.spend_jpy",
       "industry_slug": "nonferrous-metals",
@@ -1272,7 +1272,7 @@
     {
       "as_of_date": "2025-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.rd.spend_jpy",
       "industry_slug": "nonferrous-metals",
@@ -1288,7 +1288,7 @@
     {
       "as_of_date": "2021-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.rd.spend_jpy",
       "industry_slug": "petroleum",
@@ -1304,7 +1304,7 @@
     {
       "as_of_date": "2022-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.rd.spend_jpy",
       "industry_slug": "petroleum",
@@ -1320,7 +1320,7 @@
     {
       "as_of_date": "2023-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.rd.spend_jpy",
       "industry_slug": "petroleum",
@@ -1336,7 +1336,7 @@
     {
       "as_of_date": "2024-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.rd.spend_jpy",
       "industry_slug": "petroleum",
@@ -1352,7 +1352,7 @@
     {
       "as_of_date": "2025-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.rd.spend_jpy",
       "industry_slug": "petroleum",
@@ -1368,7 +1368,7 @@
     {
       "as_of_date": "2021-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.rd.spend_jpy",
       "industry_slug": "pulp-paper",
@@ -1384,7 +1384,7 @@
     {
       "as_of_date": "2022-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.rd.spend_jpy",
       "industry_slug": "pulp-paper",
@@ -1400,7 +1400,7 @@
     {
       "as_of_date": "2023-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.rd.spend_jpy",
       "industry_slug": "pulp-paper",
@@ -1416,7 +1416,7 @@
     {
       "as_of_date": "2024-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.rd.spend_jpy",
       "industry_slug": "pulp-paper",
@@ -1432,7 +1432,7 @@
     {
       "as_of_date": "2025-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.rd.spend_jpy",
       "industry_slug": "pulp-paper",
@@ -1448,7 +1448,7 @@
     {
       "as_of_date": "2021-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.rd.spend_jpy",
       "industry_slug": "steel",
@@ -1464,7 +1464,7 @@
     {
       "as_of_date": "2022-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.rd.spend_jpy",
       "industry_slug": "steel",
@@ -1480,7 +1480,7 @@
     {
       "as_of_date": "2023-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.rd.spend_jpy",
       "industry_slug": "steel",
@@ -1496,7 +1496,7 @@
     {
       "as_of_date": "2024-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.rd.spend_jpy",
       "industry_slug": "steel",
@@ -1512,7 +1512,7 @@
     {
       "as_of_date": "2025-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-20",
+      "retrieved_at": "2026-07-21",
       "veritas": "✅",
       "metric_id": "jp.rd.spend_jpy",
       "industry_slug": "steel",
