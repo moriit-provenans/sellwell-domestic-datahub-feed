@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "metric_id": "jp.demand.demo_adjusted_hh_jpy",
   "title_ja": "人口調整後家計需要",
-  "last_updated": "2026-07-21",
+  "last_updated": "2026-07-22",
   "source": "derived B1×B4",
   "observations": [
     {
       "as_of_date": "2020-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.demand.demo_adjusted_hh_jpy",
       "industry_slug": "automotive-mobility",
@@ -27,7 +27,7 @@
     {
       "as_of_date": "2021-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.demand.demo_adjusted_hh_jpy",
       "industry_slug": "automotive-mobility",
@@ -46,7 +46,7 @@
     {
       "as_of_date": "2022-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.demand.demo_adjusted_hh_jpy",
       "industry_slug": "automotive-mobility",
@@ -65,7 +65,7 @@
     {
       "as_of_date": "2023-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.demand.demo_adjusted_hh_jpy",
       "industry_slug": "automotive-mobility",
@@ -84,7 +84,7 @@
     {
       "as_of_date": "2024-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.demand.demo_adjusted_hh_jpy",
       "industry_slug": "automotive-mobility",
@@ -103,7 +103,7 @@
     {
       "as_of_date": "2020-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.demand.demo_adjusted_hh_jpy",
       "industry_slug": "consumer-goods",
@@ -122,7 +122,7 @@
     {
       "as_of_date": "2021-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.demand.demo_adjusted_hh_jpy",
       "industry_slug": "consumer-goods",
@@ -141,7 +141,7 @@
     {
       "as_of_date": "2022-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.demand.demo_adjusted_hh_jpy",
       "industry_slug": "consumer-goods",
@@ -160,7 +160,7 @@
     {
       "as_of_date": "2023-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.demand.demo_adjusted_hh_jpy",
       "industry_slug": "consumer-goods",
@@ -179,7 +179,7 @@
     {
       "as_of_date": "2024-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.demand.demo_adjusted_hh_jpy",
       "industry_slug": "consumer-goods",
@@ -198,7 +198,7 @@
     {
       "as_of_date": "2020-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.demand.demo_adjusted_hh_jpy",
       "industry_slug": "national",
@@ -217,7 +217,7 @@
     {
       "as_of_date": "2021-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.demand.demo_adjusted_hh_jpy",
       "industry_slug": "national",
@@ -236,7 +236,7 @@
     {
       "as_of_date": "2022-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.demand.demo_adjusted_hh_jpy",
       "industry_slug": "national",
@@ -255,7 +255,7 @@
     {
       "as_of_date": "2023-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.demand.demo_adjusted_hh_jpy",
       "industry_slug": "national",
@@ -274,7 +274,7 @@
     {
       "as_of_date": "2024-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.demand.demo_adjusted_hh_jpy",
       "industry_slug": "national",
@@ -293,7 +293,7 @@
     {
       "as_of_date": "2020-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.demand.demo_adjusted_hh_jpy",
       "industry_slug": "food-beverage",
@@ -312,7 +312,7 @@
     {
       "as_of_date": "2021-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.demand.demo_adjusted_hh_jpy",
       "industry_slug": "food-beverage",
@@ -331,7 +331,7 @@
     {
       "as_of_date": "2022-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.demand.demo_adjusted_hh_jpy",
       "industry_slug": "food-beverage",
@@ -350,7 +350,7 @@
     {
       "as_of_date": "2023-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.demand.demo_adjusted_hh_jpy",
       "industry_slug": "food-beverage",
@@ -369,7 +369,7 @@
     {
       "as_of_date": "2024-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.demand.demo_adjusted_hh_jpy",
       "industry_slug": "food-beverage",
@@ -388,7 +388,7 @@
     {
       "as_of_date": "2020-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.demand.demo_adjusted_hh_jpy",
       "industry_slug": "foodtech",
@@ -407,7 +407,7 @@
     {
       "as_of_date": "2021-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.demand.demo_adjusted_hh_jpy",
       "industry_slug": "foodtech",
@@ -426,7 +426,7 @@
     {
       "as_of_date": "2022-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.demand.demo_adjusted_hh_jpy",
       "industry_slug": "foodtech",
@@ -445,7 +445,7 @@
     {
       "as_of_date": "2023-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.demand.demo_adjusted_hh_jpy",
       "industry_slug": "foodtech",
@@ -464,7 +464,7 @@
     {
       "as_of_date": "2024-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.demand.demo_adjusted_hh_jpy",
       "industry_slug": "foodtech",
@@ -483,7 +483,7 @@
     {
       "as_of_date": "2020-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.demand.demo_adjusted_hh_jpy",
       "industry_slug": "food-beverage",
@@ -502,7 +502,7 @@
     {
       "as_of_date": "2021-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.demand.demo_adjusted_hh_jpy",
       "industry_slug": "food-beverage",
@@ -521,7 +521,7 @@
     {
       "as_of_date": "2022-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.demand.demo_adjusted_hh_jpy",
       "industry_slug": "food-beverage",
@@ -540,7 +540,7 @@
     {
       "as_of_date": "2023-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.demand.demo_adjusted_hh_jpy",
       "industry_slug": "food-beverage",
@@ -559,7 +559,7 @@
     {
       "as_of_date": "2024-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.demand.demo_adjusted_hh_jpy",
       "industry_slug": "food-beverage",
@@ -578,7 +578,7 @@
     {
       "as_of_date": "2020-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.demand.demo_adjusted_hh_jpy",
       "industry_slug": "food-beverage",
@@ -597,7 +597,7 @@
     {
       "as_of_date": "2021-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.demand.demo_adjusted_hh_jpy",
       "industry_slug": "food-beverage",
@@ -616,7 +616,7 @@
     {
       "as_of_date": "2022-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.demand.demo_adjusted_hh_jpy",
       "industry_slug": "food-beverage",
@@ -635,7 +635,7 @@
     {
       "as_of_date": "2023-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.demand.demo_adjusted_hh_jpy",
       "industry_slug": "food-beverage",
@@ -654,7 +654,7 @@
     {
       "as_of_date": "2024-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.demand.demo_adjusted_hh_jpy",
       "industry_slug": "food-beverage",
@@ -673,7 +673,7 @@
     {
       "as_of_date": "2020-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.demand.demo_adjusted_hh_jpy",
       "industry_slug": "food-beverage",
@@ -692,7 +692,7 @@
     {
       "as_of_date": "2021-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.demand.demo_adjusted_hh_jpy",
       "industry_slug": "food-beverage",
@@ -711,7 +711,7 @@
     {
       "as_of_date": "2022-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.demand.demo_adjusted_hh_jpy",
       "industry_slug": "food-beverage",
@@ -730,7 +730,7 @@
     {
       "as_of_date": "2023-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.demand.demo_adjusted_hh_jpy",
       "industry_slug": "food-beverage",
@@ -749,7 +749,7 @@
     {
       "as_of_date": "2024-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.demand.demo_adjusted_hh_jpy",
       "industry_slug": "food-beverage",
@@ -768,7 +768,7 @@
     {
       "as_of_date": "2020-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.demand.demo_adjusted_hh_jpy",
       "industry_slug": "foodtech",
@@ -787,7 +787,7 @@
     {
       "as_of_date": "2021-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.demand.demo_adjusted_hh_jpy",
       "industry_slug": "foodtech",
@@ -806,7 +806,7 @@
     {
       "as_of_date": "2022-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.demand.demo_adjusted_hh_jpy",
       "industry_slug": "foodtech",
@@ -825,7 +825,7 @@
     {
       "as_of_date": "2023-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.demand.demo_adjusted_hh_jpy",
       "industry_slug": "foodtech",
@@ -844,7 +844,7 @@
     {
       "as_of_date": "2024-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.demand.demo_adjusted_hh_jpy",
       "industry_slug": "foodtech",
@@ -863,7 +863,7 @@
     {
       "as_of_date": "2020-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.demand.demo_adjusted_hh_jpy",
       "industry_slug": "electrical-equipment",
@@ -882,7 +882,7 @@
     {
       "as_of_date": "2021-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.demand.demo_adjusted_hh_jpy",
       "industry_slug": "electrical-equipment",
@@ -901,7 +901,7 @@
     {
       "as_of_date": "2022-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.demand.demo_adjusted_hh_jpy",
       "industry_slug": "electrical-equipment",
@@ -920,7 +920,7 @@
     {
       "as_of_date": "2023-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.demand.demo_adjusted_hh_jpy",
       "industry_slug": "electrical-equipment",
@@ -939,7 +939,7 @@
     {
       "as_of_date": "2024-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.demand.demo_adjusted_hh_jpy",
       "industry_slug": "electrical-equipment",
@@ -958,7 +958,7 @@
     {
       "as_of_date": "2020-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.demand.demo_adjusted_hh_jpy",
       "industry_slug": "consumer-goods",
@@ -977,7 +977,7 @@
     {
       "as_of_date": "2021-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.demand.demo_adjusted_hh_jpy",
       "industry_slug": "consumer-goods",
@@ -996,7 +996,7 @@
     {
       "as_of_date": "2022-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.demand.demo_adjusted_hh_jpy",
       "industry_slug": "consumer-goods",
@@ -1015,7 +1015,7 @@
     {
       "as_of_date": "2023-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.demand.demo_adjusted_hh_jpy",
       "industry_slug": "consumer-goods",
@@ -1034,7 +1034,7 @@
     {
       "as_of_date": "2024-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.demand.demo_adjusted_hh_jpy",
       "industry_slug": "consumer-goods",
@@ -1053,7 +1053,7 @@
     {
       "as_of_date": "2020-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.demand.demo_adjusted_hh_jpy",
       "industry_slug": "national",
@@ -1072,7 +1072,7 @@
     {
       "as_of_date": "2021-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.demand.demo_adjusted_hh_jpy",
       "industry_slug": "national",
@@ -1091,7 +1091,7 @@
     {
       "as_of_date": "2022-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.demand.demo_adjusted_hh_jpy",
       "industry_slug": "national",
@@ -1110,7 +1110,7 @@
     {
       "as_of_date": "2023-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.demand.demo_adjusted_hh_jpy",
       "industry_slug": "national",
@@ -1129,7 +1129,7 @@
     {
       "as_of_date": "2024-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.demand.demo_adjusted_hh_jpy",
       "industry_slug": "national",
@@ -1148,7 +1148,7 @@
     {
       "as_of_date": "2020-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.demand.demo_adjusted_hh_jpy",
       "industry_slug": "national",
@@ -1167,7 +1167,7 @@
     {
       "as_of_date": "2021-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.demand.demo_adjusted_hh_jpy",
       "industry_slug": "national",
@@ -1186,7 +1186,7 @@
     {
       "as_of_date": "2022-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.demand.demo_adjusted_hh_jpy",
       "industry_slug": "national",
@@ -1205,7 +1205,7 @@
     {
       "as_of_date": "2023-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.demand.demo_adjusted_hh_jpy",
       "industry_slug": "national",
@@ -1224,7 +1224,7 @@
     {
       "as_of_date": "2024-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.demand.demo_adjusted_hh_jpy",
       "industry_slug": "national",
@@ -1243,7 +1243,7 @@
     {
       "as_of_date": "2020-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.demand.demo_adjusted_hh_jpy",
       "industry_slug": "consumer-goods",
@@ -1262,7 +1262,7 @@
     {
       "as_of_date": "2021-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.demand.demo_adjusted_hh_jpy",
       "industry_slug": "consumer-goods",
@@ -1281,7 +1281,7 @@
     {
       "as_of_date": "2022-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.demand.demo_adjusted_hh_jpy",
       "industry_slug": "consumer-goods",
@@ -1300,7 +1300,7 @@
     {
       "as_of_date": "2023-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.demand.demo_adjusted_hh_jpy",
       "industry_slug": "consumer-goods",
@@ -1319,7 +1319,7 @@
     {
       "as_of_date": "2024-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.demand.demo_adjusted_hh_jpy",
       "industry_slug": "consumer-goods",
@@ -1338,7 +1338,7 @@
     {
       "as_of_date": "2020-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.demand.demo_adjusted_hh_jpy",
       "industry_slug": "national",
@@ -1357,7 +1357,7 @@
     {
       "as_of_date": "2021-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.demand.demo_adjusted_hh_jpy",
       "industry_slug": "national",
@@ -1376,7 +1376,7 @@
     {
       "as_of_date": "2022-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.demand.demo_adjusted_hh_jpy",
       "industry_slug": "national",
@@ -1395,7 +1395,7 @@
     {
       "as_of_date": "2023-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.demand.demo_adjusted_hh_jpy",
       "industry_slug": "national",
@@ -1414,7 +1414,7 @@
     {
       "as_of_date": "2024-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.demand.demo_adjusted_hh_jpy",
       "industry_slug": "national",
@@ -1433,7 +1433,7 @@
     {
       "as_of_date": "2020-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.demand.demo_adjusted_hh_jpy",
       "industry_slug": "national",
@@ -1452,7 +1452,7 @@
     {
       "as_of_date": "2021-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.demand.demo_adjusted_hh_jpy",
       "industry_slug": "national",
@@ -1471,7 +1471,7 @@
     {
       "as_of_date": "2022-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.demand.demo_adjusted_hh_jpy",
       "industry_slug": "national",
@@ -1490,7 +1490,7 @@
     {
       "as_of_date": "2023-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.demand.demo_adjusted_hh_jpy",
       "industry_slug": "national",
@@ -1509,7 +1509,7 @@
     {
       "as_of_date": "2024-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.demand.demo_adjusted_hh_jpy",
       "industry_slug": "national",
@@ -1528,7 +1528,7 @@
     {
       "as_of_date": "2020-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.demand.demo_adjusted_hh_jpy",
       "industry_slug": "ai",
@@ -1547,7 +1547,7 @@
     {
       "as_of_date": "2021-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.demand.demo_adjusted_hh_jpy",
       "industry_slug": "ai",
@@ -1566,7 +1566,7 @@
     {
       "as_of_date": "2022-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.demand.demo_adjusted_hh_jpy",
       "industry_slug": "ai",
@@ -1585,7 +1585,7 @@
     {
       "as_of_date": "2023-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.demand.demo_adjusted_hh_jpy",
       "industry_slug": "ai",
@@ -1604,7 +1604,7 @@
     {
       "as_of_date": "2024-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.demand.demo_adjusted_hh_jpy",
       "industry_slug": "ai",
@@ -1623,7 +1623,7 @@
     {
       "as_of_date": "2020-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.demand.demo_adjusted_hh_jpy",
       "industry_slug": "national",
@@ -1642,7 +1642,7 @@
     {
       "as_of_date": "2021-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.demand.demo_adjusted_hh_jpy",
       "industry_slug": "national",
@@ -1661,7 +1661,7 @@
     {
       "as_of_date": "2022-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.demand.demo_adjusted_hh_jpy",
       "industry_slug": "national",
@@ -1680,7 +1680,7 @@
     {
       "as_of_date": "2023-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.demand.demo_adjusted_hh_jpy",
       "industry_slug": "national",
@@ -1699,7 +1699,7 @@
     {
       "as_of_date": "2024-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.demand.demo_adjusted_hh_jpy",
       "industry_slug": "national",
@@ -1718,7 +1718,7 @@
     {
       "as_of_date": "2020-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.demand.demo_adjusted_hh_jpy",
       "industry_slug": "automotive-mobility",
@@ -1737,7 +1737,7 @@
     {
       "as_of_date": "2021-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.demand.demo_adjusted_hh_jpy",
       "industry_slug": "automotive-mobility",
@@ -1756,7 +1756,7 @@
     {
       "as_of_date": "2022-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.demand.demo_adjusted_hh_jpy",
       "industry_slug": "automotive-mobility",
@@ -1775,7 +1775,7 @@
     {
       "as_of_date": "2023-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.demand.demo_adjusted_hh_jpy",
       "industry_slug": "automotive-mobility",
@@ -1794,7 +1794,7 @@
     {
       "as_of_date": "2024-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.demand.demo_adjusted_hh_jpy",
       "industry_slug": "automotive-mobility",
@@ -1813,7 +1813,7 @@
     {
       "as_of_date": "2020-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.demand.demo_adjusted_hh_jpy",
       "industry_slug": "energy-gx",
@@ -1832,7 +1832,7 @@
     {
       "as_of_date": "2021-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.demand.demo_adjusted_hh_jpy",
       "industry_slug": "energy-gx",
@@ -1851,7 +1851,7 @@
     {
       "as_of_date": "2022-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.demand.demo_adjusted_hh_jpy",
       "industry_slug": "energy-gx",
@@ -1870,7 +1870,7 @@
     {
       "as_of_date": "2023-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.demand.demo_adjusted_hh_jpy",
       "industry_slug": "energy-gx",
@@ -1889,7 +1889,7 @@
     {
       "as_of_date": "2024-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.demand.demo_adjusted_hh_jpy",
       "industry_slug": "energy-gx",
@@ -1908,7 +1908,7 @@
     {
       "as_of_date": "2020-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.demand.demo_adjusted_hh_jpy",
       "industry_slug": "energy-gx",
@@ -1927,7 +1927,7 @@
     {
       "as_of_date": "2021-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.demand.demo_adjusted_hh_jpy",
       "industry_slug": "energy-gx",
@@ -1946,7 +1946,7 @@
     {
       "as_of_date": "2022-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.demand.demo_adjusted_hh_jpy",
       "industry_slug": "energy-gx",
@@ -1965,7 +1965,7 @@
     {
       "as_of_date": "2023-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.demand.demo_adjusted_hh_jpy",
       "industry_slug": "energy-gx",
@@ -1984,7 +1984,7 @@
     {
       "as_of_date": "2024-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.demand.demo_adjusted_hh_jpy",
       "industry_slug": "energy-gx",
@@ -2003,7 +2003,7 @@
     {
       "as_of_date": "2020-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.demand.demo_adjusted_hh_jpy",
       "industry_slug": "energy-gx",
@@ -2022,7 +2022,7 @@
     {
       "as_of_date": "2021-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.demand.demo_adjusted_hh_jpy",
       "industry_slug": "energy-gx",
@@ -2041,7 +2041,7 @@
     {
       "as_of_date": "2022-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.demand.demo_adjusted_hh_jpy",
       "industry_slug": "energy-gx",
@@ -2060,7 +2060,7 @@
     {
       "as_of_date": "2023-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.demand.demo_adjusted_hh_jpy",
       "industry_slug": "energy-gx",
@@ -2079,7 +2079,7 @@
     {
       "as_of_date": "2024-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.demand.demo_adjusted_hh_jpy",
       "industry_slug": "energy-gx",

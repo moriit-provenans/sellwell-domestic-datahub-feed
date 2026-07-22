@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "metric_id": "jp.tankan.capex_plan_yoy_pct",
   "title_ja": "短観・設備投資計画",
-  "last_updated": "2026-07-21",
+  "last_updated": "2026-07-22",
   "source": "BOJ 短観",
   "observations": [
     {
       "as_of_date": "2026-03-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.tankan.capex_plan_yoy_pct",
       "industry_slug": "manufacturing-total",
@@ -24,7 +24,7 @@
     {
       "as_of_date": "2026-06-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.tankan.capex_plan_yoy_pct",
       "industry_slug": "manufacturing-total",

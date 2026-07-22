@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "metric_id": "jp.population.projection",
   "title_ja": "人口（実績＋将来推計）",
-  "last_updated": "2026-07-21",
+  "last_updated": "2026-07-22",
   "source": "e-Stat / 社人研",
   "observations": [
     {
       "as_of_date": "2020-10-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.population.projection",
       "industry_slug": "national",
@@ -24,7 +24,7 @@
     {
       "as_of_date": "2020-11-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.population.projection",
       "industry_slug": "national",
@@ -40,7 +40,7 @@
     {
       "as_of_date": "2020-12-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.population.projection",
       "industry_slug": "national",
@@ -56,7 +56,7 @@
     {
       "as_of_date": "2021-01-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.population.projection",
       "industry_slug": "national",
@@ -72,7 +72,7 @@
     {
       "as_of_date": "2021-02-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.population.projection",
       "industry_slug": "national",
@@ -88,7 +88,7 @@
     {
       "as_of_date": "2021-03-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.population.projection",
       "industry_slug": "national",
@@ -104,7 +104,7 @@
     {
       "as_of_date": "2021-04-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.population.projection",
       "industry_slug": "national",
@@ -120,7 +120,7 @@
     {
       "as_of_date": "2021-05-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.population.projection",
       "industry_slug": "national",
@@ -136,7 +136,7 @@
     {
       "as_of_date": "2021-06-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.population.projection",
       "industry_slug": "national",
@@ -152,7 +152,7 @@
     {
       "as_of_date": "2021-07-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.population.projection",
       "industry_slug": "national",
@@ -168,7 +168,7 @@
     {
       "as_of_date": "2021-08-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.population.projection",
       "industry_slug": "national",
@@ -184,7 +184,7 @@
     {
       "as_of_date": "2021-09-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.population.projection",
       "industry_slug": "national",
@@ -200,7 +200,7 @@
     {
       "as_of_date": "2021-10-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.population.projection",
       "industry_slug": "national",
@@ -216,7 +216,7 @@
     {
       "as_of_date": "2021-11-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.population.projection",
       "industry_slug": "national",
@@ -232,7 +232,7 @@
     {
       "as_of_date": "2021-12-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.population.projection",
       "industry_slug": "national",
@@ -248,7 +248,7 @@
     {
       "as_of_date": "2022-01-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.population.projection",
       "industry_slug": "national",
@@ -264,7 +264,7 @@
     {
       "as_of_date": "2022-02-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.population.projection",
       "industry_slug": "national",
@@ -280,7 +280,7 @@
     {
       "as_of_date": "2022-03-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.population.projection",
       "industry_slug": "national",
@@ -296,7 +296,7 @@
     {
       "as_of_date": "2022-04-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.population.projection",
       "industry_slug": "national",
@@ -312,7 +312,7 @@
     {
       "as_of_date": "2022-05-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.population.projection",
       "industry_slug": "national",
@@ -328,7 +328,7 @@
     {
       "as_of_date": "2022-06-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.population.projection",
       "industry_slug": "national",
@@ -344,7 +344,7 @@
     {
       "as_of_date": "2022-07-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.population.projection",
       "industry_slug": "national",
@@ -360,7 +360,7 @@
     {
       "as_of_date": "2022-08-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.population.projection",
       "industry_slug": "national",
@@ -376,7 +376,7 @@
     {
       "as_of_date": "2022-09-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.population.projection",
       "industry_slug": "national",
@@ -392,7 +392,7 @@
     {
       "as_of_date": "2022-10-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.population.projection",
       "industry_slug": "national",
@@ -408,7 +408,7 @@
     {
       "as_of_date": "2022-11-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.population.projection",
       "industry_slug": "national",
@@ -424,7 +424,7 @@
     {
       "as_of_date": "2022-12-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.population.projection",
       "industry_slug": "national",
@@ -440,7 +440,7 @@
     {
       "as_of_date": "2023-01-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.population.projection",
       "industry_slug": "national",
@@ -456,7 +456,7 @@
     {
       "as_of_date": "2023-02-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.population.projection",
       "industry_slug": "national",
@@ -472,7 +472,7 @@
     {
       "as_of_date": "2023-03-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.population.projection",
       "industry_slug": "national",
@@ -488,7 +488,7 @@
     {
       "as_of_date": "2023-04-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.population.projection",
       "industry_slug": "national",
@@ -504,7 +504,7 @@
     {
       "as_of_date": "2023-05-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.population.projection",
       "industry_slug": "national",
@@ -520,7 +520,7 @@
     {
       "as_of_date": "2023-06-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.population.projection",
       "industry_slug": "national",
@@ -536,7 +536,7 @@
     {
       "as_of_date": "2023-07-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.population.projection",
       "industry_slug": "national",
@@ -552,7 +552,7 @@
     {
       "as_of_date": "2023-08-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.population.projection",
       "industry_slug": "national",
@@ -568,7 +568,7 @@
     {
       "as_of_date": "2023-09-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.population.projection",
       "industry_slug": "national",
@@ -584,7 +584,7 @@
     {
       "as_of_date": "2023-10-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.population.projection",
       "industry_slug": "national",
@@ -600,7 +600,7 @@
     {
       "as_of_date": "2023-11-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.population.projection",
       "industry_slug": "national",
@@ -616,7 +616,7 @@
     {
       "as_of_date": "2023-12-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.population.projection",
       "industry_slug": "national",
@@ -632,7 +632,7 @@
     {
       "as_of_date": "2024-01-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.population.projection",
       "industry_slug": "national",
@@ -648,7 +648,7 @@
     {
       "as_of_date": "2024-02-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.population.projection",
       "industry_slug": "national",
@@ -664,7 +664,7 @@
     {
       "as_of_date": "2024-03-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.population.projection",
       "industry_slug": "national",
@@ -680,7 +680,7 @@
     {
       "as_of_date": "2024-04-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.population.projection",
       "industry_slug": "national",
@@ -696,7 +696,7 @@
     {
       "as_of_date": "2024-05-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.population.projection",
       "industry_slug": "national",
@@ -712,7 +712,7 @@
     {
       "as_of_date": "2024-06-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.population.projection",
       "industry_slug": "national",
@@ -728,7 +728,7 @@
     {
       "as_of_date": "2024-07-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.population.projection",
       "industry_slug": "national",
@@ -744,7 +744,7 @@
     {
       "as_of_date": "2024-08-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.population.projection",
       "industry_slug": "national",
@@ -760,7 +760,7 @@
     {
       "as_of_date": "2024-09-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.population.projection",
       "industry_slug": "national",
@@ -776,7 +776,7 @@
     {
       "as_of_date": "2024-10-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.population.projection",
       "industry_slug": "national",
@@ -792,7 +792,7 @@
     {
       "as_of_date": "2024-11-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.population.projection",
       "industry_slug": "national",
@@ -808,7 +808,7 @@
     {
       "as_of_date": "2024-12-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.population.projection",
       "industry_slug": "national",
@@ -824,7 +824,7 @@
     {
       "as_of_date": "2025-01-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.population.projection",
       "industry_slug": "national",
@@ -840,7 +840,7 @@
     {
       "as_of_date": "2025-02-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.population.projection",
       "industry_slug": "national",
@@ -856,7 +856,7 @@
     {
       "as_of_date": "2025-03-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.population.projection",
       "industry_slug": "national",
@@ -872,7 +872,7 @@
     {
       "as_of_date": "2025-04-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.population.projection",
       "industry_slug": "national",
@@ -888,7 +888,7 @@
     {
       "as_of_date": "2025-05-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.population.projection",
       "industry_slug": "national",
@@ -904,7 +904,7 @@
     {
       "as_of_date": "2025-06-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.population.projection",
       "industry_slug": "national",
@@ -920,7 +920,7 @@
     {
       "as_of_date": "2025-07-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.population.projection",
       "industry_slug": "national",
@@ -936,7 +936,7 @@
     {
       "as_of_date": "2025-08-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.population.projection",
       "industry_slug": "national",
@@ -952,7 +952,7 @@
     {
       "as_of_date": "2025-09-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.population.projection",
       "industry_slug": "national",
@@ -968,7 +968,7 @@
     {
       "as_of_date": "2025-10-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.population.projection",
       "industry_slug": "national",
@@ -984,7 +984,7 @@
     {
       "as_of_date": "2025-11-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.population.projection",
       "industry_slug": "national",
@@ -1000,7 +1000,7 @@
     {
       "as_of_date": "2025-12-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.population.projection",
       "industry_slug": "national",
@@ -1016,7 +1016,7 @@
     {
       "as_of_date": "2026-01-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.population.projection",
       "industry_slug": "national",
@@ -1032,7 +1032,7 @@
     {
       "as_of_date": "2026-02-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.population.projection",
       "industry_slug": "national",
@@ -1048,7 +1048,7 @@
     {
       "as_of_date": "2021-01-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.population.projection",
       "industry_slug": "national",
@@ -1065,7 +1065,7 @@
     {
       "as_of_date": "2022-01-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.population.projection",
       "industry_slug": "national",
@@ -1082,7 +1082,7 @@
     {
       "as_of_date": "2023-01-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.population.projection",
       "industry_slug": "national",
@@ -1099,7 +1099,7 @@
     {
       "as_of_date": "2024-01-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.population.projection",
       "industry_slug": "national",
@@ -1116,7 +1116,7 @@
     {
       "as_of_date": "2025-01-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.population.projection",
       "industry_slug": "national",
@@ -1133,7 +1133,7 @@
     {
       "as_of_date": "2026-01-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.population.projection",
       "industry_slug": "national",
@@ -1150,7 +1150,7 @@
     {
       "as_of_date": "2027-01-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.population.projection",
       "industry_slug": "national",
@@ -1167,7 +1167,7 @@
     {
       "as_of_date": "2028-01-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.population.projection",
       "industry_slug": "national",
@@ -1184,7 +1184,7 @@
     {
       "as_of_date": "2029-01-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.population.projection",
       "industry_slug": "national",
@@ -1201,7 +1201,7 @@
     {
       "as_of_date": "2030-01-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.population.projection",
       "industry_slug": "national",
@@ -1218,7 +1218,7 @@
     {
       "as_of_date": "2031-01-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.population.projection",
       "industry_slug": "national",
@@ -1235,7 +1235,7 @@
     {
       "as_of_date": "2032-01-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.population.projection",
       "industry_slug": "national",
@@ -1252,7 +1252,7 @@
     {
       "as_of_date": "2033-01-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.population.projection",
       "industry_slug": "national",
@@ -1269,7 +1269,7 @@
     {
       "as_of_date": "2034-01-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.population.projection",
       "industry_slug": "national",
@@ -1286,7 +1286,7 @@
     {
       "as_of_date": "2035-01-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.population.projection",
       "industry_slug": "national",
@@ -1303,7 +1303,7 @@
     {
       "as_of_date": "2036-01-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.population.projection",
       "industry_slug": "national",
@@ -1320,7 +1320,7 @@
     {
       "as_of_date": "2037-01-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.population.projection",
       "industry_slug": "national",
@@ -1337,7 +1337,7 @@
     {
       "as_of_date": "2038-01-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.population.projection",
       "industry_slug": "national",
@@ -1354,7 +1354,7 @@
     {
       "as_of_date": "2039-01-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.population.projection",
       "industry_slug": "national",
@@ -1371,7 +1371,7 @@
     {
       "as_of_date": "2040-01-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.population.projection",
       "industry_slug": "national",
@@ -1388,7 +1388,7 @@
     {
       "as_of_date": "2041-01-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.population.projection",
       "industry_slug": "national",
@@ -1405,7 +1405,7 @@
     {
       "as_of_date": "2042-01-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.population.projection",
       "industry_slug": "national",
@@ -1422,7 +1422,7 @@
     {
       "as_of_date": "2043-01-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.population.projection",
       "industry_slug": "national",
@@ -1439,7 +1439,7 @@
     {
       "as_of_date": "2044-01-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.population.projection",
       "industry_slug": "national",
@@ -1456,7 +1456,7 @@
     {
       "as_of_date": "2045-01-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.population.projection",
       "industry_slug": "national",
@@ -1473,7 +1473,7 @@
     {
       "as_of_date": "2046-01-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.population.projection",
       "industry_slug": "national",
@@ -1490,7 +1490,7 @@
     {
       "as_of_date": "2047-01-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.population.projection",
       "industry_slug": "national",
@@ -1507,7 +1507,7 @@
     {
       "as_of_date": "2048-01-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.population.projection",
       "industry_slug": "national",
@@ -1524,7 +1524,7 @@
     {
       "as_of_date": "2049-01-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.population.projection",
       "industry_slug": "national",
@@ -1541,7 +1541,7 @@
     {
       "as_of_date": "2050-01-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.population.projection",
       "industry_slug": "national",
@@ -1558,7 +1558,7 @@
     {
       "as_of_date": "2051-01-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.population.projection",
       "industry_slug": "national",
@@ -1575,7 +1575,7 @@
     {
       "as_of_date": "2052-01-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.population.projection",
       "industry_slug": "national",
@@ -1592,7 +1592,7 @@
     {
       "as_of_date": "2053-01-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.population.projection",
       "industry_slug": "national",
@@ -1609,7 +1609,7 @@
     {
       "as_of_date": "2054-01-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.population.projection",
       "industry_slug": "national",
@@ -1626,7 +1626,7 @@
     {
       "as_of_date": "2055-01-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.population.projection",
       "industry_slug": "national",
@@ -1643,7 +1643,7 @@
     {
       "as_of_date": "2056-01-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.population.projection",
       "industry_slug": "national",
@@ -1660,7 +1660,7 @@
     {
       "as_of_date": "2057-01-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.population.projection",
       "industry_slug": "national",
@@ -1677,7 +1677,7 @@
     {
       "as_of_date": "2058-01-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.population.projection",
       "industry_slug": "national",
@@ -1694,7 +1694,7 @@
     {
       "as_of_date": "2059-01-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.population.projection",
       "industry_slug": "national",
@@ -1711,7 +1711,7 @@
     {
       "as_of_date": "2060-01-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.population.projection",
       "industry_slug": "national",
@@ -1728,7 +1728,7 @@
     {
       "as_of_date": "2061-01-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.population.projection",
       "industry_slug": "national",
@@ -1745,7 +1745,7 @@
     {
       "as_of_date": "2062-01-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.population.projection",
       "industry_slug": "national",
@@ -1762,7 +1762,7 @@
     {
       "as_of_date": "2063-01-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.population.projection",
       "industry_slug": "national",
@@ -1779,7 +1779,7 @@
     {
       "as_of_date": "2064-01-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.population.projection",
       "industry_slug": "national",
@@ -1796,7 +1796,7 @@
     {
       "as_of_date": "2065-01-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.population.projection",
       "industry_slug": "national",
@@ -1813,7 +1813,7 @@
     {
       "as_of_date": "2066-01-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.population.projection",
       "industry_slug": "national",
@@ -1830,7 +1830,7 @@
     {
       "as_of_date": "2067-01-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.population.projection",
       "industry_slug": "national",
@@ -1847,7 +1847,7 @@
     {
       "as_of_date": "2068-01-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.population.projection",
       "industry_slug": "national",
@@ -1864,7 +1864,7 @@
     {
       "as_of_date": "2069-01-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.population.projection",
       "industry_slug": "national",
@@ -1881,7 +1881,7 @@
     {
       "as_of_date": "2070-01-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-21",
+      "retrieved_at": "2026-07-22",
       "veritas": "✅",
       "metric_id": "jp.population.projection",
       "industry_slug": "national",
