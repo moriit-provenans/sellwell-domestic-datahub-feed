@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "metric_id": "jp.market.entry_density",
   "title_ja": "参入密度",
-  "last_updated": "2026-07-22",
+  "last_updated": "2026-07-23",
   "source": "derived D1/A1",
   "observations": [
     {
       "as_of_date": "2021-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-22",
+      "retrieved_at": "2026-07-23",
       "veritas": "✅",
       "metric_id": "jp.market.entry_density",
       "industry_id": "30",
@@ -24,7 +24,7 @@
     {
       "as_of_date": "2022-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-22",
+      "retrieved_at": "2026-07-23",
       "veritas": "✅",
       "metric_id": "jp.market.entry_density",
       "industry_id": "30",
@@ -40,7 +40,7 @@
     {
       "as_of_date": "2021-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-22",
+      "retrieved_at": "2026-07-23",
       "veritas": "✅",
       "metric_id": "jp.market.entry_density",
       "industry_id": "27",
@@ -56,7 +56,7 @@
     {
       "as_of_date": "2022-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-22",
+      "retrieved_at": "2026-07-23",
       "veritas": "✅",
       "metric_id": "jp.market.entry_density",
       "industry_id": "27",
@@ -72,7 +72,7 @@
     {
       "as_of_date": "2021-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-22",
+      "retrieved_at": "2026-07-23",
       "veritas": "✅",
       "metric_id": "jp.market.entry_density",
       "industry_id": "21",
@@ -88,7 +88,7 @@
     {
       "as_of_date": "2022-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-22",
+      "retrieved_at": "2026-07-23",
       "veritas": "✅",
       "metric_id": "jp.market.entry_density",
       "industry_id": "21",
@@ -104,7 +104,7 @@
     {
       "as_of_date": "2021-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-22",
+      "retrieved_at": "2026-07-23",
       "veritas": "✅",
       "metric_id": "jp.market.entry_density",
       "industry_id": "16",
@@ -120,7 +120,7 @@
     {
       "as_of_date": "2022-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-22",
+      "retrieved_at": "2026-07-23",
       "veritas": "✅",
       "metric_id": "jp.market.entry_density",
       "industry_id": "16",
@@ -136,7 +136,7 @@
     {
       "as_of_date": "2021-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-22",
+      "retrieved_at": "2026-07-23",
       "veritas": "✅",
       "metric_id": "jp.market.entry_density",
       "industry_id": "11",
@@ -152,7 +152,7 @@
     {
       "as_of_date": "2022-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-22",
+      "retrieved_at": "2026-07-23",
       "veritas": "✅",
       "metric_id": "jp.market.entry_density",
       "industry_id": "11",
@@ -168,7 +168,7 @@
     {
       "as_of_date": "2021-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-22",
+      "retrieved_at": "2026-07-23",
       "veritas": "✅",
       "metric_id": "jp.market.entry_density",
       "industry_id": "29",
@@ -184,7 +184,7 @@
     {
       "as_of_date": "2022-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-22",
+      "retrieved_at": "2026-07-23",
       "veritas": "✅",
       "metric_id": "jp.market.entry_density",
       "industry_id": "29",
@@ -200,7 +200,7 @@
     {
       "as_of_date": "2021-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-22",
+      "retrieved_at": "2026-07-23",
       "veritas": "✅",
       "metric_id": "jp.market.entry_density",
       "industry_id": "28",
@@ -216,7 +216,7 @@
     {
       "as_of_date": "2022-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-22",
+      "retrieved_at": "2026-07-23",
       "veritas": "✅",
       "metric_id": "jp.market.entry_density",
       "industry_id": "28",
@@ -232,7 +232,7 @@
     {
       "as_of_date": "2021-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-22",
+      "retrieved_at": "2026-07-23",
       "veritas": "✅",
       "metric_id": "jp.market.entry_density",
       "industry_id": "09",
@@ -248,7 +248,7 @@
     {
       "as_of_date": "2022-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-22",
+      "retrieved_at": "2026-07-23",
       "veritas": "✅",
       "metric_id": "jp.market.entry_density",
       "industry_id": "09",
@@ -264,7 +264,7 @@
     {
       "as_of_date": "2021-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-22",
+      "retrieved_at": "2026-07-23",
       "veritas": "✅",
       "metric_id": "jp.market.entry_density",
       "industry_id": "25a",
@@ -280,7 +280,7 @@
     {
       "as_of_date": "2022-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-22",
+      "retrieved_at": "2026-07-23",
       "veritas": "✅",
       "metric_id": "jp.market.entry_density",
       "industry_id": "25a",
@@ -296,7 +296,7 @@
     {
       "as_of_date": "2021-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-22",
+      "retrieved_at": "2026-07-23",
       "veritas": "✅",
       "metric_id": "jp.market.entry_density",
       "industry_id": "25",
@@ -312,7 +312,7 @@
     {
       "as_of_date": "2022-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-22",
+      "retrieved_at": "2026-07-23",
       "veritas": "✅",
       "metric_id": "jp.market.entry_density",
       "industry_id": "25",
@@ -328,7 +328,7 @@
     {
       "as_of_date": "2021-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-22",
+      "retrieved_at": "2026-07-23",
       "veritas": "✅",
       "metric_id": "jp.market.entry_density",
       "industry_id": "C",
@@ -344,7 +344,7 @@
     {
       "as_of_date": "2022-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-22",
+      "retrieved_at": "2026-07-23",
       "veritas": "✅",
       "metric_id": "jp.market.entry_density",
       "industry_id": "C",
@@ -360,7 +360,7 @@
     {
       "as_of_date": "2021-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-22",
+      "retrieved_at": "2026-07-23",
       "veritas": "✅",
       "metric_id": "jp.market.entry_density",
       "industry_id": "24",
@@ -376,7 +376,7 @@
     {
       "as_of_date": "2022-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-22",
+      "retrieved_at": "2026-07-23",
       "veritas": "✅",
       "metric_id": "jp.market.entry_density",
       "industry_id": "24",
@@ -392,7 +392,7 @@
     {
       "as_of_date": "2021-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-22",
+      "retrieved_at": "2026-07-23",
       "veritas": "✅",
       "metric_id": "jp.market.entry_density",
       "industry_id": "23",
@@ -408,7 +408,7 @@
     {
       "as_of_date": "2022-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-22",
+      "retrieved_at": "2026-07-23",
       "veritas": "✅",
       "metric_id": "jp.market.entry_density",
       "industry_id": "23",
@@ -424,7 +424,7 @@
     {
       "as_of_date": "2021-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-22",
+      "retrieved_at": "2026-07-23",
       "veritas": "✅",
       "metric_id": "jp.market.entry_density",
       "industry_id": "17",
@@ -440,7 +440,7 @@
     {
       "as_of_date": "2022-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-22",
+      "retrieved_at": "2026-07-23",
       "veritas": "✅",
       "metric_id": "jp.market.entry_density",
       "industry_id": "17",
@@ -456,7 +456,7 @@
     {
       "as_of_date": "2021-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-22",
+      "retrieved_at": "2026-07-23",
       "veritas": "✅",
       "metric_id": "jp.market.entry_density",
       "industry_id": "14",
@@ -472,7 +472,7 @@
     {
       "as_of_date": "2022-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-22",
+      "retrieved_at": "2026-07-23",
       "veritas": "✅",
       "metric_id": "jp.market.entry_density",
       "industry_id": "14",
@@ -488,7 +488,7 @@
     {
       "as_of_date": "2021-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-22",
+      "retrieved_at": "2026-07-23",
       "veritas": "✅",
       "metric_id": "jp.market.entry_density",
       "industry_id": "22",
@@ -504,7 +504,7 @@
     {
       "as_of_date": "2022-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-22",
+      "retrieved_at": "2026-07-23",
       "veritas": "✅",
       "metric_id": "jp.market.entry_density",
       "industry_id": "22",

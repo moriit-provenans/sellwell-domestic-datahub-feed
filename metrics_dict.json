@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "last_updated": "2026-07-22",
+  "last_updated": "2026-07-23",
   "naming": "jp.{domain}.{concept}",
   "metrics": [
     {
@@ -11,7 +11,7 @@
       "source_primary": "e-Stat 経済構造実態調査/生産動態",
       "freq": "annual",
       "status": "live",
-      "last_feed_update": "2026-07-22"
+      "last_feed_update": "2026-07-23"
     },
     {
       "metric_id": "jp.market.cagr_pct",
@@ -21,7 +21,7 @@
       "source_primary": "derived from jp.market.shipment_jpy",
       "freq": "annual",
       "status": "live",
-      "last_feed_update": "2026-07-22"
+      "last_feed_update": "2026-07-23"
     },
     {
       "metric_id": "jp.iip.index",
@@ -31,7 +31,7 @@
       "source_primary": "e-Stat IIP",
       "freq": "monthly",
       "status": "live",
-      "last_feed_update": "2026-07-22"
+      "last_feed_update": "2026-07-23"
     },
     {
       "metric_id": "jp.household.expenditure_jpy",
@@ -41,7 +41,7 @@
       "source_primary": "e-Stat 家計調査",
       "freq": "monthly",
       "status": "live",
-      "last_feed_update": "2026-07-22"
+      "last_feed_update": "2026-07-23"
     },
     {
       "metric_id": "jp.population.projection",
@@ -51,7 +51,7 @@
       "source_primary": "e-Stat/社人研",
       "freq": "annual",
       "status": "live",
-      "last_feed_update": "2026-07-22"
+      "last_feed_update": "2026-07-23"
     },
     {
       "metric_id": "jp.cpi.index",
@@ -61,7 +61,7 @@
       "source_primary": "e-Stat CPI",
       "freq": "monthly",
       "status": "live",
-      "last_feed_update": "2026-07-22"
+      "last_feed_update": "2026-07-23"
     },
     {
       "metric_id": "jp.cgpi.index",
@@ -71,7 +71,7 @@
       "source_primary": "BOJ CGPI",
       "freq": "monthly",
       "status": "live",
-      "last_feed_update": "2026-07-22"
+      "last_feed_update": "2026-07-23"
     },
     {
       "metric_id": "jp.price.pass_through_gap",
@@ -81,7 +81,7 @@
       "source_primary": "derived C1-C2",
       "freq": "monthly",
       "status": "live",
-      "last_feed_update": "2026-07-22"
+      "last_feed_update": "2026-07-23"
     },
     {
       "metric_id": "jp.census.establishments",
@@ -91,7 +91,7 @@
       "source_primary": "e-Stat 経済センサス",
       "freq": "quinquennial",
       "status": "live",
-      "last_feed_update": "2026-07-22"
+      "last_feed_update": "2026-07-23"
     },
     {
       "metric_id": "jp.census.size_distribution",
@@ -101,7 +101,7 @@
       "source_primary": "e-Stat 経済センサス",
       "freq": "quinquennial",
       "status": "live",
-      "last_feed_update": "2026-07-22"
+      "last_feed_update": "2026-07-23"
     },
     {
       "metric_id": "jp.market.entry_density",
@@ -111,7 +111,7 @@
       "source_primary": "derived D1/A1",
       "freq": "annual",
       "status": "live",
-      "last_feed_update": "2026-07-22"
+      "last_feed_update": "2026-07-23"
     },
     {
       "metric_id": "jp.corp.op_margin_pct",
@@ -121,7 +121,7 @@
       "source_primary": "e-Stat 法人企業統計",
       "freq": "quarterly",
       "status": "live",
-      "last_feed_update": "2026-07-22"
+      "last_feed_update": "2026-07-23"
     },
     {
       "metric_id": "jp.labor.job_openings_ratio",
@@ -131,7 +131,7 @@
       "source_primary": "e-Stat 職業安定業務統計",
       "freq": "monthly",
       "status": "live",
-      "last_feed_update": "2026-07-22"
+      "last_feed_update": "2026-07-23"
     },
     {
       "metric_id": "jp.policy.tailwind_score",
@@ -141,7 +141,7 @@
       "source_primary": "Smith editorial",
       "freq": "monthly",
       "status": "live",
-      "last_feed_update": "2026-07-22"
+      "last_feed_update": "2026-07-23"
     },
     {
       "metric_id": "jp.subsidy.open_count",
@@ -151,7 +151,7 @@
       "source_primary": "jGrants API",
       "freq": "daily",
       "status": "live",
-      "last_feed_update": "2026-07-22"
+      "last_feed_update": "2026-07-23"
     },
     {
       "metric_id": "jp.subsidy.open_budget",
@@ -161,7 +161,7 @@
       "source_primary": "jGrants API",
       "freq": "daily",
       "status": "live",
-      "last_feed_update": "2026-07-22"
+      "last_feed_update": "2026-07-23"
     },
     {
       "metric_id": "jp.trade.export_import_jpy",
@@ -171,7 +171,7 @@
       "source_primary": "e-Stat 貿易統計",
       "freq": "monthly",
       "status": "live",
-      "last_feed_update": "2026-07-22"
+      "last_feed_update": "2026-07-23"
     },
     {
       "metric_id": "jp.trade.export_ratio_pct",
@@ -181,7 +181,7 @@
       "source_primary": "derived H1/A1",
       "freq": "annual",
       "status": "live",
-      "last_feed_update": "2026-07-22"
+      "last_feed_update": "2026-07-23"
     },
     {
       "metric_id": "jp.sellwell.deal_volume",
@@ -218,7 +218,7 @@
       "source_primary": "e-Stat 機械受注統計",
       "freq": "monthly",
       "status": "live",
-      "last_feed_update": "2026-07-22"
+      "last_feed_update": "2026-07-23"
     },
     {
       "metric_id": "jp.mof.trade_monthly_jpy",
@@ -228,7 +228,7 @@
       "source_primary": "e-Stat 普通貿易統計",
       "freq": "monthly",
       "status": "live",
-      "last_feed_update": "2026-07-22"
+      "last_feed_update": "2026-07-23"
     },
     {
       "metric_id": "jp.meti.tertiary_activity_index",
@@ -248,7 +248,7 @@
       "source_primary": "e-Stat 国民経済計算 2020暦年基準",
       "freq": "quarterly",
       "status": "live",
-      "last_feed_update": "2026-07-22"
+      "last_feed_update": "2026-07-23"
     },
     {
       "metric_id": "jp.cao.leading_index",
@@ -258,7 +258,7 @@
       "source_primary": "e-Stat 景気動向指数",
       "freq": "monthly",
       "status": "live",
-      "last_feed_update": "2026-07-22"
+      "last_feed_update": "2026-07-23"
     },
     {
       "metric_id": "jp.cao.coincident_index",
@@ -268,7 +268,7 @@
       "source_primary": "e-Stat 景気動向指数",
       "freq": "monthly",
       "status": "live",
-      "last_feed_update": "2026-07-22"
+      "last_feed_update": "2026-07-23"
     },
     {
       "metric_id": "jp.cao.consumer_sentiment",
@@ -278,7 +278,7 @@
       "source_primary": "e-Stat 景気動向指数 L6",
       "freq": "monthly",
       "status": "live",
-      "last_feed_update": "2026-07-22"
+      "last_feed_update": "2026-07-23"
     },
     {
       "metric_id": "jp.corp.op_margin_pct_quarterly",
@@ -288,7 +288,7 @@
       "source_primary": "e-Stat 法人企業統計・四半期",
       "freq": "quarterly",
       "status": "live",
-      "last_feed_update": "2026-07-22"
+      "last_feed_update": "2026-07-23"
     },
     {
       "metric_id": "jp.corp.sales_jpy_quarterly",
@@ -298,7 +298,7 @@
       "source_primary": "e-Stat 法人企業統計・四半期",
       "freq": "quarterly",
       "status": "live",
-      "last_feed_update": "2026-07-22"
+      "last_feed_update": "2026-07-23"
     }
   ]
 }
