@@ -47,5 +47,22 @@
       "path": "subsidies/national_must_have.json",
       "description": "REQ-033 national must-have catalog match status"
     }
+  ],
+  "entries": [
+    {
+      "id": "subsidies_adoption_stats",
+      "path": "subsidies/adoption_stats.json",
+      "note": "REQ-045 P1"
+    },
+    {
+      "id": "jp_retail_by_channel_jpy",
+      "path": "timeseries/jp_retail_by_channel_jpy.json",
+      "note": "REQ-045 P3b"
+    },
+    {
+      "id": "phase3_unavailable",
+      "path": "phase3/_unavailable.json",
+      "note": "REQ-045 P2/P3a honest gaps"
+    }
   ]
 }

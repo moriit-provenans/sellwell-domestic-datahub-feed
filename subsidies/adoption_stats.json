@@ -1,0 +1,2398 @@
+{
+  "schema_version": "1.0.0",
+  "metric_id": "jp.subsidy.adoption_stats",
+  "title_ja": "補助金採択率・公募回統計（全国系主要制度）",
+  "last_updated": "2026-07-24",
+  "source": "各執行団体の採択結果公表ページ",
+  "note_ja": "REQ-045 P1。jGrants APIに採択履歴はないため、公式公表HTML/プレスを収集。最低ラインとしてものづくり全公募回＋持続化直近2回を収録。IT導入・事業再構築・省力化は申請/採択数が一覧化されていない回が多く、次波で個別プレスを追加する（無理な代理値は入れない）。",
+  "coverage": {
+    "programs": [
+      {
+        "program_key": "monodukuri",
+        "program_name_ja": "ものづくり・商業・サービス生産性向上促進補助金",
+        "rounds_n": 22,
+        "latest_round": "22次",
+        "latest_rate_pct": 37.5,
+        "source_refs": [
+          "https://portal.monodukuri-hojo.jp/saitaku.html"
+        ],
+        "linked_active_sample": [
+          {
+            "id": "a0WJ200000CDTzMMAX",
+            "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（19次締切）",
+            "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDTzMMAX",
+            "industry_slugs": [
+              "manufacturing-total"
+            ],
+            "judgment_ready": true
+          },
+          {
+            "id": "a0WJ200000CDVkeMAH",
+            "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（20次締切）",
+            "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDVkeMAH",
+            "industry_slugs": [
+              "manufacturing-total"
+            ],
+            "judgment_ready": true
+          },
+          {
+            "id": "a0WJ200000CDX4vMAH",
+            "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（21次締切）",
+            "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDX4vMAH",
+            "industry_slugs": [
+              "manufacturing-total"
+            ],
+            "judgment_ready": true
+          },
+          {
+            "id": "a0WJ200000CDYimMAH",
+            "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（22次締切）",
+            "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYimMAH",
+            "industry_slugs": [
+              "manufacturing-total"
+            ],
+            "judgment_ready": true
+          },
+          {
+            "id": "deep-meti-monozukuri-0dc4eee81962",
+            "title": "【中小企業庁】ものづくり・商業・サービス生産性向上促進補助金公式ホームページ ものづくり・商業・サービス生産性向上促進補助金総合サイト",
+            "detail_url": "https://portal.monodukuri-hojo.jp/common/bunsho/ippan/23th/公募要領_23次締切_20260206.pdf",
+            "industry_slugs": [],
+            "judgment_ready": true
+          },
+          {
+            "id": "deep-meti-monozukuri-4cd7b2c64391",
+            "title": "【中小企業庁】ものづくり・商業・サービス生産性向上促進補助金公式ホームページ ものづくり・商業・サービス生産性向上促進補助金総合サイト",
+            "detail_url": "https://portal.monodukuri-hojo.jp/common/bunsho/ippan/22th/公募要領_22次締切_20260206.pdf",
+            "industry_slugs": [],
+            "judgment_ready": true
+          },
+          {
+            "id": "deep-meti-monozukuri-25541e83970f",
+            "title": "【中小企業庁】ものづくり・商業・サービス生産性向上促進補助金公式ホームページ ものづくり・商業・サービス生産性向上促進補助金総合サイト",
+            "detail_url": "https://portal.monodukuri-hojo.jp/common/bunsho/ippan/21th/公募要領_21次締切_20250807.pdf",
+            "industry_slugs": [],
+            "judgment_ready": true
+          },
+          {
+            "id": "deep-meti-monozukuri-4dbc1c8346ae",
+            "title": "【中小企業庁】ものづくり・商業・サービス生産性向上促進補助金公式ホームページ ものづくり・商業・サービス生産性向上促進補助金総合サイト",
+            "detail_url": "https://portal.monodukuri-hojo.jp/common/bunsho/ippan/20th/公募要領_20次締切_20250516.pdf",
+            "industry_slugs": [],
+            "judgment_ready": true
+          }
+        ]
+      },
+      {
+        "program_key": "jizokuka-ippan-tsujo",
+        "program_name_ja": "小規模事業者持続化補助金＜一般型・通常枠＞",
+        "rounds_n": 2,
+        "latest_round": "第18回締切",
+        "latest_rate_pct": 47.52,
+        "source_refs": [
+          "https://www.smrj.go.jp/news/2025/hkj3i80000003jv5.html",
+          "https://www.chusho.meti.go.jp/koukai/hojyokin/saitaku/2025/250926001.html"
+        ],
+        "linked_active_sample": [
+          {
+            "id": "a0WJ200000CDKbTMAX",
+            "title": "⼩規模事業者持続化補助⾦＜⼀般型 災害⽀援枠（令和６年能登半島地震等）＞６次公募【商⼯会地区】",
+            "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDKbTMAX",
+            "industry_slugs": [
+              "untagged"
+            ],
+            "judgment_ready": true
+          },
+          {
+            "id": "a0WJ200000CDKKSMA5",
+            "title": "小規模事業者持続化補助金＜一般型 災害支援枠（令和６年能登半島地震等）＞６次公募【商工会議所地区】",
+            "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDKKSMA5",
+            "industry_slugs": [
+              "untagged"
+            ],
+            "judgment_ready": true
+          },
+          {
+            "id": "a0WJ200000CDOcTMAX",
+            "title": "小規模事業者持続化補助金＜一般型 災害支援枠（令和６年能登半島地震等）＞７次公募【商工会議所地区】",
+            "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDOcTMAX",
+            "industry_slugs": [
+              "untagged"
+            ],
+            "judgment_ready": true
+          },
+          {
+            "id": "a0WJ200000CDOLIMA5",
+            "title": "⼩規模事業者持続化補助⾦＜⼀般型 災害⽀援枠（令和６年能登半島地震等）＞７次公募【商⼯会地区】",
+            "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDOLIMA5",
+            "industry_slugs": [
+              "untagged"
+            ],
+            "judgment_ready": true
+          },
+          {
+            "id": "a0WJ200000CDUg2MAH",
+            "title": "小規模事業者持続化補助金＜一般型 災害支援枠（令和６年能登半島地震等）＞８次公募【商工会議所地区】",
+            "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDUg2MAH",
+            "industry_slugs": [
+              "untagged"
+            ],
+            "judgment_ready": true
+          },
+          {
+            "id": "a0WJ200000CDUGBMA5",
+            "title": "⼩規模事業者持続化補助⾦＜⼀般型 災害⽀援枠（令和６年能登半島地震等）＞８次公募【商⼯会地区】",
+            "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDUGBMA5",
+            "industry_slugs": [
+              "untagged"
+            ],
+            "judgment_ready": true
+          },
+          {
+            "id": "a0WJ200000CDW4SMAX",
+            "title": "小規模事業者持続化補助金＜一般型 災害支援枠（令和６年能登半島地震等）＞９次公募【商工会議所地区】",
+            "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDW4SMAX",
+            "industry_slugs": [
+              "untagged"
+            ],
+            "judgment_ready": true
+          },
+          {
+            "id": "mirasapo-28899",
+            "title": "中小企業庁担当者に聞く「令和7年度　小規模事業者持続化補助金（一般型（通常枠）・創業型）のポイント」",
+            "detail_url": "https://mirasapo-plus.go.jp/infomation/28899/",
+            "industry_slugs": [
+              "untagged"
+            ],
+            "judgment_ready": false
+          }
+        ]
+      }
+    ],
+    "observations_n": 24,
+    "monodukuri_rounds": 22,
+    "jizokuka_rounds": 2
+  },
+  "observations": [
+    {
+      "as_of_date": "2026-04-30",
+      "still_valid_2026": true,
+      "retrieved_at": "2026-07-24",
+      "veritas": "✅",
+      "metric_id": "jp.subsidy.adoption_stats",
+      "program_key": "monodukuri",
+      "program_name_ja": "ものづくり・商業・サービス生産性向上促進補助金",
+      "round_label": "22次",
+      "frame": null,
+      "applicants": 1552,
+      "adopted": 582,
+      "adoption_rate_pct": 37.5,
+      "unit": "pct",
+      "value": 37.5,
+      "industry_slugs_hint": [
+        "manufacturing-total",
+        "industrial-machinery",
+        "electrical-equipment",
+        "automotive-mobility",
+        "food-beverage"
+      ],
+      "linked_active_sample": [
+        {
+          "id": "a0WJ200000CDTzMMAX",
+          "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（19次締切）",
+          "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDTzMMAX",
+          "industry_slugs": [
+            "manufacturing-total"
+          ],
+          "judgment_ready": true
+        },
+        {
+          "id": "a0WJ200000CDVkeMAH",
+          "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（20次締切）",
+          "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDVkeMAH",
+          "industry_slugs": [
+            "manufacturing-total"
+          ],
+          "judgment_ready": true
+        },
+        {
+          "id": "a0WJ200000CDX4vMAH",
+          "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（21次締切）",
+          "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDX4vMAH",
+          "industry_slugs": [
+            "manufacturing-total"
+          ],
+          "judgment_ready": true
+        },
+        {
+          "id": "a0WJ200000CDYimMAH",
+          "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（22次締切）",
+          "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYimMAH",
+          "industry_slugs": [
+            "manufacturing-total"
+          ],
+          "judgment_ready": true
+        },
+        {
+          "id": "deep-meti-monozukuri-0dc4eee81962",
+          "title": "【中小企業庁】ものづくり・商業・サービス生産性向上促進補助金公式ホームページ ものづくり・商業・サービス生産性向上促進補助金総合サイト",
+          "detail_url": "https://portal.monodukuri-hojo.jp/common/bunsho/ippan/23th/公募要領_23次締切_20260206.pdf",
+          "industry_slugs": [],
+          "judgment_ready": true
+        },
+        {
+          "id": "deep-meti-monozukuri-4cd7b2c64391",
+          "title": "【中小企業庁】ものづくり・商業・サービス生産性向上促進補助金公式ホームページ ものづくり・商業・サービス生産性向上促進補助金総合サイト",
+          "detail_url": "https://portal.monodukuri-hojo.jp/common/bunsho/ippan/22th/公募要領_22次締切_20260206.pdf",
+          "industry_slugs": [],
+          "judgment_ready": true
+        },
+        {
+          "id": "deep-meti-monozukuri-25541e83970f",
+          "title": "【中小企業庁】ものづくり・商業・サービス生産性向上促進補助金公式ホームページ ものづくり・商業・サービス生産性向上促進補助金総合サイト",
+          "detail_url": "https://portal.monodukuri-hojo.jp/common/bunsho/ippan/21th/公募要領_21次締切_20250807.pdf",
+          "industry_slugs": [],
+          "judgment_ready": true
+        },
+        {
+          "id": "deep-meti-monozukuri-4dbc1c8346ae",
+          "title": "【中小企業庁】ものづくり・商業・サービス生産性向上促進補助金公式ホームページ ものづくり・商業・サービス生産性向上促進補助金総合サイト",
+          "detail_url": "https://portal.monodukuri-hojo.jp/common/bunsho/ippan/20th/公募要領_20次締切_20250516.pdf",
+          "industry_slugs": [],
+          "judgment_ready": true
+        }
+      ],
+      "source": "ものづくり・商業・サービス生産性向上促進補助金",
+      "source_ref": "https://portal.monodukuri-hojo.jp/saitaku.html",
+      "note": "制度単位の公表採択率。採択企業の実名一覧は source_ref の公表ページを参照（feed本体には載せない）。"
+    },
+    {
+      "as_of_date": "2026-03-17",
+      "still_valid_2026": true,
+      "retrieved_at": "2026-07-24",
+      "veritas": "✅",
+      "metric_id": "jp.subsidy.adoption_stats",
+      "program_key": "jizokuka-ippan-tsujo",
+      "program_name_ja": "小規模事業者持続化補助金＜一般型・通常枠＞",
+      "round_label": "第18回締切",
+      "frame": null,
+      "applicants": 17318,
+      "adopted": 8229,
+      "adoption_rate_pct": 47.52,
+      "unit": "pct",
+      "value": 47.52,
+      "industry_slugs_hint": [
+        "consumer-goods",
+        "food-beverage",
+        "manufacturing-total"
+      ],
+      "linked_active_sample": [
+        {
+          "id": "a0WJ200000CDKbTMAX",
+          "title": "⼩規模事業者持続化補助⾦＜⼀般型 災害⽀援枠（令和６年能登半島地震等）＞６次公募【商⼯会地区】",
+          "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDKbTMAX",
+          "industry_slugs": [
+            "untagged"
+          ],
+          "judgment_ready": true
+        },
+        {
+          "id": "a0WJ200000CDKKSMA5",
+          "title": "小規模事業者持続化補助金＜一般型 災害支援枠（令和６年能登半島地震等）＞６次公募【商工会議所地区】",
+          "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDKKSMA5",
+          "industry_slugs": [
+            "untagged"
+          ],
+          "judgment_ready": true
+        },
+        {
+          "id": "a0WJ200000CDOcTMAX",
+          "title": "小規模事業者持続化補助金＜一般型 災害支援枠（令和６年能登半島地震等）＞７次公募【商工会議所地区】",
+          "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDOcTMAX",
+          "industry_slugs": [
+            "untagged"
+          ],
+          "judgment_ready": true
+        },
+        {
+          "id": "a0WJ200000CDOLIMA5",
+          "title": "⼩規模事業者持続化補助⾦＜⼀般型 災害⽀援枠（令和６年能登半島地震等）＞７次公募【商⼯会地区】",
+          "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDOLIMA5",
+          "industry_slugs": [
+            "untagged"
+          ],
+          "judgment_ready": true
+        },
+        {
+          "id": "a0WJ200000CDUg2MAH",
+          "title": "小規模事業者持続化補助金＜一般型 災害支援枠（令和６年能登半島地震等）＞８次公募【商工会議所地区】",
+          "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDUg2MAH",
+          "industry_slugs": [
+            "untagged"
+          ],
+          "judgment_ready": true
+        },
+        {
+          "id": "a0WJ200000CDUGBMA5",
+          "title": "⼩規模事業者持続化補助⾦＜⼀般型 災害⽀援枠（令和６年能登半島地震等）＞８次公募【商⼯会地区】",
+          "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDUGBMA5",
+          "industry_slugs": [
+            "untagged"
+          ],
+          "judgment_ready": true
+        },
+        {
+          "id": "a0WJ200000CDW4SMAX",
+          "title": "小規模事業者持続化補助金＜一般型 災害支援枠（令和６年能登半島地震等）＞９次公募【商工会議所地区】",
+          "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDW4SMAX",
+          "industry_slugs": [
+            "untagged"
+          ],
+          "judgment_ready": true
+        },
+        {
+          "id": "mirasapo-28899",
+          "title": "中小企業庁担当者に聞く「令和7年度　小規模事業者持続化補助金（一般型（通常枠）・創業型）のポイント」",
+          "detail_url": "https://mirasapo-plus.go.jp/infomation/28899/",
+          "industry_slugs": [
+            "untagged"
+          ],
+          "judgment_ready": false
+        }
+      ],
+      "source": "小規模事業者持続化補助金＜一般型・通常枠＞",
+      "source_ref": "https://www.smrj.go.jp/news/2025/hkj3i80000003jv5.html",
+      "note": "制度単位の公表採択率。採択企業の実名一覧は source_ref の公表ページを参照（feed本体には載せない）。"
+    },
+    {
+      "as_of_date": "2026-01-23",
+      "still_valid_2026": true,
+      "retrieved_at": "2026-07-24",
+      "veritas": "✅",
+      "metric_id": "jp.subsidy.adoption_stats",
+      "program_key": "monodukuri",
+      "program_name_ja": "ものづくり・商業・サービス生産性向上促進補助金",
+      "round_label": "21次",
+      "frame": null,
+      "applicants": 1872,
+      "adopted": 638,
+      "adoption_rate_pct": 34.08,
+      "unit": "pct",
+      "value": 34.08,
+      "industry_slugs_hint": [
+        "manufacturing-total",
+        "industrial-machinery",
+        "electrical-equipment",
+        "automotive-mobility",
+        "food-beverage"
+      ],
+      "linked_active_sample": [
+        {
+          "id": "a0WJ200000CDTzMMAX",
+          "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（19次締切）",
+          "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDTzMMAX",
+          "industry_slugs": [
+            "manufacturing-total"
+          ],
+          "judgment_ready": true
+        },
+        {
+          "id": "a0WJ200000CDVkeMAH",
+          "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（20次締切）",
+          "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDVkeMAH",
+          "industry_slugs": [
+            "manufacturing-total"
+          ],
+          "judgment_ready": true
+        },
+        {
+          "id": "a0WJ200000CDX4vMAH",
+          "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（21次締切）",
+          "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDX4vMAH",
+          "industry_slugs": [
+            "manufacturing-total"
+          ],
+          "judgment_ready": true
+        },
+        {
+          "id": "a0WJ200000CDYimMAH",
+          "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（22次締切）",
+          "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYimMAH",
+          "industry_slugs": [
+            "manufacturing-total"
+          ],
+          "judgment_ready": true
+        },
+        {
+          "id": "deep-meti-monozukuri-0dc4eee81962",
+          "title": "【中小企業庁】ものづくり・商業・サービス生産性向上促進補助金公式ホームページ ものづくり・商業・サービス生産性向上促進補助金総合サイト",
+          "detail_url": "https://portal.monodukuri-hojo.jp/common/bunsho/ippan/23th/公募要領_23次締切_20260206.pdf",
+          "industry_slugs": [],
+          "judgment_ready": true
+        },
+        {
+          "id": "deep-meti-monozukuri-4cd7b2c64391",
+          "title": "【中小企業庁】ものづくり・商業・サービス生産性向上促進補助金公式ホームページ ものづくり・商業・サービス生産性向上促進補助金総合サイト",
+          "detail_url": "https://portal.monodukuri-hojo.jp/common/bunsho/ippan/22th/公募要領_22次締切_20260206.pdf",
+          "industry_slugs": [],
+          "judgment_ready": true
+        },
+        {
+          "id": "deep-meti-monozukuri-25541e83970f",
+          "title": "【中小企業庁】ものづくり・商業・サービス生産性向上促進補助金公式ホームページ ものづくり・商業・サービス生産性向上促進補助金総合サイト",
+          "detail_url": "https://portal.monodukuri-hojo.jp/common/bunsho/ippan/21th/公募要領_21次締切_20250807.pdf",
+          "industry_slugs": [],
+          "judgment_ready": true
+        },
+        {
+          "id": "deep-meti-monozukuri-4dbc1c8346ae",
+          "title": "【中小企業庁】ものづくり・商業・サービス生産性向上促進補助金公式ホームページ ものづくり・商業・サービス生産性向上促進補助金総合サイト",
+          "detail_url": "https://portal.monodukuri-hojo.jp/common/bunsho/ippan/20th/公募要領_20次締切_20250516.pdf",
+          "industry_slugs": [],
+          "judgment_ready": true
+        }
+      ],
+      "source": "ものづくり・商業・サービス生産性向上促進補助金",
+      "source_ref": "https://portal.monodukuri-hojo.jp/saitaku.html",
+      "note": "制度単位の公表採択率。採択企業の実名一覧は source_ref の公表ページを参照（feed本体には載せない）。"
+    },
+    {
+      "as_of_date": "2025-10-27",
+      "still_valid_2026": true,
+      "retrieved_at": "2026-07-24",
+      "veritas": "✅",
+      "metric_id": "jp.subsidy.adoption_stats",
+      "program_key": "monodukuri",
+      "program_name_ja": "ものづくり・商業・サービス生産性向上促進補助金",
+      "round_label": "20次",
+      "frame": null,
+      "applicants": 2453,
+      "adopted": 825,
+      "adoption_rate_pct": 33.63,
+      "unit": "pct",
+      "value": 33.63,
+      "industry_slugs_hint": [
+        "manufacturing-total",
+        "industrial-machinery",
+        "electrical-equipment",
+        "automotive-mobility",
+        "food-beverage"
+      ],
+      "linked_active_sample": [
+        {
+          "id": "a0WJ200000CDTzMMAX",
+          "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（19次締切）",
+          "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDTzMMAX",
+          "industry_slugs": [
+            "manufacturing-total"
+          ],
+          "judgment_ready": true
+        },
+        {
+          "id": "a0WJ200000CDVkeMAH",
+          "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（20次締切）",
+          "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDVkeMAH",
+          "industry_slugs": [
+            "manufacturing-total"
+          ],
+          "judgment_ready": true
+        },
+        {
+          "id": "a0WJ200000CDX4vMAH",
+          "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（21次締切）",
+          "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDX4vMAH",
+          "industry_slugs": [
+            "manufacturing-total"
+          ],
+          "judgment_ready": true
+        },
+        {
+          "id": "a0WJ200000CDYimMAH",
+          "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（22次締切）",
+          "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYimMAH",
+          "industry_slugs": [
+            "manufacturing-total"
+          ],
+          "judgment_ready": true
+        },
+        {
+          "id": "deep-meti-monozukuri-0dc4eee81962",
+          "title": "【中小企業庁】ものづくり・商業・サービス生産性向上促進補助金公式ホームページ ものづくり・商業・サービス生産性向上促進補助金総合サイト",
+          "detail_url": "https://portal.monodukuri-hojo.jp/common/bunsho/ippan/23th/公募要領_23次締切_20260206.pdf",
+          "industry_slugs": [],
+          "judgment_ready": true
+        },
+        {
+          "id": "deep-meti-monozukuri-4cd7b2c64391",
+          "title": "【中小企業庁】ものづくり・商業・サービス生産性向上促進補助金公式ホームページ ものづくり・商業・サービス生産性向上促進補助金総合サイト",
+          "detail_url": "https://portal.monodukuri-hojo.jp/common/bunsho/ippan/22th/公募要領_22次締切_20260206.pdf",
+          "industry_slugs": [],
+          "judgment_ready": true
+        },
+        {
+          "id": "deep-meti-monozukuri-25541e83970f",
+          "title": "【中小企業庁】ものづくり・商業・サービス生産性向上促進補助金公式ホームページ ものづくり・商業・サービス生産性向上促進補助金総合サイト",
+          "detail_url": "https://portal.monodukuri-hojo.jp/common/bunsho/ippan/21th/公募要領_21次締切_20250807.pdf",
+          "industry_slugs": [],
+          "judgment_ready": true
+        },
+        {
+          "id": "deep-meti-monozukuri-4dbc1c8346ae",
+          "title": "【中小企業庁】ものづくり・商業・サービス生産性向上促進補助金公式ホームページ ものづくり・商業・サービス生産性向上促進補助金総合サイト",
+          "detail_url": "https://portal.monodukuri-hojo.jp/common/bunsho/ippan/20th/公募要領_20次締切_20250516.pdf",
+          "industry_slugs": [],
+          "judgment_ready": true
+        }
+      ],
+      "source": "ものづくり・商業・サービス生産性向上促進補助金",
+      "source_ref": "https://portal.monodukuri-hojo.jp/saitaku.html",
+      "note": "制度単位の公表採択率。採択企業の実名一覧は source_ref の公表ページを参照（feed本体には載せない）。"
+    },
+    {
+      "as_of_date": "2025-09-26",
+      "still_valid_2026": true,
+      "retrieved_at": "2026-07-24",
+      "veritas": "✅",
+      "metric_id": "jp.subsidy.adoption_stats",
+      "program_key": "jizokuka-ippan-tsujo",
+      "program_name_ja": "小規模事業者持続化補助金＜一般型・通常枠＞",
+      "round_label": "第17回締切",
+      "frame": null,
+      "applicants": 23365,
+      "adopted": 11928,
+      "adoption_rate_pct": 51.05,
+      "unit": "pct",
+      "value": 51.05,
+      "industry_slugs_hint": [
+        "consumer-goods",
+        "food-beverage",
+        "manufacturing-total"
+      ],
+      "linked_active_sample": [
+        {
+          "id": "a0WJ200000CDKbTMAX",
+          "title": "⼩規模事業者持続化補助⾦＜⼀般型 災害⽀援枠（令和６年能登半島地震等）＞６次公募【商⼯会地区】",
+          "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDKbTMAX",
+          "industry_slugs": [
+            "untagged"
+          ],
+          "judgment_ready": true
+        },
+        {
+          "id": "a0WJ200000CDKKSMA5",
+          "title": "小規模事業者持続化補助金＜一般型 災害支援枠（令和６年能登半島地震等）＞６次公募【商工会議所地区】",
+          "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDKKSMA5",
+          "industry_slugs": [
+            "untagged"
+          ],
+          "judgment_ready": true
+        },
+        {
+          "id": "a0WJ200000CDOcTMAX",
+          "title": "小規模事業者持続化補助金＜一般型 災害支援枠（令和６年能登半島地震等）＞７次公募【商工会議所地区】",
+          "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDOcTMAX",
+          "industry_slugs": [
+            "untagged"
+          ],
+          "judgment_ready": true
+        },
+        {
+          "id": "a0WJ200000CDOLIMA5",
+          "title": "⼩規模事業者持続化補助⾦＜⼀般型 災害⽀援枠（令和６年能登半島地震等）＞７次公募【商⼯会地区】",
+          "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDOLIMA5",
+          "industry_slugs": [
+            "untagged"
+          ],
+          "judgment_ready": true
+        },
+        {
+          "id": "a0WJ200000CDUg2MAH",
+          "title": "小規模事業者持続化補助金＜一般型 災害支援枠（令和６年能登半島地震等）＞８次公募【商工会議所地区】",
+          "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDUg2MAH",
+          "industry_slugs": [
+            "untagged"
+          ],
+          "judgment_ready": true
+        },
+        {
+          "id": "a0WJ200000CDUGBMA5",
+          "title": "⼩規模事業者持続化補助⾦＜⼀般型 災害⽀援枠（令和６年能登半島地震等）＞８次公募【商⼯会地区】",
+          "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDUGBMA5",
+          "industry_slugs": [
+            "untagged"
+          ],
+          "judgment_ready": true
+        },
+        {
+          "id": "a0WJ200000CDW4SMAX",
+          "title": "小規模事業者持続化補助金＜一般型 災害支援枠（令和６年能登半島地震等）＞９次公募【商工会議所地区】",
+          "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDW4SMAX",
+          "industry_slugs": [
+            "untagged"
+          ],
+          "judgment_ready": true
+        },
+        {
+          "id": "mirasapo-28899",
+          "title": "中小企業庁担当者に聞く「令和7年度　小規模事業者持続化補助金（一般型（通常枠）・創業型）のポイント」",
+          "detail_url": "https://mirasapo-plus.go.jp/infomation/28899/",
+          "industry_slugs": [
+            "untagged"
+          ],
+          "judgment_ready": false
+        }
+      ],
+      "source": "小規模事業者持続化補助金＜一般型・通常枠＞",
+      "source_ref": "https://www.chusho.meti.go.jp/koukai/hojyokin/saitaku/2025/250926001.html",
+      "note": "制度単位の公表採択率。採択企業の実名一覧は source_ref の公表ページを参照（feed本体には載せない）。"
+    },
+    {
+      "as_of_date": "2025-07-28",
+      "still_valid_2026": true,
+      "retrieved_at": "2026-07-24",
+      "veritas": "✅",
+      "metric_id": "jp.subsidy.adoption_stats",
+      "program_key": "monodukuri",
+      "program_name_ja": "ものづくり・商業・サービス生産性向上促進補助金",
+      "round_label": "19次",
+      "frame": null,
+      "applicants": 5336,
+      "adopted": 1698,
+      "adoption_rate_pct": 31.82,
+      "unit": "pct",
+      "value": 31.82,
+      "industry_slugs_hint": [
+        "manufacturing-total",
+        "industrial-machinery",
+        "electrical-equipment",
+        "automotive-mobility",
+        "food-beverage"
+      ],
+      "linked_active_sample": [
+        {
+          "id": "a0WJ200000CDTzMMAX",
+          "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（19次締切）",
+          "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDTzMMAX",
+          "industry_slugs": [
+            "manufacturing-total"
+          ],
+          "judgment_ready": true
+        },
+        {
+          "id": "a0WJ200000CDVkeMAH",
+          "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（20次締切）",
+          "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDVkeMAH",
+          "industry_slugs": [
+            "manufacturing-total"
+          ],
+          "judgment_ready": true
+        },
+        {
+          "id": "a0WJ200000CDX4vMAH",
+          "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（21次締切）",
+          "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDX4vMAH",
+          "industry_slugs": [
+            "manufacturing-total"
+          ],
+          "judgment_ready": true
+        },
+        {
+          "id": "a0WJ200000CDYimMAH",
+          "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（22次締切）",
+          "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYimMAH",
+          "industry_slugs": [
+            "manufacturing-total"
+          ],
+          "judgment_ready": true
+        },
+        {
+          "id": "deep-meti-monozukuri-0dc4eee81962",
+          "title": "【中小企業庁】ものづくり・商業・サービス生産性向上促進補助金公式ホームページ ものづくり・商業・サービス生産性向上促進補助金総合サイト",
+          "detail_url": "https://portal.monodukuri-hojo.jp/common/bunsho/ippan/23th/公募要領_23次締切_20260206.pdf",
+          "industry_slugs": [],
+          "judgment_ready": true
+        },
+        {
+          "id": "deep-meti-monozukuri-4cd7b2c64391",
+          "title": "【中小企業庁】ものづくり・商業・サービス生産性向上促進補助金公式ホームページ ものづくり・商業・サービス生産性向上促進補助金総合サイト",
+          "detail_url": "https://portal.monodukuri-hojo.jp/common/bunsho/ippan/22th/公募要領_22次締切_20260206.pdf",
+          "industry_slugs": [],
+          "judgment_ready": true
+        },
+        {
+          "id": "deep-meti-monozukuri-25541e83970f",
+          "title": "【中小企業庁】ものづくり・商業・サービス生産性向上促進補助金公式ホームページ ものづくり・商業・サービス生産性向上促進補助金総合サイト",
+          "detail_url": "https://portal.monodukuri-hojo.jp/common/bunsho/ippan/21th/公募要領_21次締切_20250807.pdf",
+          "industry_slugs": [],
+          "judgment_ready": true
+        },
+        {
+          "id": "deep-meti-monozukuri-4dbc1c8346ae",
+          "title": "【中小企業庁】ものづくり・商業・サービス生産性向上促進補助金公式ホームページ ものづくり・商業・サービス生産性向上促進補助金総合サイト",
+          "detail_url": "https://portal.monodukuri-hojo.jp/common/bunsho/ippan/20th/公募要領_20次締切_20250516.pdf",
+          "industry_slugs": [],
+          "judgment_ready": true
+        }
+      ],
+      "source": "ものづくり・商業・サービス生産性向上促進補助金",
+      "source_ref": "https://portal.monodukuri-hojo.jp/saitaku.html",
+      "note": "制度単位の公表採択率。採択企業の実名一覧は source_ref の公表ページを参照（feed本体には載せない）。"
+    },
+    {
+      "as_of_date": "2024-06-25",
+      "still_valid_2026": true,
+      "retrieved_at": "2026-07-24",
+      "veritas": "✅",
+      "metric_id": "jp.subsidy.adoption_stats",
+      "program_key": "monodukuri",
+      "program_name_ja": "ものづくり・商業・サービス生産性向上促進補助金",
+      "round_label": "18次",
+      "frame": null,
+      "applicants": 5777,
+      "adopted": 2070,
+      "adoption_rate_pct": 35.83,
+      "unit": "pct",
+      "value": 35.83,
+      "industry_slugs_hint": [
+        "manufacturing-total",
+        "industrial-machinery",
+        "electrical-equipment",
+        "automotive-mobility",
+        "food-beverage"
+      ],
+      "linked_active_sample": [
+        {
+          "id": "a0WJ200000CDTzMMAX",
+          "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（19次締切）",
+          "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDTzMMAX",
+          "industry_slugs": [
+            "manufacturing-total"
+          ],
+          "judgment_ready": true
+        },
+        {
+          "id": "a0WJ200000CDVkeMAH",
+          "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（20次締切）",
+          "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDVkeMAH",
+          "industry_slugs": [
+            "manufacturing-total"
+          ],
+          "judgment_ready": true
+        },
+        {
+          "id": "a0WJ200000CDX4vMAH",
+          "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（21次締切）",
+          "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDX4vMAH",
+          "industry_slugs": [
+            "manufacturing-total"
+          ],
+          "judgment_ready": true
+        },
+        {
+          "id": "a0WJ200000CDYimMAH",
+          "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（22次締切）",
+          "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYimMAH",
+          "industry_slugs": [
+            "manufacturing-total"
+          ],
+          "judgment_ready": true
+        },
+        {
+          "id": "deep-meti-monozukuri-0dc4eee81962",
+          "title": "【中小企業庁】ものづくり・商業・サービス生産性向上促進補助金公式ホームページ ものづくり・商業・サービス生産性向上促進補助金総合サイト",
+          "detail_url": "https://portal.monodukuri-hojo.jp/common/bunsho/ippan/23th/公募要領_23次締切_20260206.pdf",
+          "industry_slugs": [],
+          "judgment_ready": true
+        },
+        {
+          "id": "deep-meti-monozukuri-4cd7b2c64391",
+          "title": "【中小企業庁】ものづくり・商業・サービス生産性向上促進補助金公式ホームページ ものづくり・商業・サービス生産性向上促進補助金総合サイト",
+          "detail_url": "https://portal.monodukuri-hojo.jp/common/bunsho/ippan/22th/公募要領_22次締切_20260206.pdf",
+          "industry_slugs": [],
+          "judgment_ready": true
+        },
+        {
+          "id": "deep-meti-monozukuri-25541e83970f",
+          "title": "【中小企業庁】ものづくり・商業・サービス生産性向上促進補助金公式ホームページ ものづくり・商業・サービス生産性向上促進補助金総合サイト",
+          "detail_url": "https://portal.monodukuri-hojo.jp/common/bunsho/ippan/21th/公募要領_21次締切_20250807.pdf",
+          "industry_slugs": [],
+          "judgment_ready": true
+        },
+        {
+          "id": "deep-meti-monozukuri-4dbc1c8346ae",
+          "title": "【中小企業庁】ものづくり・商業・サービス生産性向上促進補助金公式ホームページ ものづくり・商業・サービス生産性向上促進補助金総合サイト",
+          "detail_url": "https://portal.monodukuri-hojo.jp/common/bunsho/ippan/20th/公募要領_20次締切_20250516.pdf",
+          "industry_slugs": [],
+          "judgment_ready": true
+        }
+      ],
+      "source": "ものづくり・商業・サービス生産性向上促進補助金",
+      "source_ref": "https://portal.monodukuri-hojo.jp/saitaku.html",
+      "note": "制度単位の公表採択率。採択企業の実名一覧は source_ref の公表ページを参照（feed本体には載せない）。"
+    },
+    {
+      "as_of_date": "2024-05-20",
+      "still_valid_2026": true,
+      "retrieved_at": "2026-07-24",
+      "veritas": "✅",
+      "metric_id": "jp.subsidy.adoption_stats",
+      "program_key": "monodukuri",
+      "program_name_ja": "ものづくり・商業・サービス生産性向上促進補助金",
+      "round_label": "17次",
+      "frame": null,
+      "applicants": 629,
+      "adopted": 185,
+      "adoption_rate_pct": 29.41,
+      "unit": "pct",
+      "value": 29.41,
+      "industry_slugs_hint": [
+        "manufacturing-total",
+        "industrial-machinery",
+        "electrical-equipment",
+        "automotive-mobility",
+        "food-beverage"
+      ],
+      "linked_active_sample": [
+        {
+          "id": "a0WJ200000CDTzMMAX",
+          "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（19次締切）",
+          "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDTzMMAX",
+          "industry_slugs": [
+            "manufacturing-total"
+          ],
+          "judgment_ready": true
+        },
+        {
+          "id": "a0WJ200000CDVkeMAH",
+          "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（20次締切）",
+          "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDVkeMAH",
+          "industry_slugs": [
+            "manufacturing-total"
+          ],
+          "judgment_ready": true
+        },
+        {
+          "id": "a0WJ200000CDX4vMAH",
+          "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（21次締切）",
+          "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDX4vMAH",
+          "industry_slugs": [
+            "manufacturing-total"
+          ],
+          "judgment_ready": true
+        },
+        {
+          "id": "a0WJ200000CDYimMAH",
+          "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（22次締切）",
+          "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYimMAH",
+          "industry_slugs": [
+            "manufacturing-total"
+          ],
+          "judgment_ready": true
+        },
+        {
+          "id": "deep-meti-monozukuri-0dc4eee81962",
+          "title": "【中小企業庁】ものづくり・商業・サービス生産性向上促進補助金公式ホームページ ものづくり・商業・サービス生産性向上促進補助金総合サイト",
+          "detail_url": "https://portal.monodukuri-hojo.jp/common/bunsho/ippan/23th/公募要領_23次締切_20260206.pdf",
+          "industry_slugs": [],
+          "judgment_ready": true
+        },
+        {
+          "id": "deep-meti-monozukuri-4cd7b2c64391",
+          "title": "【中小企業庁】ものづくり・商業・サービス生産性向上促進補助金公式ホームページ ものづくり・商業・サービス生産性向上促進補助金総合サイト",
+          "detail_url": "https://portal.monodukuri-hojo.jp/common/bunsho/ippan/22th/公募要領_22次締切_20260206.pdf",
+          "industry_slugs": [],
+          "judgment_ready": true
+        },
+        {
+          "id": "deep-meti-monozukuri-25541e83970f",
+          "title": "【中小企業庁】ものづくり・商業・サービス生産性向上促進補助金公式ホームページ ものづくり・商業・サービス生産性向上促進補助金総合サイト",
+          "detail_url": "https://portal.monodukuri-hojo.jp/common/bunsho/ippan/21th/公募要領_21次締切_20250807.pdf",
+          "industry_slugs": [],
+          "judgment_ready": true
+        },
+        {
+          "id": "deep-meti-monozukuri-4dbc1c8346ae",
+          "title": "【中小企業庁】ものづくり・商業・サービス生産性向上促進補助金公式ホームページ ものづくり・商業・サービス生産性向上促進補助金総合サイト",
+          "detail_url": "https://portal.monodukuri-hojo.jp/common/bunsho/ippan/20th/公募要領_20次締切_20250516.pdf",
+          "industry_slugs": [],
+          "judgment_ready": true
+        }
+      ],
+      "source": "ものづくり・商業・サービス生産性向上促進補助金",
+      "source_ref": "https://portal.monodukuri-hojo.jp/saitaku.html",
+      "note": "制度単位の公表採択率。採択企業の実名一覧は source_ref の公表ページを参照（feed本体には載せない）。"
+    },
+    {
+      "as_of_date": "2024-01-19",
+      "still_valid_2026": true,
+      "retrieved_at": "2026-07-24",
+      "veritas": "✅",
+      "metric_id": "jp.subsidy.adoption_stats",
+      "program_key": "monodukuri",
+      "program_name_ja": "ものづくり・商業・サービス生産性向上促進補助金",
+      "round_label": "16次",
+      "frame": null,
+      "applicants": 5608,
+      "adopted": 2738,
+      "adoption_rate_pct": 48.82,
+      "unit": "pct",
+      "value": 48.82,
+      "industry_slugs_hint": [
+        "manufacturing-total",
+        "industrial-machinery",
+        "electrical-equipment",
+        "automotive-mobility",
+        "food-beverage"
+      ],
+      "linked_active_sample": [
+        {
+          "id": "a0WJ200000CDTzMMAX",
+          "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（19次締切）",
+          "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDTzMMAX",
+          "industry_slugs": [
+            "manufacturing-total"
+          ],
+          "judgment_ready": true
+        },
+        {
+          "id": "a0WJ200000CDVkeMAH",
+          "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（20次締切）",
+          "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDVkeMAH",
+          "industry_slugs": [
+            "manufacturing-total"
+          ],
+          "judgment_ready": true
+        },
+        {
+          "id": "a0WJ200000CDX4vMAH",
+          "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（21次締切）",
+          "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDX4vMAH",
+          "industry_slugs": [
+            "manufacturing-total"
+          ],
+          "judgment_ready": true
+        },
+        {
+          "id": "a0WJ200000CDYimMAH",
+          "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（22次締切）",
+          "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYimMAH",
+          "industry_slugs": [
+            "manufacturing-total"
+          ],
+          "judgment_ready": true
+        },
+        {
+          "id": "deep-meti-monozukuri-0dc4eee81962",
+          "title": "【中小企業庁】ものづくり・商業・サービス生産性向上促進補助金公式ホームページ ものづくり・商業・サービス生産性向上促進補助金総合サイト",
+          "detail_url": "https://portal.monodukuri-hojo.jp/common/bunsho/ippan/23th/公募要領_23次締切_20260206.pdf",
+          "industry_slugs": [],
+          "judgment_ready": true
+        },
+        {
+          "id": "deep-meti-monozukuri-4cd7b2c64391",
+          "title": "【中小企業庁】ものづくり・商業・サービス生産性向上促進補助金公式ホームページ ものづくり・商業・サービス生産性向上促進補助金総合サイト",
+          "detail_url": "https://portal.monodukuri-hojo.jp/common/bunsho/ippan/22th/公募要領_22次締切_20260206.pdf",
+          "industry_slugs": [],
+          "judgment_ready": true
+        },
+        {
+          "id": "deep-meti-monozukuri-25541e83970f",
+          "title": "【中小企業庁】ものづくり・商業・サービス生産性向上促進補助金公式ホームページ ものづくり・商業・サービス生産性向上促進補助金総合サイト",
+          "detail_url": "https://portal.monodukuri-hojo.jp/common/bunsho/ippan/21th/公募要領_21次締切_20250807.pdf",
+          "industry_slugs": [],
+          "judgment_ready": true
+        },
+        {
+          "id": "deep-meti-monozukuri-4dbc1c8346ae",
+          "title": "【中小企業庁】ものづくり・商業・サービス生産性向上促進補助金公式ホームページ ものづくり・商業・サービス生産性向上促進補助金総合サイト",
+          "detail_url": "https://portal.monodukuri-hojo.jp/common/bunsho/ippan/20th/公募要領_20次締切_20250516.pdf",
+          "industry_slugs": [],
+          "judgment_ready": true
+        }
+      ],
+      "source": "ものづくり・商業・サービス生産性向上促進補助金",
+      "source_ref": "https://portal.monodukuri-hojo.jp/saitaku.html",
+      "note": "制度単位の公表採択率。採択企業の実名一覧は source_ref の公表ページを参照（feed本体には載せない）。"
+    },
+    {
+      "as_of_date": "2023-09-29",
+      "still_valid_2026": "unverified",
+      "retrieved_at": "2026-07-24",
+      "veritas": "✅",
+      "metric_id": "jp.subsidy.adoption_stats",
+      "program_key": "monodukuri",
+      "program_name_ja": "ものづくり・商業・サービス生産性向上促進補助金",
+      "round_label": "15次",
+      "frame": null,
+      "applicants": 5694,
+      "adopted": 2861,
+      "adoption_rate_pct": 50.25,
+      "unit": "pct",
+      "value": 50.25,
+      "industry_slugs_hint": [
+        "manufacturing-total",
+        "industrial-machinery",
+        "electrical-equipment",
+        "automotive-mobility",
+        "food-beverage"
+      ],
+      "linked_active_sample": [
+        {
+          "id": "a0WJ200000CDTzMMAX",
+          "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（19次締切）",
+          "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDTzMMAX",
+          "industry_slugs": [
+            "manufacturing-total"
+          ],
+          "judgment_ready": true
+        },
+        {
+          "id": "a0WJ200000CDVkeMAH",
+          "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（20次締切）",
+          "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDVkeMAH",
+          "industry_slugs": [
+            "manufacturing-total"
+          ],
+          "judgment_ready": true
+        },
+        {
+          "id": "a0WJ200000CDX4vMAH",
+          "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（21次締切）",
+          "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDX4vMAH",
+          "industry_slugs": [
+            "manufacturing-total"
+          ],
+          "judgment_ready": true
+        },
+        {
+          "id": "a0WJ200000CDYimMAH",
+          "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（22次締切）",
+          "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYimMAH",
+          "industry_slugs": [
+            "manufacturing-total"
+          ],
+          "judgment_ready": true
+        },
+        {
+          "id": "deep-meti-monozukuri-0dc4eee81962",
+          "title": "【中小企業庁】ものづくり・商業・サービス生産性向上促進補助金公式ホームページ ものづくり・商業・サービス生産性向上促進補助金総合サイト",
+          "detail_url": "https://portal.monodukuri-hojo.jp/common/bunsho/ippan/23th/公募要領_23次締切_20260206.pdf",
+          "industry_slugs": [],
+          "judgment_ready": true
+        },
+        {
+          "id": "deep-meti-monozukuri-4cd7b2c64391",
+          "title": "【中小企業庁】ものづくり・商業・サービス生産性向上促進補助金公式ホームページ ものづくり・商業・サービス生産性向上促進補助金総合サイト",
+          "detail_url": "https://portal.monodukuri-hojo.jp/common/bunsho/ippan/22th/公募要領_22次締切_20260206.pdf",
+          "industry_slugs": [],
+          "judgment_ready": true
+        },
+        {
+          "id": "deep-meti-monozukuri-25541e83970f",
+          "title": "【中小企業庁】ものづくり・商業・サービス生産性向上促進補助金公式ホームページ ものづくり・商業・サービス生産性向上促進補助金総合サイト",
+          "detail_url": "https://portal.monodukuri-hojo.jp/common/bunsho/ippan/21th/公募要領_21次締切_20250807.pdf",
+          "industry_slugs": [],
+          "judgment_ready": true
+        },
+        {
+          "id": "deep-meti-monozukuri-4dbc1c8346ae",
+          "title": "【中小企業庁】ものづくり・商業・サービス生産性向上促進補助金公式ホームページ ものづくり・商業・サービス生産性向上促進補助金総合サイト",
+          "detail_url": "https://portal.monodukuri-hojo.jp/common/bunsho/ippan/20th/公募要領_20次締切_20250516.pdf",
+          "industry_slugs": [],
+          "judgment_ready": true
+        }
+      ],
+      "source": "ものづくり・商業・サービス生産性向上促進補助金",
+      "source_ref": "https://portal.monodukuri-hojo.jp/saitaku.html",
+      "note": "制度単位の公表採択率。採択企業の実名一覧は source_ref の公表ページを参照（feed本体には載せない）。"
+    },
+    {
+      "as_of_date": "2023-06-23",
+      "still_valid_2026": "unverified",
+      "retrieved_at": "2026-07-24",
+      "veritas": "✅",
+      "metric_id": "jp.subsidy.adoption_stats",
+      "program_key": "monodukuri",
+      "program_name_ja": "ものづくり・商業・サービス生産性向上促進補助金",
+      "round_label": "14次",
+      "frame": null,
+      "applicants": 4865,
+      "adopted": 2470,
+      "adoption_rate_pct": 50.77,
+      "unit": "pct",
+      "value": 50.77,
+      "industry_slugs_hint": [
+        "manufacturing-total",
+        "industrial-machinery",
+        "electrical-equipment",
+        "automotive-mobility",
+        "food-beverage"
+      ],
+      "linked_active_sample": [
+        {
+          "id": "a0WJ200000CDTzMMAX",
+          "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（19次締切）",
+          "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDTzMMAX",
+          "industry_slugs": [
+            "manufacturing-total"
+          ],
+          "judgment_ready": true
+        },
+        {
+          "id": "a0WJ200000CDVkeMAH",
+          "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（20次締切）",
+          "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDVkeMAH",
+          "industry_slugs": [
+            "manufacturing-total"
+          ],
+          "judgment_ready": true
+        },
+        {
+          "id": "a0WJ200000CDX4vMAH",
+          "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（21次締切）",
+          "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDX4vMAH",
+          "industry_slugs": [
+            "manufacturing-total"
+          ],
+          "judgment_ready": true
+        },
+        {
+          "id": "a0WJ200000CDYimMAH",
+          "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（22次締切）",
+          "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYimMAH",
+          "industry_slugs": [
+            "manufacturing-total"
+          ],
+          "judgment_ready": true
+        },
+        {
+          "id": "deep-meti-monozukuri-0dc4eee81962",
+          "title": "【中小企業庁】ものづくり・商業・サービス生産性向上促進補助金公式ホームページ ものづくり・商業・サービス生産性向上促進補助金総合サイト",
+          "detail_url": "https://portal.monodukuri-hojo.jp/common/bunsho/ippan/23th/公募要領_23次締切_20260206.pdf",
+          "industry_slugs": [],
+          "judgment_ready": true
+        },
+        {
+          "id": "deep-meti-monozukuri-4cd7b2c64391",
+          "title": "【中小企業庁】ものづくり・商業・サービス生産性向上促進補助金公式ホームページ ものづくり・商業・サービス生産性向上促進補助金総合サイト",
+          "detail_url": "https://portal.monodukuri-hojo.jp/common/bunsho/ippan/22th/公募要領_22次締切_20260206.pdf",
+          "industry_slugs": [],
+          "judgment_ready": true
+        },
+        {
+          "id": "deep-meti-monozukuri-25541e83970f",
+          "title": "【中小企業庁】ものづくり・商業・サービス生産性向上促進補助金公式ホームページ ものづくり・商業・サービス生産性向上促進補助金総合サイト",
+          "detail_url": "https://portal.monodukuri-hojo.jp/common/bunsho/ippan/21th/公募要領_21次締切_20250807.pdf",
+          "industry_slugs": [],
+          "judgment_ready": true
+        },
+        {
+          "id": "deep-meti-monozukuri-4dbc1c8346ae",
+          "title": "【中小企業庁】ものづくり・商業・サービス生産性向上促進補助金公式ホームページ ものづくり・商業・サービス生産性向上促進補助金総合サイト",
+          "detail_url": "https://portal.monodukuri-hojo.jp/common/bunsho/ippan/20th/公募要領_20次締切_20250516.pdf",
+          "industry_slugs": [],
+          "judgment_ready": true
+        }
+      ],
+      "source": "ものづくり・商業・サービス生産性向上促進補助金",
+      "source_ref": "https://portal.monodukuri-hojo.jp/saitaku.html",
+      "note": "制度単位の公表採択率。採択企業の実名一覧は source_ref の公表ページを参照（feed本体には載せない）。"
+    },
+    {
+      "as_of_date": "2023-02-20",
+      "still_valid_2026": "unverified",
+      "retrieved_at": "2026-07-24",
+      "veritas": "✅",
+      "metric_id": "jp.subsidy.adoption_stats",
+      "program_key": "monodukuri",
+      "program_name_ja": "ものづくり・商業・サービス生産性向上促進補助金",
+      "round_label": "13次（一般型）",
+      "frame": "一般型",
+      "applicants": 3261,
+      "adopted": 1903,
+      "adoption_rate_pct": 58.36,
+      "unit": "pct",
+      "value": 58.36,
+      "industry_slugs_hint": [
+        "manufacturing-total",
+        "industrial-machinery",
+        "electrical-equipment",
+        "automotive-mobility",
+        "food-beverage"
+      ],
+      "linked_active_sample": [
+        {
+          "id": "a0WJ200000CDTzMMAX",
+          "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（19次締切）",
+          "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDTzMMAX",
+          "industry_slugs": [
+            "manufacturing-total"
+          ],
+          "judgment_ready": true
+        },
+        {
+          "id": "a0WJ200000CDVkeMAH",
+          "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（20次締切）",
+          "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDVkeMAH",
+          "industry_slugs": [
+            "manufacturing-total"
+          ],
+          "judgment_ready": true
+        },
+        {
+          "id": "a0WJ200000CDX4vMAH",
+          "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（21次締切）",
+          "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDX4vMAH",
+          "industry_slugs": [
+            "manufacturing-total"
+          ],
+          "judgment_ready": true
+        },
+        {
+          "id": "a0WJ200000CDYimMAH",
+          "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（22次締切）",
+          "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYimMAH",
+          "industry_slugs": [
+            "manufacturing-total"
+          ],
+          "judgment_ready": true
+        },
+        {
+          "id": "deep-meti-monozukuri-0dc4eee81962",
+          "title": "【中小企業庁】ものづくり・商業・サービス生産性向上促進補助金公式ホームページ ものづくり・商業・サービス生産性向上促進補助金総合サイト",
+          "detail_url": "https://portal.monodukuri-hojo.jp/common/bunsho/ippan/23th/公募要領_23次締切_20260206.pdf",
+          "industry_slugs": [],
+          "judgment_ready": true
+        },
+        {
+          "id": "deep-meti-monozukuri-4cd7b2c64391",
+          "title": "【中小企業庁】ものづくり・商業・サービス生産性向上促進補助金公式ホームページ ものづくり・商業・サービス生産性向上促進補助金総合サイト",
+          "detail_url": "https://portal.monodukuri-hojo.jp/common/bunsho/ippan/22th/公募要領_22次締切_20260206.pdf",
+          "industry_slugs": [],
+          "judgment_ready": true
+        },
+        {
+          "id": "deep-meti-monozukuri-25541e83970f",
+          "title": "【中小企業庁】ものづくり・商業・サービス生産性向上促進補助金公式ホームページ ものづくり・商業・サービス生産性向上促進補助金総合サイト",
+          "detail_url": "https://portal.monodukuri-hojo.jp/common/bunsho/ippan/21th/公募要領_21次締切_20250807.pdf",
+          "industry_slugs": [],
+          "judgment_ready": true
+        },
+        {
+          "id": "deep-meti-monozukuri-4dbc1c8346ae",
+          "title": "【中小企業庁】ものづくり・商業・サービス生産性向上促進補助金公式ホームページ ものづくり・商業・サービス生産性向上促進補助金総合サイト",
+          "detail_url": "https://portal.monodukuri-hojo.jp/common/bunsho/ippan/20th/公募要領_20次締切_20250516.pdf",
+          "industry_slugs": [],
+          "judgment_ready": true
+        }
+      ],
+      "source": "ものづくり・商業・サービス生産性向上促進補助金",
+      "source_ref": "https://portal.monodukuri-hojo.jp/saitaku.html",
+      "note": "制度単位の公表採択率。採択企業の実名一覧は source_ref の公表ページを参照（feed本体には載せない）。"
+    },
+    {
+      "as_of_date": "2022-12-16",
+      "still_valid_2026": "unverified",
+      "retrieved_at": "2026-07-24",
+      "veritas": "✅",
+      "metric_id": "jp.subsidy.adoption_stats",
+      "program_key": "monodukuri",
+      "program_name_ja": "ものづくり・商業・サービス生産性向上促進補助金",
+      "round_label": "12次（一般型）",
+      "frame": "一般型",
+      "applicants": 3200,
+      "adopted": 1885,
+      "adoption_rate_pct": 58.91,
+      "unit": "pct",
+      "value": 58.91,
+      "industry_slugs_hint": [
+        "manufacturing-total",
+        "industrial-machinery",
+        "electrical-equipment",
+        "automotive-mobility",
+        "food-beverage"
+      ],
+      "linked_active_sample": [
+        {
+          "id": "a0WJ200000CDTzMMAX",
+          "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（19次締切）",
+          "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDTzMMAX",
+          "industry_slugs": [
+            "manufacturing-total"
+          ],
+          "judgment_ready": true
+        },
+        {
+          "id": "a0WJ200000CDVkeMAH",
+          "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（20次締切）",
+          "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDVkeMAH",
+          "industry_slugs": [
+            "manufacturing-total"
+          ],
+          "judgment_ready": true
+        },
+        {
+          "id": "a0WJ200000CDX4vMAH",
+          "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（21次締切）",
+          "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDX4vMAH",
+          "industry_slugs": [
+            "manufacturing-total"
+          ],
+          "judgment_ready": true
+        },
+        {
+          "id": "a0WJ200000CDYimMAH",
+          "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（22次締切）",
+          "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYimMAH",
+          "industry_slugs": [
+            "manufacturing-total"
+          ],
+          "judgment_ready": true
+        },
+        {
+          "id": "deep-meti-monozukuri-0dc4eee81962",
+          "title": "【中小企業庁】ものづくり・商業・サービス生産性向上促進補助金公式ホームページ ものづくり・商業・サービス生産性向上促進補助金総合サイト",
+          "detail_url": "https://portal.monodukuri-hojo.jp/common/bunsho/ippan/23th/公募要領_23次締切_20260206.pdf",
+          "industry_slugs": [],
+          "judgment_ready": true
+        },
+        {
+          "id": "deep-meti-monozukuri-4cd7b2c64391",
+          "title": "【中小企業庁】ものづくり・商業・サービス生産性向上促進補助金公式ホームページ ものづくり・商業・サービス生産性向上促進補助金総合サイト",
+          "detail_url": "https://portal.monodukuri-hojo.jp/common/bunsho/ippan/22th/公募要領_22次締切_20260206.pdf",
+          "industry_slugs": [],
+          "judgment_ready": true
+        },
+        {
+          "id": "deep-meti-monozukuri-25541e83970f",
+          "title": "【中小企業庁】ものづくり・商業・サービス生産性向上促進補助金公式ホームページ ものづくり・商業・サービス生産性向上促進補助金総合サイト",
+          "detail_url": "https://portal.monodukuri-hojo.jp/common/bunsho/ippan/21th/公募要領_21次締切_20250807.pdf",
+          "industry_slugs": [],
+          "judgment_ready": true
+        },
+        {
+          "id": "deep-meti-monozukuri-4dbc1c8346ae",
+          "title": "【中小企業庁】ものづくり・商業・サービス生産性向上促進補助金公式ホームページ ものづくり・商業・サービス生産性向上促進補助金総合サイト",
+          "detail_url": "https://portal.monodukuri-hojo.jp/common/bunsho/ippan/20th/公募要領_20次締切_20250516.pdf",
+          "industry_slugs": [],
+          "judgment_ready": true
+        }
+      ],
+      "source": "ものづくり・商業・サービス生産性向上促進補助金",
+      "source_ref": "https://portal.monodukuri-hojo.jp/saitaku.html",
+      "note": "制度単位の公表採択率。採択企業の実名一覧は source_ref の公表ページを参照（feed本体には載せない）。"
+    },
+    {
+      "as_of_date": "2022-10-20",
+      "still_valid_2026": "unverified",
+      "retrieved_at": "2026-07-24",
+      "veritas": "✅",
+      "metric_id": "jp.subsidy.adoption_stats",
+      "program_key": "monodukuri",
+      "program_name_ja": "ものづくり・商業・サービス生産性向上促進補助金",
+      "round_label": "11次（一般型）",
+      "frame": "一般型",
+      "applicants": 4668,
+      "adopted": 2786,
+      "adoption_rate_pct": 59.68,
+      "unit": "pct",
+      "value": 59.68,
+      "industry_slugs_hint": [
+        "manufacturing-total",
+        "industrial-machinery",
+        "electrical-equipment",
+        "automotive-mobility",
+        "food-beverage"
+      ],
+      "linked_active_sample": [
+        {
+          "id": "a0WJ200000CDTzMMAX",
+          "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（19次締切）",
+          "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDTzMMAX",
+          "industry_slugs": [
+            "manufacturing-total"
+          ],
+          "judgment_ready": true
+        },
+        {
+          "id": "a0WJ200000CDVkeMAH",
+          "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（20次締切）",
+          "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDVkeMAH",
+          "industry_slugs": [
+            "manufacturing-total"
+          ],
+          "judgment_ready": true
+        },
+        {
+          "id": "a0WJ200000CDX4vMAH",
+          "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（21次締切）",
+          "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDX4vMAH",
+          "industry_slugs": [
+            "manufacturing-total"
+          ],
+          "judgment_ready": true
+        },
+        {
+          "id": "a0WJ200000CDYimMAH",
+          "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（22次締切）",
+          "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYimMAH",
+          "industry_slugs": [
+            "manufacturing-total"
+          ],
+          "judgment_ready": true
+        },
+        {
+          "id": "deep-meti-monozukuri-0dc4eee81962",
+          "title": "【中小企業庁】ものづくり・商業・サービス生産性向上促進補助金公式ホームページ ものづくり・商業・サービス生産性向上促進補助金総合サイト",
+          "detail_url": "https://portal.monodukuri-hojo.jp/common/bunsho/ippan/23th/公募要領_23次締切_20260206.pdf",
+          "industry_slugs": [],
+          "judgment_ready": true
+        },
+        {
+          "id": "deep-meti-monozukuri-4cd7b2c64391",
+          "title": "【中小企業庁】ものづくり・商業・サービス生産性向上促進補助金公式ホームページ ものづくり・商業・サービス生産性向上促進補助金総合サイト",
+          "detail_url": "https://portal.monodukuri-hojo.jp/common/bunsho/ippan/22th/公募要領_22次締切_20260206.pdf",
+          "industry_slugs": [],
+          "judgment_ready": true
+        },
+        {
+          "id": "deep-meti-monozukuri-25541e83970f",
+          "title": "【中小企業庁】ものづくり・商業・サービス生産性向上促進補助金公式ホームページ ものづくり・商業・サービス生産性向上促進補助金総合サイト",
+          "detail_url": "https://portal.monodukuri-hojo.jp/common/bunsho/ippan/21th/公募要領_21次締切_20250807.pdf",
+          "industry_slugs": [],
+          "judgment_ready": true
+        },
+        {
+          "id": "deep-meti-monozukuri-4dbc1c8346ae",
+          "title": "【中小企業庁】ものづくり・商業・サービス生産性向上促進補助金公式ホームページ ものづくり・商業・サービス生産性向上促進補助金総合サイト",
+          "detail_url": "https://portal.monodukuri-hojo.jp/common/bunsho/ippan/20th/公募要領_20次締切_20250516.pdf",
+          "industry_slugs": [],
+          "judgment_ready": true
+        }
+      ],
+      "source": "ものづくり・商業・サービス生産性向上促進補助金",
+      "source_ref": "https://portal.monodukuri-hojo.jp/saitaku.html",
+      "note": "制度単位の公表採択率。採択企業の実名一覧は source_ref の公表ページを参照（feed本体には載せない）。"
+    },
+    {
+      "as_of_date": "2022-07-15",
+      "still_valid_2026": "unverified",
+      "retrieved_at": "2026-07-24",
+      "veritas": "✅",
+      "metric_id": "jp.subsidy.adoption_stats",
+      "program_key": "monodukuri",
+      "program_name_ja": "ものづくり・商業・サービス生産性向上促進補助金",
+      "round_label": "10次（一般型）",
+      "frame": "一般型",
+      "applicants": 4224,
+      "adopted": 2584,
+      "adoption_rate_pct": 61.17,
+      "unit": "pct",
+      "value": 61.17,
+      "industry_slugs_hint": [
+        "manufacturing-total",
+        "industrial-machinery",
+        "electrical-equipment",
+        "automotive-mobility",
+        "food-beverage"
+      ],
+      "linked_active_sample": [
+        {
+          "id": "a0WJ200000CDTzMMAX",
+          "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（19次締切）",
+          "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDTzMMAX",
+          "industry_slugs": [
+            "manufacturing-total"
+          ],
+          "judgment_ready": true
+        },
+        {
+          "id": "a0WJ200000CDVkeMAH",
+          "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（20次締切）",
+          "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDVkeMAH",
+          "industry_slugs": [
+            "manufacturing-total"
+          ],
+          "judgment_ready": true
+        },
+        {
+          "id": "a0WJ200000CDX4vMAH",
+          "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（21次締切）",
+          "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDX4vMAH",
+          "industry_slugs": [
+            "manufacturing-total"
+          ],
+          "judgment_ready": true
+        },
+        {
+          "id": "a0WJ200000CDYimMAH",
+          "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（22次締切）",
+          "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYimMAH",
+          "industry_slugs": [
+            "manufacturing-total"
+          ],
+          "judgment_ready": true
+        },
+        {
+          "id": "deep-meti-monozukuri-0dc4eee81962",
+          "title": "【中小企業庁】ものづくり・商業・サービス生産性向上促進補助金公式ホームページ ものづくり・商業・サービス生産性向上促進補助金総合サイト",
+          "detail_url": "https://portal.monodukuri-hojo.jp/common/bunsho/ippan/23th/公募要領_23次締切_20260206.pdf",
+          "industry_slugs": [],
+          "judgment_ready": true
+        },
+        {
+          "id": "deep-meti-monozukuri-4cd7b2c64391",
+          "title": "【中小企業庁】ものづくり・商業・サービス生産性向上促進補助金公式ホームページ ものづくり・商業・サービス生産性向上促進補助金総合サイト",
+          "detail_url": "https://portal.monodukuri-hojo.jp/common/bunsho/ippan/22th/公募要領_22次締切_20260206.pdf",
+          "industry_slugs": [],
+          "judgment_ready": true
+        },
+        {
+          "id": "deep-meti-monozukuri-25541e83970f",
+          "title": "【中小企業庁】ものづくり・商業・サービス生産性向上促進補助金公式ホームページ ものづくり・商業・サービス生産性向上促進補助金総合サイト",
+          "detail_url": "https://portal.monodukuri-hojo.jp/common/bunsho/ippan/21th/公募要領_21次締切_20250807.pdf",
+          "industry_slugs": [],
+          "judgment_ready": true
+        },
+        {
+          "id": "deep-meti-monozukuri-4dbc1c8346ae",
+          "title": "【中小企業庁】ものづくり・商業・サービス生産性向上促進補助金公式ホームページ ものづくり・商業・サービス生産性向上促進補助金総合サイト",
+          "detail_url": "https://portal.monodukuri-hojo.jp/common/bunsho/ippan/20th/公募要領_20次締切_20250516.pdf",
+          "industry_slugs": [],
+          "judgment_ready": true
+        }
+      ],
+      "source": "ものづくり・商業・サービス生産性向上促進補助金",
+      "source_ref": "https://portal.monodukuri-hojo.jp/saitaku.html",
+      "note": "制度単位の公表採択率。採択企業の実名一覧は source_ref の公表ページを参照（feed本体には載せない）。"
+    },
+    {
+      "as_of_date": "2022-03-25",
+      "still_valid_2026": "unverified",
+      "retrieved_at": "2026-07-24",
+      "veritas": "✅",
+      "metric_id": "jp.subsidy.adoption_stats",
+      "program_key": "monodukuri",
+      "program_name_ja": "ものづくり・商業・サービス生産性向上促進補助金",
+      "round_label": "9次（一般型）",
+      "frame": "一般型",
+      "applicants": 3552,
+      "adopted": 2223,
+      "adoption_rate_pct": 62.58,
+      "unit": "pct",
+      "value": 62.58,
+      "industry_slugs_hint": [
+        "manufacturing-total",
+        "industrial-machinery",
+        "electrical-equipment",
+        "automotive-mobility",
+        "food-beverage"
+      ],
+      "linked_active_sample": [
+        {
+          "id": "a0WJ200000CDTzMMAX",
+          "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（19次締切）",
+          "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDTzMMAX",
+          "industry_slugs": [
+            "manufacturing-total"
+          ],
+          "judgment_ready": true
+        },
+        {
+          "id": "a0WJ200000CDVkeMAH",
+          "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（20次締切）",
+          "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDVkeMAH",
+          "industry_slugs": [
+            "manufacturing-total"
+          ],
+          "judgment_ready": true
+        },
+        {
+          "id": "a0WJ200000CDX4vMAH",
+          "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（21次締切）",
+          "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDX4vMAH",
+          "industry_slugs": [
+            "manufacturing-total"
+          ],
+          "judgment_ready": true
+        },
+        {
+          "id": "a0WJ200000CDYimMAH",
+          "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（22次締切）",
+          "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYimMAH",
+          "industry_slugs": [
+            "manufacturing-total"
+          ],
+          "judgment_ready": true
+        },
+        {
+          "id": "deep-meti-monozukuri-0dc4eee81962",
+          "title": "【中小企業庁】ものづくり・商業・サービス生産性向上促進補助金公式ホームページ ものづくり・商業・サービス生産性向上促進補助金総合サイト",
+          "detail_url": "https://portal.monodukuri-hojo.jp/common/bunsho/ippan/23th/公募要領_23次締切_20260206.pdf",
+          "industry_slugs": [],
+          "judgment_ready": true
+        },
+        {
+          "id": "deep-meti-monozukuri-4cd7b2c64391",
+          "title": "【中小企業庁】ものづくり・商業・サービス生産性向上促進補助金公式ホームページ ものづくり・商業・サービス生産性向上促進補助金総合サイト",
+          "detail_url": "https://portal.monodukuri-hojo.jp/common/bunsho/ippan/22th/公募要領_22次締切_20260206.pdf",
+          "industry_slugs": [],
+          "judgment_ready": true
+        },
+        {
+          "id": "deep-meti-monozukuri-25541e83970f",
+          "title": "【中小企業庁】ものづくり・商業・サービス生産性向上促進補助金公式ホームページ ものづくり・商業・サービス生産性向上促進補助金総合サイト",
+          "detail_url": "https://portal.monodukuri-hojo.jp/common/bunsho/ippan/21th/公募要領_21次締切_20250807.pdf",
+          "industry_slugs": [],
+          "judgment_ready": true
+        },
+        {
+          "id": "deep-meti-monozukuri-4dbc1c8346ae",
+          "title": "【中小企業庁】ものづくり・商業・サービス生産性向上促進補助金公式ホームページ ものづくり・商業・サービス生産性向上促進補助金総合サイト",
+          "detail_url": "https://portal.monodukuri-hojo.jp/common/bunsho/ippan/20th/公募要領_20次締切_20250516.pdf",
+          "industry_slugs": [],
+          "judgment_ready": true
+        }
+      ],
+      "source": "ものづくり・商業・サービス生産性向上促進補助金",
+      "source_ref": "https://portal.monodukuri-hojo.jp/saitaku.html",
+      "note": "制度単位の公表採択率。採択企業の実名一覧は source_ref の公表ページを参照（feed本体には載せない）。"
+    },
+    {
+      "as_of_date": "2022-01-12",
+      "still_valid_2026": "unverified",
+      "retrieved_at": "2026-07-24",
+      "veritas": "✅",
+      "metric_id": "jp.subsidy.adoption_stats",
+      "program_key": "monodukuri",
+      "program_name_ja": "ものづくり・商業・サービス生産性向上促進補助金",
+      "round_label": "8次（一般型）",
+      "frame": "一般型",
+      "applicants": 4584,
+      "adopted": 2753,
+      "adoption_rate_pct": 60.06,
+      "unit": "pct",
+      "value": 60.06,
+      "industry_slugs_hint": [
+        "manufacturing-total",
+        "industrial-machinery",
+        "electrical-equipment",
+        "automotive-mobility",
+        "food-beverage"
+      ],
+      "linked_active_sample": [
+        {
+          "id": "a0WJ200000CDTzMMAX",
+          "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（19次締切）",
+          "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDTzMMAX",
+          "industry_slugs": [
+            "manufacturing-total"
+          ],
+          "judgment_ready": true
+        },
+        {
+          "id": "a0WJ200000CDVkeMAH",
+          "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（20次締切）",
+          "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDVkeMAH",
+          "industry_slugs": [
+            "manufacturing-total"
+          ],
+          "judgment_ready": true
+        },
+        {
+          "id": "a0WJ200000CDX4vMAH",
+          "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（21次締切）",
+          "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDX4vMAH",
+          "industry_slugs": [
+            "manufacturing-total"
+          ],
+          "judgment_ready": true
+        },
+        {
+          "id": "a0WJ200000CDYimMAH",
+          "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（22次締切）",
+          "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYimMAH",
+          "industry_slugs": [
+            "manufacturing-total"
+          ],
+          "judgment_ready": true
+        },
+        {
+          "id": "deep-meti-monozukuri-0dc4eee81962",
+          "title": "【中小企業庁】ものづくり・商業・サービス生産性向上促進補助金公式ホームページ ものづくり・商業・サービス生産性向上促進補助金総合サイト",
+          "detail_url": "https://portal.monodukuri-hojo.jp/common/bunsho/ippan/23th/公募要領_23次締切_20260206.pdf",
+          "industry_slugs": [],
+          "judgment_ready": true
+        },
+        {
+          "id": "deep-meti-monozukuri-4cd7b2c64391",
+          "title": "【中小企業庁】ものづくり・商業・サービス生産性向上促進補助金公式ホームページ ものづくり・商業・サービス生産性向上促進補助金総合サイト",
+          "detail_url": "https://portal.monodukuri-hojo.jp/common/bunsho/ippan/22th/公募要領_22次締切_20260206.pdf",
+          "industry_slugs": [],
+          "judgment_ready": true
+        },
+        {
+          "id": "deep-meti-monozukuri-25541e83970f",
+          "title": "【中小企業庁】ものづくり・商業・サービス生産性向上促進補助金公式ホームページ ものづくり・商業・サービス生産性向上促進補助金総合サイト",
+          "detail_url": "https://portal.monodukuri-hojo.jp/common/bunsho/ippan/21th/公募要領_21次締切_20250807.pdf",
+          "industry_slugs": [],
+          "judgment_ready": true
+        },
+        {
+          "id": "deep-meti-monozukuri-4dbc1c8346ae",
+          "title": "【中小企業庁】ものづくり・商業・サービス生産性向上促進補助金公式ホームページ ものづくり・商業・サービス生産性向上促進補助金総合サイト",
+          "detail_url": "https://portal.monodukuri-hojo.jp/common/bunsho/ippan/20th/公募要領_20次締切_20250516.pdf",
+          "industry_slugs": [],
+          "judgment_ready": true
+        }
+      ],
+      "source": "ものづくり・商業・サービス生産性向上促進補助金",
+      "source_ref": "https://portal.monodukuri-hojo.jp/saitaku.html",
+      "note": "制度単位の公表採択率。採択企業の実名一覧は source_ref の公表ページを参照（feed本体には載せない）。"
+    },
+    {
+      "as_of_date": "2021-09-27",
+      "still_valid_2026": "unverified",
+      "retrieved_at": "2026-07-24",
+      "veritas": "✅",
+      "metric_id": "jp.subsidy.adoption_stats",
+      "program_key": "monodukuri",
+      "program_name_ja": "ものづくり・商業・サービス生産性向上促進補助金",
+      "round_label": "7次（一般型）",
+      "frame": "一般型",
+      "applicants": 5414,
+      "adopted": 2729,
+      "adoption_rate_pct": 50.41,
+      "unit": "pct",
+      "value": 50.41,
+      "industry_slugs_hint": [
+        "manufacturing-total",
+        "industrial-machinery",
+        "electrical-equipment",
+        "automotive-mobility",
+        "food-beverage"
+      ],
+      "linked_active_sample": [
+        {
+          "id": "a0WJ200000CDTzMMAX",
+          "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（19次締切）",
+          "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDTzMMAX",
+          "industry_slugs": [
+            "manufacturing-total"
+          ],
+          "judgment_ready": true
+        },
+        {
+          "id": "a0WJ200000CDVkeMAH",
+          "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（20次締切）",
+          "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDVkeMAH",
+          "industry_slugs": [
+            "manufacturing-total"
+          ],
+          "judgment_ready": true
+        },
+        {
+          "id": "a0WJ200000CDX4vMAH",
+          "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（21次締切）",
+          "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDX4vMAH",
+          "industry_slugs": [
+            "manufacturing-total"
+          ],
+          "judgment_ready": true
+        },
+        {
+          "id": "a0WJ200000CDYimMAH",
+          "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（22次締切）",
+          "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYimMAH",
+          "industry_slugs": [
+            "manufacturing-total"
+          ],
+          "judgment_ready": true
+        },
+        {
+          "id": "deep-meti-monozukuri-0dc4eee81962",
+          "title": "【中小企業庁】ものづくり・商業・サービス生産性向上促進補助金公式ホームページ ものづくり・商業・サービス生産性向上促進補助金総合サイト",
+          "detail_url": "https://portal.monodukuri-hojo.jp/common/bunsho/ippan/23th/公募要領_23次締切_20260206.pdf",
+          "industry_slugs": [],
+          "judgment_ready": true
+        },
+        {
+          "id": "deep-meti-monozukuri-4cd7b2c64391",
+          "title": "【中小企業庁】ものづくり・商業・サービス生産性向上促進補助金公式ホームページ ものづくり・商業・サービス生産性向上促進補助金総合サイト",
+          "detail_url": "https://portal.monodukuri-hojo.jp/common/bunsho/ippan/22th/公募要領_22次締切_20260206.pdf",
+          "industry_slugs": [],
+          "judgment_ready": true
+        },
+        {
+          "id": "deep-meti-monozukuri-25541e83970f",
+          "title": "【中小企業庁】ものづくり・商業・サービス生産性向上促進補助金公式ホームページ ものづくり・商業・サービス生産性向上促進補助金総合サイト",
+          "detail_url": "https://portal.monodukuri-hojo.jp/common/bunsho/ippan/21th/公募要領_21次締切_20250807.pdf",
+          "industry_slugs": [],
+          "judgment_ready": true
+        },
+        {
+          "id": "deep-meti-monozukuri-4dbc1c8346ae",
+          "title": "【中小企業庁】ものづくり・商業・サービス生産性向上促進補助金公式ホームページ ものづくり・商業・サービス生産性向上促進補助金総合サイト",
+          "detail_url": "https://portal.monodukuri-hojo.jp/common/bunsho/ippan/20th/公募要領_20次締切_20250516.pdf",
+          "industry_slugs": [],
+          "judgment_ready": true
+        }
+      ],
+      "source": "ものづくり・商業・サービス生産性向上促進補助金",
+      "source_ref": "https://portal.monodukuri-hojo.jp/saitaku.html",
+      "note": "制度単位の公表採択率。採択企業の実名一覧は source_ref の公表ページを参照（feed本体には載せない）。"
+    },
+    {
+      "as_of_date": "2021-06-29",
+      "still_valid_2026": "unverified",
+      "retrieved_at": "2026-07-24",
+      "veritas": "✅",
+      "metric_id": "jp.subsidy.adoption_stats",
+      "program_key": "monodukuri",
+      "program_name_ja": "ものづくり・商業・サービス生産性向上促進補助金",
+      "round_label": "6次（一般型）",
+      "frame": "一般型",
+      "applicants": 4875,
+      "adopted": 2326,
+      "adoption_rate_pct": 47.71,
+      "unit": "pct",
+      "value": 47.71,
+      "industry_slugs_hint": [
+        "manufacturing-total",
+        "industrial-machinery",
+        "electrical-equipment",
+        "automotive-mobility",
+        "food-beverage"
+      ],
+      "linked_active_sample": [
+        {
+          "id": "a0WJ200000CDTzMMAX",
+          "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（19次締切）",
+          "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDTzMMAX",
+          "industry_slugs": [
+            "manufacturing-total"
+          ],
+          "judgment_ready": true
+        },
+        {
+          "id": "a0WJ200000CDVkeMAH",
+          "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（20次締切）",
+          "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDVkeMAH",
+          "industry_slugs": [
+            "manufacturing-total"
+          ],
+          "judgment_ready": true
+        },
+        {
+          "id": "a0WJ200000CDX4vMAH",
+          "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（21次締切）",
+          "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDX4vMAH",
+          "industry_slugs": [
+            "manufacturing-total"
+          ],
+          "judgment_ready": true
+        },
+        {
+          "id": "a0WJ200000CDYimMAH",
+          "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（22次締切）",
+          "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYimMAH",
+          "industry_slugs": [
+            "manufacturing-total"
+          ],
+          "judgment_ready": true
+        },
+        {
+          "id": "deep-meti-monozukuri-0dc4eee81962",
+          "title": "【中小企業庁】ものづくり・商業・サービス生産性向上促進補助金公式ホームページ ものづくり・商業・サービス生産性向上促進補助金総合サイト",
+          "detail_url": "https://portal.monodukuri-hojo.jp/common/bunsho/ippan/23th/公募要領_23次締切_20260206.pdf",
+          "industry_slugs": [],
+          "judgment_ready": true
+        },
+        {
+          "id": "deep-meti-monozukuri-4cd7b2c64391",
+          "title": "【中小企業庁】ものづくり・商業・サービス生産性向上促進補助金公式ホームページ ものづくり・商業・サービス生産性向上促進補助金総合サイト",
+          "detail_url": "https://portal.monodukuri-hojo.jp/common/bunsho/ippan/22th/公募要領_22次締切_20260206.pdf",
+          "industry_slugs": [],
+          "judgment_ready": true
+        },
+        {
+          "id": "deep-meti-monozukuri-25541e83970f",
+          "title": "【中小企業庁】ものづくり・商業・サービス生産性向上促進補助金公式ホームページ ものづくり・商業・サービス生産性向上促進補助金総合サイト",
+          "detail_url": "https://portal.monodukuri-hojo.jp/common/bunsho/ippan/21th/公募要領_21次締切_20250807.pdf",
+          "industry_slugs": [],
+          "judgment_ready": true
+        },
+        {
+          "id": "deep-meti-monozukuri-4dbc1c8346ae",
+          "title": "【中小企業庁】ものづくり・商業・サービス生産性向上促進補助金公式ホームページ ものづくり・商業・サービス生産性向上促進補助金総合サイト",
+          "detail_url": "https://portal.monodukuri-hojo.jp/common/bunsho/ippan/20th/公募要領_20次締切_20250516.pdf",
+          "industry_slugs": [],
+          "judgment_ready": true
+        }
+      ],
+      "source": "ものづくり・商業・サービス生産性向上促進補助金",
+      "source_ref": "https://portal.monodukuri-hojo.jp/saitaku.html",
+      "note": "制度単位の公表採択率。採択企業の実名一覧は source_ref の公表ページを参照（feed本体には載せない）。"
+    },
+    {
+      "as_of_date": "2021-03-31",
+      "still_valid_2026": "unverified",
+      "retrieved_at": "2026-07-24",
+      "veritas": "✅",
+      "metric_id": "jp.subsidy.adoption_stats",
+      "program_key": "monodukuri",
+      "program_name_ja": "ものづくり・商業・サービス生産性向上促進補助金",
+      "round_label": "5次（一般型）",
+      "frame": "一般型",
+      "applicants": 5139,
+      "adopted": 2291,
+      "adoption_rate_pct": 44.58,
+      "unit": "pct",
+      "value": 44.58,
+      "industry_slugs_hint": [
+        "manufacturing-total",
+        "industrial-machinery",
+        "electrical-equipment",
+        "automotive-mobility",
+        "food-beverage"
+      ],
+      "linked_active_sample": [
+        {
+          "id": "a0WJ200000CDTzMMAX",
+          "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（19次締切）",
+          "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDTzMMAX",
+          "industry_slugs": [
+            "manufacturing-total"
+          ],
+          "judgment_ready": true
+        },
+        {
+          "id": "a0WJ200000CDVkeMAH",
+          "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（20次締切）",
+          "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDVkeMAH",
+          "industry_slugs": [
+            "manufacturing-total"
+          ],
+          "judgment_ready": true
+        },
+        {
+          "id": "a0WJ200000CDX4vMAH",
+          "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（21次締切）",
+          "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDX4vMAH",
+          "industry_slugs": [
+            "manufacturing-total"
+          ],
+          "judgment_ready": true
+        },
+        {
+          "id": "a0WJ200000CDYimMAH",
+          "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（22次締切）",
+          "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYimMAH",
+          "industry_slugs": [
+            "manufacturing-total"
+          ],
+          "judgment_ready": true
+        },
+        {
+          "id": "deep-meti-monozukuri-0dc4eee81962",
+          "title": "【中小企業庁】ものづくり・商業・サービス生産性向上促進補助金公式ホームページ ものづくり・商業・サービス生産性向上促進補助金総合サイト",
+          "detail_url": "https://portal.monodukuri-hojo.jp/common/bunsho/ippan/23th/公募要領_23次締切_20260206.pdf",
+          "industry_slugs": [],
+          "judgment_ready": true
+        },
+        {
+          "id": "deep-meti-monozukuri-4cd7b2c64391",
+          "title": "【中小企業庁】ものづくり・商業・サービス生産性向上促進補助金公式ホームページ ものづくり・商業・サービス生産性向上促進補助金総合サイト",
+          "detail_url": "https://portal.monodukuri-hojo.jp/common/bunsho/ippan/22th/公募要領_22次締切_20260206.pdf",
+          "industry_slugs": [],
+          "judgment_ready": true
+        },
+        {
+          "id": "deep-meti-monozukuri-25541e83970f",
+          "title": "【中小企業庁】ものづくり・商業・サービス生産性向上促進補助金公式ホームページ ものづくり・商業・サービス生産性向上促進補助金総合サイト",
+          "detail_url": "https://portal.monodukuri-hojo.jp/common/bunsho/ippan/21th/公募要領_21次締切_20250807.pdf",
+          "industry_slugs": [],
+          "judgment_ready": true
+        },
+        {
+          "id": "deep-meti-monozukuri-4dbc1c8346ae",
+          "title": "【中小企業庁】ものづくり・商業・サービス生産性向上促進補助金公式ホームページ ものづくり・商業・サービス生産性向上促進補助金総合サイト",
+          "detail_url": "https://portal.monodukuri-hojo.jp/common/bunsho/ippan/20th/公募要領_20次締切_20250516.pdf",
+          "industry_slugs": [],
+          "judgment_ready": true
+        }
+      ],
+      "source": "ものづくり・商業・サービス生産性向上促進補助金",
+      "source_ref": "https://portal.monodukuri-hojo.jp/saitaku.html",
+      "note": "制度単位の公表採択率。採択企業の実名一覧は source_ref の公表ページを参照（feed本体には載せない）。"
+    },
+    {
+      "as_of_date": "2021-02-18",
+      "still_valid_2026": "unverified",
+      "retrieved_at": "2026-07-24",
+      "veritas": "✅",
+      "metric_id": "jp.subsidy.adoption_stats",
+      "program_key": "monodukuri",
+      "program_name_ja": "ものづくり・商業・サービス生産性向上促進補助金",
+      "round_label": "4次（一般型）",
+      "frame": "一般型",
+      "applicants": 10041,
+      "adopted": 3132,
+      "adoption_rate_pct": 31.19,
+      "unit": "pct",
+      "value": 31.19,
+      "industry_slugs_hint": [
+        "manufacturing-total",
+        "industrial-machinery",
+        "electrical-equipment",
+        "automotive-mobility",
+        "food-beverage"
+      ],
+      "linked_active_sample": [
+        {
+          "id": "a0WJ200000CDTzMMAX",
+          "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（19次締切）",
+          "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDTzMMAX",
+          "industry_slugs": [
+            "manufacturing-total"
+          ],
+          "judgment_ready": true
+        },
+        {
+          "id": "a0WJ200000CDVkeMAH",
+          "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（20次締切）",
+          "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDVkeMAH",
+          "industry_slugs": [
+            "manufacturing-total"
+          ],
+          "judgment_ready": true
+        },
+        {
+          "id": "a0WJ200000CDX4vMAH",
+          "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（21次締切）",
+          "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDX4vMAH",
+          "industry_slugs": [
+            "manufacturing-total"
+          ],
+          "judgment_ready": true
+        },
+        {
+          "id": "a0WJ200000CDYimMAH",
+          "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（22次締切）",
+          "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYimMAH",
+          "industry_slugs": [
+            "manufacturing-total"
+          ],
+          "judgment_ready": true
+        },
+        {
+          "id": "deep-meti-monozukuri-0dc4eee81962",
+          "title": "【中小企業庁】ものづくり・商業・サービス生産性向上促進補助金公式ホームページ ものづくり・商業・サービス生産性向上促進補助金総合サイト",
+          "detail_url": "https://portal.monodukuri-hojo.jp/common/bunsho/ippan/23th/公募要領_23次締切_20260206.pdf",
+          "industry_slugs": [],
+          "judgment_ready": true
+        },
+        {
+          "id": "deep-meti-monozukuri-4cd7b2c64391",
+          "title": "【中小企業庁】ものづくり・商業・サービス生産性向上促進補助金公式ホームページ ものづくり・商業・サービス生産性向上促進補助金総合サイト",
+          "detail_url": "https://portal.monodukuri-hojo.jp/common/bunsho/ippan/22th/公募要領_22次締切_20260206.pdf",
+          "industry_slugs": [],
+          "judgment_ready": true
+        },
+        {
+          "id": "deep-meti-monozukuri-25541e83970f",
+          "title": "【中小企業庁】ものづくり・商業・サービス生産性向上促進補助金公式ホームページ ものづくり・商業・サービス生産性向上促進補助金総合サイト",
+          "detail_url": "https://portal.monodukuri-hojo.jp/common/bunsho/ippan/21th/公募要領_21次締切_20250807.pdf",
+          "industry_slugs": [],
+          "judgment_ready": true
+        },
+        {
+          "id": "deep-meti-monozukuri-4dbc1c8346ae",
+          "title": "【中小企業庁】ものづくり・商業・サービス生産性向上促進補助金公式ホームページ ものづくり・商業・サービス生産性向上促進補助金総合サイト",
+          "detail_url": "https://portal.monodukuri-hojo.jp/common/bunsho/ippan/20th/公募要領_20次締切_20250516.pdf",
+          "industry_slugs": [],
+          "judgment_ready": true
+        }
+      ],
+      "source": "ものづくり・商業・サービス生産性向上促進補助金",
+      "source_ref": "https://portal.monodukuri-hojo.jp/saitaku.html",
+      "note": "制度単位の公表採択率。採択企業の実名一覧は source_ref の公表ページを参照（feed本体には載せない）。"
+    },
+    {
+      "as_of_date": "2020-09-25",
+      "still_valid_2026": "unverified",
+      "retrieved_at": "2026-07-24",
+      "veritas": "✅",
+      "metric_id": "jp.subsidy.adoption_stats",
+      "program_key": "monodukuri",
+      "program_name_ja": "ものづくり・商業・サービス生産性向上促進補助金",
+      "round_label": "3次",
+      "frame": null,
+      "applicants": 6923,
+      "adopted": 2637,
+      "adoption_rate_pct": 38.09,
+      "unit": "pct",
+      "value": 38.09,
+      "industry_slugs_hint": [
+        "manufacturing-total",
+        "industrial-machinery",
+        "electrical-equipment",
+        "automotive-mobility",
+        "food-beverage"
+      ],
+      "linked_active_sample": [
+        {
+          "id": "a0WJ200000CDTzMMAX",
+          "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（19次締切）",
+          "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDTzMMAX",
+          "industry_slugs": [
+            "manufacturing-total"
+          ],
+          "judgment_ready": true
+        },
+        {
+          "id": "a0WJ200000CDVkeMAH",
+          "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（20次締切）",
+          "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDVkeMAH",
+          "industry_slugs": [
+            "manufacturing-total"
+          ],
+          "judgment_ready": true
+        },
+        {
+          "id": "a0WJ200000CDX4vMAH",
+          "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（21次締切）",
+          "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDX4vMAH",
+          "industry_slugs": [
+            "manufacturing-total"
+          ],
+          "judgment_ready": true
+        },
+        {
+          "id": "a0WJ200000CDYimMAH",
+          "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（22次締切）",
+          "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYimMAH",
+          "industry_slugs": [
+            "manufacturing-total"
+          ],
+          "judgment_ready": true
+        },
+        {
+          "id": "deep-meti-monozukuri-0dc4eee81962",
+          "title": "【中小企業庁】ものづくり・商業・サービス生産性向上促進補助金公式ホームページ ものづくり・商業・サービス生産性向上促進補助金総合サイト",
+          "detail_url": "https://portal.monodukuri-hojo.jp/common/bunsho/ippan/23th/公募要領_23次締切_20260206.pdf",
+          "industry_slugs": [],
+          "judgment_ready": true
+        },
+        {
+          "id": "deep-meti-monozukuri-4cd7b2c64391",
+          "title": "【中小企業庁】ものづくり・商業・サービス生産性向上促進補助金公式ホームページ ものづくり・商業・サービス生産性向上促進補助金総合サイト",
+          "detail_url": "https://portal.monodukuri-hojo.jp/common/bunsho/ippan/22th/公募要領_22次締切_20260206.pdf",
+          "industry_slugs": [],
+          "judgment_ready": true
+        },
+        {
+          "id": "deep-meti-monozukuri-25541e83970f",
+          "title": "【中小企業庁】ものづくり・商業・サービス生産性向上促進補助金公式ホームページ ものづくり・商業・サービス生産性向上促進補助金総合サイト",
+          "detail_url": "https://portal.monodukuri-hojo.jp/common/bunsho/ippan/21th/公募要領_21次締切_20250807.pdf",
+          "industry_slugs": [],
+          "judgment_ready": true
+        },
+        {
+          "id": "deep-meti-monozukuri-4dbc1c8346ae",
+          "title": "【中小企業庁】ものづくり・商業・サービス生産性向上促進補助金公式ホームページ ものづくり・商業・サービス生産性向上促進補助金総合サイト",
+          "detail_url": "https://portal.monodukuri-hojo.jp/common/bunsho/ippan/20th/公募要領_20次締切_20250516.pdf",
+          "industry_slugs": [],
+          "judgment_ready": true
+        }
+      ],
+      "source": "ものづくり・商業・サービス生産性向上促進補助金",
+      "source_ref": "https://portal.monodukuri-hojo.jp/saitaku.html",
+      "note": "制度単位の公表採択率。採択企業の実名一覧は source_ref の公表ページを参照（feed本体には載せない）。"
+    },
+    {
+      "as_of_date": "2020-06-30",
+      "still_valid_2026": "unverified",
+      "retrieved_at": "2026-07-24",
+      "veritas": "✅",
+      "metric_id": "jp.subsidy.adoption_stats",
+      "program_key": "monodukuri",
+      "program_name_ja": "ものづくり・商業・サービス生産性向上促進補助金",
+      "round_label": "2次",
+      "frame": null,
+      "applicants": 5721,
+      "adopted": 3267,
+      "adoption_rate_pct": 57.11,
+      "unit": "pct",
+      "value": 57.11,
+      "industry_slugs_hint": [
+        "manufacturing-total",
+        "industrial-machinery",
+        "electrical-equipment",
+        "automotive-mobility",
+        "food-beverage"
+      ],
+      "linked_active_sample": [
+        {
+          "id": "a0WJ200000CDTzMMAX",
+          "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（19次締切）",
+          "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDTzMMAX",
+          "industry_slugs": [
+            "manufacturing-total"
+          ],
+          "judgment_ready": true
+        },
+        {
+          "id": "a0WJ200000CDVkeMAH",
+          "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（20次締切）",
+          "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDVkeMAH",
+          "industry_slugs": [
+            "manufacturing-total"
+          ],
+          "judgment_ready": true
+        },
+        {
+          "id": "a0WJ200000CDX4vMAH",
+          "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（21次締切）",
+          "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDX4vMAH",
+          "industry_slugs": [
+            "manufacturing-total"
+          ],
+          "judgment_ready": true
+        },
+        {
+          "id": "a0WJ200000CDYimMAH",
+          "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（22次締切）",
+          "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYimMAH",
+          "industry_slugs": [
+            "manufacturing-total"
+          ],
+          "judgment_ready": true
+        },
+        {
+          "id": "deep-meti-monozukuri-0dc4eee81962",
+          "title": "【中小企業庁】ものづくり・商業・サービス生産性向上促進補助金公式ホームページ ものづくり・商業・サービス生産性向上促進補助金総合サイト",
+          "detail_url": "https://portal.monodukuri-hojo.jp/common/bunsho/ippan/23th/公募要領_23次締切_20260206.pdf",
+          "industry_slugs": [],
+          "judgment_ready": true
+        },
+        {
+          "id": "deep-meti-monozukuri-4cd7b2c64391",
+          "title": "【中小企業庁】ものづくり・商業・サービス生産性向上促進補助金公式ホームページ ものづくり・商業・サービス生産性向上促進補助金総合サイト",
+          "detail_url": "https://portal.monodukuri-hojo.jp/common/bunsho/ippan/22th/公募要領_22次締切_20260206.pdf",
+          "industry_slugs": [],
+          "judgment_ready": true
+        },
+        {
+          "id": "deep-meti-monozukuri-25541e83970f",
+          "title": "【中小企業庁】ものづくり・商業・サービス生産性向上促進補助金公式ホームページ ものづくり・商業・サービス生産性向上促進補助金総合サイト",
+          "detail_url": "https://portal.monodukuri-hojo.jp/common/bunsho/ippan/21th/公募要領_21次締切_20250807.pdf",
+          "industry_slugs": [],
+          "judgment_ready": true
+        },
+        {
+          "id": "deep-meti-monozukuri-4dbc1c8346ae",
+          "title": "【中小企業庁】ものづくり・商業・サービス生産性向上促進補助金公式ホームページ ものづくり・商業・サービス生産性向上促進補助金総合サイト",
+          "detail_url": "https://portal.monodukuri-hojo.jp/common/bunsho/ippan/20th/公募要領_20次締切_20250516.pdf",
+          "industry_slugs": [],
+          "judgment_ready": true
+        }
+      ],
+      "source": "ものづくり・商業・サービス生産性向上促進補助金",
+      "source_ref": "https://portal.monodukuri-hojo.jp/saitaku.html",
+      "note": "制度単位の公表採択率。採択企業の実名一覧は source_ref の公表ページを参照（feed本体には載せない）。"
+    },
+    {
+      "as_of_date": "2020-04-28",
+      "still_valid_2026": "unverified",
+      "retrieved_at": "2026-07-24",
+      "veritas": "✅",
+      "metric_id": "jp.subsidy.adoption_stats",
+      "program_key": "monodukuri",
+      "program_name_ja": "ものづくり・商業・サービス生産性向上促進補助金",
+      "round_label": "1次",
+      "frame": null,
+      "applicants": 2287,
+      "adopted": 1429,
+      "adoption_rate_pct": 62.48,
+      "unit": "pct",
+      "value": 62.48,
+      "industry_slugs_hint": [
+        "manufacturing-total",
+        "industrial-machinery",
+        "electrical-equipment",
+        "automotive-mobility",
+        "food-beverage"
+      ],
+      "linked_active_sample": [
+        {
+          "id": "a0WJ200000CDTzMMAX",
+          "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（19次締切）",
+          "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDTzMMAX",
+          "industry_slugs": [
+            "manufacturing-total"
+          ],
+          "judgment_ready": true
+        },
+        {
+          "id": "a0WJ200000CDVkeMAH",
+          "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（20次締切）",
+          "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDVkeMAH",
+          "industry_slugs": [
+            "manufacturing-total"
+          ],
+          "judgment_ready": true
+        },
+        {
+          "id": "a0WJ200000CDX4vMAH",
+          "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（21次締切）",
+          "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDX4vMAH",
+          "industry_slugs": [
+            "manufacturing-total"
+          ],
+          "judgment_ready": true
+        },
+        {
+          "id": "a0WJ200000CDYimMAH",
+          "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（22次締切）",
+          "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYimMAH",
+          "industry_slugs": [
+            "manufacturing-total"
+          ],
+          "judgment_ready": true
+        },
+        {
+          "id": "deep-meti-monozukuri-0dc4eee81962",
+          "title": "【中小企業庁】ものづくり・商業・サービス生産性向上促進補助金公式ホームページ ものづくり・商業・サービス生産性向上促進補助金総合サイト",
+          "detail_url": "https://portal.monodukuri-hojo.jp/common/bunsho/ippan/23th/公募要領_23次締切_20260206.pdf",
+          "industry_slugs": [],
+          "judgment_ready": true
+        },
+        {
+          "id": "deep-meti-monozukuri-4cd7b2c64391",
+          "title": "【中小企業庁】ものづくり・商業・サービス生産性向上促進補助金公式ホームページ ものづくり・商業・サービス生産性向上促進補助金総合サイト",
+          "detail_url": "https://portal.monodukuri-hojo.jp/common/bunsho/ippan/22th/公募要領_22次締切_20260206.pdf",
+          "industry_slugs": [],
+          "judgment_ready": true
+        },
+        {
+          "id": "deep-meti-monozukuri-25541e83970f",
+          "title": "【中小企業庁】ものづくり・商業・サービス生産性向上促進補助金公式ホームページ ものづくり・商業・サービス生産性向上促進補助金総合サイト",
+          "detail_url": "https://portal.monodukuri-hojo.jp/common/bunsho/ippan/21th/公募要領_21次締切_20250807.pdf",
+          "industry_slugs": [],
+          "judgment_ready": true
+        },
+        {
+          "id": "deep-meti-monozukuri-4dbc1c8346ae",
+          "title": "【中小企業庁】ものづくり・商業・サービス生産性向上促進補助金公式ホームページ ものづくり・商業・サービス生産性向上促進補助金総合サイト",
+          "detail_url": "https://portal.monodukuri-hojo.jp/common/bunsho/ippan/20th/公募要領_20次締切_20250516.pdf",
+          "industry_slugs": [],
+          "judgment_ready": true
+        }
+      ],
+      "source": "ものづくり・商業・サービス生産性向上促進補助金",
+      "source_ref": "https://portal.monodukuri-hojo.jp/saitaku.html",
+      "note": "制度単位の公表採択率。採択企業の実名一覧は source_ref の公表ページを参照（feed本体には載せない）。"
+    }
+  ]
+}

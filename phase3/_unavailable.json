@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0.0",
+  "req": "REQ-SMITH-20260724-045",
+  "as_of_date": "2026-07-24",
+  "retrieved_at": "2026-07-24",
+  "slots": [
+    {
+      "id": "P2a_io_transaction_structure",
+      "path": "timeseries/jp_io_transaction_structure.json",
+      "status": "unavailable",
+      "reason_ja": "総務省・産業連関表の取引額マトリクスは大容量Excel/定型統計で、e-Stat JSON APIの単発取得では9業界スラッグへの安定マッピングが未確立。既存の jp.io.import_penetration_pct / jp.io.fx_sensitivity_score は代理のまま継続。フル行列は次波で延長表Excelパーサを実装予定。",
+      "proxy_existing": [
+        "timeseries/jp_io_import_penetration_pct.json",
+        "timeseries/jp_io_fx_sensitivity_score.json"
+      ]
+    },
+    {
+      "id": "P2b_census_firms_by_pref",
+      "path": "timeseries/jp_census_firms_by_pref.json",
+      "status": "unavailable",
+      "reason_ja": "経済センサスの産業×規模×都道府県断面は e-Stat 大表が必要。本PCに ESTAT_API_KEY が無くローカル取得不可。全国断面 jp.census.establishments / size_distribution は既存維持。GitHub Actions（ESTAT鍵あり）への次波組み込み候補。",
+      "proxy_existing": [
+        "timeseries/jp_census_establishments.json",
+        "timeseries/jp_census_size_distribution.json"
+      ]
+    },
+    {
+      "id": "P2c_resas",
+      "status": "deferred_eval",
+      "reason_ja": "RESAS APIはAPIキー登録（https://opendata.resas-portal.go.jp/）が必要。利用規約上、取得データの再配布・商用二次利用に制約があり、Sellwell公開JSONへの直載せは規約確認後でないと不可。判定: キー取得後も『公開feed直載せは見送り、社内分析のみ』が安全。P2bの補完としては Actions 秘密鍵＋集計結果のみ公開の設計が妥当。",
+      "decision": "not_adopted_for_public_feed_now"
+    },
+    {
+      "id": "P3a_new_corporations_monthly",
+      "path": "timeseries/jp_new_corporations_monthly.json",
+      "status": "unavailable",
+      "reason_ja": "法人番号公表サイトの月次データに産業分類が無く、業界スラッグへの健全なマッピングができない（Phase2でも同理由で不可）。無理な代理系列は作らない。"
+    }
+  ]
+}

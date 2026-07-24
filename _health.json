@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-07-23",
+  "generated_at": "2026-07-24",
   "feed_status": "ok",
   "subsidy_open_count": 7665,
   "series_n": 37,
@@ -13,5 +13,10 @@
     "hide_if_as_of_older_than_days": 800,
     "show_last_updated_banner": true,
     "prefer_still_valid_2026_true": true
+  },
+  "phase3_req045": {
+    "adoption_observations": 24,
+    "retail_by_channel_obs": 90,
+    "updated_at": "2026-07-24"
   }
 }
