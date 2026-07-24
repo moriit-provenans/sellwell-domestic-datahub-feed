@@ -25,7 +25,7 @@
     "finder_index_gz_bytes": 2611035,
     "finder_index_schema": "2.0.0",
     "finder_index_as_of": "2026-07-23",
-    "phase3_adoption_obs": 24,
+    "phase3_adoption_obs": 30,
     "phase3_retail_by_channel_obs": 90,
     "phase3_updated": "2026-07-24"
   },

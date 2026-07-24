@@ -4,7 +4,7 @@
   "title_ja": "補助金採択率・公募回統計（全国系主要制度）",
   "last_updated": "2026-07-24",
   "source": "各執行団体の採択結果公表ページ",
-  "note_ja": "REQ-045 P1。jGrants APIに採択履歴はないため、公式公表HTML/プレスを収集。最低ラインとしてものづくり全公募回＋持続化直近2回を収録。IT導入・事業再構築・省力化は申請/採択数が一覧化されていない回が多く、次波で個別プレスを追加する（無理な代理値は入れない）。",
+  "note_ja": "REQ-045 P1（wave2）。jGrants APIに採択履歴はないため、公式公表HTML/プレスを収集。ものづくり全公募回＋持続化直近2回＋IT導入2025第8次＋デジタル化・AI2026第1次＋事業再構築第13回＋大規模成長投資（省力化）第3〜5次を収録。大規模成長投資は公式ポータル一時取得不能のため veritas=△（二次出典一致値）。",
   "coverage": {
     "programs": [
       {
@@ -167,13 +167,463 @@
             "judgment_ready": false
           }
         ]
+      },
+      {
+        "program_key": "it-donyu-2025",
+        "program_name_ja": "IT導入補助金2025",
+        "rounds_n": 1,
+        "latest_round": "第8次締切（通常・インボイス・セキュリティ・複数社連携）",
+        "latest_rate_pct": 42.6,
+        "source_refs": [
+          "https://seisansei.smrj.go.jp/news/20260217-2.html"
+        ],
+        "linked_active_sample": [
+          {
+            "id": "mirasapo-32666",
+            "title": "中小企業庁担当者に聞く「デジタル化・AI導入補助金」",
+            "detail_url": "https://mirasapo-plus.go.jp/infomation/32666/",
+            "industry_slugs": [
+              "g17-ai-semiconductor",
+              "g17-digital-cyber"
+            ],
+            "judgment_ready": false
+          },
+          {
+            "id": "mirasapo-32651",
+            "title": "中小企業庁担当者に聞く | 業務改善につながるITツールの導入を支援「デジタル化・AI導入補助金」",
+            "detail_url": "https://mirasapo-plus.go.jp/hint/32651/",
+            "industry_slugs": [
+              "g17-ai-semiconductor",
+              "g17-digital-cyber"
+            ],
+            "judgment_ready": false
+          },
+          {
+            "id": "mirasapo-29009",
+            "title": "中小企業庁担当者に聞く「IT導入補助金2025」",
+            "detail_url": "https://mirasapo-plus.go.jp/infomation/29009/",
+            "industry_slugs": [
+              "untagged"
+            ],
+            "judgment_ready": false
+          },
+          {
+            "id": "mirasapo-30336",
+            "title": "【補助金採択結果】「IT導入補助金2025」「通常枠：5次締切」、「セキュリティ対策推進枠：5次締切」、「インボイス枠（インボイス対応類型）：5次締切」、の補助事業者を採択",
+            "detail_url": "https://mirasapo-plus.go.jp/infomation/30336/",
+            "industry_slugs": [
+              "untagged"
+            ],
+            "judgment_ready": false
+          },
+          {
+            "id": "mirasapo-29183",
+            "title": "IT導入補助金2025採択結果【１次締切】",
+            "detail_url": "https://mirasapo-plus.go.jp/infomation/29183/",
+            "industry_slugs": [
+              "untagged"
+            ],
+            "judgment_ready": false
+          },
+          {
+            "id": "jnet21-185963",
+            "title": "補助金・助成金：「デジタル化・AI導入補助金2026「複数者連携デジタル化・AI導入枠」※2次締切分」",
+            "detail_url": "https://j-net21.smrj.go.jp/snavi2/articles/185963",
+            "industry_slugs": [
+              "g17-ai-semiconductor",
+              "g17-digital-cyber"
+            ],
+            "judgment_ready": false
+          },
+          {
+            "id": "ministry-1073757608",
+            "title": "デジタル化・AI導入補助金 通常枠、インボイス枠（インボイス対応類型、電子取引類型）、セキュリティ対策推進枠【申請受付期間：第1次締切5/12、第2次締切6/15、第3次締切7/21、第4次締切8/25】 複数者連携デジタル化・AI導入枠【",
+            "detail_url": "https://www.chusho.meti.go.jp/koukai/yosan/r7/r6_it.pdf",
+            "industry_slugs": [
+              "g17-ai-semiconductor",
+              "g17-digital-cyber"
+            ],
+            "judgment_ready": false
+          },
+          {
+            "id": "ministry-923602305",
+            "title": "「デジタル化・AI導入補助金2026」「通常枠：2次締切」、「セキュリティ対策推進枠：2次締切」、「インボイス枠（インボイス対応類型）：2次締切｣、「複数者連携デジタル化・AI導入枠：1次締切｣、の補助事業者を採択しました",
+            "detail_url": "https://www.chusho.meti.go.jp/koukai/hojyokin/saitaku/2026/260723001.html",
+            "industry_slugs": [
+              "g17-ai-semiconductor",
+              "g17-digital-cyber"
+            ],
+            "judgment_ready": false
+          }
+        ]
+      },
+      {
+        "program_key": "digital-ai-2026",
+        "program_name_ja": "デジタル化・AI導入補助金2026",
+        "rounds_n": 1,
+        "latest_round": "1次締切（通常・セキュリティ・インボイス）",
+        "latest_rate_pct": 46.3,
+        "source_refs": [
+          "https://mirasapo-plus.go.jp/infomation/33237/"
+        ],
+        "linked_active_sample": [
+          {
+            "id": "mirasapo-32666",
+            "title": "中小企業庁担当者に聞く「デジタル化・AI導入補助金」",
+            "detail_url": "https://mirasapo-plus.go.jp/infomation/32666/",
+            "industry_slugs": [
+              "g17-ai-semiconductor",
+              "g17-digital-cyber"
+            ],
+            "judgment_ready": false
+          },
+          {
+            "id": "mirasapo-32651",
+            "title": "中小企業庁担当者に聞く | 業務改善につながるITツールの導入を支援「デジタル化・AI導入補助金」",
+            "detail_url": "https://mirasapo-plus.go.jp/hint/32651/",
+            "industry_slugs": [
+              "g17-ai-semiconductor",
+              "g17-digital-cyber"
+            ],
+            "judgment_ready": false
+          },
+          {
+            "id": "mirasapo-29009",
+            "title": "中小企業庁担当者に聞く「IT導入補助金2025」",
+            "detail_url": "https://mirasapo-plus.go.jp/infomation/29009/",
+            "industry_slugs": [
+              "untagged"
+            ],
+            "judgment_ready": false
+          },
+          {
+            "id": "mirasapo-30336",
+            "title": "【補助金採択結果】「IT導入補助金2025」「通常枠：5次締切」、「セキュリティ対策推進枠：5次締切」、「インボイス枠（インボイス対応類型）：5次締切」、の補助事業者を採択",
+            "detail_url": "https://mirasapo-plus.go.jp/infomation/30336/",
+            "industry_slugs": [
+              "untagged"
+            ],
+            "judgment_ready": false
+          },
+          {
+            "id": "mirasapo-29183",
+            "title": "IT導入補助金2025採択結果【１次締切】",
+            "detail_url": "https://mirasapo-plus.go.jp/infomation/29183/",
+            "industry_slugs": [
+              "untagged"
+            ],
+            "judgment_ready": false
+          },
+          {
+            "id": "jnet21-185963",
+            "title": "補助金・助成金：「デジタル化・AI導入補助金2026「複数者連携デジタル化・AI導入枠」※2次締切分」",
+            "detail_url": "https://j-net21.smrj.go.jp/snavi2/articles/185963",
+            "industry_slugs": [
+              "g17-ai-semiconductor",
+              "g17-digital-cyber"
+            ],
+            "judgment_ready": false
+          },
+          {
+            "id": "ministry-1073757608",
+            "title": "デジタル化・AI導入補助金 通常枠、インボイス枠（インボイス対応類型、電子取引類型）、セキュリティ対策推進枠【申請受付期間：第1次締切5/12、第2次締切6/15、第3次締切7/21、第4次締切8/25】 複数者連携デジタル化・AI導入枠【",
+            "detail_url": "https://www.chusho.meti.go.jp/koukai/yosan/r7/r6_it.pdf",
+            "industry_slugs": [
+              "g17-ai-semiconductor",
+              "g17-digital-cyber"
+            ],
+            "judgment_ready": false
+          },
+          {
+            "id": "ministry-923602305",
+            "title": "「デジタル化・AI導入補助金2026」「通常枠：2次締切」、「セキュリティ対策推進枠：2次締切」、「インボイス枠（インボイス対応類型）：2次締切｣、「複数者連携デジタル化・AI導入枠：1次締切｣、の補助事業者を採択しました",
+            "detail_url": "https://www.chusho.meti.go.jp/koukai/hojyokin/saitaku/2026/260723001.html",
+            "industry_slugs": [
+              "g17-ai-semiconductor",
+              "g17-digital-cyber"
+            ],
+            "judgment_ready": false
+          }
+        ]
+      },
+      {
+        "program_key": "jigyo-saikochiku",
+        "program_name_ja": "事業再構築補助金",
+        "rounds_n": 1,
+        "latest_round": "第13回公募",
+        "latest_rate_pct": 35.52,
+        "source_refs": [
+          "https://jigyou-saikouchiku.go.jp/result.html"
+        ],
+        "linked_active_sample": [
+          {
+            "id": "prefecture-oita-7393991456",
+            "title": "【大分県】事業再構築補助金（経済産業省HPへリンク）",
+            "detail_url": "https://www.meti.go.jp/covid-19/jigyo_saikoutiku/index.html",
+            "industry_slugs": [
+              "untagged"
+            ],
+            "judgment_ready": false
+          },
+          {
+            "id": "city-kawasaki-916228219",
+            "title": "【川崎市】事業再構築補助金（経済産業省） 外部リンク",
+            "detail_url": "https://jigyou-saikouchiku.go.jp/",
+            "industry_slugs": [
+              "untagged"
+            ],
+            "judgment_ready": false
+          },
+          {
+            "id": "prefecture-oita-4194777995",
+            "title": "【大分県】事業再構築補助金（経済産業省HPへリンク）",
+            "detail_url": "https://www.meti.go.jp/covid-19/jigyo_saikoutiku/index.html",
+            "industry_slugs": [
+              "untagged"
+            ],
+            "judgment_ready": false
+          },
+          {
+            "id": "city-kawasaki-1362802887",
+            "title": "【川崎市】事業再構築補助金（経済産業省） 外部リンク",
+            "detail_url": "https://jigyou-saikouchiku.go.jp/",
+            "industry_slugs": [
+              "untagged"
+            ],
+            "judgment_ready": false
+          },
+          {
+            "id": "prefecture-oita-9747423773",
+            "title": "【大分県】事業再構築補助金（経済産業省HPへリンク）",
+            "detail_url": "https://www.meti.go.jp/covid-19/jigyo_saikoutiku/index.html",
+            "industry_slugs": [
+              "untagged"
+            ],
+            "judgment_ready": false
+          },
+          {
+            "id": "city-kawasaki-6247244787",
+            "title": "【川崎市】事業再構築補助金（経済産業省） 外部リンク",
+            "detail_url": "https://jigyou-saikouchiku.go.jp/",
+            "industry_slugs": [
+              "untagged"
+            ],
+            "judgment_ready": false
+          },
+          {
+            "id": "prefecture-oita-7082600143",
+            "title": "【大分県】事業再構築補助金（経済産業省HPへリンク）",
+            "detail_url": "https://www.meti.go.jp/covid-19/jigyo_saikoutiku/index.html",
+            "industry_slugs": [
+              "untagged"
+            ],
+            "judgment_ready": false
+          },
+          {
+            "id": "city-kawasaki-4995646403",
+            "title": "【川崎市】事業再構築補助金（経済産業省） 外部リンク",
+            "detail_url": "https://jigyou-saikouchiku.go.jp/",
+            "industry_slugs": [
+              "untagged"
+            ],
+            "judgment_ready": false
+          }
+        ]
+      },
+      {
+        "program_key": "daikibo-seicho-shoryoku",
+        "program_name_ja": "中堅・中小企業の賃上げに向けた省力化等の大規模成長投資補助金",
+        "rounds_n": 3,
+        "latest_round": "第5次公募",
+        "latest_rate_pct": 38.89,
+        "source_refs": [
+          "https://biz.stayway.jp/hojyokin/30269/",
+          "https://www.gunmabank.co.jp/info/news/20250729a.html"
+        ],
+        "linked_active_sample": [
+          {
+            "id": "a0WJ200000CDSBJMA5",
+            "title": "【４次公募】令和6年度補正予算 中堅・中小企業の賃上げに向けた省力化等の大規模成長投資補助金",
+            "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDSBJMA5",
+            "industry_slugs": [
+              "untagged"
+            ],
+            "judgment_ready": true
+          },
+          {
+            "id": "a0WJ200000CDXgBMAX",
+            "title": "【５次公募】令和7年度補正予算 中堅・中小・スタートアップの賃上げに向けた省力化等の大規模成長投資補助金",
+            "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDXgBMAX",
+            "industry_slugs": [
+              "untagged"
+            ],
+            "judgment_ready": true
+          },
+          {
+            "id": "mirasapo-30407",
+            "title": "中小企業庁担当者に聞く「中小企業省力化投資補助金の活用状況とポイント」",
+            "detail_url": "https://mirasapo-plus.go.jp/infomation/30407/",
+            "industry_slugs": [
+              "untagged"
+            ],
+            "judgment_ready": false
+          },
+          {
+            "id": "mirasapo-30368",
+            "title": "【中小企業庁公式・補助金】省力化投資補助金（一般型）第4回の申請受付を開始",
+            "detail_url": "https://mirasapo-plus.go.jp/infomation/30368/",
+            "industry_slugs": [
+              "untagged"
+            ],
+            "judgment_ready": false
+          },
+          {
+            "id": "mirasapo-27809",
+            "title": "中小企業庁担当者に聞く「より活用しやすく!　令和7年中小企業省力化投資補助金のポイント」",
+            "detail_url": "https://mirasapo-plus.go.jp/infomation/27809/",
+            "industry_slugs": [
+              "untagged"
+            ],
+            "judgment_ready": false
+          },
+          {
+            "id": "mirasapo-24088",
+            "title": "中小企業庁担当者に聞く「中小企業省力化投資補助金［カタログ注文型］」",
+            "detail_url": "https://mirasapo-plus.go.jp/hint/24088/",
+            "industry_slugs": [
+              "untagged"
+            ],
+            "judgment_ready": false
+          },
+          {
+            "id": "prefecture-aomori-7312123706",
+            "title": "【青森県】【青森県 経済産業政策課】「経済産業省 中小企業省力化投資補助金（カタログ型）の公募スケジュールのお知らせ",
+            "detail_url": "https://shoryokuka.smrj.go.jp/",
+            "industry_slugs": [
+              "untagged"
+            ],
+            "judgment_ready": false
+          },
+          {
+            "id": "prefecture-aomori-1413199746",
+            "title": "【青森県】【青森県 経済産業政策課】「経済産業省 中小企業省力化投資補助金（カタログ型）の公募スケジュールのお知らせ",
+            "detail_url": "https://shoryokuka.smrj.go.jp/",
+            "industry_slugs": [
+              "untagged"
+            ],
+            "judgment_ready": false
+          }
+        ]
       }
     ],
-    "observations_n": 24,
+    "observations_n": 30,
     "monodukuri_rounds": 22,
     "jizokuka_rounds": 2
   },
   "observations": [
+    {
+      "as_of_date": "2026-05-12",
+      "still_valid_2026": true,
+      "retrieved_at": "2026-07-24",
+      "veritas": "✅",
+      "metric_id": "jp.subsidy.adoption_stats",
+      "program_key": "digital-ai-2026",
+      "program_name_ja": "デジタル化・AI導入補助金2026",
+      "round_label": "1次締切（通常・セキュリティ・インボイス）",
+      "frame": null,
+      "applicants": 6440,
+      "adopted": 2982,
+      "adoption_rate_pct": 46.3,
+      "unit": "pct",
+      "value": 46.3,
+      "industry_slugs_hint": [
+        "ai",
+        "manufacturing-total",
+        "consumer-goods"
+      ],
+      "linked_active_sample": [
+        {
+          "id": "mirasapo-32666",
+          "title": "中小企業庁担当者に聞く「デジタル化・AI導入補助金」",
+          "detail_url": "https://mirasapo-plus.go.jp/infomation/32666/",
+          "industry_slugs": [
+            "g17-ai-semiconductor",
+            "g17-digital-cyber"
+          ],
+          "judgment_ready": false
+        },
+        {
+          "id": "mirasapo-32651",
+          "title": "中小企業庁担当者に聞く | 業務改善につながるITツールの導入を支援「デジタル化・AI導入補助金」",
+          "detail_url": "https://mirasapo-plus.go.jp/hint/32651/",
+          "industry_slugs": [
+            "g17-ai-semiconductor",
+            "g17-digital-cyber"
+          ],
+          "judgment_ready": false
+        },
+        {
+          "id": "mirasapo-29009",
+          "title": "中小企業庁担当者に聞く「IT導入補助金2025」",
+          "detail_url": "https://mirasapo-plus.go.jp/infomation/29009/",
+          "industry_slugs": [
+            "untagged"
+          ],
+          "judgment_ready": false
+        },
+        {
+          "id": "mirasapo-30336",
+          "title": "【補助金採択結果】「IT導入補助金2025」「通常枠：5次締切」、「セキュリティ対策推進枠：5次締切」、「インボイス枠（インボイス対応類型）：5次締切」、の補助事業者を採択",
+          "detail_url": "https://mirasapo-plus.go.jp/infomation/30336/",
+          "industry_slugs": [
+            "untagged"
+          ],
+          "judgment_ready": false
+        },
+        {
+          "id": "mirasapo-29183",
+          "title": "IT導入補助金2025採択結果【１次締切】",
+          "detail_url": "https://mirasapo-plus.go.jp/infomation/29183/",
+          "industry_slugs": [
+            "untagged"
+          ],
+          "judgment_ready": false
+        },
+        {
+          "id": "jnet21-185963",
+          "title": "補助金・助成金：「デジタル化・AI導入補助金2026「複数者連携デジタル化・AI導入枠」※2次締切分」",
+          "detail_url": "https://j-net21.smrj.go.jp/snavi2/articles/185963",
+          "industry_slugs": [
+            "g17-ai-semiconductor",
+            "g17-digital-cyber"
+          ],
+          "judgment_ready": false
+        },
+        {
+          "id": "ministry-1073757608",
+          "title": "デジタル化・AI導入補助金 通常枠、インボイス枠（インボイス対応類型、電子取引類型）、セキュリティ対策推進枠【申請受付期間：第1次締切5/12、第2次締切6/15、第3次締切7/21、第4次締切8/25】 複数者連携デジタル化・AI導入枠【",
+          "detail_url": "https://www.chusho.meti.go.jp/koukai/yosan/r7/r6_it.pdf",
+          "industry_slugs": [
+            "g17-ai-semiconductor",
+            "g17-digital-cyber"
+          ],
+          "judgment_ready": false
+        },
+        {
+          "id": "ministry-923602305",
+          "title": "「デジタル化・AI導入補助金2026」「通常枠：2次締切」、「セキュリティ対策推進枠：2次締切」、「インボイス枠（インボイス対応類型）：2次締切｣、「複数者連携デジタル化・AI導入枠：1次締切｣、の補助事業者を採択しました",
+          "detail_url": "https://www.chusho.meti.go.jp/koukai/hojyokin/saitaku/2026/260723001.html",
+          "industry_slugs": [
+            "g17-ai-semiconductor",
+            "g17-digital-cyber"
+          ],
+          "judgment_ready": false
+        }
+      ],
+      "source": "デジタル化・AI導入補助金2026",
+      "source_ref": "https://mirasapo-plus.go.jp/infomation/33237/",
+      "note": "制度単位の公表採択率。採択企業の実名一覧は source_ref の公表ページを参照（feed本体には載せない）。 応募締切日を as_of に近似。採択公表は同発表記事。"
+    },
     {
       "as_of_date": "2026-04-30",
       "still_valid_2026": true,
@@ -365,6 +815,109 @@
       "note": "制度単位の公表採択率。採択企業の実名一覧は source_ref の公表ページを参照（feed本体には載せない）。"
     },
     {
+      "as_of_date": "2026-02-17",
+      "still_valid_2026": true,
+      "retrieved_at": "2026-07-24",
+      "veritas": "✅",
+      "metric_id": "jp.subsidy.adoption_stats",
+      "program_key": "it-donyu-2025",
+      "program_name_ja": "IT導入補助金2025",
+      "round_label": "第8次締切（通常・インボイス・セキュリティ・複数社連携）",
+      "frame": null,
+      "applicants": 9455,
+      "adopted": 4028,
+      "adoption_rate_pct": 42.6,
+      "unit": "pct",
+      "value": 42.6,
+      "industry_slugs_hint": [
+        "ai",
+        "manufacturing-total",
+        "consumer-goods"
+      ],
+      "linked_active_sample": [
+        {
+          "id": "mirasapo-32666",
+          "title": "中小企業庁担当者に聞く「デジタル化・AI導入補助金」",
+          "detail_url": "https://mirasapo-plus.go.jp/infomation/32666/",
+          "industry_slugs": [
+            "g17-ai-semiconductor",
+            "g17-digital-cyber"
+          ],
+          "judgment_ready": false
+        },
+        {
+          "id": "mirasapo-32651",
+          "title": "中小企業庁担当者に聞く | 業務改善につながるITツールの導入を支援「デジタル化・AI導入補助金」",
+          "detail_url": "https://mirasapo-plus.go.jp/hint/32651/",
+          "industry_slugs": [
+            "g17-ai-semiconductor",
+            "g17-digital-cyber"
+          ],
+          "judgment_ready": false
+        },
+        {
+          "id": "mirasapo-29009",
+          "title": "中小企業庁担当者に聞く「IT導入補助金2025」",
+          "detail_url": "https://mirasapo-plus.go.jp/infomation/29009/",
+          "industry_slugs": [
+            "untagged"
+          ],
+          "judgment_ready": false
+        },
+        {
+          "id": "mirasapo-30336",
+          "title": "【補助金採択結果】「IT導入補助金2025」「通常枠：5次締切」、「セキュリティ対策推進枠：5次締切」、「インボイス枠（インボイス対応類型）：5次締切」、の補助事業者を採択",
+          "detail_url": "https://mirasapo-plus.go.jp/infomation/30336/",
+          "industry_slugs": [
+            "untagged"
+          ],
+          "judgment_ready": false
+        },
+        {
+          "id": "mirasapo-29183",
+          "title": "IT導入補助金2025採択結果【１次締切】",
+          "detail_url": "https://mirasapo-plus.go.jp/infomation/29183/",
+          "industry_slugs": [
+            "untagged"
+          ],
+          "judgment_ready": false
+        },
+        {
+          "id": "jnet21-185963",
+          "title": "補助金・助成金：「デジタル化・AI導入補助金2026「複数者連携デジタル化・AI導入枠」※2次締切分」",
+          "detail_url": "https://j-net21.smrj.go.jp/snavi2/articles/185963",
+          "industry_slugs": [
+            "g17-ai-semiconductor",
+            "g17-digital-cyber"
+          ],
+          "judgment_ready": false
+        },
+        {
+          "id": "ministry-1073757608",
+          "title": "デジタル化・AI導入補助金 通常枠、インボイス枠（インボイス対応類型、電子取引類型）、セキュリティ対策推進枠【申請受付期間：第1次締切5/12、第2次締切6/15、第3次締切7/21、第4次締切8/25】 複数者連携デジタル化・AI導入枠【",
+          "detail_url": "https://www.chusho.meti.go.jp/koukai/yosan/r7/r6_it.pdf",
+          "industry_slugs": [
+            "g17-ai-semiconductor",
+            "g17-digital-cyber"
+          ],
+          "judgment_ready": false
+        },
+        {
+          "id": "ministry-923602305",
+          "title": "「デジタル化・AI導入補助金2026」「通常枠：2次締切」、「セキュリティ対策推進枠：2次締切」、「インボイス枠（インボイス対応類型）：2次締切｣、「複数者連携デジタル化・AI導入枠：1次締切｣、の補助事業者を採択しました",
+          "detail_url": "https://www.chusho.meti.go.jp/koukai/hojyokin/saitaku/2026/260723001.html",
+          "industry_slugs": [
+            "g17-ai-semiconductor",
+            "g17-digital-cyber"
+          ],
+          "judgment_ready": false
+        }
+      ],
+      "source": "IT導入補助金2025",
+      "source_ref": "https://seisansei.smrj.go.jp/news/20260217-2.html",
+      "note": "制度単位の公表採択率。採択企業の実名一覧は source_ref の公表ページを参照（feed本体には載せない）。"
+    },
+    {
       "as_of_date": "2026-01-23",
       "still_valid_2026": true,
       "retrieved_at": "2026-07-24",
@@ -457,6 +1010,104 @@
       "note": "制度単位の公表採択率。採択企業の実名一覧は source_ref の公表ページを参照（feed本体には載せない）。"
     },
     {
+      "as_of_date": "2026-01-01",
+      "still_valid_2026": true,
+      "retrieved_at": "2026-07-24",
+      "veritas": "△",
+      "metric_id": "jp.subsidy.adoption_stats",
+      "program_key": "daikibo-seicho-shoryoku",
+      "program_name_ja": "中堅・中小企業の賃上げに向けた省力化等の大規模成長投資補助金",
+      "round_label": "第5次公募",
+      "frame": null,
+      "applicants": 198,
+      "adopted": 77,
+      "adoption_rate_pct": 38.89,
+      "unit": "pct",
+      "value": 38.89,
+      "industry_slugs_hint": [
+        "manufacturing-total",
+        "industrial-machinery",
+        "automotive-mobility"
+      ],
+      "linked_active_sample": [
+        {
+          "id": "a0WJ200000CDSBJMA5",
+          "title": "【４次公募】令和6年度補正予算 中堅・中小企業の賃上げに向けた省力化等の大規模成長投資補助金",
+          "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDSBJMA5",
+          "industry_slugs": [
+            "untagged"
+          ],
+          "judgment_ready": true
+        },
+        {
+          "id": "a0WJ200000CDXgBMAX",
+          "title": "【５次公募】令和7年度補正予算 中堅・中小・スタートアップの賃上げに向けた省力化等の大規模成長投資補助金",
+          "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDXgBMAX",
+          "industry_slugs": [
+            "untagged"
+          ],
+          "judgment_ready": true
+        },
+        {
+          "id": "mirasapo-30407",
+          "title": "中小企業庁担当者に聞く「中小企業省力化投資補助金の活用状況とポイント」",
+          "detail_url": "https://mirasapo-plus.go.jp/infomation/30407/",
+          "industry_slugs": [
+            "untagged"
+          ],
+          "judgment_ready": false
+        },
+        {
+          "id": "mirasapo-30368",
+          "title": "【中小企業庁公式・補助金】省力化投資補助金（一般型）第4回の申請受付を開始",
+          "detail_url": "https://mirasapo-plus.go.jp/infomation/30368/",
+          "industry_slugs": [
+            "untagged"
+          ],
+          "judgment_ready": false
+        },
+        {
+          "id": "mirasapo-27809",
+          "title": "中小企業庁担当者に聞く「より活用しやすく!　令和7年中小企業省力化投資補助金のポイント」",
+          "detail_url": "https://mirasapo-plus.go.jp/infomation/27809/",
+          "industry_slugs": [
+            "untagged"
+          ],
+          "judgment_ready": false
+        },
+        {
+          "id": "mirasapo-24088",
+          "title": "中小企業庁担当者に聞く「中小企業省力化投資補助金［カタログ注文型］」",
+          "detail_url": "https://mirasapo-plus.go.jp/hint/24088/",
+          "industry_slugs": [
+            "untagged"
+          ],
+          "judgment_ready": false
+        },
+        {
+          "id": "prefecture-aomori-7312123706",
+          "title": "【青森県】【青森県 経済産業政策課】「経済産業省 中小企業省力化投資補助金（カタログ型）の公募スケジュールのお知らせ",
+          "detail_url": "https://shoryokuka.smrj.go.jp/",
+          "industry_slugs": [
+            "untagged"
+          ],
+          "judgment_ready": false
+        },
+        {
+          "id": "prefecture-aomori-1413199746",
+          "title": "【青森県】【青森県 経済産業政策課】「経済産業省 中小企業省力化投資補助金（カタログ型）の公募スケジュールのお知らせ",
+          "detail_url": "https://shoryokuka.smrj.go.jp/",
+          "industry_slugs": [
+            "untagged"
+          ],
+          "judgment_ready": false
+        }
+      ],
+      "source": "中堅・中小企業の賃上げに向けた省力化等の大規模成長投資補助金",
+      "source_ref": "https://biz.stayway.jp/hojyokin/30269/",
+      "note": "制度単位の公表採択率。採択企業の実名一覧は source_ref の公表ページを参照（feed本体には載せない）。 公式結果ページが一時取得不能のため、複数二次出典で一致する数値を採用。次波で公式URLへ置換。"
+    },
+    {
       "as_of_date": "2025-10-27",
       "still_valid_2026": true,
       "retrieved_at": "2026-07-24",
@@ -547,6 +1198,104 @@
       "source": "ものづくり・商業・サービス生産性向上促進補助金",
       "source_ref": "https://portal.monodukuri-hojo.jp/saitaku.html",
       "note": "制度単位の公表採択率。採択企業の実名一覧は source_ref の公表ページを参照（feed本体には載せない）。"
+    },
+    {
+      "as_of_date": "2025-10-15",
+      "still_valid_2026": true,
+      "retrieved_at": "2026-07-24",
+      "veritas": "△",
+      "metric_id": "jp.subsidy.adoption_stats",
+      "program_key": "daikibo-seicho-shoryoku",
+      "program_name_ja": "中堅・中小企業の賃上げに向けた省力化等の大規模成長投資補助金",
+      "round_label": "第4次公募",
+      "frame": null,
+      "applicants": 210,
+      "adopted": 102,
+      "adoption_rate_pct": 48.57,
+      "unit": "pct",
+      "value": 48.57,
+      "industry_slugs_hint": [
+        "manufacturing-total",
+        "industrial-machinery",
+        "automotive-mobility"
+      ],
+      "linked_active_sample": [
+        {
+          "id": "a0WJ200000CDSBJMA5",
+          "title": "【４次公募】令和6年度補正予算 中堅・中小企業の賃上げに向けた省力化等の大規模成長投資補助金",
+          "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDSBJMA5",
+          "industry_slugs": [
+            "untagged"
+          ],
+          "judgment_ready": true
+        },
+        {
+          "id": "a0WJ200000CDXgBMAX",
+          "title": "【５次公募】令和7年度補正予算 中堅・中小・スタートアップの賃上げに向けた省力化等の大規模成長投資補助金",
+          "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDXgBMAX",
+          "industry_slugs": [
+            "untagged"
+          ],
+          "judgment_ready": true
+        },
+        {
+          "id": "mirasapo-30407",
+          "title": "中小企業庁担当者に聞く「中小企業省力化投資補助金の活用状況とポイント」",
+          "detail_url": "https://mirasapo-plus.go.jp/infomation/30407/",
+          "industry_slugs": [
+            "untagged"
+          ],
+          "judgment_ready": false
+        },
+        {
+          "id": "mirasapo-30368",
+          "title": "【中小企業庁公式・補助金】省力化投資補助金（一般型）第4回の申請受付を開始",
+          "detail_url": "https://mirasapo-plus.go.jp/infomation/30368/",
+          "industry_slugs": [
+            "untagged"
+          ],
+          "judgment_ready": false
+        },
+        {
+          "id": "mirasapo-27809",
+          "title": "中小企業庁担当者に聞く「より活用しやすく!　令和7年中小企業省力化投資補助金のポイント」",
+          "detail_url": "https://mirasapo-plus.go.jp/infomation/27809/",
+          "industry_slugs": [
+            "untagged"
+          ],
+          "judgment_ready": false
+        },
+        {
+          "id": "mirasapo-24088",
+          "title": "中小企業庁担当者に聞く「中小企業省力化投資補助金［カタログ注文型］」",
+          "detail_url": "https://mirasapo-plus.go.jp/hint/24088/",
+          "industry_slugs": [
+            "untagged"
+          ],
+          "judgment_ready": false
+        },
+        {
+          "id": "prefecture-aomori-7312123706",
+          "title": "【青森県】【青森県 経済産業政策課】「経済産業省 中小企業省力化投資補助金（カタログ型）の公募スケジュールのお知らせ",
+          "detail_url": "https://shoryokuka.smrj.go.jp/",
+          "industry_slugs": [
+            "untagged"
+          ],
+          "judgment_ready": false
+        },
+        {
+          "id": "prefecture-aomori-1413199746",
+          "title": "【青森県】【青森県 経済産業政策課】「経済産業省 中小企業省力化投資補助金（カタログ型）の公募スケジュールのお知らせ",
+          "detail_url": "https://shoryokuka.smrj.go.jp/",
+          "industry_slugs": [
+            "untagged"
+          ],
+          "judgment_ready": false
+        }
+      ],
+      "source": "中堅・中小企業の賃上げに向けた省力化等の大規模成長投資補助金",
+      "source_ref": "https://biz.stayway.jp/hojyokin/30269/",
+      "note": "制度単位の公表採択率。採択企業の実名一覧は source_ref の公表ページを参照（feed本体には載せない）。 公式結果ページが一時取得不能のため、複数二次出典で一致する数値を採用。"
     },
     {
       "as_of_date": "2025-09-26",
@@ -737,6 +1486,203 @@
       "source": "ものづくり・商業・サービス生産性向上促進補助金",
       "source_ref": "https://portal.monodukuri-hojo.jp/saitaku.html",
       "note": "制度単位の公表採択率。採択企業の実名一覧は source_ref の公表ページを参照（feed本体には載せない）。"
+    },
+    {
+      "as_of_date": "2025-06-30",
+      "still_valid_2026": true,
+      "retrieved_at": "2026-07-24",
+      "veritas": "✅",
+      "metric_id": "jp.subsidy.adoption_stats",
+      "program_key": "jigyo-saikochiku",
+      "program_name_ja": "事業再構築補助金",
+      "round_label": "第13回公募",
+      "frame": null,
+      "applicants": 3100,
+      "adopted": 1101,
+      "adoption_rate_pct": 35.52,
+      "unit": "pct",
+      "value": 35.52,
+      "industry_slugs_hint": [
+        "manufacturing-total",
+        "industrial-machinery",
+        "food-beverage",
+        "consumer-goods"
+      ],
+      "linked_active_sample": [
+        {
+          "id": "prefecture-oita-7393991456",
+          "title": "【大分県】事業再構築補助金（経済産業省HPへリンク）",
+          "detail_url": "https://www.meti.go.jp/covid-19/jigyo_saikoutiku/index.html",
+          "industry_slugs": [
+            "untagged"
+          ],
+          "judgment_ready": false
+        },
+        {
+          "id": "city-kawasaki-916228219",
+          "title": "【川崎市】事業再構築補助金（経済産業省） 外部リンク",
+          "detail_url": "https://jigyou-saikouchiku.go.jp/",
+          "industry_slugs": [
+            "untagged"
+          ],
+          "judgment_ready": false
+        },
+        {
+          "id": "prefecture-oita-4194777995",
+          "title": "【大分県】事業再構築補助金（経済産業省HPへリンク）",
+          "detail_url": "https://www.meti.go.jp/covid-19/jigyo_saikoutiku/index.html",
+          "industry_slugs": [
+            "untagged"
+          ],
+          "judgment_ready": false
+        },
+        {
+          "id": "city-kawasaki-1362802887",
+          "title": "【川崎市】事業再構築補助金（経済産業省） 外部リンク",
+          "detail_url": "https://jigyou-saikouchiku.go.jp/",
+          "industry_slugs": [
+            "untagged"
+          ],
+          "judgment_ready": false
+        },
+        {
+          "id": "prefecture-oita-9747423773",
+          "title": "【大分県】事業再構築補助金（経済産業省HPへリンク）",
+          "detail_url": "https://www.meti.go.jp/covid-19/jigyo_saikoutiku/index.html",
+          "industry_slugs": [
+            "untagged"
+          ],
+          "judgment_ready": false
+        },
+        {
+          "id": "city-kawasaki-6247244787",
+          "title": "【川崎市】事業再構築補助金（経済産業省） 外部リンク",
+          "detail_url": "https://jigyou-saikouchiku.go.jp/",
+          "industry_slugs": [
+            "untagged"
+          ],
+          "judgment_ready": false
+        },
+        {
+          "id": "prefecture-oita-7082600143",
+          "title": "【大分県】事業再構築補助金（経済産業省HPへリンク）",
+          "detail_url": "https://www.meti.go.jp/covid-19/jigyo_saikoutiku/index.html",
+          "industry_slugs": [
+            "untagged"
+          ],
+          "judgment_ready": false
+        },
+        {
+          "id": "city-kawasaki-4995646403",
+          "title": "【川崎市】事業再構築補助金（経済産業省） 外部リンク",
+          "detail_url": "https://jigyou-saikouchiku.go.jp/",
+          "industry_slugs": [
+            "untagged"
+          ],
+          "judgment_ready": false
+        }
+      ],
+      "source": "事業再構築補助金",
+      "source_ref": "https://jigyou-saikouchiku.go.jp/result.html",
+      "note": "制度単位の公表採択率。採択企業の実名一覧は source_ref の公表ページを参照（feed本体には載せない）。"
+    },
+    {
+      "as_of_date": "2025-06-30",
+      "still_valid_2026": true,
+      "retrieved_at": "2026-07-24",
+      "veritas": "△",
+      "metric_id": "jp.subsidy.adoption_stats",
+      "program_key": "daikibo-seicho-shoryoku",
+      "program_name_ja": "中堅・中小企業の賃上げに向けた省力化等の大規模成長投資補助金",
+      "round_label": "第3次公募",
+      "frame": null,
+      "applicants": 229,
+      "adopted": 116,
+      "adoption_rate_pct": 50.66,
+      "unit": "pct",
+      "value": 50.66,
+      "industry_slugs_hint": [
+        "manufacturing-total",
+        "industrial-machinery",
+        "automotive-mobility"
+      ],
+      "linked_active_sample": [
+        {
+          "id": "a0WJ200000CDSBJMA5",
+          "title": "【４次公募】令和6年度補正予算 中堅・中小企業の賃上げに向けた省力化等の大規模成長投資補助金",
+          "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDSBJMA5",
+          "industry_slugs": [
+            "untagged"
+          ],
+          "judgment_ready": true
+        },
+        {
+          "id": "a0WJ200000CDXgBMAX",
+          "title": "【５次公募】令和7年度補正予算 中堅・中小・スタートアップの賃上げに向けた省力化等の大規模成長投資補助金",
+          "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDXgBMAX",
+          "industry_slugs": [
+            "untagged"
+          ],
+          "judgment_ready": true
+        },
+        {
+          "id": "mirasapo-30407",
+          "title": "中小企業庁担当者に聞く「中小企業省力化投資補助金の活用状況とポイント」",
+          "detail_url": "https://mirasapo-plus.go.jp/infomation/30407/",
+          "industry_slugs": [
+            "untagged"
+          ],
+          "judgment_ready": false
+        },
+        {
+          "id": "mirasapo-30368",
+          "title": "【中小企業庁公式・補助金】省力化投資補助金（一般型）第4回の申請受付を開始",
+          "detail_url": "https://mirasapo-plus.go.jp/infomation/30368/",
+          "industry_slugs": [
+            "untagged"
+          ],
+          "judgment_ready": false
+        },
+        {
+          "id": "mirasapo-27809",
+          "title": "中小企業庁担当者に聞く「より活用しやすく!　令和7年中小企業省力化投資補助金のポイント」",
+          "detail_url": "https://mirasapo-plus.go.jp/infomation/27809/",
+          "industry_slugs": [
+            "untagged"
+          ],
+          "judgment_ready": false
+        },
+        {
+          "id": "mirasapo-24088",
+          "title": "中小企業庁担当者に聞く「中小企業省力化投資補助金［カタログ注文型］」",
+          "detail_url": "https://mirasapo-plus.go.jp/hint/24088/",
+          "industry_slugs": [
+            "untagged"
+          ],
+          "judgment_ready": false
+        },
+        {
+          "id": "prefecture-aomori-7312123706",
+          "title": "【青森県】【青森県 経済産業政策課】「経済産業省 中小企業省力化投資補助金（カタログ型）の公募スケジュールのお知らせ",
+          "detail_url": "https://shoryokuka.smrj.go.jp/",
+          "industry_slugs": [
+            "untagged"
+          ],
+          "judgment_ready": false
+        },
+        {
+          "id": "prefecture-aomori-1413199746",
+          "title": "【青森県】【青森県 経済産業政策課】「経済産業省 中小企業省力化投資補助金（カタログ型）の公募スケジュールのお知らせ",
+          "detail_url": "https://shoryokuka.smrj.go.jp/",
+          "industry_slugs": [
+            "untagged"
+          ],
+          "judgment_ready": false
+        }
+      ],
+      "source": "中堅・中小企業の賃上げに向けた省力化等の大規模成長投資補助金",
+      "source_ref": "https://www.gunmabank.co.jp/info/news/20250729a.html",
+      "note": "制度単位の公表採択率。採択企業の実名一覧は source_ref の公表ページを参照（feed本体には載せない）。 群馬銀行公表（全国229→116）。公式ポータル復旧後に置換。"
     },
     {
       "as_of_date": "2024-06-25",
