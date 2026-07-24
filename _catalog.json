@@ -63,6 +63,11 @@
       "id": "phase3_unavailable",
       "path": "phase3/_unavailable.json",
       "note": "REQ-045 P2/P3a honest gaps"
+    },
+    {
+      "id": "jp_census_firms_by_pref",
+      "path": "timeseries/jp_census_firms_by_pref.json",
+      "note": "REQ-045 P2b"
     }
   ]
 }

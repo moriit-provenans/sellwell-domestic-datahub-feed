@@ -17,8 +17,8 @@
     {
       "id": "P2b_census_firms_by_pref",
       "path": "timeseries/jp_census_firms_by_pref.json",
-      "status": "unavailable",
-      "reason_ja": "経済センサスの産業×規模×都道府県断面は e-Stat 大表が必要。本PCに ESTAT_API_KEY が無くローカル取得不可。全国断面 jp.census.establishments / size_distribution は既存維持。GitHub Actions（ESTAT鍵あり）への次波組み込み候補。",
+      "status": "live",
+      "reason_ja": "e-Stat 経済センサス-活動調査2021（大分類×規模×県＋中分類×県）を取得・公開済。",
       "proxy_existing": [
         "timeseries/jp_census_establishments.json",
         "timeseries/jp_census_size_distribution.json"
@@ -27,7 +27,7 @@
     {
       "id": "P2c_resas",
       "status": "deferred_eval",
-      "reason_ja": "RESAS APIはAPIキー登録（https://opendata.resas-portal.go.jp/）が必要。利用規約上、取得データの再配布・商用二次利用に制約があり、Sellwell公開JSONへの直載せは規約確認後でないと不可。判定: キー取得後も『公開feed直載せは見送り、社内分析のみ』が安全。P2bの補完としては Actions 秘密鍵＋集計結果のみ公開の設計が妥当。",
+      "reason_ja": "RESAS APIはAPIキー登録（https://opendata.resas-portal.go.jp/）が必要。利用規約上、取得データの再配布・商用二次利用に制約があり、Sellwell公開JSONへの直載せは規約確認後でないと不可。判定: キー取得後も『公開feed直載せは見送り、社内分析のみ』が安全。P2bは経済センサス直取込で充足。",
       "decision": "not_adopted_for_public_feed_now"
     },
     {

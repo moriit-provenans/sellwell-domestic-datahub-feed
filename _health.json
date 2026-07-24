@@ -3,7 +3,7 @@
   "generated_at": "2026-07-24",
   "feed_status": "ok",
   "subsidy_open_count": 7665,
-  "series_n": 37,
+  "series_n": 38,
   "stale_or_empty": [],
   "smith_notify": {
     "when": "feed_status!=ok OR last_updated が8日超（週次遅延）",
@@ -17,6 +17,7 @@
   "phase3_req045": {
     "adoption_observations": 30,
     "retail_by_channel_obs": 90,
+    "census_firms_by_pref_obs": 2408,
     "updated_at": "2026-07-24"
   }
 }

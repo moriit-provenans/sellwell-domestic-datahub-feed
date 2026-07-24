@@ -27,7 +27,8 @@
     "finder_index_as_of": "2026-07-23",
     "phase3_adoption_obs": 30,
     "phase3_retail_by_channel_obs": 90,
-    "phase3_updated": "2026-07-24"
+    "phase3_updated": "2026-07-24",
+    "phase3_census_firms_by_pref_obs": 2408
   },
   "req_phase3": "REQ-SMITH-20260724-045"
 }
