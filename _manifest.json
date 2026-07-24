@@ -21,8 +21,8 @@
   ],
   "live_metrics": {
     "finder_index_count": 44096,
-    "finder_index_bytes": 24451760,
-    "finder_index_gz_bytes": 2616061,
+    "finder_index_bytes": 24133468,
+    "finder_index_gz_bytes": 2611035,
     "finder_index_schema": "2.0.0",
     "finder_index_as_of": "2026-07-23"
   }
