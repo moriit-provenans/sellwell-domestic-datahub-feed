@@ -1,30 +1,30 @@
 {
   "ok": true,
   "workflow": "sellwell_domestic_feed_daily",
-  "retrieved_at": "2026-07-24T08:03:38+09:00",
-  "as_of_date": "2026-07-24",
-  "note_ja": "日次補助金＋Stage4 judgment更新成功（REQ-030 F / REQ-035）",
-  "judgment_ready_total": 1573,
+  "retrieved_at": "2026-07-25T08:00:50+09:00",
+  "as_of_date": "2026-07-25",
+  "note_ja": "日次補助金＋Stage4 judgment＋finder_index v2（REQ-030 F / REQ-035 / REQ-044）",
+  "judgment_ready_total": 1574,
   "p0": {
     "n": 52,
     "ready": 32,
     "pct": 61.5
   },
   "p1": {
-    "n": 325,
-    "ready": 297,
-    "pct": 91.4
+    "n": 311,
+    "ready": 285,
+    "pct": 91.6
   },
-  "stage4_items": 14138,
+  "stage4_items": 14117,
   "finder_index_schema": "2.0.0",
-  "finder_index_count": 44096,
-  "finder_index_bytes": 24133468,
-  "finder_index_gz_bytes": 2611035,
-  "finder_index_as_of": "2026-07-23",
-  "finder_index_updated_at": "2026-07-24T13:35:16+09:00",
+  "finder_index_count": 46908,
+  "finder_index_bytes": 18051245,
+  "finder_index_gz_bytes": 2484481,
+  "finder_index_as_of": "2026-07-24",
+  "finder_index_updated_at": "2026-07-25T08:00:37+09:00",
   "finder_index_exclude": {
     "dropped_news": 667,
     "dropped_dead_or_soft_dead": 0,
-    "active_count": 44763
+    "active_count": 47575
   }
 }

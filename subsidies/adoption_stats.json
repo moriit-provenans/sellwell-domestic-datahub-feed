@@ -18,15 +18,6 @@
         ],
         "linked_active_sample": [
           {
-            "id": "a0WJ200000CDTzMMAX",
-            "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（19次締切）",
-            "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDTzMMAX",
-            "industry_slugs": [
-              "manufacturing-total"
-            ],
-            "judgment_ready": true
-          },
-          {
             "id": "a0WJ200000CDVkeMAH",
             "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（20次締切）",
             "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDVkeMAH",
@@ -52,6 +43,15 @@
               "manufacturing-total"
             ],
             "judgment_ready": true
+          },
+          {
+            "id": "a0WJ200000CDTzMMAX",
+            "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（19次締切）",
+            "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDTzMMAX",
+            "industry_slugs": [
+              "manufacturing-total"
+            ],
+            "judgment_ready": false
           },
           {
             "id": "deep-meti-monozukuri-0dc4eee81962",
@@ -236,7 +236,7 @@
             "judgment_ready": false
           },
           {
-            "id": "ministry-1073757608",
+            "id": "ministry-7760625382",
             "title": "デジタル化・AI導入補助金 通常枠、インボイス枠（インボイス対応類型、電子取引類型）、セキュリティ対策推進枠【申請受付期間：第1次締切5/12、第2次締切6/15、第3次締切7/21、第4次締切8/25】 複数者連携デジタル化・AI導入枠【",
             "detail_url": "https://www.chusho.meti.go.jp/koukai/yosan/r7/r6_it.pdf",
             "industry_slugs": [
@@ -246,7 +246,7 @@
             "judgment_ready": false
           },
           {
-            "id": "ministry-923602305",
+            "id": "ministry-1325231076",
             "title": "「デジタル化・AI導入補助金2026」「通常枠：2次締切」、「セキュリティ対策推進枠：2次締切」、「インボイス枠（インボイス対応類型）：2次締切｣、「複数者連携デジタル化・AI導入枠：1次締切｣、の補助事業者を採択しました",
             "detail_url": "https://www.chusho.meti.go.jp/koukai/hojyokin/saitaku/2026/260723001.html",
             "industry_slugs": [
@@ -325,7 +325,7 @@
             "judgment_ready": false
           },
           {
-            "id": "ministry-1073757608",
+            "id": "ministry-7760625382",
             "title": "デジタル化・AI導入補助金 通常枠、インボイス枠（インボイス対応類型、電子取引類型）、セキュリティ対策推進枠【申請受付期間：第1次締切5/12、第2次締切6/15、第3次締切7/21、第4次締切8/25】 複数者連携デジタル化・AI導入枠【",
             "detail_url": "https://www.chusho.meti.go.jp/koukai/yosan/r7/r6_it.pdf",
             "industry_slugs": [
@@ -335,7 +335,7 @@
             "judgment_ready": false
           },
           {
-            "id": "ministry-923602305",
+            "id": "ministry-1325231076",
             "title": "「デジタル化・AI導入補助金2026」「通常枠：2次締切」、「セキュリティ対策推進枠：2次締切」、「インボイス枠（インボイス対応類型）：2次締切｣、「複数者連携デジタル化・AI導入枠：1次締切｣、の補助事業者を採択しました",
             "detail_url": "https://www.chusho.meti.go.jp/koukai/hojyokin/saitaku/2026/260723001.html",
             "industry_slugs": [
@@ -356,6 +356,24 @@
           "https://jigyou-saikouchiku.go.jp/result.html"
         ],
         "linked_active_sample": [
+          {
+            "id": "prefecture-oita-3916663157",
+            "title": "【大分県】事業再構築補助金（経済産業省HPへリンク）",
+            "detail_url": "https://www.meti.go.jp/covid-19/jigyo_saikoutiku/index.html",
+            "industry_slugs": [
+              "untagged"
+            ],
+            "judgment_ready": false
+          },
+          {
+            "id": "city-kawasaki-5335721225",
+            "title": "【川崎市】事業再構築補助金（経済産業省） 外部リンク",
+            "detail_url": "https://jigyou-saikouchiku.go.jp/",
+            "industry_slugs": [
+              "untagged"
+            ],
+            "judgment_ready": false
+          },
           {
             "id": "prefecture-oita-7393991456",
             "title": "【大分県】事業再構築補助金（経済産業省HPへリンク）",
@@ -403,24 +421,6 @@
           },
           {
             "id": "city-kawasaki-6247244787",
-            "title": "【川崎市】事業再構築補助金（経済産業省） 外部リンク",
-            "detail_url": "https://jigyou-saikouchiku.go.jp/",
-            "industry_slugs": [
-              "untagged"
-            ],
-            "judgment_ready": false
-          },
-          {
-            "id": "prefecture-oita-7082600143",
-            "title": "【大分県】事業再構築補助金（経済産業省HPへリンク）",
-            "detail_url": "https://www.meti.go.jp/covid-19/jigyo_saikoutiku/index.html",
-            "industry_slugs": [
-              "untagged"
-            ],
-            "judgment_ready": false
-          },
-          {
-            "id": "city-kawasaki-4995646403",
             "title": "【川崎市】事業再構築補助金（経済産業省） 外部リンク",
             "detail_url": "https://jigyou-saikouchiku.go.jp/",
             "industry_slugs": [
@@ -496,7 +496,7 @@
             "judgment_ready": false
           },
           {
-            "id": "prefecture-aomori-7312123706",
+            "id": "prefecture-aomori-4272032514",
             "title": "【青森県】【青森県 経済産業政策課】「経済産業省 中小企業省力化投資補助金（カタログ型）の公募スケジュールのお知らせ",
             "detail_url": "https://shoryokuka.smrj.go.jp/",
             "industry_slugs": [
@@ -505,7 +505,7 @@
             "judgment_ready": false
           },
           {
-            "id": "prefecture-aomori-1413199746",
+            "id": "prefecture-aomori-7312123706",
             "title": "【青森県】【青森県 経済産業政策課】「経済産業省 中小企業省力化投資補助金（カタログ型）の公募スケジュールのお知らせ",
             "detail_url": "https://shoryokuka.smrj.go.jp/",
             "industry_slugs": [
@@ -600,7 +600,7 @@
           "judgment_ready": false
         },
         {
-          "id": "ministry-1073757608",
+          "id": "ministry-7760625382",
           "title": "デジタル化・AI導入補助金 通常枠、インボイス枠（インボイス対応類型、電子取引類型）、セキュリティ対策推進枠【申請受付期間：第1次締切5/12、第2次締切6/15、第3次締切7/21、第4次締切8/25】 複数者連携デジタル化・AI導入枠【",
           "detail_url": "https://www.chusho.meti.go.jp/koukai/yosan/r7/r6_it.pdf",
           "industry_slugs": [
@@ -610,7 +610,7 @@
           "judgment_ready": false
         },
         {
-          "id": "ministry-923602305",
+          "id": "ministry-1325231076",
           "title": "「デジタル化・AI導入補助金2026」「通常枠：2次締切」、「セキュリティ対策推進枠：2次締切」、「インボイス枠（インボイス対応類型）：2次締切｣、「複数者連携デジタル化・AI導入枠：1次締切｣、の補助事業者を採択しました",
           "detail_url": "https://www.chusho.meti.go.jp/koukai/hojyokin/saitaku/2026/260723001.html",
           "industry_slugs": [
@@ -648,15 +648,6 @@
       ],
       "linked_active_sample": [
         {
-          "id": "a0WJ200000CDTzMMAX",
-          "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（19次締切）",
-          "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDTzMMAX",
-          "industry_slugs": [
-            "manufacturing-total"
-          ],
-          "judgment_ready": true
-        },
-        {
           "id": "a0WJ200000CDVkeMAH",
           "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（20次締切）",
           "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDVkeMAH",
@@ -682,6 +673,15 @@
             "manufacturing-total"
           ],
           "judgment_ready": true
+        },
+        {
+          "id": "a0WJ200000CDTzMMAX",
+          "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（19次締切）",
+          "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDTzMMAX",
+          "industry_slugs": [
+            "manufacturing-total"
+          ],
+          "judgment_ready": false
         },
         {
           "id": "deep-meti-monozukuri-0dc4eee81962",
@@ -893,7 +893,7 @@
           "judgment_ready": false
         },
         {
-          "id": "ministry-1073757608",
+          "id": "ministry-7760625382",
           "title": "デジタル化・AI導入補助金 通常枠、インボイス枠（インボイス対応類型、電子取引類型）、セキュリティ対策推進枠【申請受付期間：第1次締切5/12、第2次締切6/15、第3次締切7/21、第4次締切8/25】 複数者連携デジタル化・AI導入枠【",
           "detail_url": "https://www.chusho.meti.go.jp/koukai/yosan/r7/r6_it.pdf",
           "industry_slugs": [
@@ -903,7 +903,7 @@
           "judgment_ready": false
         },
         {
-          "id": "ministry-923602305",
+          "id": "ministry-1325231076",
           "title": "「デジタル化・AI導入補助金2026」「通常枠：2次締切」、「セキュリティ対策推進枠：2次締切」、「インボイス枠（インボイス対応類型）：2次締切｣、「複数者連携デジタル化・AI導入枠：1次締切｣、の補助事業者を採択しました",
           "detail_url": "https://www.chusho.meti.go.jp/koukai/hojyokin/saitaku/2026/260723001.html",
           "industry_slugs": [
@@ -941,15 +941,6 @@
       ],
       "linked_active_sample": [
         {
-          "id": "a0WJ200000CDTzMMAX",
-          "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（19次締切）",
-          "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDTzMMAX",
-          "industry_slugs": [
-            "manufacturing-total"
-          ],
-          "judgment_ready": true
-        },
-        {
           "id": "a0WJ200000CDVkeMAH",
           "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（20次締切）",
           "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDVkeMAH",
@@ -975,6 +966,15 @@
             "manufacturing-total"
           ],
           "judgment_ready": true
+        },
+        {
+          "id": "a0WJ200000CDTzMMAX",
+          "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（19次締切）",
+          "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDTzMMAX",
+          "industry_slugs": [
+            "manufacturing-total"
+          ],
+          "judgment_ready": false
         },
         {
           "id": "deep-meti-monozukuri-0dc4eee81962",
@@ -1085,7 +1085,7 @@
           "judgment_ready": false
         },
         {
-          "id": "prefecture-aomori-7312123706",
+          "id": "prefecture-aomori-4272032514",
           "title": "【青森県】【青森県 経済産業政策課】「経済産業省 中小企業省力化投資補助金（カタログ型）の公募スケジュールのお知らせ",
           "detail_url": "https://shoryokuka.smrj.go.jp/",
           "industry_slugs": [
@@ -1094,7 +1094,7 @@
           "judgment_ready": false
         },
         {
-          "id": "prefecture-aomori-1413199746",
+          "id": "prefecture-aomori-7312123706",
           "title": "【青森県】【青森県 経済産業政策課】「経済産業省 中小企業省力化投資補助金（カタログ型）の公募スケジュールのお知らせ",
           "detail_url": "https://shoryokuka.smrj.go.jp/",
           "industry_slugs": [
@@ -1131,15 +1131,6 @@
       ],
       "linked_active_sample": [
         {
-          "id": "a0WJ200000CDTzMMAX",
-          "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（19次締切）",
-          "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDTzMMAX",
-          "industry_slugs": [
-            "manufacturing-total"
-          ],
-          "judgment_ready": true
-        },
-        {
           "id": "a0WJ200000CDVkeMAH",
           "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（20次締切）",
           "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDVkeMAH",
@@ -1165,6 +1156,15 @@
             "manufacturing-total"
           ],
           "judgment_ready": true
+        },
+        {
+          "id": "a0WJ200000CDTzMMAX",
+          "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（19次締切）",
+          "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDTzMMAX",
+          "industry_slugs": [
+            "manufacturing-total"
+          ],
+          "judgment_ready": false
         },
         {
           "id": "deep-meti-monozukuri-0dc4eee81962",
@@ -1275,7 +1275,7 @@
           "judgment_ready": false
         },
         {
-          "id": "prefecture-aomori-7312123706",
+          "id": "prefecture-aomori-4272032514",
           "title": "【青森県】【青森県 経済産業政策課】「経済産業省 中小企業省力化投資補助金（カタログ型）の公募スケジュールのお知らせ",
           "detail_url": "https://shoryokuka.smrj.go.jp/",
           "industry_slugs": [
@@ -1284,7 +1284,7 @@
           "judgment_ready": false
         },
         {
-          "id": "prefecture-aomori-1413199746",
+          "id": "prefecture-aomori-7312123706",
           "title": "【青森県】【青森県 経済産業政策課】「経済産業省 中小企業省力化投資補助金（カタログ型）の公募スケジュールのお知らせ",
           "detail_url": "https://shoryokuka.smrj.go.jp/",
           "industry_slugs": [
@@ -1419,15 +1419,6 @@
       ],
       "linked_active_sample": [
         {
-          "id": "a0WJ200000CDTzMMAX",
-          "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（19次締切）",
-          "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDTzMMAX",
-          "industry_slugs": [
-            "manufacturing-total"
-          ],
-          "judgment_ready": true
-        },
-        {
           "id": "a0WJ200000CDVkeMAH",
           "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（20次締切）",
           "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDVkeMAH",
@@ -1453,6 +1444,15 @@
             "manufacturing-total"
           ],
           "judgment_ready": true
+        },
+        {
+          "id": "a0WJ200000CDTzMMAX",
+          "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（19次締切）",
+          "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDTzMMAX",
+          "industry_slugs": [
+            "manufacturing-total"
+          ],
+          "judgment_ready": false
         },
         {
           "id": "deep-meti-monozukuri-0dc4eee81962",
@@ -1510,6 +1510,24 @@
       ],
       "linked_active_sample": [
         {
+          "id": "prefecture-oita-3916663157",
+          "title": "【大分県】事業再構築補助金（経済産業省HPへリンク）",
+          "detail_url": "https://www.meti.go.jp/covid-19/jigyo_saikoutiku/index.html",
+          "industry_slugs": [
+            "untagged"
+          ],
+          "judgment_ready": false
+        },
+        {
+          "id": "city-kawasaki-5335721225",
+          "title": "【川崎市】事業再構築補助金（経済産業省） 外部リンク",
+          "detail_url": "https://jigyou-saikouchiku.go.jp/",
+          "industry_slugs": [
+            "untagged"
+          ],
+          "judgment_ready": false
+        },
+        {
           "id": "prefecture-oita-7393991456",
           "title": "【大分県】事業再構築補助金（経済産業省HPへリンク）",
           "detail_url": "https://www.meti.go.jp/covid-19/jigyo_saikoutiku/index.html",
@@ -1556,24 +1574,6 @@
         },
         {
           "id": "city-kawasaki-6247244787",
-          "title": "【川崎市】事業再構築補助金（経済産業省） 外部リンク",
-          "detail_url": "https://jigyou-saikouchiku.go.jp/",
-          "industry_slugs": [
-            "untagged"
-          ],
-          "judgment_ready": false
-        },
-        {
-          "id": "prefecture-oita-7082600143",
-          "title": "【大分県】事業再構築補助金（経済産業省HPへリンク）",
-          "detail_url": "https://www.meti.go.jp/covid-19/jigyo_saikoutiku/index.html",
-          "industry_slugs": [
-            "untagged"
-          ],
-          "judgment_ready": false
-        },
-        {
-          "id": "city-kawasaki-4995646403",
           "title": "【川崎市】事業再構築補助金（経済産業省） 外部リンク",
           "detail_url": "https://jigyou-saikouchiku.go.jp/",
           "industry_slugs": [
@@ -1662,7 +1662,7 @@
           "judgment_ready": false
         },
         {
-          "id": "prefecture-aomori-7312123706",
+          "id": "prefecture-aomori-4272032514",
           "title": "【青森県】【青森県 経済産業政策課】「経済産業省 中小企業省力化投資補助金（カタログ型）の公募スケジュールのお知らせ",
           "detail_url": "https://shoryokuka.smrj.go.jp/",
           "industry_slugs": [
@@ -1671,7 +1671,7 @@
           "judgment_ready": false
         },
         {
-          "id": "prefecture-aomori-1413199746",
+          "id": "prefecture-aomori-7312123706",
           "title": "【青森県】【青森県 経済産業政策課】「経済産業省 中小企業省力化投資補助金（カタログ型）の公募スケジュールのお知らせ",
           "detail_url": "https://shoryokuka.smrj.go.jp/",
           "industry_slugs": [
@@ -1708,15 +1708,6 @@
       ],
       "linked_active_sample": [
         {
-          "id": "a0WJ200000CDTzMMAX",
-          "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（19次締切）",
-          "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDTzMMAX",
-          "industry_slugs": [
-            "manufacturing-total"
-          ],
-          "judgment_ready": true
-        },
-        {
           "id": "a0WJ200000CDVkeMAH",
           "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（20次締切）",
           "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDVkeMAH",
@@ -1742,6 +1733,15 @@
             "manufacturing-total"
           ],
           "judgment_ready": true
+        },
+        {
+          "id": "a0WJ200000CDTzMMAX",
+          "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（19次締切）",
+          "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDTzMMAX",
+          "industry_slugs": [
+            "manufacturing-total"
+          ],
+          "judgment_ready": false
         },
         {
           "id": "deep-meti-monozukuri-0dc4eee81962",
@@ -1800,15 +1800,6 @@
       ],
       "linked_active_sample": [
         {
-          "id": "a0WJ200000CDTzMMAX",
-          "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（19次締切）",
-          "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDTzMMAX",
-          "industry_slugs": [
-            "manufacturing-total"
-          ],
-          "judgment_ready": true
-        },
-        {
           "id": "a0WJ200000CDVkeMAH",
           "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（20次締切）",
           "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDVkeMAH",
@@ -1834,6 +1825,15 @@
             "manufacturing-total"
           ],
           "judgment_ready": true
+        },
+        {
+          "id": "a0WJ200000CDTzMMAX",
+          "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（19次締切）",
+          "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDTzMMAX",
+          "industry_slugs": [
+            "manufacturing-total"
+          ],
+          "judgment_ready": false
         },
         {
           "id": "deep-meti-monozukuri-0dc4eee81962",
@@ -1892,15 +1892,6 @@
       ],
       "linked_active_sample": [
         {
-          "id": "a0WJ200000CDTzMMAX",
-          "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（19次締切）",
-          "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDTzMMAX",
-          "industry_slugs": [
-            "manufacturing-total"
-          ],
-          "judgment_ready": true
-        },
-        {
           "id": "a0WJ200000CDVkeMAH",
           "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（20次締切）",
           "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDVkeMAH",
@@ -1926,6 +1917,15 @@
             "manufacturing-total"
           ],
           "judgment_ready": true
+        },
+        {
+          "id": "a0WJ200000CDTzMMAX",
+          "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（19次締切）",
+          "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDTzMMAX",
+          "industry_slugs": [
+            "manufacturing-total"
+          ],
+          "judgment_ready": false
         },
         {
           "id": "deep-meti-monozukuri-0dc4eee81962",
@@ -1984,15 +1984,6 @@
       ],
       "linked_active_sample": [
         {
-          "id": "a0WJ200000CDTzMMAX",
-          "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（19次締切）",
-          "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDTzMMAX",
-          "industry_slugs": [
-            "manufacturing-total"
-          ],
-          "judgment_ready": true
-        },
-        {
           "id": "a0WJ200000CDVkeMAH",
           "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（20次締切）",
           "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDVkeMAH",
@@ -2018,6 +2009,15 @@
             "manufacturing-total"
           ],
           "judgment_ready": true
+        },
+        {
+          "id": "a0WJ200000CDTzMMAX",
+          "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（19次締切）",
+          "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDTzMMAX",
+          "industry_slugs": [
+            "manufacturing-total"
+          ],
+          "judgment_ready": false
         },
         {
           "id": "deep-meti-monozukuri-0dc4eee81962",
@@ -2076,15 +2076,6 @@
       ],
       "linked_active_sample": [
         {
-          "id": "a0WJ200000CDTzMMAX",
-          "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（19次締切）",
-          "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDTzMMAX",
-          "industry_slugs": [
-            "manufacturing-total"
-          ],
-          "judgment_ready": true
-        },
-        {
           "id": "a0WJ200000CDVkeMAH",
           "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（20次締切）",
           "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDVkeMAH",
@@ -2110,6 +2101,15 @@
             "manufacturing-total"
           ],
           "judgment_ready": true
+        },
+        {
+          "id": "a0WJ200000CDTzMMAX",
+          "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（19次締切）",
+          "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDTzMMAX",
+          "industry_slugs": [
+            "manufacturing-total"
+          ],
+          "judgment_ready": false
         },
         {
           "id": "deep-meti-monozukuri-0dc4eee81962",
@@ -2168,15 +2168,6 @@
       ],
       "linked_active_sample": [
         {
-          "id": "a0WJ200000CDTzMMAX",
-          "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（19次締切）",
-          "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDTzMMAX",
-          "industry_slugs": [
-            "manufacturing-total"
-          ],
-          "judgment_ready": true
-        },
-        {
           "id": "a0WJ200000CDVkeMAH",
           "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（20次締切）",
           "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDVkeMAH",
@@ -2202,6 +2193,15 @@
             "manufacturing-total"
           ],
           "judgment_ready": true
+        },
+        {
+          "id": "a0WJ200000CDTzMMAX",
+          "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（19次締切）",
+          "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDTzMMAX",
+          "industry_slugs": [
+            "manufacturing-total"
+          ],
+          "judgment_ready": false
         },
         {
           "id": "deep-meti-monozukuri-0dc4eee81962",
@@ -2260,15 +2260,6 @@
       ],
       "linked_active_sample": [
         {
-          "id": "a0WJ200000CDTzMMAX",
-          "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（19次締切）",
-          "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDTzMMAX",
-          "industry_slugs": [
-            "manufacturing-total"
-          ],
-          "judgment_ready": true
-        },
-        {
           "id": "a0WJ200000CDVkeMAH",
           "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（20次締切）",
           "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDVkeMAH",
@@ -2294,6 +2285,15 @@
             "manufacturing-total"
           ],
           "judgment_ready": true
+        },
+        {
+          "id": "a0WJ200000CDTzMMAX",
+          "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（19次締切）",
+          "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDTzMMAX",
+          "industry_slugs": [
+            "manufacturing-total"
+          ],
+          "judgment_ready": false
         },
         {
           "id": "deep-meti-monozukuri-0dc4eee81962",
@@ -2352,15 +2352,6 @@
       ],
       "linked_active_sample": [
         {
-          "id": "a0WJ200000CDTzMMAX",
-          "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（19次締切）",
-          "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDTzMMAX",
-          "industry_slugs": [
-            "manufacturing-total"
-          ],
-          "judgment_ready": true
-        },
-        {
           "id": "a0WJ200000CDVkeMAH",
           "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（20次締切）",
           "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDVkeMAH",
@@ -2386,6 +2377,15 @@
             "manufacturing-total"
           ],
           "judgment_ready": true
+        },
+        {
+          "id": "a0WJ200000CDTzMMAX",
+          "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（19次締切）",
+          "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDTzMMAX",
+          "industry_slugs": [
+            "manufacturing-total"
+          ],
+          "judgment_ready": false
         },
         {
           "id": "deep-meti-monozukuri-0dc4eee81962",
@@ -2444,15 +2444,6 @@
       ],
       "linked_active_sample": [
         {
-          "id": "a0WJ200000CDTzMMAX",
-          "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（19次締切）",
-          "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDTzMMAX",
-          "industry_slugs": [
-            "manufacturing-total"
-          ],
-          "judgment_ready": true
-        },
-        {
           "id": "a0WJ200000CDVkeMAH",
           "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（20次締切）",
           "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDVkeMAH",
@@ -2478,6 +2469,15 @@
             "manufacturing-total"
           ],
           "judgment_ready": true
+        },
+        {
+          "id": "a0WJ200000CDTzMMAX",
+          "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（19次締切）",
+          "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDTzMMAX",
+          "industry_slugs": [
+            "manufacturing-total"
+          ],
+          "judgment_ready": false
         },
         {
           "id": "deep-meti-monozukuri-0dc4eee81962",
@@ -2536,15 +2536,6 @@
       ],
       "linked_active_sample": [
         {
-          "id": "a0WJ200000CDTzMMAX",
-          "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（19次締切）",
-          "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDTzMMAX",
-          "industry_slugs": [
-            "manufacturing-total"
-          ],
-          "judgment_ready": true
-        },
-        {
           "id": "a0WJ200000CDVkeMAH",
           "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（20次締切）",
           "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDVkeMAH",
@@ -2570,6 +2561,15 @@
             "manufacturing-total"
           ],
           "judgment_ready": true
+        },
+        {
+          "id": "a0WJ200000CDTzMMAX",
+          "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（19次締切）",
+          "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDTzMMAX",
+          "industry_slugs": [
+            "manufacturing-total"
+          ],
+          "judgment_ready": false
         },
         {
           "id": "deep-meti-monozukuri-0dc4eee81962",
@@ -2628,15 +2628,6 @@
       ],
       "linked_active_sample": [
         {
-          "id": "a0WJ200000CDTzMMAX",
-          "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（19次締切）",
-          "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDTzMMAX",
-          "industry_slugs": [
-            "manufacturing-total"
-          ],
-          "judgment_ready": true
-        },
-        {
           "id": "a0WJ200000CDVkeMAH",
           "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（20次締切）",
           "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDVkeMAH",
@@ -2662,6 +2653,15 @@
             "manufacturing-total"
           ],
           "judgment_ready": true
+        },
+        {
+          "id": "a0WJ200000CDTzMMAX",
+          "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（19次締切）",
+          "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDTzMMAX",
+          "industry_slugs": [
+            "manufacturing-total"
+          ],
+          "judgment_ready": false
         },
         {
           "id": "deep-meti-monozukuri-0dc4eee81962",
@@ -2720,15 +2720,6 @@
       ],
       "linked_active_sample": [
         {
-          "id": "a0WJ200000CDTzMMAX",
-          "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（19次締切）",
-          "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDTzMMAX",
-          "industry_slugs": [
-            "manufacturing-total"
-          ],
-          "judgment_ready": true
-        },
-        {
           "id": "a0WJ200000CDVkeMAH",
           "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（20次締切）",
           "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDVkeMAH",
@@ -2754,6 +2745,15 @@
             "manufacturing-total"
           ],
           "judgment_ready": true
+        },
+        {
+          "id": "a0WJ200000CDTzMMAX",
+          "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（19次締切）",
+          "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDTzMMAX",
+          "industry_slugs": [
+            "manufacturing-total"
+          ],
+          "judgment_ready": false
         },
         {
           "id": "deep-meti-monozukuri-0dc4eee81962",
@@ -2812,15 +2812,6 @@
       ],
       "linked_active_sample": [
         {
-          "id": "a0WJ200000CDTzMMAX",
-          "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（19次締切）",
-          "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDTzMMAX",
-          "industry_slugs": [
-            "manufacturing-total"
-          ],
-          "judgment_ready": true
-        },
-        {
           "id": "a0WJ200000CDVkeMAH",
           "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（20次締切）",
           "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDVkeMAH",
@@ -2846,6 +2837,15 @@
             "manufacturing-total"
           ],
           "judgment_ready": true
+        },
+        {
+          "id": "a0WJ200000CDTzMMAX",
+          "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（19次締切）",
+          "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDTzMMAX",
+          "industry_slugs": [
+            "manufacturing-total"
+          ],
+          "judgment_ready": false
         },
         {
           "id": "deep-meti-monozukuri-0dc4eee81962",
@@ -2904,15 +2904,6 @@
       ],
       "linked_active_sample": [
         {
-          "id": "a0WJ200000CDTzMMAX",
-          "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（19次締切）",
-          "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDTzMMAX",
-          "industry_slugs": [
-            "manufacturing-total"
-          ],
-          "judgment_ready": true
-        },
-        {
           "id": "a0WJ200000CDVkeMAH",
           "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（20次締切）",
           "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDVkeMAH",
@@ -2938,6 +2929,15 @@
             "manufacturing-total"
           ],
           "judgment_ready": true
+        },
+        {
+          "id": "a0WJ200000CDTzMMAX",
+          "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（19次締切）",
+          "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDTzMMAX",
+          "industry_slugs": [
+            "manufacturing-total"
+          ],
+          "judgment_ready": false
         },
         {
           "id": "deep-meti-monozukuri-0dc4eee81962",
@@ -2996,15 +2996,6 @@
       ],
       "linked_active_sample": [
         {
-          "id": "a0WJ200000CDTzMMAX",
-          "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（19次締切）",
-          "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDTzMMAX",
-          "industry_slugs": [
-            "manufacturing-total"
-          ],
-          "judgment_ready": true
-        },
-        {
           "id": "a0WJ200000CDVkeMAH",
           "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（20次締切）",
           "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDVkeMAH",
@@ -3030,6 +3021,15 @@
             "manufacturing-total"
           ],
           "judgment_ready": true
+        },
+        {
+          "id": "a0WJ200000CDTzMMAX",
+          "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（19次締切）",
+          "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDTzMMAX",
+          "industry_slugs": [
+            "manufacturing-total"
+          ],
+          "judgment_ready": false
         },
         {
           "id": "deep-meti-monozukuri-0dc4eee81962",
@@ -3088,15 +3088,6 @@
       ],
       "linked_active_sample": [
         {
-          "id": "a0WJ200000CDTzMMAX",
-          "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（19次締切）",
-          "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDTzMMAX",
-          "industry_slugs": [
-            "manufacturing-total"
-          ],
-          "judgment_ready": true
-        },
-        {
           "id": "a0WJ200000CDVkeMAH",
           "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（20次締切）",
           "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDVkeMAH",
@@ -3122,6 +3113,15 @@
             "manufacturing-total"
           ],
           "judgment_ready": true
+        },
+        {
+          "id": "a0WJ200000CDTzMMAX",
+          "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（19次締切）",
+          "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDTzMMAX",
+          "industry_slugs": [
+            "manufacturing-total"
+          ],
+          "judgment_ready": false
         },
         {
           "id": "deep-meti-monozukuri-0dc4eee81962",
@@ -3180,15 +3180,6 @@
       ],
       "linked_active_sample": [
         {
-          "id": "a0WJ200000CDTzMMAX",
-          "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（19次締切）",
-          "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDTzMMAX",
-          "industry_slugs": [
-            "manufacturing-total"
-          ],
-          "judgment_ready": true
-        },
-        {
           "id": "a0WJ200000CDVkeMAH",
           "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（20次締切）",
           "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDVkeMAH",
@@ -3214,6 +3205,15 @@
             "manufacturing-total"
           ],
           "judgment_ready": true
+        },
+        {
+          "id": "a0WJ200000CDTzMMAX",
+          "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（19次締切）",
+          "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDTzMMAX",
+          "industry_slugs": [
+            "manufacturing-total"
+          ],
+          "judgment_ready": false
         },
         {
           "id": "deep-meti-monozukuri-0dc4eee81962",
@@ -3272,15 +3272,6 @@
       ],
       "linked_active_sample": [
         {
-          "id": "a0WJ200000CDTzMMAX",
-          "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（19次締切）",
-          "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDTzMMAX",
-          "industry_slugs": [
-            "manufacturing-total"
-          ],
-          "judgment_ready": true
-        },
-        {
           "id": "a0WJ200000CDVkeMAH",
           "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（20次締切）",
           "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDVkeMAH",
@@ -3306,6 +3297,15 @@
             "manufacturing-total"
           ],
           "judgment_ready": true
+        },
+        {
+          "id": "a0WJ200000CDTzMMAX",
+          "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（19次締切）",
+          "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDTzMMAX",
+          "industry_slugs": [
+            "manufacturing-total"
+          ],
+          "judgment_ready": false
         },
         {
           "id": "deep-meti-monozukuri-0dc4eee81962",
