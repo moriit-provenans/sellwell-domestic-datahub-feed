@@ -1,8 +1,8 @@
 {
   "ok": true,
   "workflow": "sellwell_domestic_feed_daily",
-  "retrieved_at": "2026-07-26T07:49:23+09:00",
-  "as_of_date": "2026-07-26",
+  "retrieved_at": "2026-07-27T07:55:52+09:00",
+  "as_of_date": "2026-07-27",
   "note_ja": "日次補助金＋Stage4 judgment＋finder_index v2（REQ-030 F / REQ-035 / REQ-044）",
   "judgment_ready_total": 1574,
   "p0": {
@@ -15,16 +15,16 @@
     "ready": 285,
     "pct": 91.6
   },
-  "stage4_items": 14117,
+  "stage4_items": 14113,
   "finder_index_schema": "2.0.0",
-  "finder_index_count": 49699,
-  "finder_index_bytes": 14869671,
-  "finder_index_gz_bytes": 2469138,
-  "finder_index_as_of": "2026-07-25",
-  "finder_index_updated_at": "2026-07-26T07:49:12+09:00",
+  "finder_index_count": 52484,
+  "finder_index_bytes": 15623435,
+  "finder_index_gz_bytes": 2607643,
+  "finder_index_as_of": "2026-07-26",
+  "finder_index_updated_at": "2026-07-27T07:55:40+09:00",
   "finder_index_exclude": {
     "dropped_news": 667,
     "dropped_dead_or_soft_dead": 0,
-    "active_count": 50366
+    "active_count": 53151
   }
 }
