@@ -2,7 +2,7 @@
   "schema_version": "1.0.0",
   "metric_id": "jp.retail.by_channel_jpy",
   "title_ja": "商業動態統計・業態別小売販売額",
-  "last_updated": "2026-07-26",
+  "last_updated": "2026-07-27",
   "source": "e-Stat 商業動態統計",
   "alias_of": "jp.retail.sales_jpy",
   "note_ja": "REQ-045 P3b。既存 jp_retail_sales_jpy をチャネル別metricとして再公開。",

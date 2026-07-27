@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-07-26",
+  "generated_at": "2026-07-27",
   "feed_status": "ok",
   "subsidy_open_count": 7623,
   "series_n": 38,
@@ -18,6 +18,6 @@
     "adoption_observations": 30,
     "retail_by_channel_obs": 90,
     "census_firms_by_pref_obs": 2408,
-    "updated_at": "2026-07-26"
+    "updated_at": "2026-07-27"
   }
 }
