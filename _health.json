@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-07-27",
+  "generated_at": "2026-07-28",
   "feed_status": "ok",
   "subsidy_open_count": 7623,
   "series_n": 39,
@@ -20,5 +20,40 @@
     "census_firms_by_pref_obs": 2408,
     "io_transaction_structure_obs": 20,
     "updated_at": "2026-07-27"
+  },
+  "subsidy_body_req047": {
+    "items_total": 53151,
+    "details_published": 392,
+    "details_path_pattern": "subsidies/details/{id}.json",
+    "details_index": "subsidies/details/_index.json",
+    "body_text_chars_sum": 4108452,
+    "body_text_median_chars": 7383,
+    "body_text_max_chars": 65396,
+    "crawl_depth_recorded": 6093,
+    "crawl_depth_recorded_pct": 11.5,
+    "phase": "A_phase1_done",
+    "targets": {
+      "phase2": { "details_published": 2000, "crawl_depth_recorded": 12000 },
+      "phase3": { "details_published": 5000, "crawl_depth_recorded": 20000 }
+    },
+    "note_ja": "件数（幅）と深さを分けて表示する。details_published が要領本文を実際に保有している制度数。",
+    "updated_at": "2026-07-28"
+  },
+  "fit_one_liner_quality_req046": {
+    "filled": 8388,
+    "markup_contaminated": 2928,
+    "link_or_pdf_filename_noise": 1937,
+    "template_synthesized": 2429,
+    "template_title_echo": 275,
+    "template_purpose_category": 1435,
+    "substantive_candidate": 1813,
+    "synthesized_pct": 29.0,
+    "what_purpose_filled": 8031,
+    "what_purpose_title_echo": 5425,
+    "who_company_markup_contaminated": 2962,
+    "eligibility_summary_markup_contaminated": 3376,
+    "markup_contaminated_records_unique": 3376,
+    "note_ja": "2026-07-28 Atlas 実測（未修正時点の正直値）。混入は who_company_ja を24字で切って fit へ合成する経路が原因で、上位ドメインは pref.yamanashi 932 / city.niigata 312 / pref.gunma 300。REQ-046 ① で null 化する。",
+    "updated_at": "2026-07-28"
   }
 }

@@ -73,6 +73,11 @@
       "id": "jp_io_transaction_structure",
       "path": "timeseries/jp_io_transaction_structure.json",
       "note": "REQ-045 P2a"
+    },
+    {
+      "id": "subsidies_details",
+      "path": "subsidies/details/",
+      "note": "REQ-047 A_Phase1 制度単位の要領本文（sections[]・見出し保持）。索引は details/_index.json"
     }
   ]
 }

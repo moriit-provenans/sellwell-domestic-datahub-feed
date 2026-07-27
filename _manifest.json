@@ -29,7 +29,12 @@
     "phase3_retail_by_channel_obs": 90,
     "phase3_census_firms_by_pref_obs": 2408,
     "phase3_updated": "2026-07-27",
-    "phase3_io_transaction_structure_obs": 20
+    "phase3_io_transaction_structure_obs": 20,
+    "subsidy_details_count": 392,
+    "subsidy_details_chars_sum": 4108452,
+    "subsidy_details_as_of": "2026-07-28",
+    "crawl_depth_recorded": 6093
   },
-  "req_phase3": "REQ-SMITH-20260724-045"
+  "req_phase3": "REQ-SMITH-20260724-045",
+  "req_details": "REQ-SMITH-20260727-047"
 }

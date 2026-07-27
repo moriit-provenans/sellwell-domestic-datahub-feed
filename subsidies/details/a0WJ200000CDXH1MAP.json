@@ -1,0 +1,50 @@
+{
+ "schema_version": "1.0.0",
+ "id": "a0WJ200000CDXH1MAP",
+ "title": "熊谷市中小企業SDGs経営・ジギョケイ策定支援奨励金",
+ "guidelines_url": "https://www.city.kumagaya.lg.jp/about/soshiki/sangyo/kigyokatsudo/hojyokin/sdgs_jgk.files/r8chirashi.pdf",
+ "source_urls": [],
+ "sections": [
+  {
+   "heading": null,
+   "text": "※J グランツで本補助金の申請受付を行っておりません。申請手続き等の詳細については、以下 HP をご確認ください。 https://www.city.kumagaya.lg.jp/about/soshiki/sangyo/kigyokatsudo/hojyokin/sdgs_jgk.html"
+  },
+  {
+   "heading": "目的・概要",
+   "text": "令和8年度の募集を開始しました。 市内中小企業の企業価値の向上と稼ぐ力の強化を支援するため、SDGs経営とジギョケイ（事業継続力強化計画等）の策定に取り組む市内中小企業者に対し、予算の範囲内において奨励金を交付します。"
+  },
+  {
+   "heading": "応募資格",
+   "text": "《補助対象者》 次の各号に掲げる要件のいずれにも該当するものとします。 市内に事業所を有する中小企業者であること。 市税を滞納していないこと。 埼玉県SDGsパートナーとして登録されていること。 ジギョケイを策定し、又は変更し、経済産業大臣の認定を受けていること。 暴力団員による不当な行為の防止等に関する法律（平成3年法律第77号）"
+  },
+  {
+   "heading": "第2条",
+   "text": "第2号に規定する暴力団又は同条第6号に規定する暴力団員が関与している事業者に該当しないこと。 その他法令及び公序良俗に反していないこと。 《補助対象事業》 埼玉県SDGsパートナーへの登録、および中小企業等経営強化法に基づき防災・減災の事前対策に関する計画（ジギョケイ）を策定し経済産業大臣の認定を受ける取り組みが対象となります。"
+  },
+  {
+   "heading": "補助金上限額",
+   "text": "150,000円 ※1事業者に対して、15万円の定額支給（1回限り）"
+  },
+  {
+   "heading": "申請方法",
+   "text": "申請に必要な書類をそろえ、窓口に持参または郵送してください。 申請時には、以下の点にご留意ください。 本奨励金の申請時に埼玉県SDGsパートナーに登録されている必要があります。 ジギョケイの登録には、申請後2か月程かかることがありますので、お早めに申請してください。"
+  },
+  {
+   "heading": "問合せ先",
+   "text": "熊谷市 産業振興部 企業活動支援課 電話番号：048-524-1470 FAX番号：048-525-9335"
+  },
+  {
+   "heading": "本奨励金に関する参照URL",
+   "text": "市のHP： https://www.city.kumagaya.lg.jp/about/soshiki/sangyo/kigyokatsudo/hojyokin/sdgs_jgk.html 案内チラシ： https://www.city.kumagaya.lg.jp/about/soshiki/sangyo/kigyokatsudo/hojyokin/sdgs_jgk.files/r8chirashi.pdf"
+  }
+ ],
+ "text_len": 1071,
+ "section_n": 8,
+ "retrieved_at": "2026-07-19T16:23:36+00:00",
+ "as_of_date": "2026-07-19",
+ "still_valid_2026": true,
+ "veritas": "○",
+ "in_active_feed": true,
+ "synthesized": false,
+ "note_ja": "要領・募集ページ本文の抽出そのまま。見出し（■/【】/第N条）で分割。要約・合成なし。"
+}

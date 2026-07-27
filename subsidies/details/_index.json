@@ -1,0 +1,3561 @@
+{
+ "schema_version": "1.0.0",
+ "req": "REQ-SMITH-20260727-047",
+ "phase": "A_phase1",
+ "generated_at": "2026-07-27T23:17:41.445603+00:00",
+ "as_of_date": "2026-07-27",
+ "still_valid_2026": true,
+ "veritas": "○",
+ "path_pattern": "subsidies/details/{id}.json",
+ "count": 392,
+ "in_active_feed": 392,
+ "not_in_active_feed": 0,
+ "text_len": {
+  "min": 222,
+  "median": 7383,
+  "max": 65396,
+  "sum": 4108452
+ },
+ "excluded": {
+  "markup_contaminated": 0,
+  "too_short_or_empty": 4,
+  "markup_ids": [],
+  "short_ids": [
+   "a0W5h00000UcDDXEA3",
+   "a0W5h00000UcDDYEA3",
+   "a0WJ200000CDbHOMA1",
+   "a0WJ200000CDVS1MAP"
+  ]
+ },
+ "note_ja": "Phase1 = Atlas ローカル抽出済 396件の要領本文をそのまま公開。要約・テンプレート合成は一切していない。取れていないものは収録していない（Phase2/3 で本文保有 2,000件→5,000件へ拡大予定）。",
+ "items": [
+  {
+   "id": "a0W2x000004PhCHEA0",
+   "title": "令和8年度 生放送字幕番組普及促進助成金（第３期）",
+   "text_len": 5467,
+   "section_n": 8,
+   "has_guidelines_url": false,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0W2x000005iqyXEAQ",
+   "title": "EMPの普及促進に係る補助金（新）",
+   "text_len": 222,
+   "section_n": 7,
+   "has_guidelines_url": false,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0W2x000007Cos5EAC",
+   "title": "［第六回以降］事業再構築補助金（共同申請者）",
+   "text_len": 1525,
+   "section_n": 8,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0W2x000007CrSAEA0",
+   "title": "東京都環境保全資金融資保証債務履行補助金",
+   "text_len": 258,
+   "section_n": 3,
+   "has_guidelines_url": false,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0W2x000007CStEEAW",
+   "title": "農林水産物認証取得支援事業（農家認証取得支援事業）補助金",
+   "text_len": 535,
+   "section_n": 5,
+   "has_guidelines_url": false,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0W2x000007CStOEAW",
+   "title": "農林水産物認証取得支援事業（水産認証取得支援事業）補助金",
+   "text_len": 622,
+   "section_n": 5,
+   "has_guidelines_url": false,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0W5h00000GMgXBEA1",
+   "title": "［第十回］事業再構築補助金（交付申請等）",
+   "text_len": 4809,
+   "section_n": 7,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0W5h00000UaiqSEAR",
+   "title": "事業再構築補助金（共同申請_リース会社）",
+   "text_len": 65396,
+   "section_n": 111,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0W5h00000UbQnPEAV",
+   "title": "東京都障害者安定雇用奨励金",
+   "text_len": 5277,
+   "section_n": 14,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0W5h00000UbQnSEAV",
+   "title": "東京都難病・がん患者就業支援奨励金",
+   "text_len": 4922,
+   "section_n": 14,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0W5h00000UbQnXEAV",
+   "title": "東京都中小企業障害者雇用支援助成金",
+   "text_len": 6222,
+   "section_n": 23,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0W5h00000UbU66EAF",
+   "title": "［第十一回］事業再構築補助金（交付申請等）",
+   "text_len": 4710,
+   "section_n": 7,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0W5h00000Ud4ohEAB",
+   "title": "二酸化炭素排出抑制対策事業費等補助金 （工場・事業場における先導的な脱炭素化取組推進事業（SHIFT事業）） 省CO2型設備更新支援Ｃ（中小企業事業）第六次公募",
+   "text_len": 2977,
+   "section_n": 13,
+   "has_guidelines_url": false,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0W5h00000ZuemGEAR",
+   "title": "ゼロエミッション実現に向けた経営推進支援事業 助成金",
+   "text_len": 36104,
+   "section_n": 40,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ2000000pSPQMA2",
+   "title": "令和6年度　ES（社員満足度）向上による若手人材確保・定着事業助成金～１年目申請用～",
+   "text_len": 4640,
+   "section_n": 11,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ2000000pXJvMAM",
+   "title": "令和7年度フィンテック企業に対する海外進出支援事業 海外展示会共同出展",
+   "text_len": 1581,
+   "section_n": 7,
+   "has_guidelines_url": false,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ2000000qhOQMAY",
+   "title": "［第十二回］事業再構築補助金（交付申請等）",
+   "text_len": 4805,
+   "section_n": 7,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ20000088TQ4MAM",
+   "title": "令和6年度【2年目申請用】ES（社員満足度）向上による若手人材確保・定着事業助成金",
+   "text_len": 4657,
+   "section_n": 11,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ2000008Av8bMAC",
+   "title": "デジタル技術活用推進助成金に係る状況報告等について",
+   "text_len": 224,
+   "section_n": 4,
+   "has_guidelines_url": false,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CD9FpMAL",
+   "title": "中小企業人材確保のための奨学金返還支援事業【令和７年度企業登録】",
+   "text_len": 15157,
+   "section_n": 19,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDa1bMAD",
+   "title": "令和８年度 脱炭素成長型経済構造移行推進対策費補助金 （業務用建築物の脱炭素改修加速化事業）",
+   "text_len": 1878,
+   "section_n": 6,
+   "has_guidelines_url": false,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDa1gMAD",
+   "title": "令和８年度二酸化炭素排出抑制対策事業費等補助金（運輸部門等の脱炭素化に向けた先進的システム社会実装促進事業のうち、農業機械の電動化促進事業）",
+   "text_len": 1884,
+   "section_n": 9,
+   "has_guidelines_url": false,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDa1RMAT",
+   "title": "令和８年度における都型放課後等デイサービス事業補助金",
+   "text_len": 906,
+   "section_n": 12,
+   "has_guidelines_url": false,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDa42MAD",
+   "title": "令和８年度金融機関と連携したサステナビリティ経営促進事業（ＳＬＬ／ＰＩＦ）",
+   "text_len": 15929,
+   "section_n": 27,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDa6IMAT",
+   "title": "令和８年度介護休業取得応援奨励金",
+   "text_len": 12703,
+   "section_n": 22,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDacHMAT",
+   "title": "東京都医療機関等における賃上げ・物価上昇に対する支援事業(診療所・歯科診療所、訪問看護ステーション　申請用）",
+   "text_len": 9667,
+   "section_n": 12,
+   "has_guidelines_url": false,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDacWMAT",
+   "title": "令和８年度原子力発電施設等の周辺地域における大規模開発地区への企業立地促進事業費補助金",
+   "text_len": 1021,
+   "section_n": 10,
+   "has_guidelines_url": false,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDaKjMAL",
+   "title": "神奈川県障害福祉サービス事業所等及び障害福祉施設等に対するサービス継続支援事業補助金",
+   "text_len": 8466,
+   "section_n": 32,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDaL8MAL",
+   "title": "「水素利用拡大に向けた共通基盤強化のための研究開発事業／水電解技術開発ロードマップの改定」の公募",
+   "text_len": 20272,
+   "section_n": 26,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDaMLMA1",
+   "title": "【令和8年度】DX型CO2削減対策実行支援事業",
+   "text_len": 12789,
+   "section_n": 60,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDamPMAT",
+   "title": "令和８年度_東京大学先端科学技術研究センター共同研究創出支援事業 新技術・新製品開発事業化可能性調査事業",
+   "text_len": 13337,
+   "section_n": 29,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDaMQMA1",
+   "title": "【令和8年度】省CO2型システムへの改修支援事業",
+   "text_len": 13000,
+   "section_n": 62,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDaMVMA1",
+   "title": "【事前着手】令和8年度排出削減が困難な産業におけるエネルギー・製造プロセス転換支援事業",
+   "text_len": 45754,
+   "section_n": 38,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDanIMAT",
+   "title": "令和８年度_東京大学先端科学技術研究センター共同研究創出支援事業 新技術・新製品研究開発支援事業",
+   "text_len": 14224,
+   "section_n": 29,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDaooMAD",
+   "title": "「海外研究者招へい事業（STeP JAPAN）」2027年度海外招へい研究者受入機関の募集",
+   "text_len": 19736,
+   "section_n": 19,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDaotMAD",
+   "title": "【令和８年度】二酸化炭素排出抑制対策事業費等補助金（再エネ等由来水素を活用した自立・分散型エネルギーシステム構築等事業）",
+   "text_len": 32152,
+   "section_n": 19,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDap3MAD",
+   "title": "令和8年度　育児・介護との両立のためのテレワーク活用促進奨励金",
+   "text_len": 22127,
+   "section_n": 37,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDapgMAD",
+   "title": "中小企業生産性革命推進事業_事業承継・M&A補助金(15次公募)_事業承継促進枠",
+   "text_len": 4592,
+   "section_n": 17,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDaphMAD",
+   "title": "中小企業生産性革命推進事業_事業承継・M&A補助金(15次公募)_廃業・再チャレンジ枠",
+   "text_len": 5368,
+   "section_n": 15,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDapiMAD",
+   "title": "中小企業生産性革命推進事業_事業承継・M&A補助金(15次公募)_専門家活用枠(買い手支援類型／売り手支援類型)",
+   "text_len": 5232,
+   "section_n": 16,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDapjMAD",
+   "title": "中小企業生産性革命推進事業_事業承継・M&A補助金(15次公募)_専門家活用枠(買い手支援類型-100億企業特例)",
+   "text_len": 4933,
+   "section_n": 16,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDapkMAD",
+   "title": "中小企業生産性革命推進事業_事業承継・M&A補助金(15次公募)_PMI推進枠(PMI専門家活用類型)",
+   "text_len": 4675,
+   "section_n": 17,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDaplMAD",
+   "title": "中小企業生産性革命推進事業_事業承継・M&A補助金(15次公募)_PMI推進枠(事業統合投資類型)",
+   "text_len": 4615,
+   "section_n": 17,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDapmMAD",
+   "title": "中小企業生産性革命推進事業_事業承継・M&A補助金(15次公募)_専門家活用枠(小規模売り手支援類型)",
+   "text_len": 4427,
+   "section_n": 14,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDapWMAT",
+   "title": "【令和８年度】先進的な資源循環投資促進事業",
+   "text_len": 2208,
+   "section_n": 11,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDaTEMA1",
+   "title": "女性の活躍推進に向けた職場環境改善奨励金　撤回届",
+   "text_len": 16687,
+   "section_n": 69,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDaTGMA1",
+   "title": "女性活躍情報公開促進奨励金　撤回届",
+   "text_len": 16684,
+   "section_n": 69,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDaTOMA1",
+   "title": "【令和8年度】地域医療確保に係る緊急・臨時支援事業支援金及び急性期医療臨時支援事業支援金",
+   "text_len": 8449,
+   "section_n": 26,
+   "has_guidelines_url": false,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDb69MAD",
+   "title": "「クリティカルマテリアルのサプライチェーン強靱化に関する調査」の公募",
+   "text_len": 18448,
+   "section_n": 24,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDb6dMAD",
+   "title": "【福岡県宗像市】令和8年度 宗像市がんばる中小企業者応援補助金",
+   "text_len": 22514,
+   "section_n": 51,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDb6JMAT",
+   "title": "【令和７年度】二酸化炭素排出抑制対策事業費等補助金（水インフラにおける脱炭素化推進事業）［四次公募］",
+   "text_len": 22183,
+   "section_n": 37,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDb6TMAT",
+   "title": "【福岡県宗像市】令和8年度 食のまち宗像推進補助金",
+   "text_len": 9189,
+   "section_n": 9,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDb6YMAT",
+   "title": "【福岡県宗像市】令和8年度 宗像市創業応援補助金（“宗業”者応援補助金）",
+   "text_len": 12163,
+   "section_n": 19,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDb86MAD",
+   "title": "今治市企業立地促進奨励金",
+   "text_len": 4176,
+   "section_n": 20,
+   "has_guidelines_url": false,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDb87MAD",
+   "title": "今治市賃貸借型企業立地奨励金（賃借料に対する奨励金）",
+   "text_len": 4077,
+   "section_n": 20,
+   "has_guidelines_url": false,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDb88MAD",
+   "title": "今治市賃貸借型企業立地奨励金（開設費用に対する奨励金）",
+   "text_len": 4049,
+   "section_n": 20,
+   "has_guidelines_url": false,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDb89MAD",
+   "title": "今治市雇用促進奨励金",
+   "text_len": 4223,
+   "section_n": 22,
+   "has_guidelines_url": false,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDb8AMAT",
+   "title": "今治市設備投資奨励金",
+   "text_len": 4101,
+   "section_n": 20,
+   "has_guidelines_url": false,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDb8BMAT",
+   "title": "今治市指定区域用地取得奨励金",
+   "text_len": 3895,
+   "section_n": 20,
+   "has_guidelines_url": false,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDb8CMAT",
+   "title": "今治市指定区域大規模用地取得奨励金",
+   "text_len": 3897,
+   "section_n": 20,
+   "has_guidelines_url": false,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDb8QMAT",
+   "title": "令和8年度 洋上風力発電人材育成事業費補助金（第2次公募）",
+   "text_len": 2113,
+   "section_n": 13,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDbHxMAL",
+   "title": "【令和８年度】医療機関等におけるマイナンバーカード利活用推進事業補助金",
+   "text_len": 8107,
+   "section_n": 12,
+   "has_guidelines_url": false,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDbJKMA1",
+   "title": "【応募事業者】令和８年度 プラスチック等資源循環システム構築実証事業　＜二次公募＞",
+   "text_len": 1605,
+   "section_n": 13,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDbKSMA1",
+   "title": "「多感覚リアリティ、感性、質感等に関する俯瞰的調査」の公募",
+   "text_len": 19698,
+   "section_n": 24,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDbnjMAD",
+   "title": "「次世代航空機の研究開発に関する調査」の公募",
+   "text_len": 18482,
+   "section_n": 24,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDbnoMAD",
+   "title": "令和８年度 第２回 若手・女性リーダー応援プログラム助成事業/商店街起業・承継支援事業",
+   "text_len": 16553,
+   "section_n": 33,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDbonMAD",
+   "title": "「インフラ管理DXにおける地下埋設物データ整備手法活用の人材育成講座のあり方に関する調査」の公募",
+   "text_len": 18238,
+   "section_n": 25,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDbosMAD",
+   "title": "【令和8年度】地域医療確保に係る緊急・臨時支援事業支援金",
+   "text_len": 8173,
+   "section_n": 23,
+   "has_guidelines_url": false,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDbPBMA1",
+   "title": "【令和８年度】二酸化炭素排出抑制対策事業費等補助金 （地域共生型廃棄物発電等導入促進事業 （うち地域の廃棄物を活用した地域エネルギー創出事業））（第２次公募）",
+   "text_len": 1025,
+   "section_n": 11,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDbpCMAT",
+   "title": "【久留米市】久留米市小規模事業者デジタル化支援補助金（令和８年度）",
+   "text_len": 8807,
+   "section_n": 40,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDbPkMAL",
+   "title": "【ふくい産業支援センター】令和８年度_中小企業等海外展開支援事業費補助金_二次公募（海外出願支援事業）",
+   "text_len": 34938,
+   "section_n": 110,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDbPLMA1",
+   "title": "【久留米市】中小企業先端設備等導入支援補助金（令和8年度）",
+   "text_len": 9739,
+   "section_n": 42,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDbyeMAD",
+   "title": "「経済安全保障重要技術育成プログラム／ハイブリッドクラウド利用基盤技術の開発／不正機能排除技術の社会実装に向けた市場・技術動向等に係る調査」の公募",
+   "text_len": 8145,
+   "section_n": 26,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDbYtMAL",
+   "title": "R8年度第1回 インキュベーション施設支援機能強化事業助成金",
+   "text_len": 6269,
+   "section_n": 20,
+   "has_guidelines_url": false,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDbYuMAL",
+   "title": "女性活躍情報公開促進奨励金　変更届",
+   "text_len": 16687,
+   "section_n": 69,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDbYvMAL",
+   "title": "女性の活躍推進に向けた職場環境改善奨励金　変更届",
+   "text_len": 16687,
+   "section_n": 69,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDbYxMAL",
+   "title": "女性活躍情報公開促進奨励金　中止届",
+   "text_len": 16684,
+   "section_n": 69,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDbyyMAD",
+   "title": "小樽市省エネルギー診断補助金",
+   "text_len": 6712,
+   "section_n": 38,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDbYyMAL",
+   "title": "女性の活躍推進に向けた職場環境改善奨励金　中止届",
+   "text_len": 16684,
+   "section_n": 69,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDbyzMAD",
+   "title": "橿原市業務改善支援補助金",
+   "text_len": 4220,
+   "section_n": 18,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDbz0MAD",
+   "title": "橿原市起業等スタートアップ補助金",
+   "text_len": 17131,
+   "section_n": 59,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDbzXMAT",
+   "title": "【農林水産省】令和7年度補正ウクライナ農業回復緊急支援事業（２次公募）",
+   "text_len": 7596,
+   "section_n": 15,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDc0JMAT",
+   "title": "「スタートアップに対する経営管理・事業化支援人材の伴走支援モデルに係る調査事業」の公募",
+   "text_len": 20172,
+   "section_n": 25,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDc0OMAT",
+   "title": "令和７年度（補正予算）地域共生を目指したデータセンター脱炭素化設備導入支援事業（二次公募）",
+   "text_len": 22259,
+   "section_n": 32,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDc0sMAD",
+   "title": "「次世代冷却に係るマテリアル・デバイスの開発動向に関する調査」の公募",
+   "text_len": 18646,
+   "section_n": 24,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDc1IMAT",
+   "title": "第１３回（令和８年度第２回）躍進的な事業推進のための設備投資支援事業",
+   "text_len": 6302,
+   "section_n": 8,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDc1MMAT",
+   "title": "「NEDOのプロジェクト成果由来の製品・プロセス・サービスに関する各種効果指標の再試算に係る調査」の公募",
+   "text_len": 4973,
+   "section_n": 1,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDc1RMAT",
+   "title": "【静岡県産業振興財団】令和8年度　研究開発助成（産学官連携型）２次募集",
+   "text_len": 2458,
+   "section_n": 12,
+   "has_guidelines_url": false,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDcfNMAT",
+   "title": "【静岡県産業振興財団】令和8年度　事業化推進助成（一般型）２次募集",
+   "text_len": 2402,
+   "section_n": 12,
+   "has_guidelines_url": false,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDckaMAD",
+   "title": "「ポスト5G情報通信システム基盤強化研究開発事業／AI用データセンターにおけるソフトウェア技術ニーズ分析とテストベッド運営基盤に関する調査」の公募",
+   "text_len": 22666,
+   "section_n": 32,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDckfMAD",
+   "title": "【島根県】令和8年度_中小企業等海外展開支援事業費補助金（海外出願支援事業）（第３回公募）",
+   "text_len": 32748,
+   "section_n": 127,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDcNyMAL",
+   "title": "「カーボンリサイクル実現を加速するバイオ由来製品生産技術の開発に関する調査」の公募",
+   "text_len": 4968,
+   "section_n": 2,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDcO3MAL",
+   "title": "東京都正規雇用転換安定化支援助成金（令和８年度第３回申請受付）",
+   "text_len": 19094,
+   "section_n": 49,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDcO8MAL",
+   "title": "東京都就職氷河期世代等安定就業サポート助成金（令和８年度第３回申請受付）",
+   "text_len": 21906,
+   "section_n": 57,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDcO9MAL",
+   "title": "東京都若者世代職場定着促進助成金（令和８年度第３回申請受付）",
+   "text_len": 18344,
+   "section_n": 53,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDcODMA1",
+   "title": "令和８年度「水力発電導入促進支援事業費補助金（事業性評価支援事業）」（新規事業　３次締切分）",
+   "text_len": 5384,
+   "section_n": 3,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDcQsMAL",
+   "title": "物価高騰対策ＤＸ推進事業費補助金（戦略的DX推進事業）",
+   "text_len": 533,
+   "section_n": 6,
+   "has_guidelines_url": false,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDcyEMAT",
+   "title": "【熊本県】令和8年度_中小企業等海外展開支援事業費補助金（海外出願支援事業）",
+   "text_len": 5506,
+   "section_n": 23,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDczHMAT",
+   "title": "【令和８年度２次公募】国立公園等利用拠点滞在環境等上質化事業（国立公園等資源整備事業費補助金）",
+   "text_len": 15685,
+   "section_n": 35,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDczMMAT",
+   "title": "【令和８年度２次公募】国立公園等多言語解説等整備事業（国立公園等資源整備事業費補助金）",
+   "text_len": 9150,
+   "section_n": 10,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDd3OMAT",
+   "title": "令和７年度（補正予算）地域脱炭素実現に向けた具体的施策実装支援事業（四次公募）",
+   "text_len": 25863,
+   "section_n": 25,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDd3YMAT",
+   "title": "令和８年度地域脱炭素実現に向けた具体的施策実装支援事業",
+   "text_len": 23945,
+   "section_n": 25,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDd5IMAT",
+   "title": "「プレシード・シード期の概念実証／実現可能性調査における支援方策に関する調査」の公募",
+   "text_len": 18126,
+   "section_n": 24,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDd5XMAT",
+   "title": "令和８年度SDGsファイナンス支援事業補助金(グリーンボンド/グリーンローン)",
+   "text_len": 9413,
+   "section_n": 7,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDd9wMAD",
+   "title": "令和８年度SDGsファイナンス支援事業補助金(ブルーボンド/ブルーローン)",
+   "text_len": 9409,
+   "section_n": 7,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDd9xMAD",
+   "title": "令和８年度SDGsファイナンス支援事業補助金(トランジションボンド/トランジションローン)",
+   "text_len": 9409,
+   "section_n": 7,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDdA6MAL",
+   "title": "令和８年度SDGsファイナンス支援事業補助金(ソーシャルボンド/ソーシャルローン)",
+   "text_len": 9364,
+   "section_n": 7,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDdAaMAL",
+   "title": "【令和８年度】二酸化炭素排出抑制対策事業費等補助金 （国内資源循環体制構築に向けた再エネ関連製品及びベース素材の全体最適化実証事業）（第２次公募）",
+   "text_len": 2178,
+   "section_n": 11,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDdABMA1",
+   "title": "令和８年度SDGsファイナンス支援事業補助金(個人向けSDGs預金)",
+   "text_len": 9205,
+   "section_n": 6,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDdJhMAL",
+   "title": "GX地域共創補助金2026",
+   "text_len": 806,
+   "section_n": 7,
+   "has_guidelines_url": false,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDdN0MAL",
+   "title": "令和８年度 非石油由来製品等開発支援事業（試作品開発・改良助成）",
+   "text_len": 4110,
+   "section_n": 8,
+   "has_guidelines_url": false,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDdNjMAL",
+   "title": "スタートアップ等を活用した農林水産分野の課題解決事業補助金",
+   "text_len": 790,
+   "section_n": 3,
+   "has_guidelines_url": false,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDdPBMA1",
+   "title": "【令和８年度】ハイブリッド及び天然ガストラック・バス導入支援事業（環境配慮型先進トラック・バス導入加速事業）",
+   "text_len": 12686,
+   "section_n": 35,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDdQsMAL",
+   "title": "中東情勢による原材料価格高騰に伴う経営基盤安定化緊急対策事業",
+   "text_len": 38985,
+   "section_n": 115,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDdRHMA1",
+   "title": "【令和８年度】ハイブリッド連節バス導入支援事業（環境配慮型先進トラック・バス導入加速事業）",
+   "text_len": 12773,
+   "section_n": 37,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDGzqMAH",
+   "title": "令和6年度　佐久市中小企業振興資金利子補給金",
+   "text_len": 10945,
+   "section_n": 19,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDHQZMA5",
+   "title": "在宅人工呼吸器使用難病患者非常用電源設備整備事業補助金",
+   "text_len": 6144,
+   "section_n": 12,
+   "has_guidelines_url": false,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDIGuMAP",
+   "title": "建築GX・DX推進事業【代表事業者及び事業者の登録】",
+   "text_len": 1703,
+   "section_n": 8,
+   "has_guidelines_url": false,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDIiXMAX",
+   "title": "令和6年度補正　建築GX・DX推進事業",
+   "text_len": 1703,
+   "section_n": 8,
+   "has_guidelines_url": false,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDJWIMA5",
+   "title": "申請練習用補助金【補助金の支払いはありません】",
+   "text_len": 294,
+   "section_n": 2,
+   "has_guidelines_url": false,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDK5dMAH",
+   "title": "自立・帰還支援雇用創出企業立地補助金（製造・サービス業等立地支援事業）十次公募",
+   "text_len": 12621,
+   "section_n": 18,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDK64MAH",
+   "title": "自立・帰還支援雇用創出企業立地補助金（地域経済効果立地支援事業）五次公募",
+   "text_len": 12634,
+   "section_n": 18,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDK76MAH",
+   "title": "東京都民間事業者に係る低公害・低燃費車導入促進補助金（補助金申請）",
+   "text_len": 280,
+   "section_n": 5,
+   "has_guidelines_url": false,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDK7KMAX",
+   "title": "東京都環境保全資金融資あっせん",
+   "text_len": 8490,
+   "section_n": 10,
+   "has_guidelines_url": false,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDK7NMAX",
+   "title": "中小企業の外国人従業員に対する研修等支援助成金（一般コース）",
+   "text_len": 23113,
+   "section_n": 26,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDK7OMAX",
+   "title": "中小企業の外国人従業員に対する研修等支援助成金（ウクライナ避難民採用企業コース）",
+   "text_len": 23087,
+   "section_n": 26,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDKKcMAP",
+   "title": "【令和６年度（補正予算）】③太陽光パネルリサイクル設備導入事業（バリューチェーン）",
+   "text_len": 793,
+   "section_n": 9,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDKKXMA5",
+   "title": "【令和６年度（補正予算）】②化石資源由来プラスチックを代替する再生可能資源由来素材 の省CO2型製造設備導入事業（バリューチェーン）",
+   "text_len": 794,
+   "section_n": 9,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDKLfMAP",
+   "title": "【令和６年度（補正予算）】⑤金属破砕・選別設備導入事業（バリューチェーン）（第１次公募）",
+   "text_len": 785,
+   "section_n": 9,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDKLQMA5",
+   "title": "【令和６年度（補正予算）】④リチウム蓄電池リサイクル設備導入事業（バリューチェーン）（第１次公募）",
+   "text_len": 802,
+   "section_n": 9,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDKMzMAP",
+   "title": "自立・帰還支援雇用創出企業立地補助金（商業施設等復興整備補助事業）（十次公募）",
+   "text_len": 11842,
+   "section_n": 17,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDKZFMA5",
+   "title": "令和８年度_グリーンスローモビリティ等導入促進事業",
+   "text_len": 10754,
+   "section_n": 26,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDL8JMAX",
+   "title": "令和６年度補正予算　商用車等の電動化促進事業",
+   "text_len": 16126,
+   "section_n": 12,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDMQvMAP",
+   "title": "令和８年度フィンテック企業等に対するイノベーション支援事業（金融サービス事業化支援補助金）",
+   "text_len": 22322,
+   "section_n": 53,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDMSsMAP",
+   "title": "デジタル証券（セキュリティトークン）市場拡大促進事業補助金",
+   "text_len": 17469,
+   "section_n": 8,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDMVSMA5",
+   "title": "令和7年度　建築GX・DX推進事業",
+   "text_len": 1703,
+   "section_n": 8,
+   "has_guidelines_url": false,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDN9kMAH",
+   "title": "令和6年度補正及び令和7年度当初予算_ケーブルテレビネットワークの耐災害性強化事業（2025年4月公募）",
+   "text_len": 1066,
+   "section_n": 7,
+   "has_guidelines_url": false,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDNCUMA5",
+   "title": "令和７年度当初予算＿辺地共聴施設の高度化支援事業（2025年4月公募）",
+   "text_len": 5049,
+   "section_n": 11,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDNDnMAP",
+   "title": "令和８年度_Scope3排出量削減のための企業間連携による省CO2設備投資促進事業",
+   "text_len": 22805,
+   "section_n": 32,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDNiaMAH",
+   "title": "令和7年度　ES（社員満足度）向上による若手人材確保・定着事業助成金　１年目申請用",
+   "text_len": 4776,
+   "section_n": 12,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDO8eMAH",
+   "title": "交通システムの省CO2 化に向けた設備整備事業（鉄道事業等におけるネットワーク型低炭素化促進事業）",
+   "text_len": 5372,
+   "section_n": 37,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDOi8MAH",
+   "title": "【令和７年度（補正予算）】①省CO2型プラスチック高度リサイクル設備導入事業（バリューチェーン）（第１次公募）",
+   "text_len": 976,
+   "section_n": 9,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDOovMAH",
+   "title": "【令和７年度（補正予算）】②化石資源由来プラスチックを代替する再生可能資源由来素材 の省CO2型製造設備導入事業（バリューチェーン）（第１次公募）",
+   "text_len": 794,
+   "section_n": 9,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDOp0MAH",
+   "title": "【令和７年度（補正予算）】③太陽光パネルリサイクル設備導入事業（バリューチェーン）（第１次公募）",
+   "text_len": 793,
+   "section_n": 9,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDOp5MAH",
+   "title": "【令和７年度（補正予算）】④リチウム蓄電池リサイクル設備導入事業（バリューチェーン）（第１次公募）",
+   "text_len": 805,
+   "section_n": 9,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDOpAMAX",
+   "title": "【令和７年度（補正予算）】⑤金属破砕・選別設備導入事業（バリューチェーン）（第１次公募）",
+   "text_len": 785,
+   "section_n": 9,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDOrTMAX",
+   "title": "東京都中小企業障害者雇用スタート支援奨励金",
+   "text_len": 4172,
+   "section_n": 10,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDOsKMAX",
+   "title": "携帯電話等エリア整備事業",
+   "text_len": 355,
+   "section_n": 3,
+   "has_guidelines_url": false,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDPbMMAX",
+   "title": "［第十三回］事業再構築補助金_成長分野進出枠、コロナ回復加速枠（交付申請等）",
+   "text_len": 4033,
+   "section_n": 7,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDPkUMAX",
+   "title": "【熊本県】令和7年度第1回くまもと型小規模事業者経営発展支援事業補助金",
+   "text_len": 816,
+   "section_n": 6,
+   "has_guidelines_url": false,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDPTlMAP",
+   "title": "【令和７年度】先進的な資源循環投資促進事業（第２回公募）",
+   "text_len": 2084,
+   "section_n": 11,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDPyeMAH",
+   "title": "［第十三回］事業再構築補助金_GX進出類型（交付申請等）",
+   "text_len": 3899,
+   "section_n": 7,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDQEJMA5",
+   "title": "［第十三回］事業再構築補助金_促進上乗せ措置（交付申請等）",
+   "text_len": 3912,
+   "section_n": 7,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDQuHMAX",
+   "title": "令和７年度ＮＢＣ災害・テロ対策設備整備補助事業",
+   "text_len": 434,
+   "section_n": 5,
+   "has_guidelines_url": false,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDRafMAH",
+   "title": "危機管理対策促進事業_事業完了後の各種申請",
+   "text_len": 9546,
+   "section_n": 16,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDSBxMAP",
+   "title": "令和７年度東京都介護老人保健施設等整備資金利子補給補助金①",
+   "text_len": 3774,
+   "section_n": 14,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDSIuMAP",
+   "title": "令和７年度東京都介護老人保健施設等整備資金利子補給補助金②",
+   "text_len": 3774,
+   "section_n": 14,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDSK6MAP",
+   "title": "令和７年度東京都介護老人保健施設等整備資金利子補給補助金③",
+   "text_len": 3774,
+   "section_n": 14,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDSKBMA5",
+   "title": "令和７年度東京都介護老人保健施設等整備資金利子補給補助金④",
+   "text_len": 3774,
+   "section_n": 14,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDSKGMA5",
+   "title": "令和７年度東京都介護老人保健施設等整備資金利子補給補助金⑤",
+   "text_len": 3774,
+   "section_n": 14,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDTjnMAH",
+   "title": "リスキリングを通じたキャリアアップ支援事業費補助金（六次公募）",
+   "text_len": 2506,
+   "section_n": 6,
+   "has_guidelines_url": false,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDTrzMAH",
+   "title": "【熊本県】令和7年度第2回くまもと型小規模事業者経営発展支援事業補助金",
+   "text_len": 816,
+   "section_n": 6,
+   "has_guidelines_url": false,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDTzMMAX",
+   "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（19次締切）",
+   "text_len": 15200,
+   "section_n": 17,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDUvzMAH",
+   "title": "令和7年度【2年目申請用】ES（社員満足度）向上による若手人材確保・定着事業助成金",
+   "text_len": 4661,
+   "section_n": 11,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDVdPMAX",
+   "title": "令和７年度臨床研修費等補助金（歯科医師）",
+   "text_len": 278,
+   "section_n": 3,
+   "has_guidelines_url": false,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDVkeMAH",
+   "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（20次締切）",
+   "text_len": 15200,
+   "section_n": 17,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDVxKMAX",
+   "title": "令和7年度【3年目申請用】ES（社員満足度）向上による若手人材確保・定着事業助成金",
+   "text_len": 4687,
+   "section_n": 11,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDW57MAH",
+   "title": "「ポスト5G情報通信システ厶基盤強化研究開発事業／ポスト5G情報通信システムの開発（助成）」の公募",
+   "text_len": 22703,
+   "section_n": 71,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDWfTMAX",
+   "title": "山口県本社機能等移転促進補助金",
+   "text_len": 5983,
+   "section_n": 12,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDWngMAH",
+   "title": "【令和８年度】経営力強化に向けた創意工夫チャレンジ促進事業(飲食事業者向け経営基盤強化支援（受動喫煙防止対策支援コース）)助成金",
+   "text_len": 8950,
+   "section_n": 61,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDWRYMA5",
+   "title": "「ポスト5G情報通信システ厶基盤強化研究開発事業／先端半導体製造技術の開発（助成）」の公募",
+   "text_len": 22894,
+   "section_n": 72,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDWZ9MAP",
+   "title": "令和７年度補正予算　商用車等の電動化促進事業",
+   "text_len": 19671,
+   "section_n": 18,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDX1KMAX",
+   "title": "中小企業人材確保のための奨学金返還支援事業【令和８年度企業登録】",
+   "text_len": 22587,
+   "section_n": 24,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDX4gMAH",
+   "title": "令和８年度社会的要請に応える革新的な原子力技術開発支援事業補助金",
+   "text_len": 1179,
+   "section_n": 3,
+   "has_guidelines_url": false,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDX4vMAH",
+   "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（21次締切）",
+   "text_len": 15200,
+   "section_n": 17,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDX6lMAH",
+   "title": "令和７年度補正及び令和８年度当初予算_ケーブルテレビネットワークの耐災害性強化事業（2026年公募）",
+   "text_len": 962,
+   "section_n": 7,
+   "has_guidelines_url": false,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDX78MAH",
+   "title": "令和７年度補正予算・令和８年度当初予算＿辺地共聴施設の高度化支援事業",
+   "text_len": 4994,
+   "section_n": 8,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDXBxMAP",
+   "title": "令和７年度「ＡＬＰＳ処理水関連の輸入規制を踏まえた水産物の輸出先多角化緊急支援事業」に係る補助事業者（執行団体（事務局））の公募",
+   "text_len": 471,
+   "section_n": 3,
+   "has_guidelines_url": false,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDXC2MAP",
+   "title": "令和８年度原子力産業基盤強化事業補助金",
+   "text_len": 24866,
+   "section_n": 94,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDXC7MAP",
+   "title": "令和８年度原子力の安全性向上に資する技術開発事業補助金",
+   "text_len": 25995,
+   "section_n": 110,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDXCCMA5",
+   "title": "令和７年度補正次世代革新炉の開発・建設に向けた技術開発・サプライチェーン構築支援事業補助金",
+   "text_len": 27556,
+   "section_n": 106,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDXCHMA5",
+   "title": "「ポスト5G情報通信システム基盤強化研究開発事業／ロボット基盤モデルの研究開発（GENIAC）（補助）」の公募",
+   "text_len": 17445,
+   "section_n": 4,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDXEmMAP",
+   "title": "令和８年度スキルアップ支援事業",
+   "text_len": 8460,
+   "section_n": 7,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDXENMA5",
+   "title": "民放ラジオ難聴解消支援事業（令和８年度公募）",
+   "text_len": 20940,
+   "section_n": 30,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDXF1MAP",
+   "title": "介護施設等物価高騰対策支援金",
+   "text_len": 7904,
+   "section_n": 17,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDXFfMAP",
+   "title": "京都市企業立地促進制度補助金［市内初進出支援制度］",
+   "text_len": 3960,
+   "section_n": 8,
+   "has_guidelines_url": false,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDXFgMAP",
+   "title": "京都型グローバル・ニッチ・トップ企業育成補助金",
+   "text_len": 4831,
+   "section_n": 7,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDXFhMAP",
+   "title": "京都市企業立地促進制度補助金［本社・工場等新増設等支援制度］",
+   "text_len": 5290,
+   "section_n": 7,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDXFiMAP",
+   "title": "京都市企業立地促進制度補助金［お試し立地支援制度］",
+   "text_len": 3225,
+   "section_n": 8,
+   "has_guidelines_url": false,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDXFjMAP",
+   "title": "地上基幹放送等に関する耐災害性強化支援事業（令和８年度公募）",
+   "text_len": 14217,
+   "section_n": 23,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDXgZMAX",
+   "title": "「ポスト5G情報通信システム基盤強化研究開発事業/先端半導体製造技術の開発（補助）」の公募",
+   "text_len": 25156,
+   "section_n": 78,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDXH1MAP",
+   "title": "熊谷市中小企業SDGs経営・ジギョケイ策定支援奨励金",
+   "text_len": 1071,
+   "section_n": 8,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDXjsMAH",
+   "title": "【令和7年度】長崎市太陽光発電設備等導入補助金",
+   "text_len": 10343,
+   "section_n": 30,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDXjtMAH",
+   "title": "【令和7年度】長崎市脱炭素先行地域づくり事業費補助金",
+   "text_len": 8580,
+   "section_n": 13,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDXk2MAH",
+   "title": "農業生産におけるプラスチック排出抑制対策事業のうちプラスチック代替資材実用化推進事業",
+   "text_len": 22484,
+   "section_n": 12,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDXK4MAP",
+   "title": "いわき市診療所開設・承継支援補助金",
+   "text_len": 6144,
+   "section_n": 34,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDXk8MAH",
+   "title": "【飯塚市】令和8年度海外展開支援事業費補助金",
+   "text_len": 7842,
+   "section_n": 38,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDXk9MAH",
+   "title": "【飯塚市】令和8年度外国人材受入環境整備事業費補助金",
+   "text_len": 6264,
+   "section_n": 9,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDXMiMAP",
+   "title": "令和８年度資格取得サポート助成金",
+   "text_len": 9495,
+   "section_n": 12,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDXmuMAH",
+   "title": "令和8年度　研究開発助成（産学官連携型）",
+   "text_len": 2457,
+   "section_n": 12,
+   "has_guidelines_url": false,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDXmVMAX",
+   "title": "【令和８年度】INPIT外国出願補助金（中間手続補助）",
+   "text_len": 3896,
+   "section_n": 4,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDXoaMAH",
+   "title": "「ポスト5G情報通信システ厶基盤強化研究開発事業／先端半導体製造技術の開発（委託、補助）」の公募",
+   "text_len": 17346,
+   "section_n": 6,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDXoBMAX",
+   "title": "令和８年_設備投資_事業完了後申請",
+   "text_len": 387,
+   "section_n": 5,
+   "has_guidelines_url": false,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDXoQMAX",
+   "title": "「グリーンイノベーション基金事業／食料・農林水産業のCO2等削減・吸収技術の開発」の公募",
+   "text_len": 50323,
+   "section_n": 56,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDXORMA5",
+   "title": "地上基幹放送ネットワーク整備等事業（令和７年度補正予算及び令和８年度当初予算）",
+   "text_len": 14333,
+   "section_n": 35,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDXoVMAX",
+   "title": "「ポスト5G情報通信システ厶基盤強化研究開発事業／先端半導体製造技術の開発（補助）」の公募",
+   "text_len": 25166,
+   "section_n": 78,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDXpSMAX",
+   "title": "令和８年度生物多様性保全推進交付金 （生物多様性保全推進支援事業）",
+   "text_len": 7383,
+   "section_n": 14,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDXqMMAX",
+   "title": "深谷市起業家支援事業補助金",
+   "text_len": 3749,
+   "section_n": 7,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDXRpMAP",
+   "title": "令和７年度（補正）　商用車等の電動化促進事業（建設機械）",
+   "text_len": 9619,
+   "section_n": 12,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDXt1MAH",
+   "title": "【総務省】スタートアップ創出型萌芽的研究開発支援事業",
+   "text_len": 16707,
+   "section_n": 13,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDXuqMAH",
+   "title": "令和８年度医療機関診療情報サイバーセキュリティ対策支援事業",
+   "text_len": 8443,
+   "section_n": 16,
+   "has_guidelines_url": false,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDXvAMAX",
+   "title": "R8年度【法務省】更生保護事業費補助金",
+   "text_len": 399,
+   "section_n": 4,
+   "has_guidelines_url": false,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDXvUMAX",
+   "title": "令和８年度東京都医療ＤＸ人材育成支援事業",
+   "text_len": 7640,
+   "section_n": 15,
+   "has_guidelines_url": false,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDXxyMAH",
+   "title": "令和８年度 保育園等による木育活動の支援事業（23区、島しょ地域）",
+   "text_len": 7133,
+   "section_n": 9,
+   "has_guidelines_url": false,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDXyuMAH",
+   "title": "令和8年度　資源循環分野の脱炭素化促進事業",
+   "text_len": 27732,
+   "section_n": 70,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDXz9MAH",
+   "title": "令和8年度　航空機産業認証取得助成金",
+   "text_len": 2205,
+   "section_n": 12,
+   "has_guidelines_url": false,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDXzEMAX",
+   "title": "令和8年度　航空機産業設備投資事業費補助金",
+   "text_len": 2434,
+   "section_n": 12,
+   "has_guidelines_url": false,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDXzJMAX",
+   "title": "令和8年度　航空機産業高度人材育成事業費補助金",
+   "text_len": 2282,
+   "section_n": 12,
+   "has_guidelines_url": false,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDY09MAH",
+   "title": "令和8年度　事業化推進助成（一般型）",
+   "text_len": 2403,
+   "section_n": 12,
+   "has_guidelines_url": false,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDY0JMAX",
+   "title": "令和8年度　研究開発助成（一般型）",
+   "text_len": 2376,
+   "section_n": 12,
+   "has_guidelines_url": false,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDY0YMAX",
+   "title": "令和8年度　生成AI等活用実証事業費補助金",
+   "text_len": 2460,
+   "section_n": 14,
+   "has_guidelines_url": false,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDY1fMAH",
+   "title": "【長野県茅野市】新商品開発事業補助金",
+   "text_len": 5112,
+   "section_n": 9,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDY1GMAX",
+   "title": "【長野県茅野市】中小企業振興補助金（商業関係）",
+   "text_len": 3295,
+   "section_n": 9,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDY1kMAH",
+   "title": "【長野県茅野市】受注及び販路開拓支援事業補助金",
+   "text_len": 5935,
+   "section_n": 9,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDY1LMAX",
+   "title": "【長野県茅野市】中小企業振興補助金（工業・観光）",
+   "text_len": 7867,
+   "section_n": 10,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDY1pMAH",
+   "title": "【長野県茅野市】中小企業人材育成等支援補助金",
+   "text_len": 6069,
+   "section_n": 10,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDY1QMAX",
+   "title": "【長野県茅野市】ＩＴ関連企業誘致奨励金",
+   "text_len": 6381,
+   "section_n": 18,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDY1uMAH",
+   "title": "【長野県茅野市】インターンシップ等促進事業補助金",
+   "text_len": 7480,
+   "section_n": 19,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDY1VMAX",
+   "title": "【長野県茅野市】製造業等労務環境改善・競争力強化促進補助金",
+   "text_len": 8391,
+   "section_n": 10,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDY1zMAH",
+   "title": "【長野県茅野市】雇用促進奨励金",
+   "text_len": 3207,
+   "section_n": 7,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDY24MAH",
+   "title": "【長野県茅野市】消費喚起イベント事業補助金",
+   "text_len": 3721,
+   "section_n": 6,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDY2OMAX",
+   "title": "令和8年度職場内障害者サポーター事業",
+   "text_len": 26214,
+   "section_n": 11,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDY36MAH",
+   "title": "令和８年度課題解決型製品・サービス等の販路拡大助成",
+   "text_len": 8878,
+   "section_n": 25,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDY4mMAH",
+   "title": "令和７年度補正 業務産業用蓄電システム導入支援事業",
+   "text_len": 2460,
+   "section_n": 6,
+   "has_guidelines_url": false,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDY4SMAX",
+   "title": "「競争的な水素サプライチェーン構築に向けた技術開発事業」の公募",
+   "text_len": 11570,
+   "section_n": 6,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDY5GMAX",
+   "title": "令和７年度補正 ディマンドリスポンスの拡大に向けたIoT化推進事業",
+   "text_len": 1774,
+   "section_n": 4,
+   "has_guidelines_url": false,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDY5VMAX",
+   "title": "令和8年度　農林水産物認証取得支援事業（森林認証取得支援事業）補助金",
+   "text_len": 5910,
+   "section_n": 8,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDY6cMAH",
+   "title": "【長野県茅野市】特定創業者等支援奨励金（特定創業者）",
+   "text_len": 3963,
+   "section_n": 10,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDY6dMAH",
+   "title": "【長野県茅野市】特定創業者等支援奨励金（事業承継）",
+   "text_len": 4029,
+   "section_n": 9,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDY6GMAX",
+   "title": "川越市中小企業者等物価高騰対策経営改善支援金",
+   "text_len": 6771,
+   "section_n": 17,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDY6KMAX",
+   "title": "【倉敷市】実証実験サポート事業",
+   "text_len": 7234,
+   "section_n": 10,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDY6tMAH",
+   "title": "令和8年度医療機関におけるＡＩ技術活用促進事業（単年度型）",
+   "text_len": 17435,
+   "section_n": 14,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDY6uMAH",
+   "title": "令和8年度医療機関診療情報デジタル導入支援事業",
+   "text_len": 8213,
+   "section_n": 17,
+   "has_guidelines_url": false,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDY6vMAH",
+   "title": "令和８年度社会福祉施設等への非常用電源等の整備促進事業補助金",
+   "text_len": 15879,
+   "section_n": 24,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDY70MAH",
+   "title": "令和8年度病院診療情報デジタル推進事業（電子カルテシステムの整備）",
+   "text_len": 8558,
+   "section_n": 16,
+   "has_guidelines_url": false,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDY71MAH",
+   "title": "令和8年度病院診療情報デジタル推進事業（事務作業支援）",
+   "text_len": 8559,
+   "section_n": 16,
+   "has_guidelines_url": false,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDY72MAH",
+   "title": "令和８年度東京港物流効率化等事業補助金",
+   "text_len": 13899,
+   "section_n": 21,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDY7KMAX",
+   "title": "建築ＧＸ・ＤX推進事業（令和８年度）【代表事業者及び事業者の登録】",
+   "text_len": 2512,
+   "section_n": 9,
+   "has_guidelines_url": false,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDY7tMAH",
+   "title": "休廃止鉱山鉱害防止等工事費補助金（令和７年度補正）【北海道監督部】",
+   "text_len": 647,
+   "section_n": 4,
+   "has_guidelines_url": false,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDY7yMAH",
+   "title": "休廃止鉱山鉱害防止等工事費補助金（令和７年度補正）【東北支部】",
+   "text_len": 655,
+   "section_n": 4,
+   "has_guidelines_url": false,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDY88MAH",
+   "title": "休廃止鉱山鉱害防止等工事費補助金（令和７年度補正）【関東監督部】",
+   "text_len": 643,
+   "section_n": 4,
+   "has_guidelines_url": false,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDY89MAH",
+   "title": "休廃止鉱山鉱害防止等工事費補助金（令和７年度補正）【近畿支部】",
+   "text_len": 644,
+   "section_n": 4,
+   "has_guidelines_url": false,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDY8DMAX",
+   "title": "休廃止鉱山鉱害防止等工事費補助金（令和７年度補正）【中部監督部】",
+   "text_len": 643,
+   "section_n": 4,
+   "has_guidelines_url": false,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDY8hMAH",
+   "title": "令和8年度診療所診療情報デジタル推進事業",
+   "text_len": 7790,
+   "section_n": 17,
+   "has_guidelines_url": false,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDY91MAH",
+   "title": "休廃止鉱山鉱害防止等工事費補助金（令和７年度補正）【中国監督部】",
+   "text_len": 645,
+   "section_n": 4,
+   "has_guidelines_url": false,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDY96MAH",
+   "title": "休廃止鉱山鉱害防止等工事費補助金（令和７年度補正）【四国支部】",
+   "text_len": 664,
+   "section_n": 4,
+   "has_guidelines_url": false,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDY9BMAX",
+   "title": "休廃止鉱山鉱害防止等工事費補助金（令和７年度補正）【九州監督部】",
+   "text_len": 649,
+   "section_n": 4,
+   "has_guidelines_url": false,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDY9gMAH",
+   "title": "令和8年度省エネ型VOC排出削減設備導入促進事業",
+   "text_len": 4377,
+   "section_n": 6,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDYa0MAH",
+   "title": "令和８年度サテライトオフィス勤務導入奨励金",
+   "text_len": 27398,
+   "section_n": 49,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDYa5MAH",
+   "title": "令和８年度ワーケーション勤務導入奨励金",
+   "text_len": 26899,
+   "section_n": 41,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDYaAMAX",
+   "title": "令和８年度テレワーク定着強化奨励金",
+   "text_len": 26245,
+   "section_n": 29,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDYaeMAH",
+   "title": "観光地・観光産業におけるユニバーサルツーリズム促進事業",
+   "text_len": 3819,
+   "section_n": 15,
+   "has_guidelines_url": false,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDYaFMAX",
+   "title": "【令和７年度補正予算・令和８年度】二酸化炭素排出抑制対策事業費等補助金（業務用建築物ストックの省CO2改修調査支援事業（令和７年度補正予算二次公募・令和８年度一次公募））",
+   "text_len": 7933,
+   "section_n": 10,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDYbNMAX",
+   "title": "エイジフレンドリー補助金",
+   "text_len": 1024,
+   "section_n": 5,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDYBTMA5",
+   "title": "【農林水産省】令和7年度補正ウクライナ農業回復緊急支援事業",
+   "text_len": 7710,
+   "section_n": 15,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDYBxMAP",
+   "title": "INPIT事業再編計画支援事業補助金（令和８年度）",
+   "text_len": 16094,
+   "section_n": 94,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDYbZMAX",
+   "title": "令和８年度精神科医療体制確保研修事業費補助金",
+   "text_len": 3716,
+   "section_n": 3,
+   "has_guidelines_url": false,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDYC7MAP",
+   "title": "【令和８年度】ＰＣＢ汚染変圧器高効率化補助金",
+   "text_len": 2688,
+   "section_n": 9,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDYCgMAP",
+   "title": "令和８年度 保育園等による木育活動の支援事業（多摩地域）",
+   "text_len": 7130,
+   "section_n": 9,
+   "has_guidelines_url": false,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDYCmMAP",
+   "title": "【堺市】余剰電力等活用型太陽光発電設備整備事業（堺エネルギー地産地消プロジェクト推進事業補助金）",
+   "text_len": 23179,
+   "section_n": 55,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDYCnMAP",
+   "title": "【福岡市】グリーンビル促進事業（都心部のオフィスビルなどへの緑化助成）",
+   "text_len": 946,
+   "section_n": 15,
+   "has_guidelines_url": false,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDYcpMAH",
+   "title": "令和８年度　水力発電導入促進支援事業費補助金（既存設備有効活用強化支援事業）公募",
+   "text_len": 1545,
+   "section_n": 12,
+   "has_guidelines_url": false,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDYCpMAP",
+   "title": "深谷市中小企業者経営革新計画策定奨励金",
+   "text_len": 2609,
+   "section_n": 8,
+   "has_guidelines_url": false,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDYCRMA5",
+   "title": "自立・帰還支援雇用創出企業立地補助金（製造・サービス業等立地支援事業）十一次公募",
+   "text_len": 18508,
+   "section_n": 20,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDYCrMAP",
+   "title": "【内閣府】地方創生に資する利子補給制度（金融支援）",
+   "text_len": 18871,
+   "section_n": 82,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDYCsMAP",
+   "title": "東広島市小児科新規開業支援事業補助金",
+   "text_len": 6221,
+   "section_n": 33,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDYDCMA5",
+   "title": "【農林水産省】中山間地域所得確保推進事業",
+   "text_len": 21795,
+   "section_n": 14,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDYEGMA5",
+   "title": "【令和８年度】働き方改革推進支援助成金",
+   "text_len": 42743,
+   "section_n": 37,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDYEHMA5",
+   "title": "令和8年度中小企業生産性向上促進事業費補助金",
+   "text_len": 25988,
+   "section_n": 54,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDYEIMA5",
+   "title": "令和8年度神奈川県小規模事業者デジタル化支援推進事業費補助金",
+   "text_len": 15060,
+   "section_n": 49,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDYfdMAH",
+   "title": "【東海市】東海市企業立地交付金（工場等新設交付金）",
+   "text_len": 8645,
+   "section_n": 25,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDYfeMAH",
+   "title": "【東海市】企業立地交付金（中小企業再投資交付金）",
+   "text_len": 8602,
+   "section_n": 25,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDYffMAH",
+   "title": "【東海市】小規模企業等振興資金等信用保証料補助金",
+   "text_len": 6321,
+   "section_n": 14,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDYfwMAH",
+   "title": "古賀市温室効果ガス排出量可視化システム導入費補助金",
+   "text_len": 5912,
+   "section_n": 13,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDYfxMAH",
+   "title": "古賀市中小企業等向け太陽光発電設備導入補助金",
+   "text_len": 12387,
+   "section_n": 59,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDYfzMAH",
+   "title": "【小牧市】中心市街地空き店舗活性化支援補助金",
+   "text_len": 3314,
+   "section_n": 8,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDYg1MAH",
+   "title": "【小牧市】中小企業知的財産権取得事業費補助金",
+   "text_len": 5299,
+   "section_n": 14,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDYg6MAH",
+   "title": "【小牧市】中小企業省エネルギー設備等導入補助金",
+   "text_len": 7823,
+   "section_n": 13,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDYh2MAH",
+   "title": "2026年度「海外出願支援事業」（2次募集）",
+   "text_len": 5746,
+   "section_n": 25,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDYimMAH",
+   "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（22次締切）",
+   "text_len": 15200,
+   "section_n": 17,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDYirMAH",
+   "title": "2026年度「地域課題解決型起業支援事業」（2次募集）",
+   "text_len": 6848,
+   "section_n": 23,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDYiwMAH",
+   "title": "①省CO2型プラスチック高度リサイクル設備導入事業（バリューチェーン）【令和７年度（補正予算）３次公募及び令和８年度２次公募】",
+   "text_len": 974,
+   "section_n": 9,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDYjqMAH",
+   "title": "「経済安全保障重要技術育成プログラム／高効率・高品質レーザー加工技術の開発／研究開発項目③高品質・高出力な半導体レーザーの研究開発及び当該半導体レーザーを用いた車載用LiDARの構築」の公募",
+   "text_len": 21206,
+   "section_n": 9,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDYjRMAX",
+   "title": "②化石資源由来プラスチックを代替する再生可能資源由来素材 の省CO2型製造設備導入事業（バリューチェーン）【令和７年度（補正予算）第３次公募及び令和８年度第２次公募】",
+   "text_len": 794,
+   "section_n": 9,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDYk0MAH",
+   "title": "⑤金属破砕・選別設備導入事業（バリューチェーン）【令和７年度（補正予算）第３次公募及び第８年度第２次公募】",
+   "text_len": 785,
+   "section_n": 9,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDYk5MAH",
+   "title": "令和8年度「年収の壁突破」総合対策促進奨励金",
+   "text_len": 48817,
+   "section_n": 71,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDYk9MAH",
+   "title": "令和8年度【3年目申請用】ES（社員満足度）向上による若手人材確保・定着事業助成金",
+   "text_len": 14986,
+   "section_n": 11,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDYkAMAX",
+   "title": "令和8年度【1年目申請用】ES（社員満足度）向上による若手人材確保・定着事業助成金",
+   "text_len": 15581,
+   "section_n": 9,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDYkBMAX",
+   "title": "令和8年度【2年目申請用】ES（社員満足度）向上による若手人材確保・定着事業助成金",
+   "text_len": 14986,
+   "section_n": 11,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDYkCMAX",
+   "title": "③太陽光パネルリサイクル設備導入事業（バリューチェーン）【令和７年度（補正予算）第３次公募及び令和８年度第２次公募】",
+   "text_len": 793,
+   "section_n": 9,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDYkHMAX",
+   "title": "④リチウム蓄電池リサイクル設備導入事業（バリューチェーン）【令和７年度（補正予算）第３次公募及び令和８年度第２次公募】",
+   "text_len": 805,
+   "section_n": 9,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDYkiMAH",
+   "title": "令和８年度外国人患者受入れ体制整備支援事業補助金",
+   "text_len": 11377,
+   "section_n": 18,
+   "has_guidelines_url": false,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDYkMMAX",
+   "title": "【農林水産省】食品等物流合理化緊急対策事業のうち物流生産性向上推進事業（間接補助事業者公募）",
+   "text_len": 5414,
+   "section_n": 11,
+   "has_guidelines_url": false,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDYkNMAX",
+   "title": "【農林水産省】食品等物流合理化緊急対策事業のうち輸出物流構築事業（間接補助事業者公募）",
+   "text_len": 4852,
+   "section_n": 11,
+   "has_guidelines_url": false,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDYkxMAH",
+   "title": "令和8年度第1回 事業承継を契機とした成長支援事業(販路開拓コース)",
+   "text_len": 36843,
+   "section_n": 108,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDYLLMA5",
+   "title": "令和7年度補正コンテンツ産業成長投資支援事業費補助金（IP新規創出支援）（新規IP企画支援）（ゲーム、アニメ、実写）",
+   "text_len": 3209,
+   "section_n": 5,
+   "has_guidelines_url": false,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDYMuMAP",
+   "title": "IP360 開発プラットフォーム構築支援",
+   "text_len": 24886,
+   "section_n": 66,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDYnpMAH",
+   "title": "令和8年度 バス事業者人材開発支援奨励金",
+   "text_len": 8622,
+   "section_n": 15,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDYq2MAH",
+   "title": "高度安全機械等導入支援補助金",
+   "text_len": 17361,
+   "section_n": 7,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDYQnMAP",
+   "title": "令和８年度外国侵害調査費用助成事業",
+   "text_len": 38863,
+   "section_n": 42,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDYQoMAP",
+   "title": "令和８年度特許調査費用助成事業",
+   "text_len": 38266,
+   "section_n": 42,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDYqvMAH",
+   "title": "令和８年度　ＦＳ調査事業　第２次公募　【　廃棄物処理施設を核とした地域循環共生圏構築促進事業　】",
+   "text_len": 4369,
+   "section_n": 8,
+   "has_guidelines_url": false,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDYr0MAH",
+   "title": "「賃上げ環境整備補助金2026」",
+   "text_len": 8749,
+   "section_n": 10,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDYR2MAP",
+   "title": "令和８年度海外商標対策支援助成事業",
+   "text_len": 40480,
+   "section_n": 46,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDYRHMA5",
+   "title": "令和８年度外国著作権登録費用助成事業",
+   "text_len": 39583,
+   "section_n": 46,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDYSAMA5",
+   "title": "令和８年度子育て【建設型】初年度",
+   "text_len": 2638,
+   "section_n": 8,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDYSeMAP",
+   "title": "東京都医療機関等における賃上げ・物価上昇に対する支援事業(助産所、施術所、歯科技工所　申請用）",
+   "text_len": 9741,
+   "section_n": 12,
+   "has_guidelines_url": false,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDYSFMA5",
+   "title": "令和８年度子育て【改修型】",
+   "text_len": 2638,
+   "section_n": 8,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDYSKMA5",
+   "title": "廃止石油坑井封鎖事業費補助金（令和8年度：関東東北産業保安監督部）",
+   "text_len": 474,
+   "section_n": 4,
+   "has_guidelines_url": false,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDYslMAH",
+   "title": "「太陽光発電導入拡大等技術開発事業／NEDOプロジェクトを核とした人材育成、産学連携等の総合的展開／ペロブスカイト太陽電池の研究開発・実装を担う人材育成特別講座」の公募",
+   "text_len": 29034,
+   "section_n": 36,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDYSPMA5",
+   "title": "令和８年度子育て【宅配ボックス】",
+   "text_len": 2638,
+   "section_n": 8,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDYsRMAX",
+   "title": "森・川・海ごみ削減実践活動支援事業補助金",
+   "text_len": 9536,
+   "section_n": 9,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDYsSMAX",
+   "title": "【三重県　鈴鹿市】令和8年度創業促進補助金",
+   "text_len": 9061,
+   "section_n": 14,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDYSUMA5",
+   "title": "廃止石油坑井封鎖事業費補助金（令和8年度：関東東北産業保安監督部東北支部）",
+   "text_len": 488,
+   "section_n": 4,
+   "has_guidelines_url": false,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDYtoMAH",
+   "title": "【香川県】令和８年度中小企業等海外展開支援事業費補助金（海外出願支援事業）第２次募集",
+   "text_len": 32430,
+   "section_n": 117,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDYTvMAP",
+   "title": "【久留米市】久留米市キッチンカー導入事業費補助金（令和８年度）",
+   "text_len": 5955,
+   "section_n": 12,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDYu3MAH",
+   "title": "休廃止鉱山鉱害防止等工事費補助金（令和８年度当初）【北海道監督部】",
+   "text_len": 647,
+   "section_n": 4,
+   "has_guidelines_url": false,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDYucMAH",
+   "title": "休廃止鉱山鉱害防止等工事費補助金（令和８年度当初）【近畿支部】",
+   "text_len": 646,
+   "section_n": 4,
+   "has_guidelines_url": false,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDYuhMAH",
+   "title": "休廃止鉱山鉱害防止等工事費補助金（令和８年度当初）【中国監督部】",
+   "text_len": 648,
+   "section_n": 4,
+   "has_guidelines_url": false,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDYuIMAX",
+   "title": "休廃止鉱山鉱害防止等工事費補助金（令和８年度当初）【東北支部】",
+   "text_len": 658,
+   "section_n": 4,
+   "has_guidelines_url": false,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDYUkMAP",
+   "title": "令和８年度乗降用リフト装置付バス利用支援補助金",
+   "text_len": 13512,
+   "section_n": 20,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDYUlMAP",
+   "title": "令和８度誰もが楽しめる自然体験型観光推進事業補助金",
+   "text_len": 15726,
+   "section_n": 22,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDYumMAH",
+   "title": "休廃止鉱山鉱害防止等工事費補助金（令和８年度当初）【四国支部】",
+   "text_len": 664,
+   "section_n": 4,
+   "has_guidelines_url": false,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDYUmMAP",
+   "title": "令和８年度多様な体験型観光推進事業補助金",
+   "text_len": 15171,
+   "section_n": 22,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDYUNMA5",
+   "title": "令和８年度ゼロエミッション推進に向けた事業転換支援事業（製品開発助成）",
+   "text_len": 39559,
+   "section_n": 66,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDYuNMAX",
+   "title": "令和 8 年度 情報処理・サービス・製造産業事業費補助金（重要鉱物に係るサプライチェーン強靱化事業）",
+   "text_len": 22665,
+   "section_n": 7,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDYUPMA5",
+   "title": "令和８年度フィンテック企業に対する海外進出支援事業 海外展示会共同出展",
+   "text_len": 17802,
+   "section_n": 15,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDYUQMA5",
+   "title": "令和８年度フィンテック企業に対する海外進出支援事業補助金",
+   "text_len": 17084,
+   "section_n": 16,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDYurMAH",
+   "title": "休廃止鉱山鉱害防止等工事費補助金（令和８年度当初）【九州監督部】",
+   "text_len": 649,
+   "section_n": 4,
+   "has_guidelines_url": false,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDYUSMA5",
+   "title": "【埼玉県】令和8年度企業等における省エネ・再エネ活用設備導入補助金",
+   "text_len": 25603,
+   "section_n": 51,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDYuSMAX",
+   "title": "休廃止鉱山鉱害防止等工事費補助金（令和８年度当初）【関東監督部】",
+   "text_len": 646,
+   "section_n": 4,
+   "has_guidelines_url": false,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDYUXMA5",
+   "title": "【埼玉県】埼玉県民間事業者CO₂排出削減設備導入補助金（緊急対策枠）",
+   "text_len": 16267,
+   "section_n": 90,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDYuXMAX",
+   "title": "休廃止鉱山鉱害防止等工事費補助金（令和８年度当初）【中部監督部】",
+   "text_len": 643,
+   "section_n": 4,
+   "has_guidelines_url": false,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDYV1MAP",
+   "title": "自立・帰還支援雇用創出企業立地補助金（イノベ構想推進立地支援事業）六次公募",
+   "text_len": 18450,
+   "section_n": 20,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDYv8MAH",
+   "title": "「安定供給確保支援基金事業（永久磁石）に関する効果検証調査」の公募",
+   "text_len": 20442,
+   "section_n": 27,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDYviMAH",
+   "title": "休廃止鉱山の鉱害防止に係るエネルギー使用合理化事業費補助金（令和８年度）【北海道監督部】",
+   "text_len": 687,
+   "section_n": 4,
+   "has_guidelines_url": false,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDYvnMAH",
+   "title": "休廃止鉱山の鉱害防止に係るエネルギー使用合理化事業費補助金（令和８年度）【中国監督部】",
+   "text_len": 690,
+   "section_n": 4,
+   "has_guidelines_url": false,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDYvPMAX",
+   "title": "【大阪府和泉市】再エネ・省エネ機器設置促進事業補助金（事業者用）",
+   "text_len": 35539,
+   "section_n": 113,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDYvQMAX",
+   "title": "令和8年度岸和田市「市内丸ごとラボ」実証事業推進補助金",
+   "text_len": 11093,
+   "section_n": 28,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDYvRMAX",
+   "title": "岸和田市オフィス誘致補助金",
+   "text_len": 21105,
+   "section_n": 71,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDYvXMAX",
+   "title": "多摩市ふるさと納税を活用した資金調達支援事業補助金",
+   "text_len": 7831,
+   "section_n": 31,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDYvYMAX",
+   "title": "【募集期間：5/18～27】【二次募集】水素海外展開チャレンジ事業2026",
+   "text_len": 13955,
+   "section_n": 9,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDYVzMAP",
+   "title": "岡崎市中小企業事業資金保証料補助金",
+   "text_len": 6758,
+   "section_n": 12,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDYW0MAP",
+   "title": "岡崎市創業資金保証料補助金",
+   "text_len": 6700,
+   "section_n": 12,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDYW1MAP",
+   "title": "岡崎市創業資金利子補給補助金",
+   "text_len": 6775,
+   "section_n": 12,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDYW2MAP",
+   "title": "岡崎ものづくり支援補助金（共同研究事業）",
+   "text_len": 10434,
+   "section_n": 39,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDYW3MAP",
+   "title": "岡崎ものづくり支援補助金（依頼試験事業）",
+   "text_len": 10469,
+   "section_n": 39,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDYW4MAP",
+   "title": "岡崎ものづくり支援補助金（見本市等出展事業）",
+   "text_len": 10504,
+   "section_n": 39,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDYW5MAP",
+   "title": "岡崎ものづくり支援補助金（知的財産権取得事業）",
+   "text_len": 10501,
+   "section_n": 39,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDYW6MAP",
+   "title": "岡崎ものづくり支援補助金（プラットフォーム活用事業）",
+   "text_len": 10505,
+   "section_n": 39,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDYW7MAP",
+   "title": "岡崎ものづくり支援補助金（新製品共創事業）",
+   "text_len": 10517,
+   "section_n": 39,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDYW8MAP",
+   "title": "岡崎市工場等（倉庫等）建設奨励金",
+   "text_len": 11489,
+   "section_n": 38,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDYW9MAP",
+   "title": "岡崎市企業再投資促進奨励金（県連携）",
+   "text_len": 11517,
+   "section_n": 40,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDYWAMA5",
+   "title": "岡崎市消費者向け製品製造工場等建設奨励金",
+   "text_len": 11537,
+   "section_n": 40,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDYWBMA5",
+   "title": "岡崎市高度先端産業立地奨励金（県連携）",
+   "text_len": 11583,
+   "section_n": 41,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDYXpMAP",
+   "title": "【募集期間：4/1～4/30】【参加企業募集】水素海外展開チャレンジ事業2026",
+   "text_len": 8521,
+   "section_n": 9,
+   "has_guidelines_url": false,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDYY4MAP",
+   "title": "「ポスト5G情報通信システム基盤強化研究開発事業／ロボット基盤モデルの研究開発（GENIAC）（補助）」（多用途ロボット等を含む）の公募",
+   "text_len": 39596,
+   "section_n": 39,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDYyhMAH",
+   "title": "令和8年度テレワークトータルサポート助成金",
+   "text_len": 13842,
+   "section_n": 59,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDYZ7MAP",
+   "title": "【久留米市】中小企業止水板等設置事業費補助金（令和8年度）",
+   "text_len": 10261,
+   "section_n": 40,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDYzQMAX",
+   "title": "令和８年度　産業車両等の脱炭素化促進事業のうち、フォークリフトの燃料電池化促進事業（二酸化炭素排出抑制対策事業費等補助金）",
+   "text_len": 6573,
+   "section_n": 13,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDYzVMAX",
+   "title": "産業車両等の脱炭素化促進事業のうち、空港における脱炭素化促進事業① 空港における再エネ活用型GPU等導入支援（二酸化炭素排出抑制対策事業費等補助金）",
+   "text_len": 6624,
+   "section_n": 12,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDZ04MAH",
+   "title": "産業車両等の脱炭素化促進事業のうち、港湾における脱炭素化促進事業（二酸化炭素排出抑制対策事業費等補助金）",
+   "text_len": 6640,
+   "section_n": 12,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDZ1GMAX",
+   "title": "産業車両等の脱炭素化促進事業のうち、空港における脱炭素化促進事業③空港におけるEV・FCV型車両改造事業（二酸化炭素排出抑制対策事業費等補助金）",
+   "text_len": 6530,
+   "section_n": 12,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDZ2OMAX",
+   "title": "令和8年度　建築GX・DX推進事業",
+   "text_len": 1808,
+   "section_n": 7,
+   "has_guidelines_url": false,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDZBgMAP",
+   "title": "令和8年度 航空宇宙産業への参入支援事業（宇宙製品等開発経費助成）",
+   "text_len": 39329,
+   "section_n": 19,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDZd3MAH",
+   "title": "【秋田県】令和8年度中小企業等海外展開支援事業費補助金（海外出願支援事業）",
+   "text_len": 23114,
+   "section_n": 28,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDZDCMA5",
+   "title": "令和8年度_低炭素型ディーゼルトラック普及加速化事業",
+   "text_len": 1339,
+   "section_n": 10,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDZDHMA5",
+   "title": "産業車両等の脱炭素化促進事業のうち、空港における脱炭素化促進事業②空港におけるEV・FCV型車両導入事業（二酸化炭素排出抑制対策事業費等補助金）",
+   "text_len": 6619,
+   "section_n": 13,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDZIAMA5",
+   "title": "埼玉県中小企業等奨学金返還支援事業補助金（令和８年度）",
+   "text_len": 6795,
+   "section_n": 10,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDZIFMA5",
+   "title": "松戸市事業用省エネルギー設備等導入促進事業費補助金",
+   "text_len": 7001,
+   "section_n": 33,
+   "has_guidelines_url": false,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDZipMAH",
+   "title": "令和8年度東京都薬局物価高騰緊急対策事業支援金",
+   "text_len": 6364,
+   "section_n": 7,
+   "has_guidelines_url": false,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDZIyMAP",
+   "title": "【一次公募】令和8年度　貿易プラットフォーム活用による貿易手続デジタル化推進事業費補助金",
+   "text_len": 3148,
+   "section_n": 16,
+   "has_guidelines_url": false,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDZkdMAH",
+   "title": "【令和８年度】二酸化炭素排出抑制対策事業費等補助金（地域共創・セクター横断型カーボンニュートラル技術開発・実証事業（うちスタートアップ企業に対する事業促進支援事業））",
+   "text_len": 32572,
+   "section_n": 103,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDZkYMAX",
+   "title": "令和８年度TOKYO戦略的イノベーション促進事業",
+   "text_len": 7944,
+   "section_n": 24,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDZX5MAP",
+   "title": "【環境省】環境保全研究費補助金（イノベーション創出のための環境スタートアップ研究開発支援事業）フェーズ2（R&D）支援事業",
+   "text_len": 22903,
+   "section_n": 40,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDZy8MAH",
+   "title": "【山形県】令和8年度やまがた未来くるエネルギー補助金（山形県再生可能エネルギー等設備導入促進事業）",
+   "text_len": 15446,
+   "section_n": 47,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDZyDMAX",
+   "title": "【山形県】令和8年度山形県再生可能エネルギー(小水力発電)事業可能性調査事業費補助金",
+   "text_len": 4010,
+   "section_n": 13,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDZyIMAX",
+   "title": "【山形県】令和8年度地域主導型再生可能エネルギー導入支援事業費補助金",
+   "text_len": 4700,
+   "section_n": 33,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDZz1MAH",
+   "title": "【愛知県大府市】2026年度大府市カーボンニュートラル推進生産設備導入支援補助金（生産設備）",
+   "text_len": 10707,
+   "section_n": 33,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDZz2MAH",
+   "title": "【愛知県大府市】大府市産業立地の奨励措置",
+   "text_len": 4754,
+   "section_n": 15,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDZz6MAH",
+   "title": "【愛知県大府市】2026年度大府市カーボンニュートラル推進生産設備導入支援補助金（ユーティリティ設備）",
+   "text_len": 10755,
+   "section_n": 33,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "a0WJ200000CDZzQMAX",
+   "title": "【令和８年度】二酸化炭素排出抑制対策事業費等補助金（地域再エネ水素ステーション保守点検等支援事業）",
+   "text_len": 7841,
+   "section_n": 21,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-19"
+  }
+ ]
+}
