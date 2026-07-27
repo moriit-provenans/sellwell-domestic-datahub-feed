@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-07-28",
+  "generated_at": "2026-07-27",
   "feed_status": "ok",
   "subsidy_open_count": 7623,
   "series_n": 39,
@@ -33,27 +33,34 @@
     "crawl_depth_recorded_pct": 11.5,
     "phase": "A_phase1_done",
     "targets": {
-      "phase2": { "details_published": 2000, "crawl_depth_recorded": 12000 },
-      "phase3": { "details_published": 5000, "crawl_depth_recorded": 20000 }
+      "phase2": {
+        "details_published": 2000,
+        "crawl_depth_recorded": 12000
+      },
+      "phase3": {
+        "details_published": 5000,
+        "crawl_depth_recorded": 20000
+      }
     },
     "note_ja": "件数（幅）と深さを分けて表示する。details_published が要領本文を実際に保有している制度数。",
     "updated_at": "2026-07-28"
   },
   "fit_one_liner_quality_req046": {
-    "filled": 8388,
-    "markup_contaminated": 2928,
-    "link_or_pdf_filename_noise": 1937,
-    "template_synthesized": 2429,
-    "template_title_echo": 275,
-    "template_purpose_category": 1435,
-    "substantive_candidate": 1813,
-    "synthesized_pct": 29.0,
-    "what_purpose_filled": 8031,
-    "what_purpose_title_echo": 5425,
-    "who_company_markup_contaminated": 2962,
-    "eligibility_summary_markup_contaminated": 3376,
-    "markup_contaminated_records_unique": 3376,
-    "note_ja": "2026-07-28 Atlas 実測（未修正時点の正直値）。混入は who_company_ja を24字で切って fit へ合成する経路が原因で、上位ドメインは pref.yamanashi 932 / city.niigata 312 / pref.gunma 300。REQ-046 ① で null 化する。",
-    "updated_at": "2026-07-28"
+    "filled": 3877,
+    "markup_contaminated": 0,
+    "who_company_markup_contaminated": 0,
+    "eligibility_summary_markup_contaminated": 0,
+    "markup_contaminated_records_unique": 0,
+    "pdf_filename_noise_remaining": 0,
+    "scrub_20260728": {
+      "items_touched": 5189,
+      "markup_field_nulls": 9271,
+      "pdf_field_nulls": 3397,
+      "ready_lost": 122,
+      "titles_with_angle_brackets_untouched": 14
+    },
+    "acceptance_①": "PASS",
+    "updated_at": "2026-07-27",
+    "note_ja": "REQ-046① scrub完了。混入は null 化（合成で埋めない）。タイトル山括弧は未変更。"
   }
 }
