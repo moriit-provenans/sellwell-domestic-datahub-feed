@@ -28,7 +28,8 @@
     "phase3_adoption_obs": 30,
     "phase3_retail_by_channel_obs": 90,
     "phase3_census_firms_by_pref_obs": 2408,
-    "phase3_updated": "2026-07-27"
+    "phase3_updated": "2026-07-27",
+    "phase3_io_transaction_structure_obs": 20
   },
   "req_phase3": "REQ-SMITH-20260724-045"
 }

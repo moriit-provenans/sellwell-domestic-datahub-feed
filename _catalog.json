@@ -68,6 +68,11 @@
       "id": "jp_census_firms_by_pref",
       "path": "timeseries/jp_census_firms_by_pref.json",
       "note": "REQ-045 P2b"
+    },
+    {
+      "id": "jp_io_transaction_structure",
+      "path": "timeseries/jp_io_transaction_structure.json",
+      "note": "REQ-045 P2a"
     }
   ]
 }
