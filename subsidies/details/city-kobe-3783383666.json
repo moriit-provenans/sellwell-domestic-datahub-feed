@@ -1,0 +1,30 @@
+{
+ "schema_version": "1.0.0",
+ "id": "city-kobe-3783383666",
+ "title": "【神戸市】事業者向けページ",
+ "guidelines_url": "https://shienseido.smartkobe-portal.com/business.html?utm_source=kobecity&utm_medium=referral&utm_campaign=hp-ss-b",
+ "source_urls": [
+  "https://shienseido.smartkobe-portal.com/business.html?utm_source=kobecity&utm_medium=referral&utm_campaign=hp-ss-b"
+ ],
+ "text": "支援制度検索サービス（事業者向け） 個人向けの 制度はこちら 事業者を対象にした神戸市の補助金や支援制度がまるっとわかる「KOBE BIZ MARU（コウベビズマル）」。 業種（任意）とキーワードを選択いただくと、自社の課題に合った補助金・支援策が検索できます。 任意 業種 必須 キーワード クリア 検索 0 件の制度があります 全 15 件中 1 件～ 10 件目 を表示 該当する制度はありません 前の 10 件 次の 10 件 【国・県の制度情報】 国の制度は 中小機構 J-Net21 へ 県の制度は 兵庫県ホームページ へ 経営全般に関する相談はこちら ＞ 支援制度検索サービスの使い方 スマートこうべTOP ✕",
+ "text_len": 312,
+ "sections": [
+  {
+   "heading": null,
+   "text": "支援制度検索サービス（事業者向け） 個人向けの 制度はこちら 事業者を対象にした神戸市の補助金や支援制度がまるっとわかる「KOBE BIZ MARU（コウベビズマル）」。 業種（任意）とキーワードを選択いただくと、自社の課題に合った補助金・支援策が検索できます。 任意 業種 必須 キーワード クリア 検索 0 件の制度があります 全 15 件中 1 件～ 10 件目 を表示 該当する制度はありません 前の 10 件 次の 10 件"
+  },
+  {
+   "heading": "国・県の制度情報",
+   "text": "国の制度は 中小機構 J-Net21 へ 県の制度は 兵庫県ホームページ へ 経営全般に関する相談はこちら ＞ 支援制度検索サービスの使い方 スマートこうべTOP ✕"
+  }
+ ],
+ "section_n": 2,
+ "retrieved_at": "2026-07-28T09:39:22.943721+00:00",
+ "as_of_date": "2026-07-28",
+ "still_valid_2026": true,
+ "veritas": "○",
+ "synthesized": false,
+ "extract_path": "html",
+ "errors": [],
+ "note_ja": "REQ-047 設計確定。text は全文。一覧索引へはマージしない。"
+}

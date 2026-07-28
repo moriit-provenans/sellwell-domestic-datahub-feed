@@ -1,0 +1,26 @@
+{
+ "schema_version": "1.0.0",
+ "id": "city-02208-6289594702",
+ "title": "【むつ市】むつ市防災士資格取得助成金交付申請書 (74KB)",
+ "guidelines_url": "https://www.city.mutsu.lg.jp/government/bousai/files/R8bousaishi_sinnseisyo.pdf",
+ "source_urls": [
+  "https://www.city.mutsu.lg.jp/government/bousai/files/R8bousaishi_sinnseisyo.pdf"
+ ],
+ "text": "様式第１ 号（第 ５条関係）  \n \n    年  月  日 \n \n（宛先） む つ 市 長 \n \n        住 所 \n申請者氏名            ○印  \n電 話 番 号 \n \n \nむつ市防災士資格取得助成金交付申請書  \n \n \n 令和８ 年度むつ市防災士 資格取得 助成金交付要綱第 ５条の規定により、下記のと\nおり助成金の交付申請をいたします。  \n \n記 \n \n 助成金交付申請額                円 \n \n学校名               大学 ・ 高等学校  \n学年              年 \n受講 年月日    年  月  日 \n助成対象経費  \n受講料：  \n教本購入費：  \n資格取得試験受験料：  \n認証登録料：  \n助成金額  助成対象経費 の全額（上限２０，０００円）  \n ",
+ "text_len": 368,
+ "sections": [
+  {
+   "heading": null,
+   "text": "様式第１ 号（第 ５条関係）  \n \n    年  月  日 \n \n（宛先） む つ 市 長 \n \n        住 所 \n申請者氏名            ○印  \n電 話 番 号 \n \n \nむつ市防災士資格取得助成金交付申請書  \n \n \n 令和８ 年度むつ市防災士 資格取得 助成金交付要綱第 ５条の規定により、下記のと\nおり助成金の交付申請をいたします。  \n \n記 \n \n 助成金交付申請額                円 \n \n学校名               大学 ・ 高等学校  \n学年              年 \n受講 年月日    年  月  日 \n助成対象経費  \n受講料：  \n教本購入費：  \n資格取得試験受験料：  \n認証登録料：  \n助成金額  助成対象経費 の全額（上限２０，０００円）"
+  }
+ ],
+ "section_n": 1,
+ "retrieved_at": "2026-07-28T10:07:45.707861+00:00",
+ "as_of_date": "2026-07-28",
+ "still_valid_2026": true,
+ "veritas": "○",
+ "synthesized": false,
+ "extract_path": "pdf",
+ "errors": [],
+ "note_ja": "REQ-047 設計確定。text は全文。一覧索引へはマージしない。"
+}

@@ -1,0 +1,26 @@
+{
+ "schema_version": "1.0.0",
+ "id": "city-06361-8085884200",
+ "title": "【金山町】広報情報係",
+ "guidelines_url": "https://www.town.kaneyama.yamagata.jp/machinososhiki/matidukuri/shokokankokakari/kohojohogakari/index.html",
+ "source_urls": [
+  "https://www.town.kaneyama.yamagata.jp/machinososhiki/matidukuri/shokokankokakari/kohojohogakari/index.html"
+ ],
+ "text": "広報情報係／四季奏でるまち。金山 - 山形県金山町公式ウェブサイト スマートフォン版を表示 本文へ 文字サイズ Select Language English 中文（繁体） 中文（簡体） 한국어 Go Select your language 文字サイズ Select Language English 中文（繁体） 中文（簡体） 한국어 Go Select your language PC版で表示する メニューを閉じる 現在の位置 ホーム 町の組織 まちづくり課 商工観光係 広報情報係 広報情報係 業務案内 お知らせ 商工観光係 法人番号 8000020063614 〒999-5402 山形県最上郡金山町大字金山324-1 電話：0233-52-2111（代表） 開庁時間：月曜日から金曜日の8時30分から17時15分（祝日・休日・年末年始を除く） このサイトのご利用について 組織一覧 お問い合わせ サイトマップ Copyright (c) 2025 Kaneyama Town. All Rights Reserved.",
+ "text_len": 466,
+ "sections": [
+  {
+   "heading": null,
+   "text": "広報情報係／四季奏でるまち。金山 - 山形県金山町公式ウェブサイト スマートフォン版を表示 本文へ 文字サイズ Select Language English 中文（繁体） 中文（簡体） 한국어 Go Select your language 文字サイズ Select Language English 中文（繁体） 中文（簡体） 한국어 Go Select your language PC版で表示する メニューを閉じる 現在の位置 ホーム 町の組織 まちづくり課 商工観光係 広報情報係 広報情報係 業務案内 お知らせ 商工観光係 法人番号 8000020063614 〒999-5402 山形県最上郡金山町大字金山324-1 電話：0233-52-2111（代表） 開庁時間：月曜日から金曜日の8時30分から17時15分（祝日・休日・年末年始を除く） このサイトのご利用について 組織一覧 お問い合わせ サイトマップ Copyright (c) 2025 Kaneyama Town. All Rights Reserved."
+  }
+ ],
+ "section_n": 1,
+ "retrieved_at": "2026-07-28T10:13:27.638348+00:00",
+ "as_of_date": "2026-07-28",
+ "still_valid_2026": true,
+ "veritas": "○",
+ "synthesized": false,
+ "extract_path": "html",
+ "errors": [],
+ "note_ja": "REQ-047 設計確定。text は全文。一覧索引へはマージしない。"
+}

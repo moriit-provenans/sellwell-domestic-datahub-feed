@@ -1,0 +1,26 @@
+{
+ "schema_version": "1.0.0",
+ "id": "city-06403-1286782608",
+ "title": "【飯豊町】令和7年8月号 (3384KB)",
+ "guidelines_url": "https://www.town.iide.yamagata.jp/007/R7.8shiencenter2.pdf",
+ "source_urls": [
+  "https://www.town.iide.yamagata.jp/007/R7.8shiencenter2.pdf"
+ ],
+ "text": "24 25 26 27 28\n31\n1610 11\n29\n232217 18 19 20 21\n12 13 14 15\n3 4 5 6 7 8 9\n1 2\n30\nTEL\n10\n 15\n10\n 15\n10\n 15\n10\n 15\n9 50\n 11\n 30\n: \n\n21 22\n5 6\n9 10 11 12 13\n1 2 3 4\n8\n28 29 30\n7\n23 24 25\n19 2014 15 16 17 18\n26 27\n",
+ "text_len": 210,
+ "sections": [
+  {
+   "heading": null,
+   "text": "24 25 26 27 28\n31\n1610 11\n29\n232217 18 19 20 21\n12 13 14 15\n3 4 5 6 7 8 9\n1 2\n30\nTEL\n10\n 15\n10\n 15\n10\n 15\n10\n 15\n9 50\n 11\n 30\n: \n\n21 22\n5 6\n9 10 11 12 13\n1 2 3 4\n8\n28 29 30\n7\n23 24 25\n19 2014 15 16 17 18\n26 27"
+  }
+ ],
+ "section_n": 1,
+ "retrieved_at": "2026-07-28T10:13:50.787347+00:00",
+ "as_of_date": "2026-07-28",
+ "still_valid_2026": true,
+ "veritas": "○",
+ "synthesized": false,
+ "extract_path": "pdf",
+ "errors": [],
+ "note_ja": "REQ-047 設計確定。text は全文。一覧索引へはマージしない。"
+}

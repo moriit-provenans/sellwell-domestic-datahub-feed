@@ -1,0 +1,26 @@
+{
+ "schema_version": "1.0.0",
+ "id": "city-01424-4498191250",
+ "title": "【奈井江町】【給食費助成】学校給食費助成金交付申請書兼委任状",
+ "guidelines_url": "https://www.town.naie.hokkaido.jp/file/contents/466/18864/shinnseisyo.pdf",
+ "source_urls": [
+  "https://www.town.naie.hokkaido.jp/file/contents/466/18864/shinnseisyo.pdf"
+ ],
+ "text": "様式第１号 \n奈井江町学校給食費助成金交付申請書兼委任状 \n \n年  月  日 \n \n奈井江町長 三 本 英 司 様 \n \n 次の児童生徒について、奈井江町学校給食費助成金の交付を受けたいので申 \n請します。 \n年度分 \n \n対\n象\n児\n童\n・\n生\n徒  \n氏  名 生年月日 学 校 名 学  年 \n \n \n  第  学年 \n \n \n \n  第  学年 \n \n \n \n  第  学年 \n \n \n \n  第  学年 \n \n備  考 \n \n※対象児童生徒の学校が異なる場合は、それぞれ申請してください。 \n \n \n委   任   状 \n私は、学校長を代理人と定め、奈井江町学校給食費助成金に係る全ての権限 \nを委任します。 \n    \n申請者兼委任者（保護者） \n住  所 奈井江町 \n      氏  名            印 \n                             電話番号 \n \n                代理人（学校長） \n学 校 名 \n校 長 名 ",
+ "text_len": 443,
+ "sections": [
+  {
+   "heading": null,
+   "text": "様式第１号 \n奈井江町学校給食費助成金交付申請書兼委任状 \n \n年  月  日 \n \n奈井江町長 三 本 英 司 様 \n \n 次の児童生徒について、奈井江町学校給食費助成金の交付を受けたいので申 \n請します。 \n年度分 \n \n対\n象\n児\n童\n・\n生\n徒  \n氏  名 生年月日 学 校 名 学  年 \n \n \n  第  学年 \n \n \n \n  第  学年 \n \n \n \n  第  学年 \n \n \n \n  第  学年 \n \n備  考 \n \n※対象児童生徒の学校が異なる場合は、それぞれ申請してください。 \n \n \n委   任   状 \n私は、学校長を代理人と定め、奈井江町学校給食費助成金に係る全ての権限 \nを委任します。 \n    \n申請者兼委任者（保護者） \n住  所 奈井江町 \n      氏  名            印 \n                             電話番号 \n \n                代理人（学校長） \n学 校 名 \n校 長 名"
+  }
+ ],
+ "section_n": 1,
+ "retrieved_at": "2026-07-28T09:51:50.861832+00:00",
+ "as_of_date": "2026-07-28",
+ "still_valid_2026": true,
+ "veritas": "○",
+ "synthesized": false,
+ "extract_path": "pdf",
+ "errors": [],
+ "note_ja": "REQ-047 設計確定。text は全文。一覧索引へはマージしない。"
+}

@@ -1,0 +1,26 @@
+{
+ "schema_version": "1.0.0",
+ "id": "city-01423-2433989077",
+ "title": "【南幌町】新生児聴覚検査費助成金交付申請書",
+ "guidelines_url": "https://www.town.nanporo.hokkaido.jp/files/kodomo/2749/sinnseisyo.pdf",
+ "source_urls": [
+  "https://www.town.nanporo.hokkaido.jp/files/kodomo/2749/sinnseisyo.pdf"
+ ],
+ "text": "年  月  日 \n南 幌 町 長 様 \n \n南 幌 町 新 生 児 聴 覚 検 査 費 助 成 金 交 付 申 請 書 \n \n           保 護 者 住  所 南 幌 町 \n               氏  名          印 \n               電 話 番 号 \n \n南幌 町 新 生 児 聴 覚 検 査 費 助 成 事 業 実 施 要 綱 （ 第 ４ 条 第 ２項 ） の 規 定\nに 基 づ き 、 下 記 の と お り 新 生 児 聴 覚 検 査 費 用 の 助 成 を 申 請 し ま す 。 \n \n記 \n \n １ 対 象 者 氏 名 \n ２ 生年月 日        年   月   日 \n ３ 申請金 額                円 \n ４ 添 付 資 料 \n   (1) 検 査 結 果 の 写 し \n \n(2) 検 査 料に 係 る 領 収 書の 写 し \n \n ５ 振 込 先 \n金 融 機 関 名 銀行   \n \n        店  \n \n預金 種別  普通  当座    口 座 番 号  \n口 座 名 義  \n※ 支 給 決 定 年 月 日 年  月  日  ※ 請 求却下 年 月 日 年  月  日  \n  \n ",
+ "text_len": 541,
+ "sections": [
+  {
+   "heading": null,
+   "text": "年  月  日 \n南 幌 町 長 様 \n \n南 幌 町 新 生 児 聴 覚 検 査 費 助 成 金 交 付 申 請 書 \n \n           保 護 者 住  所 南 幌 町 \n               氏  名          印 \n               電 話 番 号 \n \n南幌 町 新 生 児 聴 覚 検 査 費 助 成 事 業 実 施 要 綱 （ 第 ４ 条 第 ２項 ） の 規 定\nに 基 づ き 、 下 記 の と お り 新 生 児 聴 覚 検 査 費 用 の 助 成 を 申 請 し ま す 。 \n \n記 \n \n １ 対 象 者 氏 名 \n ２ 生年月 日        年   月   日 \n ３ 申請金 額                円 \n ４ 添 付 資 料 \n   (1) 検 査 結 果 の 写 し \n \n(2) 検 査 料に 係 る 領 収 書の 写 し \n \n ５ 振 込 先 \n金 融 機 関 名 銀行   \n \n        店  \n \n預金 種別  普通  当座    口 座 番 号  \n口 座 名 義  \n※ 支 給 決 定 年 月 日 年  月  日  ※ 請 求却下 年 月 日 年  月  日"
+  }
+ ],
+ "section_n": 1,
+ "retrieved_at": "2026-07-28T09:51:44.807903+00:00",
+ "as_of_date": "2026-07-28",
+ "still_valid_2026": true,
+ "veritas": "○",
+ "synthesized": false,
+ "extract_path": "pdf",
+ "errors": [],
+ "note_ja": "REQ-047 設計確定。text は全文。一覧索引へはマージしない。"
+}
