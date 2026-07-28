@@ -31,7 +31,7 @@
     "body_text_max_chars": 107837,
     "crawl_depth_recorded": 12290,
     "crawl_depth_recorded_pct": 23.1,
-    "phase": "A_design_aligned_phase2_running",
+    "phase": "B_phase2_COMPLETE",
     "targets": {
       "phase2": {
         "details_published": 2000,
@@ -42,7 +42,7 @@
         "crawl_depth_recorded": 20000
       }
     },
-    "note_ja": "確定設計準拠: text全文 / _index.jsonl.gz / finder hb·tl のみ。本文は一覧にマージしない。",
+    "note_ja": "Phase2受入達成（本文>=2000かつdepth>=12000）。Phase3本文目標5000も超過。depth20000は継続。",
     "updated_at": "2026-07-28",
     "city_judgment_material_approx": 2932,
     "city_total": 25050,
@@ -55,7 +55,19 @@
     },
     "guidelines_body_count": 6262,
     "guidelines_body_bytes": 44518720,
-    "design_doc": "UDX事業/projects/sellwell_revival/operations/2026-07-28_subsidy_guidelines_body_delivery_design.md"
+    "design_doc": "UDX事業/projects/sellwell_revival/operations/2026-07-28_subsidy_guidelines_body_delivery_design.md",
+    "phase2_acceptance": {
+      "details_published": 6262,
+      "crawl_depth_recorded": 12290,
+      "bodies_ok": true,
+      "depth_ok": true
+    },
+    "phase3_targets": {
+      "details_published": 5000,
+      "crawl_depth_recorded": 20000,
+      "bodies_ok": true,
+      "depth_ok": false
+    }
   },
   "fit_one_liner_quality_req046": {
     "filled": 3877,
