@@ -78,6 +78,11 @@
       "id": "subsidies_details",
       "path": "subsidies/details/",
       "note": "REQ-047 A_Phase1 制度単位の要領本文（sections[]・見出し保持）。索引は details/_index.json"
+    },
+    {
+      "id": "subsidies_details_index_jsonl",
+      "path": "subsidies/details/_index.jsonl.gz",
+      "note": "REQ-047 本文目録（1行1制度）"
     }
   ]
 }
