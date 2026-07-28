@@ -1,6 +1,6 @@
 {
   "schema_version": "1.1.0",
-  "last_updated": "2026-07-26",
+  "last_updated": "2026-07-28",
   "lens_guide": {
     "jsic_manufacturing": "公的業種コードで切れる製造業（法人企業統計・経済構造・IIP等）",
     "growth17": "政策テーマ。JSIC合成／代理／編集部評定。製造業リストに混ぜない",
@@ -423,9 +423,8 @@
   },
   "unavailable": {
     "W2-1a_downstream_io": {
-      "status": "live",
-      "path": "timeseries/jp_io_transaction_structure.json",
-      "reason": "REQ-045 P2a: METI延長産業連関表 R2(2020)・52部門名目を手動取得し川上・川下構造を公開（2026-07-27）"
+      "status": "unavailable",
+      "reason": "産業連関表の機械可読フル行列がe-Stat APIに未整備。W2-1b/cは企業統計派生で代替納品"
     },
     "W2-5_bankruptcy": {
       "status": "unavailable",
