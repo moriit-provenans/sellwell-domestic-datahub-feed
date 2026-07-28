@@ -1,33 +1,21 @@
 {
  "schema_version": "1.0.0",
  "req": "REQ-SMITH-20260727-047",
- "phase": "A_phase1",
- "generated_at": "2026-07-27T23:17:41.445603+00:00",
- "as_of_date": "2026-07-27",
+ "phase": "B_phase2_in_progress",
+ "generated_at": "2026-07-28T00:11:18.739160+00:00",
+ "as_of_date": "2026-07-28",
  "still_valid_2026": true,
  "veritas": "○",
  "path_pattern": "subsidies/details/{id}.json",
- "count": 392,
- "in_active_feed": 392,
- "not_in_active_feed": 0,
+ "count": 737,
+ "in_active_feed": 737,
  "text_len": {
   "min": 222,
-  "median": 7383,
+  "median": 5299,
   "max": 65396,
-  "sum": 4108452
+  "sum": 6124544
  },
- "excluded": {
-  "markup_contaminated": 0,
-  "too_short_or_empty": 4,
-  "markup_ids": [],
-  "short_ids": [
-   "a0W5h00000UcDDXEA3",
-   "a0W5h00000UcDDYEA3",
-   "a0WJ200000CDbHOMA1",
-   "a0WJ200000CDVS1MAP"
-  ]
- },
- "note_ja": "Phase1 = Atlas ローカル抽出済 396件の要領本文をそのまま公開。要約・テンプレート合成は一切していない。取れていないものは収録していない（Phase2/3 で本文保有 2,000件→5,000件へ拡大予定）。",
+ "note_ja": "Phase2 進行中。open/city 葉の要領本文を増分公開。",
  "items": [
   {
    "id": "a0W2x000004PhCHEA0",
@@ -3556,6 +3544,3111 @@
    "has_guidelines_url": true,
    "in_active_feed": true,
    "as_of_date": "2026-07-19"
+  },
+  {
+   "id": "city-01203-4684398943",
+   "title": "【小樽市】【申請受付中】令和８年度 高圧電気料金高騰対策支援金",
+   "text_len": 5581,
+   "section_n": 5,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-01203-9191594078",
+   "title": "【小樽市】省エネ家電購入費支援キャンペーン（小樽市省エネ家電転換促進補助金）",
+   "text_len": 14867,
+   "section_n": 38,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-01204-8263516408",
+   "title": "【旭川市】7月22日 包装資材等転換支援補助金",
+   "text_len": 14119,
+   "section_n": 36,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-01206-6081329873",
+   "title": "【釧路市】釧路市診療所等開設助成金",
+   "text_len": 3921,
+   "section_n": 2,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-01206-8349262956",
+   "title": "【釧路市】2026年度輝くまちづくり交付金の提案事業を募集しています",
+   "text_len": 15215,
+   "section_n": 13,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-01213-3130074140",
+   "title": "【苫小牧市】スポーツ補助金等制度",
+   "text_len": 1302,
+   "section_n": 1,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-01213-8332156183",
+   "title": "【苫小牧市】中小企業振興・支援",
+   "text_len": 1366,
+   "section_n": 2,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-01214-8720943668",
+   "title": "【稚内市】?cx=925b34589b6d647f1&cof=FORID%3A9&ie=UTF-8&q=助成金&sa.x=0&sa.y=0",
+   "text_len": 1174,
+   "section_n": 1,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-01221-1437302819",
+   "title": "【名寄市】2026年04月01日 社会教育関係団体活動推進補助金（バス借上料補助）",
+   "text_len": 4016,
+   "section_n": 9,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-01233-5253006678",
+   "title": "【伊達市】?cx=016525041017481684981:ulluneb1qms&cof=FORID%3A9&ie=UTF-8&q=給付金&sa.x=0&sa.y=0",
+   "text_len": 1443,
+   "section_n": 2,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-01371-913727470",
+   "title": "【せたな町】商工・労働・観光 せたな町次世代型店舗づくり事業補助金の実施について せたな町では、商工業者等が行うキャッシュレス決済導入や店舗等の省エネ及びランニングコスト低減を目的に店舗等を整備する経費の一部を助",
+   "text_len": 5019,
+   "section_n": 27,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-01395-9975160037",
+   "title": "【ニセコ町】# ニセコ町脱炭素・再エネ補助金",
+   "text_len": 12428,
+   "section_n": 3,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-01408-5080995805",
+   "title": "【余市町】令和8年度 生産基盤持続化整備事業補助金",
+   "text_len": 2864,
+   "section_n": 5,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-01408-738496870",
+   "title": "【余市町】「観光地づくり加速化補助金」のご案内",
+   "text_len": 2334,
+   "section_n": 1,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-01408-8679759950",
+   "title": "【余市町】令和8年度 来訪者受入環境整備事業補助金",
+   "text_len": 2347,
+   "section_n": 2,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-01429-3108531270",
+   "title": "【栗山町】【募集】令和8年度栗山町まちの魅力アップ応援事業交付金",
+   "text_len": 16023,
+   "section_n": 30,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-01430-105721482",
+   "title": "【月形町】民間賃貸住宅建設及びリフォーム補助について（募集）",
+   "text_len": 1911,
+   "section_n": 1,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-01486-5168854942",
+   "title": "【遠別町】2026年4月3日 「起業化支援事業補助金」相談受付中！",
+   "text_len": 4184,
+   "section_n": 3,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-01516-8278149372",
+   "title": "【豊富町】2026年7月16日 募集 町営住宅の入居者を公募します。",
+   "text_len": 3941,
+   "section_n": 1,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-01517-1446652913",
+   "title": "【礼文町】令和9年度礼文町建設技術者就業支援金貸与者の募集について",
+   "text_len": 3331,
+   "section_n": 10,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-01517-3589819394",
+   "title": "【礼文町】食料品物価高騰対策支援給付金について",
+   "text_len": 1255,
+   "section_n": 3,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-01543-9400715018",
+   "title": "【美幌町】補助金・支援金",
+   "text_len": 2305,
+   "section_n": 2,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-01578-4898602158",
+   "title": "【白老町】2026年7月3日 奨学金返還支援補助金の募集について",
+   "text_len": 2824,
+   "section_n": 4,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-01578-7743178651",
+   "title": "【白老町】2026年7月15日 【申請受付中～7/31まで】白老町ローカルイベント支援事業補助金の募集について NEW",
+   "text_len": 2765,
+   "section_n": 16,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-01578-7766161467",
+   "title": "【白老町】2026年7月15日 【申請受付中～7/31まで】白老町魅力発信応援事業補助金の募集について NEW",
+   "text_len": 2733,
+   "section_n": 16,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-01578-9773638081",
+   "title": "【白老町】Jブルークレジット(R)の認証・発行及び購入申込者公募について",
+   "text_len": 3110,
+   "section_n": 1,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-01585-5152476625",
+   "title": "【安平町】大賞は補助金300万円！「アビライク・フード・アワード」参加者募集",
+   "text_len": 2982,
+   "section_n": 9,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-01602-6392752969",
+   "title": "【平取町】補助金・助成金",
+   "text_len": 780,
+   "section_n": 2,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-01610-1859688161",
+   "title": "【新ひだか町】スポーツ推進委員の公募について",
+   "text_len": 1924,
+   "section_n": 6,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-01610-3730495714",
+   "title": "【新ひだか町】自治基本条例評価委員会委員の公募について",
+   "text_len": 1514,
+   "section_n": 4,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-01610-9920059844",
+   "title": "【新ひだか町】新ひだか町クラウドファンディング型ふるさと納税活用事業補助金",
+   "text_len": 6385,
+   "section_n": 25,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-01637-6315582621",
+   "title": "【芽室町】ゼロカーボン補助金（町民向け）のお知らせ",
+   "text_len": 7547,
+   "section_n": 10,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-01643-1837498403",
+   "title": "【幕別町】明野ケ丘公園公募設置管理制度事業",
+   "text_len": 4077,
+   "section_n": 4,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-01661-2595566849",
+   "title": "【釧路町】ちょこっとスマイル給付金の申請始まる 2026年2月3日",
+   "text_len": 1874,
+   "section_n": 1,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-01663-518783707",
+   "title": "【浜中町】助成金・補助金",
+   "text_len": 875,
+   "section_n": 1,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-02202-5743363211",
+   "title": "【弘前市】【拡充】弘前市雪害対策りんご園地等の再生のための苗木等購入費助成金について",
+   "text_len": 2708,
+   "section_n": 7,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-02202-9563143659",
+   "title": "【弘前市】弘前市宿泊施設受入環境整備事業費補助金について",
+   "text_len": 6444,
+   "section_n": 27,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-02205-2836755381",
+   "title": "【五所川原市】東京圏から五所川原市への移住で、最大100万円を支給します！（移住支援金）",
+   "text_len": 10460,
+   "section_n": 29,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-02206-2536357735",
+   "title": "【十和田市】電気柵導入支援事業補助金のお知らせ 農林畜産課 畜産林務係",
+   "text_len": 4042,
+   "section_n": 13,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-02206-3145061929",
+   "title": "【十和田市】十和田市認可外保育施設入所児童保育料助成金 こども未来応援課 こども保育係",
+   "text_len": 3747,
+   "section_n": 2,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-02206-3835582642",
+   "title": "【十和田市】令和８年度十和田市住宅用自家消費型太陽光発電設備等導入支援事業費補助金 くらし環境課 環境衛生係",
+   "text_len": 8618,
+   "section_n": 32,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-02206-4571456518",
+   "title": "【十和田市】放任果樹等伐採事業補助金のお知らせ【二次申込 受付中】 農林畜産課 畜産林務係",
+   "text_len": 4443,
+   "section_n": 19,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-02208-3658775732",
+   "title": "【むつ市】むつ市私道等整備補助金",
+   "text_len": 6895,
+   "section_n": 30,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-02208-6173832617",
+   "title": "【むつ市】むつ市内路線バス補助金の交付実績について",
+   "text_len": 1705,
+   "section_n": 1,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-02210-535550055",
+   "title": "【平川市】ひとり親世帯臨時特別給付金のお知らせ",
+   "text_len": 1813,
+   "section_n": 2,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-02210-8309895410",
+   "title": "【平川市】平川市経営改善支援事業補助金",
+   "text_len": 5739,
+   "section_n": 10,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-02384-1479026862",
+   "title": "【鶴田町】妊婦支援給付金",
+   "text_len": 1170,
+   "section_n": 2,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-02384-211622847",
+   "title": "【鶴田町】宅地開発事業補助金",
+   "text_len": 3280,
+   "section_n": 33,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-02384-697068394",
+   "title": "【鶴田町】鶴田町創業等応援助成金について",
+   "text_len": 9641,
+   "section_n": 37,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-02384-944251843",
+   "title": "【鶴田町】補助金一覧",
+   "text_len": 2389,
+   "section_n": 13,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-02405-7359318150",
+   "title": "【六戸町】補助金・支援金",
+   "text_len": 1256,
+   "section_n": 2,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-02405-8269255631",
+   "title": "【六戸町】【青森労働局】働き方改革推進支援助成金について",
+   "text_len": 12741,
+   "section_n": 11,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-02441-1301182465",
+   "title": "【三戸町】令和8年度三戸町住宅用自家消費型太陽光発電設備等導入支援事業費補助金について",
+   "text_len": 18940,
+   "section_n": 13,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-02441-1773867511",
+   "title": "【三戸町】令和8年度 学び応援！三戸町高校生修学支援金のご案内",
+   "text_len": 1541,
+   "section_n": 1,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-02441-2582325613",
+   "title": "【三戸町】令和8年度町のにぎわいづくり事業費補助金(募集中！！)",
+   "text_len": 2269,
+   "section_n": 2,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-02441-4112185312",
+   "title": "【三戸町】令和8年度 三戸町習い事応援補助金のご案内",
+   "text_len": 3654,
+   "section_n": 19,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-02443-1125283963",
+   "title": "【田子町】補助金・研修会",
+   "text_len": 784,
+   "section_n": 1,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-04207-2525336678",
+   "title": "【名取市】名取市若者定住促進奨学金返還支援事業補助金について",
+   "text_len": 3725,
+   "section_n": 4,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-04213-375765090",
+   "title": "【栗原市】補助金・助成金等",
+   "text_len": 974,
+   "section_n": 1,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-04213-850967367",
+   "title": "【栗原市】補助金・助成金等",
+   "text_len": 1055,
+   "section_n": 1,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-04323-4713861524",
+   "title": "【柴田町】移住定住（移住支援金、移住相談）",
+   "text_len": 13815,
+   "section_n": 1,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-04501-8336128565",
+   "title": "【涌谷町】2027年度（令和9年度）入学者向け 涌谷町給付型奨学金奨学生募集",
+   "text_len": 3913,
+   "section_n": 4,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-04581-1823564739",
+   "title": "【女川町】女川町定住促進事業補助金について",
+   "text_len": 3434,
+   "section_n": 4,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-04581-5705634373",
+   "title": "【女川町】空き家バンク活用促進奨励金",
+   "text_len": 5138,
+   "section_n": 16,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-04581-7265737140",
+   "title": "【女川町】民間賃貸住宅空室支援金",
+   "text_len": 6809,
+   "section_n": 9,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-05202-2084311951",
+   "title": "【能代市】求む！結婚応援団『結婚サポーター』を募集中です",
+   "text_len": 2654,
+   "section_n": 5,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-06205-4061095794",
+   "title": "【新庄市】山形県被災中小企業支援事業費補助金について",
+   "text_len": 1924,
+   "section_n": 2,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-06206-1202506494",
+   "title": "【寒河江市】寒河江市振興審議会の公募委員募集",
+   "text_len": 3874,
+   "section_n": 2,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-06206-9676393536",
+   "title": "【寒河江市】補助金・支援",
+   "text_len": 1285,
+   "section_n": 1,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-06208-952310898",
+   "title": "【村山市】助成・融資・利子補給",
+   "text_len": 1503,
+   "section_n": 1,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-06209-2842643754",
+   "title": "【長井市】令和8年度 長井市起業・創業支援事業補助金について",
+   "text_len": 12324,
+   "section_n": 25,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-06209-6719462936",
+   "title": "【長井市】令和8年度長井市特定空家除却補助金",
+   "text_len": 4749,
+   "section_n": 13,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-06209-9325307141",
+   "title": "【長井市】令和8年度 長井市地域脱炭素プラン推進事業費補助金について",
+   "text_len": 16062,
+   "section_n": 30,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-06321-2459096463",
+   "title": "【河北町】おかえり！学びと暮らし応援プロジェクト！100万円給付します！【河北町人材育成若者定着促進事業給付金】 河北町では、経済的理由により修学が困難であった方に対し、有為な人材の育成及び若者の町内定着の促進",
+   "text_len": 7289,
+   "section_n": 9,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-06341-3874183078",
+   "title": "【大石田町】資格取得支援事業助成金",
+   "text_len": 4450,
+   "section_n": 13,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-06341-3914505672",
+   "title": "【大石田町】新事業チャレンジ支援事業補助金",
+   "text_len": 18060,
+   "section_n": 39,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-06341-7757434476",
+   "title": "【大石田町】再生可能エネルギー設備導入事業（家庭・事業所向け補助金）",
+   "text_len": 2938,
+   "section_n": 4,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-06341-9119580891",
+   "title": "【大石田町】住宅リフォーム支援事業補助金",
+   "text_len": 2657,
+   "section_n": 8,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-06402-940659021",
+   "title": "【白鷹町】令和８年度新やまがた就職促進奨学金返還支援事業 助成候補者募集のお知らせ",
+   "text_len": 15693,
+   "section_n": 28,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-06403-8736247918",
+   "title": "【飯豊町】令和８年度飯豊町脱炭素先行地域づくり事業補助金（個人向け_太陽光、蓄電池）について",
+   "text_len": 10811,
+   "section_n": 42,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-06426-863532953",
+   "title": "【三川町】令和8年度三川町経営強化支援事業費補助金について",
+   "text_len": 4365,
+   "section_n": 12,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-06461-3241099241",
+   "title": "【遊佐町】庄内を元気にするプロジェクトを募集！（庄内自然エネルギー発電基金協議会2027年度事業助成募集）",
+   "text_len": 3960,
+   "section_n": 1,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-06461-7206785704",
+   "title": "【遊佐町】【予算残りわずか】自主防災会活動事業助成金について",
+   "text_len": 3357,
+   "section_n": 3,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-07204-112028910",
+   "title": "【いわき市】令和８年度 いわき市生垣設置奨励補助金申請者を募集中",
+   "text_len": 2454,
+   "section_n": 1,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-07204-1500402197",
+   "title": "【いわき市】令和８年度 いわき市生垣設置奨励補助金申請者を募集中",
+   "text_len": 2454,
+   "section_n": 1,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-07204-2118694791",
+   "title": "【いわき市】令和８年度 いわき市生垣設置奨励補助金申請者を募集中",
+   "text_len": 2454,
+   "section_n": 1,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-07204-3067928897",
+   "title": "【いわき市】令和８年度 いわき市生垣設置奨励補助金申請者を募集中",
+   "text_len": 2454,
+   "section_n": 1,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-07204-4084203253",
+   "title": "【いわき市】令和８年度 いわき市生垣設置奨励補助金申請者を募集中",
+   "text_len": 2454,
+   "section_n": 1,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-07204-4243904846",
+   "title": "【いわき市】令和８年度 いわき市生垣設置奨励補助金申請者を募集中",
+   "text_len": 2454,
+   "section_n": 1,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-07204-623987245",
+   "title": "【いわき市】令和８年度 いわき市生垣設置奨励補助金申請者を募集中",
+   "text_len": 2454,
+   "section_n": 1,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-07204-6533998952",
+   "title": "【いわき市】令和８年度 いわき市生垣設置奨励補助金申請者を募集中",
+   "text_len": 2454,
+   "section_n": 1,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-07204-8837989939",
+   "title": "【いわき市】令和８年度 いわき市生垣設置奨励補助金申請者を募集中",
+   "text_len": 2454,
+   "section_n": 1,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-07204-9537912604",
+   "title": "【いわき市】令和８年度 いわき市生垣設置奨励補助金申請者を募集中",
+   "text_len": 2454,
+   "section_n": 1,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-07204-9597613621",
+   "title": "【いわき市】令和８年度 いわき市生垣設置奨励補助金申請者を募集中",
+   "text_len": 2454,
+   "section_n": 1,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-07210-9319050975",
+   "title": "【二本松市】ふくしま産業応援ファンド事業（助成金）の募集について",
+   "text_len": 2869,
+   "section_n": 4,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-08208-1446040550",
+   "title": "【龍ケ崎市】住民税非課税世帯等臨時特別給付金",
+   "text_len": 1791,
+   "section_n": 11,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-08208-1459338031",
+   "title": "【龍ケ崎市】龍ケ崎市U34賃貸住宅更新等補助金",
+   "text_len": 9698,
+   "section_n": 15,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-08208-4224580177",
+   "title": "【龍ケ崎市】【残り12件】令和8年度蓄電システム（蓄電池）導入補助金のご案内",
+   "text_len": 10775,
+   "section_n": 12,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-08208-4695865891",
+   "title": "【龍ケ崎市】龍ケ崎市U29新婚生活スタート応援補助金",
+   "text_len": 9117,
+   "section_n": 13,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-08210-1045982966",
+   "title": "【ひたちなか市】三世代同居・近居 助成金交付事業",
+   "text_len": 5683,
+   "section_n": 17,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-08227-1830715378",
+   "title": "【筑西市】第２弾筑西市プレミアム商品券の取扱店を募集します【国の重点支援地方交付金活用事業】",
+   "text_len": 3511,
+   "section_n": 11,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-08233-5140924958",
+   "title": "【行方市】なめがたブランド6次産業化支援事業補助金のご案内",
+   "text_len": 2068,
+   "section_n": 12,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-08236-9992842543",
+   "title": "【小美玉市】【受付中】浄化槽の設置補助金ご活用ください（予算状況 随時更新）",
+   "text_len": 8716,
+   "section_n": 27,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-08443-8515449036",
+   "title": "【阿見町】自転車用ヘルメット購入補助金",
+   "text_len": 1586,
+   "section_n": 1,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-08447-6499938821",
+   "title": "【河内町】河内町ブランド化支援事業費補助金について",
+   "text_len": 2502,
+   "section_n": 6,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-09211-258138811",
+   "title": "【矢板市】やいたぐらし応援補助金（旧 「暮らし」のびのび定住促進補助金）",
+   "text_len": 3500,
+   "section_n": 10,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-09211-6558215544",
+   "title": "【矢板市】「暮らし」のびのび定住促進補助金（令和8年3月31日以前引渡しの方）",
+   "text_len": 6360,
+   "section_n": 17,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-09211-7567695841",
+   "title": "【矢板市】各種補助金",
+   "text_len": 915,
+   "section_n": 1,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-09344-8515128911",
+   "title": "【市貝町】公募・募集",
+   "text_len": 2456,
+   "section_n": 6,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-09345-7033885375",
+   "title": "【芳賀町】芳賀町ファミリーサポートセンター【提供会員（まかせて会員）募集】",
+   "text_len": 1227,
+   "section_n": 4,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-09364-1765039562",
+   "title": "【野木町】【令和6年度】野木町定額減税調整給付金のお知らせ",
+   "text_len": 3205,
+   "section_n": 17,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-09364-1778558237",
+   "title": "【野木町】消火器購入費補助金",
+   "text_len": 1866,
+   "section_n": 8,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-09364-1903282296",
+   "title": "【野木町】令和6(2024)年度「野木町協働のまちづくり支援事業補助金」の採択事業について",
+   "text_len": 1916,
+   "section_n": 4,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-09364-2683875262",
+   "title": "【野木町】家庭用防犯対策事業補助金",
+   "text_len": 3308,
+   "section_n": 6,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-09364-4228421701",
+   "title": "【野木町】住宅用脱炭素化普及促進設備（太陽光発電等）導入補助金",
+   "text_len": 15248,
+   "section_n": 79,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-09364-4230566343",
+   "title": "【野木町】定住促進補助金（住宅購入補助）",
+   "text_len": 2701,
+   "section_n": 6,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-09364-6038786924",
+   "title": "【野木町】省エネ家電購入緊急支援補助金",
+   "text_len": 4082,
+   "section_n": 6,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-09364-65270495",
+   "title": "【野木町】令和8年度 第2回一般公募普通救命講習会",
+   "text_len": 1411,
+   "section_n": 4,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-09364-6778066635",
+   "title": "【野木町】野木町平地林危険木伐採等支援補助金",
+   "text_len": 5162,
+   "section_n": 8,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-09364-694385154",
+   "title": "【野木町】高齢者補聴器購入費補助金について",
+   "text_len": 2371,
+   "section_n": 4,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-09364-7259079612",
+   "title": "【野木町】【令和7年度】野木町定額減税調整給付金（不足額給付分）のお知らせ",
+   "text_len": 2809,
+   "section_n": 10,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-09364-7410567172",
+   "title": "【野木町】野木町スタートアップ支援補助金",
+   "text_len": 7398,
+   "section_n": 13,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-09364-7464202644",
+   "title": "【野木町】野木町地方就職支援金",
+   "text_len": 27721,
+   "section_n": 9,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-09364-7738304569",
+   "title": "【野木町】野木町ガバメントクラウドファンディング活用支援事業補助金",
+   "text_len": 2693,
+   "section_n": 5,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-09364-7921446851",
+   "title": "【野木町】令和7(2025)年度「野木町協働のまちづくり支援事業補助金」の採択事業について",
+   "text_len": 1850,
+   "section_n": 4,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-09364-7931183589",
+   "title": "【野木町】【県補助制度】（中小企業者向け）災害時電源EV・PHV導入促進事業補助金",
+   "text_len": 1445,
+   "section_n": 11,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-09411-518993023",
+   "title": "【那珂川町】令和8年度那珂川町農作業省力化対策事業補助金のご案内",
+   "text_len": 4565,
+   "section_n": 8,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-10209-3689704344",
+   "title": "【藤岡市】補助金・助成金情報",
+   "text_len": 548,
+   "section_n": 1,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-11207-4610485948",
+   "title": "【秩父市】物価高騰対策給付金の支給状況",
+   "text_len": 4255,
+   "section_n": 2,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-11222-1655954118",
+   "title": "【越谷市】補助金・融資などの支援",
+   "text_len": 1990,
+   "section_n": 2,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-11222-2305947792",
+   "title": "【越谷市】補助金・融資などの支援",
+   "text_len": 1990,
+   "section_n": 2,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-11222-2592341607",
+   "title": "【越谷市】補助金・融資などの支援",
+   "text_len": 1990,
+   "section_n": 2,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-11222-3416616295",
+   "title": "【越谷市】補助金・融資などの支援",
+   "text_len": 1990,
+   "section_n": 2,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-11222-5042087101",
+   "title": "【越谷市】補助金・融資などの支援",
+   "text_len": 1990,
+   "section_n": 2,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-11222-5177917168",
+   "title": "【越谷市】補助金・融資などの支援",
+   "text_len": 1990,
+   "section_n": 2,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-11222-5587703710",
+   "title": "【越谷市】補助金・融資などの支援",
+   "text_len": 1990,
+   "section_n": 2,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-11222-6688916279",
+   "title": "【越谷市】補助金・融資などの支援",
+   "text_len": 1990,
+   "section_n": 2,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-11222-8210882421",
+   "title": "【越谷市】補助金・融資などの支援",
+   "text_len": 1990,
+   "section_n": 2,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-11222-8358668138",
+   "title": "【越谷市】補助金・融資などの支援",
+   "text_len": 1990,
+   "section_n": 2,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-11222-9082874719",
+   "title": "【越谷市】補助金・融資などの支援",
+   "text_len": 1990,
+   "section_n": 2,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-11223-6513611660",
+   "title": "【蕨市】補助金一覧",
+   "text_len": 1799,
+   "section_n": 1,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-11223-7469946245",
+   "title": "【蕨市】補助・助成・給付金",
+   "text_len": 1585,
+   "section_n": 1,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-11234-7160503836",
+   "title": "【三郷市】中小企業経営・創業支援",
+   "text_len": 933,
+   "section_n": 1,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-11242-2859741830",
+   "title": "【日高市】年金生活者支援給付金",
+   "text_len": 1665,
+   "section_n": 1,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-11361-5992231814",
+   "title": "【横瀬町】横瀬町省エネルギー型暮らし体験住宅指定管理者の公募について",
+   "text_len": 5921,
+   "section_n": 41,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-11365-303962448",
+   "title": "【小鹿野町】住宅用太陽光発電システム及び蓄電システム設置費等補助金のお知らせ",
+   "text_len": 2032,
+   "section_n": 6,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-11365-5793184670",
+   "title": "【小鹿野町】小鹿野町物価高騰対策緊急経営資金利子補給補助金のお知らせ",
+   "text_len": 2528,
+   "section_n": 9,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-11442-9217845616",
+   "title": "【宮代町】令和8年度宮代町店舗・住宅リフォーム事業補助金",
+   "text_len": 6097,
+   "section_n": 17,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-12221-4510303735",
+   "title": "【我孫子市】我孫子市生活支援給付金（申請期限：7月31日まで）",
+   "text_len": 6496,
+   "section_n": 9,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-12225-7146406472",
+   "title": "【君津市】【令和8年度整備】地域密着型サービスの整備事業者を公募します",
+   "text_len": 12985,
+   "section_n": 10,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-12226-2414499839",
+   "title": "【富津市】富津市ひとり親家庭等養育費確保等支援事業補助金",
+   "text_len": 7395,
+   "section_n": 2,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-12226-287652070",
+   "title": "【富津市】富津市あなたのチャレンジサポート！創業支援等事業補助金",
+   "text_len": 6650,
+   "section_n": 10,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-12226-4336941387",
+   "title": "【富津市】令和8年度富津市住宅用設備等脱炭素化促進事業補助金",
+   "text_len": 10581,
+   "section_n": 11,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-12226-5477000619",
+   "title": "【富津市】令和8年度富津市有害獣防護柵設置事業補助金",
+   "text_len": 7560,
+   "section_n": 20,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-12226-559332295",
+   "title": "【富津市】暮らしの補助金・助成金",
+   "text_len": 2509,
+   "section_n": 1,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-12226-5804912872",
+   "title": "【富津市】事業者向けの補助金・助成金",
+   "text_len": 2383,
+   "section_n": 1,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-12226-6373109232",
+   "title": "【富津市】移住者カーライフ再開補助金",
+   "text_len": 4554,
+   "section_n": 18,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-12226-7636805097",
+   "title": "【富津市】富津市環境美化事業補助金",
+   "text_len": 6445,
+   "section_n": 2,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-12226-9987231873",
+   "title": "【富津市】富津市UIJターンによる起業・就業者等創出事業補助金",
+   "text_len": 14188,
+   "section_n": 27,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-12236-2003519336",
+   "title": "【香取市】東京・神奈川・埼玉から移住された方へ\"移住支援金\"を交付します！",
+   "text_len": 13432,
+   "section_n": 36,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-12236-5832184551",
+   "title": "【香取市】令和8年度香取市省エネ家電製品買換え促進補助金",
+   "text_len": 10549,
+   "section_n": 12,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-12236-6885767561",
+   "title": "【香取市】育児の手当・助成・給付金など",
+   "text_len": 1410,
+   "section_n": 1,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-12236-7220154493",
+   "title": "【香取市】令和8年度香取市自転車乗車用ヘルメット購入費補助金",
+   "text_len": 4254,
+   "section_n": 2,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-12347-3276733971",
+   "title": "【多古町】補助金制度一覧",
+   "text_len": 6209,
+   "section_n": 21,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-12403-374186266",
+   "title": "【九十九里町】定住促進住宅取得奨励金を交付します",
+   "text_len": 4638,
+   "section_n": 25,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-12409-5362560136",
+   "title": "【芝山町】補助金等一覧",
+   "text_len": 3993,
+   "section_n": 4,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-13102-4596725557",
+   "title": "【中央区】理学療法士による粋トレ教室参加者募集中",
+   "text_len": 4926,
+   "section_n": 5,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-13105-2771402262",
+   "title": "【文京区】文京区食料品等物価高騰対応給付金のご案内",
+   "text_len": 5533,
+   "section_n": 9,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-13107-1243127092",
+   "title": "【墨田区】「墨田区住まいの防犯対策臨時補助金」受付中",
+   "text_len": 7316,
+   "section_n": 8,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-13108-2736411742",
+   "title": "【江東区】江東区人材確保及び定着に向けた奨学金返還支援事業補助金申請受付中！",
+   "text_len": 8355,
+   "section_n": 12,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-13108-854897855",
+   "title": "【江東区】受付は10月30日（金曜日）まで エネルギー価格高騰対策補助金",
+   "text_len": 7950,
+   "section_n": 11,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-13115-7113101746",
+   "title": "【杉並区】手当・給付金など",
+   "text_len": 14134,
+   "section_n": 44,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-13115-8650433485",
+   "title": "【杉並区】【第1回募集中】創業スタートアップ助成（5月30日更新）",
+   "text_len": 4942,
+   "section_n": 12,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-13201-1187820221",
+   "title": "【八王子市】桑都のまち応援給付金について",
+   "text_len": 6289,
+   "section_n": 8,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-13201-1497036280",
+   "title": "【八王子市】令和8年度八王子市住まいの防犯対策緊急補助金について【受付中】",
+   "text_len": 9656,
+   "section_n": 11,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-13201-1499713385",
+   "title": "【八王子市】桑都のまち応援給付金について",
+   "text_len": 6289,
+   "section_n": 8,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-13201-1741314146",
+   "title": "【八王子市】【申請受付中】令和8年度（2026年度）創業者販路拡大支援補助金の公募について",
+   "text_len": 8531,
+   "section_n": 30,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-13201-1901720254",
+   "title": "【八王子市】令和8年度八王子市住まいの防犯対策緊急補助金について【受付中】",
+   "text_len": 9656,
+   "section_n": 11,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-13201-2270929308",
+   "title": "【八王子市】【申請受付中】令和8年度（2026年度）創業者販路拡大支援補助金の公募について",
+   "text_len": 8531,
+   "section_n": 30,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-13201-2800056433",
+   "title": "【八王子市】【6月15日から8月31日まで申請受付中】八王子市物価高騰対応事業者支援金について",
+   "text_len": 10200,
+   "section_n": 49,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-13201-2921745530",
+   "title": "【八王子市】【6月15日から8月31日まで申請受付中】八王子市物価高騰対応事業者支援金について",
+   "text_len": 10200,
+   "section_n": 49,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-13201-3493782137",
+   "title": "【八王子市】【申請受付中】令和8年度（2026年度）創業者販路拡大支援補助金の公募について",
+   "text_len": 8531,
+   "section_n": 30,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-13201-3530232446",
+   "title": "【八王子市】桑都のまち応援給付金について",
+   "text_len": 6289,
+   "section_n": 8,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-13201-3685312742",
+   "title": "【八王子市】【申請受付中】令和8年度（2026年度）創業者販路拡大支援補助金の公募について",
+   "text_len": 8531,
+   "section_n": 30,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-13201-3721100029",
+   "title": "【八王子市】桑都のまち応援給付金について",
+   "text_len": 6289,
+   "section_n": 8,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-13201-3734535002",
+   "title": "【八王子市】桑都のまち応援給付金について",
+   "text_len": 6289,
+   "section_n": 8,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-13201-3776955224",
+   "title": "【八王子市】【6月15日から8月31日まで申請受付中】八王子市物価高騰対応事業者支援金について",
+   "text_len": 10200,
+   "section_n": 49,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-13201-3980645676",
+   "title": "【八王子市】【6月15日から8月31日まで申請受付中】八王子市物価高騰対応事業者支援金について",
+   "text_len": 10200,
+   "section_n": 49,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-13201-4261812393",
+   "title": "【八王子市】令和8年度八王子市住まいの防犯対策緊急補助金について【受付中】",
+   "text_len": 9656,
+   "section_n": 11,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-13201-4266956964",
+   "title": "【八王子市】令和8年度八王子市住まいの防犯対策緊急補助金について【受付中】",
+   "text_len": 9656,
+   "section_n": 11,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-13201-4407752479",
+   "title": "【八王子市】令和8年度八王子市住まいの防犯対策緊急補助金について【受付中】",
+   "text_len": 9656,
+   "section_n": 11,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-13201-4449791738",
+   "title": "【八王子市】【6月15日から8月31日まで申請受付中】八王子市物価高騰対応事業者支援金について",
+   "text_len": 10200,
+   "section_n": 49,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-13201-4597383967",
+   "title": "【八王子市】【6月15日から8月31日まで申請受付中】八王子市物価高騰対応事業者支援金について",
+   "text_len": 10200,
+   "section_n": 49,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-13201-4599882886",
+   "title": "【八王子市】桑都のまち応援給付金について",
+   "text_len": 6289,
+   "section_n": 8,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-13201-467265105",
+   "title": "【八王子市】令和8年度八王子市住まいの防犯対策緊急補助金について【受付中】",
+   "text_len": 9656,
+   "section_n": 11,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-13201-4753013705",
+   "title": "【八王子市】桑都のまち応援給付金について",
+   "text_len": 6289,
+   "section_n": 8,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-13201-4862768797",
+   "title": "【八王子市】令和8年度八王子市住まいの防犯対策緊急補助金について【受付中】",
+   "text_len": 9656,
+   "section_n": 11,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-13201-5109798904",
+   "title": "【八王子市】【6月15日から8月31日まで申請受付中】八王子市物価高騰対応事業者支援金について",
+   "text_len": 10200,
+   "section_n": 49,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-13201-536306748",
+   "title": "【八王子市】【6月15日から8月31日まで申請受付中】八王子市物価高騰対応事業者支援金について",
+   "text_len": 10200,
+   "section_n": 49,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-13201-5643901084",
+   "title": "【八王子市】桑都のまち応援給付金について",
+   "text_len": 6289,
+   "section_n": 8,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-13201-6010041935",
+   "title": "【八王子市】【申請受付中】令和8年度（2026年度）創業者販路拡大支援補助金の公募について",
+   "text_len": 8531,
+   "section_n": 30,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-13201-6386471707",
+   "title": "【八王子市】【申請受付中】令和8年度（2026年度）創業者販路拡大支援補助金の公募について",
+   "text_len": 8531,
+   "section_n": 30,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-13201-6551529406",
+   "title": "【八王子市】【6月15日から8月31日まで申請受付中】八王子市物価高騰対応事業者支援金について",
+   "text_len": 10200,
+   "section_n": 49,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-13201-6673571570",
+   "title": "【八王子市】桑都のまち応援給付金について",
+   "text_len": 6289,
+   "section_n": 8,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-13201-6701413808",
+   "title": "【八王子市】【申請受付中】令和8年度（2026年度）創業者販路拡大支援補助金の公募について",
+   "text_len": 8531,
+   "section_n": 30,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-13201-671810707",
+   "title": "【八王子市】【申請受付中】令和8年度（2026年度）創業者販路拡大支援補助金の公募について",
+   "text_len": 8531,
+   "section_n": 30,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-13201-6981454259",
+   "title": "【八王子市】令和8年度八王子市住まいの防犯対策緊急補助金について【受付中】",
+   "text_len": 9656,
+   "section_n": 11,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-13201-7009451477",
+   "title": "【八王子市】【6月15日から8月31日まで申請受付中】八王子市物価高騰対応事業者支援金について",
+   "text_len": 10200,
+   "section_n": 49,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-13201-7228023459",
+   "title": "【八王子市】令和8年度八王子市住まいの防犯対策緊急補助金について【受付中】",
+   "text_len": 9656,
+   "section_n": 11,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-13201-7511263070",
+   "title": "【八王子市】令和8年度八王子市住まいの防犯対策緊急補助金について【受付中】",
+   "text_len": 9656,
+   "section_n": 11,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-13201-7555047283",
+   "title": "【八王子市】桑都のまち応援給付金について",
+   "text_len": 6289,
+   "section_n": 8,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-13201-8073794809",
+   "title": "【八王子市】【申請受付中】令和8年度（2026年度）創業者販路拡大支援補助金の公募について",
+   "text_len": 8531,
+   "section_n": 30,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-13201-8416060500",
+   "title": "【八王子市】【申請受付中】令和8年度（2026年度）創業者販路拡大支援補助金の公募について",
+   "text_len": 8531,
+   "section_n": 30,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-13201-8521479865",
+   "title": "【八王子市】桑都のまち応援給付金について",
+   "text_len": 6289,
+   "section_n": 8,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-13201-9026399142",
+   "title": "【八王子市】令和8年度八王子市住まいの防犯対策緊急補助金について【受付中】",
+   "text_len": 9656,
+   "section_n": 11,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-13201-9369465141",
+   "title": "【八王子市】【申請受付中】令和8年度（2026年度）創業者販路拡大支援補助金の公募について",
+   "text_len": 8531,
+   "section_n": 30,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-13201-9447589579",
+   "title": "【八王子市】【6月15日から8月31日まで申請受付中】八王子市物価高騰対応事業者支援金について",
+   "text_len": 10200,
+   "section_n": 49,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-13203-7680760871",
+   "title": "【武蔵野市】特別支援学級臨時補助員・交流共同学習支援員(アシスタント職員)の登録募集",
+   "text_len": 3045,
+   "section_n": 1,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-13210-8383397010",
+   "title": "【小金井市】（結果の掲載）施工会社を対象とした「小金井市新庁舎・（仮称）新福祉会館」建設に関する公募型サウンディング調査の実施について",
+   "text_len": 3727,
+   "section_n": 1,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-13212-4486557499",
+   "title": "【日野市】融資・補助金等支援情報（国・都含む）（市内事業者向け）",
+   "text_len": 1410,
+   "section_n": 1,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-13220-1953257068",
+   "title": "【東大和市】東大和市食料品等物価高騰対応給付金事業",
+   "text_len": 4215,
+   "section_n": 16,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-13223-2423050721",
+   "title": "【武蔵村山市】令和8年度市内事業者物価高騰対策支援金",
+   "text_len": 4956,
+   "section_n": 9,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-13223-6831336394",
+   "title": "【武蔵村山市】令和8年度農業者物価高騰対策支援金",
+   "text_len": 3540,
+   "section_n": 5,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-13227-2795814402",
+   "title": "【羽村市】月10万円の給付金を受けながら職業訓練が受けられる！「ハロートレーニング」のご案内",
+   "text_len": 1597,
+   "section_n": 2,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-13227-4606884392",
+   "title": "【羽村市】令和8年度羽村市創業支援補助金（二次募集）",
+   "text_len": 8550,
+   "section_n": 29,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-14216-5752810898",
+   "title": "【座間市】非課税世帯等給付金及び定額減税捕捉給付金（調整給付）",
+   "text_len": 1890,
+   "section_n": 9,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-14217-8312387828",
+   "title": "【南足柄市】【受付中】合併処理浄化槽の設置補助金制度",
+   "text_len": 4109,
+   "section_n": 8,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-14217-9408917278",
+   "title": "【南足柄市】【受付中】ZEHや断熱リフォーム、EV、太陽光発電設備の導入補助",
+   "text_len": 7080,
+   "section_n": 41,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-14363-6147586201",
+   "title": "【松田町】寄地区避難所災害時協力用電気自動車等導入費補助金",
+   "text_len": 11799,
+   "section_n": 1,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-14364-4602040000",
+   "title": "【山北町】英語検定料補助金について",
+   "text_len": 2056,
+   "section_n": 4,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-14366-6909490646",
+   "title": "【開成町】ゼロエネルギーハウス補助金",
+   "text_len": 18355,
+   "section_n": 24,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-14382-5824922047",
+   "title": "【箱根町】【令和8年7月1日受付開始】事業者向け省エネ設備等更新促進補助金",
+   "text_len": 4227,
+   "section_n": 7,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-15202-1920518177",
+   "title": "【長岡市】給付金関連",
+   "text_len": 750,
+   "section_n": 1,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-15208-621612586",
+   "title": "【小千谷市】市民協働支援補助金のご案内（随時募集中）",
+   "text_len": 4095,
+   "section_n": 2,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-15218-3662776995",
+   "title": "【五泉市】放任果樹伐採補助金",
+   "text_len": 4025,
+   "section_n": 12,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-15218-4293117291",
+   "title": "【五泉市】地場産業成長支援事業補助金について",
+   "text_len": 3178,
+   "section_n": 5,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-15342-4529752534",
+   "title": "【弥彦村】【2月26日質問回答について追記】「第35回寬仁親王牌・世界選手権記念トーナメント」テレビ・イベント・インターネット等業務の委託先を公募します。",
+   "text_len": 6373,
+   "section_n": 15,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-15342-5838823315",
+   "title": "【弥彦村】「弥彦を描く」公募展",
+   "text_len": 1010,
+   "section_n": 1,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-15581-161740323",
+   "title": "【関川村】むらおこしグループ活動支援補助金（むらづくり総合推進事業補助金）の応募について【期限5月29日まで】",
+   "text_len": 31786,
+   "section_n": 64,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-15581-425185239",
+   "title": "【関川村】関川村移動販売支援事業補助金について",
+   "text_len": 8300,
+   "section_n": 8,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-18204-3992531616",
+   "title": "【小浜市】募集・補助・助成",
+   "text_len": 1483,
+   "section_n": 6,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-18206-2924633257",
+   "title": "【勝山市】ちょいチャレ応援事業補助金",
+   "text_len": 6198,
+   "section_n": 29,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-18208-6832219888",
+   "title": "【あわら市】【受付中】令和8年度あわら市住宅の太陽光・蓄電池設備導入促進の補助について",
+   "text_len": 9127,
+   "section_n": 14,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-19208-1897680659",
+   "title": "【南アルプス市】補助金・支援制度",
+   "text_len": 2636,
+   "section_n": 5,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-19208-331127327",
+   "title": "【南アルプス市】浄化槽補助金制度",
+   "text_len": 3097,
+   "section_n": 6,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-19208-4933712830",
+   "title": "【南アルプス市】東京圏大学卒業後のUIJターン就職を支援します。【南アルプス市地方就職支援金】",
+   "text_len": 4237,
+   "section_n": 11,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-19208-6636263463",
+   "title": "【南アルプス市】結婚新生活支援事業補助金の受付が開始されました",
+   "text_len": 3505,
+   "section_n": 11,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-19208-7935692236",
+   "title": "【南アルプス市】【採択事業決定】令和８年度市民参加型シティプロモーション事業補助金",
+   "text_len": 11738,
+   "section_n": 11,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-19208-9199417969",
+   "title": "【南アルプス市】移住支援金事業",
+   "text_len": 5375,
+   "section_n": 18,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-20202-1498323268",
+   "title": "【松本市】松本市エアコン設置促進事業補助金の申請を受け付けています(～９月３０日（水）まで）",
+   "text_len": 3903,
+   "section_n": 1,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-20202-1882355122",
+   "title": "【松本市】令和8年度「住まいのゼロカーボン推進補助金」の申請を受付しています",
+   "text_len": 12363,
+   "section_n": 32,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-20202-2967477067",
+   "title": "【松本市】結婚新生活支援事業補助金の申請受付中です",
+   "text_len": 1677,
+   "section_n": 1,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-20202-3328691951",
+   "title": "【松本市】結婚新生活支援事業補助金の申請受付中です",
+   "text_len": 1677,
+   "section_n": 1,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-20202-4900556852",
+   "title": "【松本市】令和8年度「住まいのゼロカーボン推進補助金」の申請を受付しています",
+   "text_len": 12363,
+   "section_n": 32,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-20202-6117639980",
+   "title": "【松本市】結婚新生活支援事業補助金の申請受付中です",
+   "text_len": 1677,
+   "section_n": 1,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-20202-6463390785",
+   "title": "【松本市】結婚新生活支援事業補助金の申請受付中です",
+   "text_len": 1677,
+   "section_n": 1,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-20202-759353739",
+   "title": "【松本市】結婚新生活支援事業補助金の申請受付中です",
+   "text_len": 1677,
+   "section_n": 1,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-20202-7877450698",
+   "title": "【松本市】松本市エアコン設置促進事業補助金の申請を受け付けています(～９月３０日（水）まで）",
+   "text_len": 3903,
+   "section_n": 1,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-20202-7950105478",
+   "title": "【松本市】松本市エアコン設置促進事業補助金の申請を受け付けています(～９月３０日（水）まで）",
+   "text_len": 3903,
+   "section_n": 1,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-20202-8886040943",
+   "title": "【松本市】結婚新生活支援事業補助金の申請受付中です",
+   "text_len": 1677,
+   "section_n": 1,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-20202-9226316895",
+   "title": "【松本市】結婚新生活支援事業補助金の申請受付中です",
+   "text_len": 1677,
+   "section_n": 1,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-20202-9273013485",
+   "title": "【松本市】令和8年度「住まいのゼロカーボン推進補助金」の申請を受付しています",
+   "text_len": 12363,
+   "section_n": 32,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-20207-466187545",
+   "title": "【須坂市】補助金・助成金",
+   "text_len": 1032,
+   "section_n": 1,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-20217-4480379200",
+   "title": "【佐久市】「ちゃたまや（有限会社ブラウンエッグファーム）」火災被害に伴う支援金口座開設のお知らせ",
+   "text_len": 1779,
+   "section_n": 1,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-20217-9908482442",
+   "title": "【佐久市】補助金等一覧",
+   "text_len": 1168,
+   "section_n": 1,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-20382-2972942503",
+   "title": "【辰野町】辰野町通学定期券等購入費重点支援助成金のお知らせ",
+   "text_len": 3701,
+   "section_n": 10,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-20382-9687684836",
+   "title": "【辰野町】辰野町住民税非課税世帯エアコン設置促進事業補助金について",
+   "text_len": 2550,
+   "section_n": 4,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-20482-4387554974",
+   "title": "【松川村】保育士（代替・加配、早朝、延長、保育補助員）募集",
+   "text_len": 1530,
+   "section_n": 27,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-20482-5415796676",
+   "title": "【松川村】ブロック塀等撤去事業補助金について",
+   "text_len": 2010,
+   "section_n": 2,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-20541-1039300808",
+   "title": "【小布施町】search-result.html?q=補助金",
+   "text_len": 575,
+   "section_n": 1,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-20561-8056885232",
+   "title": "【山ノ内町】高校生通学定期券購入費補助金",
+   "text_len": 4000,
+   "section_n": 6,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-20562-1608732376",
+   "title": "【木島平村】補助金・ 助成金",
+   "text_len": 730,
+   "section_n": 1,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-20590-6945507394",
+   "title": "【飯綱町】まちづくり活動支援事業補助金を活用したイベント情報",
+   "text_len": 4597,
+   "section_n": 3,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-20590-7565380005",
+   "title": "【飯綱町】飯綱町移住定住応援リフォーム補助金",
+   "text_len": 6176,
+   "section_n": 3,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-21205-657630331",
+   "title": "【関市】公募のお知らせ",
+   "text_len": 2781,
+   "section_n": 11,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-21205-9207478769",
+   "title": "【関市】防災関係補助金",
+   "text_len": 845,
+   "section_n": 1,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-21209-9431059316",
+   "title": "【羽島市】補助金・交付金",
+   "text_len": 1624,
+   "section_n": 1,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-21362-9613477602",
+   "title": "【関ケ原町】観光活性化支援事業補助金について",
+   "text_len": 5157,
+   "section_n": 5,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-21382-2176400648",
+   "title": "【輪之内町】中学校就学準備等支援金のご案内",
+   "text_len": 2216,
+   "section_n": 2,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-21382-7898130191",
+   "title": "【輪之内町】小学校就学準備等支援金のご案内",
+   "text_len": 2216,
+   "section_n": 2,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-21383-3752184646",
+   "title": "【安八町】安八町省エネエアコン買替補助金",
+   "text_len": 7347,
+   "section_n": 21,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-21383-715919888",
+   "title": "【安八町】住宅取得助成金",
+   "text_len": 5613,
+   "section_n": 16,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-21383-7941664230",
+   "title": "【安八町】産業振興事業補助金制度",
+   "text_len": 4537,
+   "section_n": 2,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-21404-350030400",
+   "title": "【池田町】国庫補助金",
+   "text_len": 1170,
+   "section_n": 1,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-21404-9504765624",
+   "title": "【池田町】5月27日 令和8年度西美濃創生広域連携推進協議会補助金のご案内",
+   "text_len": 4341,
+   "section_n": 9,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-22206-9388783056",
+   "title": "【三島市】【市制85周年記念事業】三島駅南口東街区再開発事業タウンネーム公募（7月17日更新）",
+   "text_len": 7605,
+   "section_n": 11,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-22210-5337433088",
+   "title": "【富士市】富士市稼ぐ力起業支援金について",
+   "text_len": 4875,
+   "section_n": 2,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-22213-3683360351",
+   "title": "【掛川市】指定管理者公募中の施設について",
+   "text_len": 14378,
+   "section_n": 7,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-22213-4955169926",
+   "title": "【掛川市】指定管理者公募中の施設について",
+   "text_len": 2041,
+   "section_n": 1,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-22214-4434539968",
+   "title": "【藤枝市】止水板の補助金",
+   "text_len": 12226,
+   "section_n": 7,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-22214-5281795755",
+   "title": "【藤枝市】補助金・支援 検索ナビ",
+   "text_len": 1322,
+   "section_n": 1,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-22216-723158447",
+   "title": "【袋井市】定額減税（調整給付金、不足額給付金）について",
+   "text_len": 4873,
+   "section_n": 9,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-22219-3453523941",
+   "title": "【下田市】2026年7月13日 令和8年度下田市物価高騰対応重点支援給付金について",
+   "text_len": 1575,
+   "section_n": 1,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-22304-7330492945",
+   "title": "【南伊豆町】南伊豆町空き家バンクリフォーム補助金【リフォーム】【家財処分】",
+   "text_len": 2288,
+   "section_n": 11,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-23202-2843045693",
+   "title": "【岡崎市】地球温暖化対策設備設置費を補助します",
+   "text_len": 31825,
+   "section_n": 26,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-23202-3594660330",
+   "title": "【岡崎市】地球温暖化対策設備設置費を補助します",
+   "text_len": 31825,
+   "section_n": 26,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-23202-3901902830",
+   "title": "【岡崎市】地球温暖化対策設備設置費を補助します",
+   "text_len": 31825,
+   "section_n": 26,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-23202-3969027939",
+   "title": "【岡崎市】地球温暖化対策設備設置費を補助します",
+   "text_len": 31825,
+   "section_n": 26,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-23202-4452608439",
+   "title": "【岡崎市】7月17日 岡崎墓園墓地区画利用者の公募",
+   "text_len": 3840,
+   "section_n": 1,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-23202-5686738408",
+   "title": "【岡崎市】7月17日 岡崎墓園墓地区画利用者の公募",
+   "text_len": 3840,
+   "section_n": 1,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-23202-6150892658",
+   "title": "【岡崎市】7月22日 議会だよりの表紙を公募します",
+   "text_len": 7159,
+   "section_n": 1,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-23202-6881764864",
+   "title": "【岡崎市】7月17日 岡崎墓園墓地区画利用者の公募",
+   "text_len": 3840,
+   "section_n": 1,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-23202-7286084216",
+   "title": "【岡崎市】地球温暖化対策設備設置費を補助します",
+   "text_len": 31825,
+   "section_n": 26,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-23202-9632034777",
+   "title": "【岡崎市】7月17日 岡崎墓園墓地区画利用者の公募",
+   "text_len": 3840,
+   "section_n": 1,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-23203-1795709090",
+   "title": "【一宮市】【食料品物価高騰支援金】まだ受け取っていない方に案内を送付します",
+   "text_len": 3995,
+   "section_n": 3,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-23203-180479967",
+   "title": "【一宮市】【食料品物価高騰支援金】まだ受け取っていない方に案内を送付します",
+   "text_len": 3995,
+   "section_n": 3,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-23203-3006907422",
+   "title": "【一宮市】【食料品物価高騰支援金】まだ受け取っていない方に案内を送付します",
+   "text_len": 3995,
+   "section_n": 3,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-23203-3295248025",
+   "title": "【一宮市】【食料品物価高騰支援金】まだ受け取っていない方に案内を送付します",
+   "text_len": 3995,
+   "section_n": 3,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-23203-561986060",
+   "title": "【一宮市】【食料品物価高騰支援金】まだ受け取っていない方に案内を送付します",
+   "text_len": 3995,
+   "section_n": 3,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-23203-682664282",
+   "title": "【一宮市】【食料品物価高騰支援金】まだ受け取っていない方に案内を送付します",
+   "text_len": 3995,
+   "section_n": 3,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-23203-6967917064",
+   "title": "【一宮市】【食料品物価高騰支援金】まだ受け取っていない方に案内を送付します",
+   "text_len": 3995,
+   "section_n": 3,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-23203-8100361237",
+   "title": "【一宮市】【食料品物価高騰支援金】まだ受け取っていない方に案内を送付します",
+   "text_len": 3995,
+   "section_n": 3,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-23203-8645046501",
+   "title": "【一宮市】【食料品物価高騰支援金】まだ受け取っていない方に案内を送付します",
+   "text_len": 3995,
+   "section_n": 3,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-23203-9641421558",
+   "title": "【一宮市】【食料品物価高騰支援金】まだ受け取っていない方に案内を送付します",
+   "text_len": 3995,
+   "section_n": 3,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-23203-971699055",
+   "title": "【一宮市】一宮市「赤ちゃんの駅」協力事業者を募集",
+   "text_len": 4291,
+   "section_n": 2,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-23203-984325381",
+   "title": "【一宮市】【食料品物価高騰支援金】まだ受け取っていない方に案内を送付します",
+   "text_len": 3995,
+   "section_n": 3,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-23204-1941389106",
+   "title": "【瀬戸市】補助金・融資などの支援",
+   "text_len": 1025,
+   "section_n": 1,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-23207-5446724322",
+   "title": "【豊川市】人権教育・啓発に関する豊川市行動計画等策定審議会委員を公募します",
+   "text_len": 2476,
+   "section_n": 1,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-23208-9981139113",
+   "title": "【津島市】津島市内に住宅を取得または賃借した方へ：津島市定住促進補助金",
+   "text_len": 12642,
+   "section_n": 26,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-23211-7817982054",
+   "title": "【豊田市】補助金受付状況及び補助対象車一覧追加状況",
+   "text_len": 4703,
+   "section_n": 2,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-23216-601681024",
+   "title": "【常滑市】常滑市特殊詐欺対策装置等購入費補助金の対象範囲を拡大します",
+   "text_len": 5192,
+   "section_n": 14,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-23217-368293787",
+   "title": "【江南市】審議会等の委員の公募のお知らせ",
+   "text_len": 808,
+   "section_n": 1,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-23217-8024212920",
+   "title": "【江南市】江南市家具転倒防止用資機材等補助金制度のご案内",
+   "text_len": 1635,
+   "section_n": 1,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-23217-8735125359",
+   "title": "【江南市】江南市防犯カメラ設置費補助金※令和9年3月31日までに完了報告を提出したものが対象",
+   "text_len": 11975,
+   "section_n": 8,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-23217-9006869999",
+   "title": "【江南市】江南市特殊詐欺防止用電話機器購入費補助金※令和9年3月31日受付分まで(令和8年4月1日以降に購入した機器が対象)",
+   "text_len": 8618,
+   "section_n": 4,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-23220-680263453",
+   "title": "【稲沢市】補助金一覧",
+   "text_len": 7089,
+   "section_n": 1,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-23221-1139821802",
+   "title": "【新城市】「赤ちゃんとのふれあい体験授業」ボランティア家庭の募集",
+   "text_len": 3112,
+   "section_n": 1,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-23221-6105027170",
+   "title": "【新城市】移動販売マッチング支援事業 出店者・主催者募集中",
+   "text_len": 2554,
+   "section_n": 1,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-23221-8669274694",
+   "title": "【新城市】補助金・助成金",
+   "text_len": 1834,
+   "section_n": 1,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-23225-6927090305",
+   "title": "【知立市】知立市クラウドファンディングを活用した補助金事業",
+   "text_len": 2152,
+   "section_n": 1,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-23231-7229448290",
+   "title": "【田原市】特別弔慰金・給付金等",
+   "text_len": 1412,
+   "section_n": 1,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-23234-3884483210",
+   "title": "【北名古屋市】住宅用地球温暖化対策設備設置費補助金",
+   "text_len": 10650,
+   "section_n": 51,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-23234-7270225473",
+   "title": "【北名古屋市】手当・助成金・給付金",
+   "text_len": 1533,
+   "section_n": 1,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-23237-2403252850",
+   "title": "【あま市】あま市生活支援給付金",
+   "text_len": 2032,
+   "section_n": 2,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-23302-4298965928",
+   "title": "【東郷町】補助金・助成金",
+   "text_len": 940,
+   "section_n": 1,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-23302-5334519006",
+   "title": "【東郷町】省エネ家電製品購入促進補助金",
+   "text_len": 2705,
+   "section_n": 4,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-23302-5919838785",
+   "title": "【東郷町】東郷町家庭用防災用品購入費補助金",
+   "text_len": 3376,
+   "section_n": 4,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-23302-9999510955",
+   "title": "【東郷町】住宅用地球温暖化対策設備設置費補助金について",
+   "text_len": 23407,
+   "section_n": 18,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-23501-68018845",
+   "title": "【幸田町】資源循環型マットレス購入費補助金について",
+   "text_len": 4924,
+   "section_n": 4,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-24203-168850285",
+   "title": "【伊勢市】伊勢市事業所脱炭素化支援補助金",
+   "text_len": 12660,
+   "section_n": 12,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-24203-2021114155",
+   "title": "【伊勢市】農業各種補助金",
+   "text_len": 10735,
+   "section_n": 11,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-24203-2079651599",
+   "title": "【伊勢市】浄化槽設置整備事業補助金",
+   "text_len": 11907,
+   "section_n": 11,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-24203-2147025820",
+   "title": "【伊勢市】再生資源回収事業奨励金制度",
+   "text_len": 11814,
+   "section_n": 11,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-24203-2831692774",
+   "title": "【伊勢市】令和6年度 定額減税補足給付金（調整給付）について",
+   "text_len": 12745,
+   "section_n": 11,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
+  },
+  {
+   "id": "city-24203-305735499",
+   "title": "【伊勢市】中小企業退職金共済制度奨励補助金",
+   "text_len": 11645,
+   "section_n": 12,
+   "has_guidelines_url": true,
+   "in_active_feed": true,
+   "as_of_date": "2026-07-28"
   }
  ]
 }

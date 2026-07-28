@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-07-27",
+  "generated_at": "2026-07-28",
   "feed_status": "ok",
   "subsidy_open_count": 7623,
   "series_n": 39,
@@ -23,15 +23,15 @@
   },
   "subsidy_body_req047": {
     "items_total": 53151,
-    "details_published": 392,
+    "details_published": 737,
     "details_path_pattern": "subsidies/details/{id}.json",
     "details_index": "subsidies/details/_index.json",
-    "body_text_chars_sum": 4108452,
-    "body_text_median_chars": 7383,
+    "body_text_chars_sum": 6124544,
+    "body_text_median_chars": 5299,
     "body_text_max_chars": 65396,
-    "crawl_depth_recorded": 6093,
-    "crawl_depth_recorded_pct": 11.5,
-    "phase": "A_phase1_done",
+    "crawl_depth_recorded": 6438,
+    "crawl_depth_recorded_pct": 12.1,
+    "phase": "B_phase2_in_progress",
     "targets": {
       "phase2": {
         "details_published": 2000,
@@ -42,8 +42,17 @@
         "crawl_depth_recorded": 20000
       }
     },
-    "note_ja": "件数（幅）と深さを分けて表示する。details_published が要領本文を実際に保有している制度数。",
-    "updated_at": "2026-07-28"
+    "note_ja": "Phase2 進行中。件数（幅）と本文保有（深さ）を分離表示。",
+    "updated_at": "2026-07-28",
+    "city_judgment_material_approx": 496,
+    "city_total": 25050,
+    "batch_ckpt": {
+      "done_ids": 350,
+      "ok_body": 345,
+      "ok_depth": 345,
+      "fail": 0,
+      "skipped_short": 5
+    }
   },
   "fit_one_liner_quality_req046": {
     "filled": 3877,
