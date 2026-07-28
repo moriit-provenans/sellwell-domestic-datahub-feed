@@ -23,14 +23,14 @@
   },
   "subsidy_body_req047": {
     "items_total": 53151,
-    "details_published": 2126,
+    "details_published": 2937,
     "details_path_pattern": "subsidies/details/{id}.json",
     "details_index": "subsidies/details/_index.jsonl.gz",
-    "body_text_chars_sum": 14496602,
-    "body_text_median_chars": 4009,
+    "body_text_chars_sum": 22814478,
+    "body_text_median_chars": 4235,
     "body_text_max_chars": 65396,
-    "crawl_depth_recorded": 7827,
-    "crawl_depth_recorded_pct": 14.7,
+    "crawl_depth_recorded": 8963,
+    "crawl_depth_recorded_pct": 16.9,
     "phase": "A_design_aligned_phase2_running",
     "targets": {
       "phase2": {
@@ -44,17 +44,17 @@
     },
     "note_ja": "確定設計準拠: text全文 / _index.jsonl.gz / finder hb·tl のみ。本文は一覧にマージしない。",
     "updated_at": "2026-07-28",
-    "city_judgment_material_approx": 891,
+    "city_judgment_material_approx": 1023,
     "city_total": 25050,
     "batch_ckpt": {
-      "done_ids": 1750,
-      "ok_body": 1734,
-      "ok_depth": 1734,
+      "done_ids": 2950,
+      "ok_body": 2870,
+      "ok_depth": 2870,
       "fail": 0,
-      "skipped_short": 16
+      "skipped_short": 80
     },
-    "guidelines_body_count": 2126,
-    "guidelines_body_bytes": 14496602,
+    "guidelines_body_count": 2937,
+    "guidelines_body_bytes": 22814478,
     "design_doc": "UDX事業/projects/sellwell_revival/operations/2026-07-28_subsidy_guidelines_body_delivery_design.md"
   },
   "fit_one_liner_quality_req046": {
@@ -76,9 +76,9 @@
     "note_ja": "REQ-046① scrub完了。混入は null 化（合成で埋めない）。タイトル山括弧は未変更。"
   },
   "items_total": 53151,
-  "crawl_depth_recorded": 7827,
-  "guidelines_body_count": 2126,
-  "guidelines_body_bytes": 14496602,
+  "crawl_depth_recorded": 8963,
+  "guidelines_body_count": 2937,
+  "guidelines_body_bytes": 22814478,
   "as_of": "2026-07-28",
   "synthesized_fit_ratio": 0.0
 }
