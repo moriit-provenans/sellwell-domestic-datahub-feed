@@ -20,9 +20,9 @@
     "census_firms_by_pref_obs": 2408,
     "updated_at": "2026-07-28"
   },
-  "guidelines_body_count": 11786,
-  "pdf_body_extracted_count": 6643,
-  "pdf_pointer_remaining_count": 604,
+  "guidelines_body_count": 13936,
+  "pdf_body_extracted_count": 7758,
+  "pdf_pointer_remaining_count": 660,
   "pdf_extract_fail_ledger": "Atlas/operations/session_handoff/_048_pdf_fail_ledger.jsonl",
   "req048": {
     "phase": "phase2_PASS",
@@ -33,7 +33,7 @@
     "acceptance": "PASS",
     "updated_at": "2026-07-29"
   },
-  "crawl_depth_recorded": 18021,
+  "crawl_depth_recorded": 20171,
   "synthesized_ratio": 0.0676,
   "synthesized_count": 3783,
   "req047_cd": {
@@ -55,22 +55,22 @@
     "markup_contam": 0,
     "updated_at": "2026-07-29"
   },
-  "guidelines_body_bytes": 71175098,
+  "guidelines_body_bytes": 81413429,
   "subsidy_body_req047": {
-    "details_published": 11786,
-    "guidelines_body_count": 11786,
-    "guidelines_body_bytes": 71175098,
-    "crawl_depth_recorded": 18021,
+    "details_published": 13936,
+    "guidelines_body_count": 13936,
+    "guidelines_body_bytes": 81413429,
+    "crawl_depth_recorded": 20171,
     "updated_at": "2026-07-29",
-    "crawl_depth_recorded_pct": 32.2,
-    "phase": "B_phase3_in_progress",
+    "crawl_depth_recorded_pct": 36.0,
+    "phase": "B_phase3_PASS",
     "items_total": 55969,
     "details_path_pattern": "subsidies/details/{id}.json",
     "details_index": "subsidies/details/_index.json",
-    "body_text_chars_sum": 71175098,
-    "body_text_median_chars": 3589,
+    "body_text_chars_sum": 81413429,
+    "body_text_median_chars": 3504,
     "body_text_max_chars": 107837,
-    "city_judgment_material_approx": 4386,
+    "city_judgment_material_approx": 5241,
     "city_total": 26114,
     "targets": {
       "phase2": {
@@ -83,11 +83,11 @@
       }
     },
     "batch_ckpt": {
-      "done_ids": 12165,
-      "ok_body": 11636,
-      "ok_depth": 11639,
+      "done_ids": 14365,
+      "ok_body": 13786,
+      "ok_depth": 13789,
       "fail": 0,
-      "skipped_short": 529
+      "skipped_short": 579
     },
     "note_ja": "Phase2 進行中。件数（幅）と本文保有（深さ）を分離表示。"
   }
