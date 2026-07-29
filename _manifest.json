@@ -20,21 +20,15 @@
     "veritas"
   ],
   "live_metrics": {
-    "finder_index_count": 55302,
-    "finder_index_bytes": 16529936,
-    "finder_index_gz_bytes": 3085629,
+    "finder_index_count": 58097,
+    "finder_index_bytes": 17186784,
+    "finder_index_gz_bytes": 2898355,
     "finder_index_schema": "2.0.0",
     "finder_index_as_of": "2026-07-29",
     "phase3_adoption_obs": 30,
     "phase3_retail_by_channel_obs": 90,
     "phase3_census_firms_by_pref_obs": 2408,
-    "phase3_updated": "2026-07-28",
-    "subsidy_details_count": 13936,
-    "guidelines_body_count": 6262,
-    "finder_hb_true_count": 6252,
-    "pdf_body_extracted_count": 3780,
-    "req048_phase1": "PASS",
-    "crawl_depth_recorded": 20171
+    "phase3_updated": "2026-07-29"
   },
   "req_phase3": "REQ-SMITH-20260724-045",
   "req_details": "REQ-SMITH-20260727-047",

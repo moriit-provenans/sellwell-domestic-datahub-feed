@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "as_of": "2026-07-28",
+  "as_of": "2026-07-29",
   "catalog_total": 40,
   "present": 40,
   "missing": 0,
@@ -56,11 +56,11 @@
         "jnet21-180205",
         "jnet21-180206",
         "jnet21-179463",
-        "ministry-4327343028",
-        "ministry-2862224004",
-        "prefecture-oita-3265543801",
-        "city-fukuoka-city-4197719926",
-        "city-fukuoka-city-1559462110"
+        "ministry-8751099170",
+        "ministry-5659957129",
+        "prefecture-oita-238083859",
+        "city-fukuoka-city-6635125811",
+        "city-fukuoka-city-409531964"
       ],
       "eligibility_depth": "guidelines"
     },
@@ -87,14 +87,16 @@
       "in_active_feed": true,
       "matched_item_ids": [
         "a0WJ200000CDYnpMAH",
+        "jnet21-188382",
         "jnet21-180436",
         "jnet21-180437",
         "jnet21-180438",
         "jnet21-180439",
         "jnet21-180192",
         "jnet21-180193",
-        "ministry-4299962323",
-        "ministry-3638157038",
+        "ministry-311419003",
+        "ministry-4006115482",
+        "city-sendai-3821706807",
         "city-sendai-532664498",
         "city-sendai-4699824833",
         "city-sendai-2191998441",
@@ -103,9 +105,7 @@
         "city-sendai-8909683644",
         "city-sendai-3312564996",
         "city-sendai-7762073013",
-        "city-sendai-5767940799",
-        "city-sendai-6906896826",
-        "city-sendai-9266982800"
+        "city-sendai-5767940799"
       ],
       "eligibility_depth": "guidelines"
     },
@@ -122,8 +122,14 @@
       "in_active_feed": true,
       "matched_item_ids": [
         "a0WJ200000CDIvFMAX",
-        "ministry-4950775386",
-        "ministry-9350262317",
+        "ministry-2745390341",
+        "ministry-6791729034",
+        "prefecture-fukui-7350803441",
+        "prefecture-fukui-7714698357",
+        "prefecture-yamaguchi-3745080140",
+        "prefecture-oita-5965146005",
+        "city-sendai-457341384",
+        "city-niigata-city-3096951720",
         "prefecture-fukui-2219285444",
         "prefecture-fukui-1205219952",
         "prefecture-yamaguchi-7506370823",
@@ -134,13 +140,7 @@
         "prefecture-fukui-7533613613",
         "prefecture-yamaguchi-3453542750",
         "prefecture-oita-6739607517",
-        "city-sendai-1154180836",
-        "city-niigata-city-4063212317",
-        "prefecture-fukui-8452106646",
-        "prefecture-fukui-4789008372",
-        "prefecture-yamaguchi-3440306979",
-        "prefecture-oita-386065508",
-        "city-sendai-8276967601"
+        "city-sendai-1154180836"
       ],
       "eligibility_depth": "guidelines"
     },
@@ -162,7 +162,9 @@
         "jnet21-180329",
         "jnet21-180332",
         "jnet21-180335",
-        "ministry-8226539558",
+        "ministry-5247658377",
+        "prefecture-oita-2798743635",
+        "city-11222-6364582483",
         "prefecture-oita-3327948699",
         "city-11222-9205583100",
         "prefecture-oita-2927212816",
@@ -173,9 +175,7 @@
         "city-11222-7732059825",
         "prefecture-oita-6746345649",
         "city-11222-2136103754",
-        "prefecture-oita-3277096478",
-        "city-11222-7710589544",
-        "prefecture-oita-3582269897"
+        "prefecture-oita-3277096478"
       ],
       "eligibility_depth": "guidelines"
     },
@@ -192,7 +192,9 @@
       "in_active_feed": true,
       "matched_item_ids": [
         "jnet21-179669",
-        "ministry-2622686019",
+        "ministry-1402613072",
+        "city-niigata-city-9659181856",
+        "city-okayama-city-1633058114",
         "city-niigata-city-4153635563",
         "city-okayama-city-8953573662",
         "city-niigata-city-5272969523",
@@ -208,9 +210,7 @@
         "city-niigata-city-8913962747",
         "city-okayama-city-7142503579",
         "city-niigata-city-9375984544",
-        "city-okayama-city-9687013417",
-        "city-38201-3094026257",
-        "city-niigata-city-540312242"
+        "city-okayama-city-9687013417"
       ],
       "eligibility_depth": "guidelines"
     },
@@ -230,11 +230,12 @@
         "jnet21-179671",
         "jnet21-179672",
         "jnet21-179673",
-        "ministry-7061726926",
-        "ministry-9363969188",
-        "ministry-8535104285",
-        "ministry-7840038079",
-        "ministry-2857379799",
+        "ministry-7829179244",
+        "ministry-3542534453",
+        "ministry-5567772957",
+        "ministry-7646855579",
+        "ministry-3316431109",
+        "city-kumamoto-city-7374163490",
         "city-kumamoto-city-9296393419",
         "city-kumamoto-city-7706458492",
         "city-kumamoto-city-3755915432",
@@ -244,8 +245,7 @@
         "city-kumamoto-city-3383630411",
         "city-kumamoto-city-8852798893",
         "city-kumamoto-city-3388409033",
-        "city-kumamoto-city-5260355209",
-        "city-kumamoto-city-4399252839"
+        "city-kumamoto-city-5260355209"
       ],
       "eligibility_depth": "guidelines"
     },
@@ -265,8 +265,10 @@
         "jnet21-180484",
         "jnet21-180186",
         "jnet21-180188",
-        "ministry-391316776",
-        "ministry-4656980061",
+        "ministry-9590764076",
+        "ministry-6219262416",
+        "city-27230-4556614774",
+        "city-33202-4465554338",
         "city-27230-4127239490",
         "city-27230-8262141466",
         "city-27230-8563408949",
@@ -278,9 +280,7 @@
         "city-27230-8501839117",
         "city-27230-492028596",
         "city-27230-8209973265",
-        "national-canonical:mhlw-trial",
-        "city-27230-6973552160",
-        "city-12236-9888097693"
+        "city-27230-6973552160"
       ],
       "eligibility_depth": "guidelines"
     },
@@ -308,14 +308,14 @@
         "jnet21-180228",
         "jnet21-180229",
         "jnet21-180231",
-        "jnet21-178500",
-        "ministry-3628604937",
+        "ministry-5744912349",
+        "prefecture-yamaguchi-3244749728",
+        "prefecture-yamaguchi-5865620866",
+        "prefecture-yamaguchi-8205575316",
         "prefecture-yamaguchi-1877952035",
         "prefecture-yamaguchi-6904975321",
         "prefecture-yamaguchi-5443285116",
-        "prefecture-yamaguchi-895740426",
-        "prefecture-yamaguchi-8464266666",
-        "prefecture-yamaguchi-7748915043"
+        "prefecture-yamaguchi-895740426"
       ],
       "eligibility_depth": "guidelines"
     },
@@ -333,9 +333,11 @@
       "matched_item_ids": [
         "jnet21-184407",
         "jnet21-184408",
-        "ministry-1017738048",
-        "ministry-7914043442",
-        "ministry-8799599529",
+        "ministry-999170807",
+        "ministry-4148097054",
+        "ministry-6395432497",
+        "prefecture-oita-6960523829",
+        "city-niigata-city-4922338492",
         "prefecture-oita-4809942224",
         "city-niigata-city-5768870854",
         "prefecture-oita-462413098",
@@ -348,9 +350,7 @@
         "city-niigata-city-6340405349",
         "prefecture-oita-3397164787",
         "city-niigata-city-9080644064",
-        "prefecture-oita-9611694651",
-        "city-niigata-city-961841997",
-        "prefecture-oita-4876894322"
+        "prefecture-oita-9611694651"
       ],
       "eligibility_depth": "guidelines"
     },
@@ -370,9 +370,9 @@
         "jnet21-180198",
         "jnet21-180199",
         "jnet21-180200",
-        "ministry-2455442746",
-        "ministry-2153395434",
-        "ministry-5653862934",
+        "ministry-1605344530",
+        "ministry-7804615822",
+        "ministry-6946353268",
         "city-28222-6092656895",
         "deep-mhlw-josei-bb244a7cf737",
         "national-canonical:mhlw-chukarei"
@@ -409,8 +409,8 @@
         "mirasapo-12515",
         "mirasapo-7654",
         "mirasapo-7656",
-        "mirasapo-7593",
-        "jnet21-187071"
+        "jnet21-187071",
+        "agency-5417127160"
       ],
       "eligibility_depth": "guidelines"
     },
@@ -443,9 +443,9 @@
         "a0WJ200000CDdALMA1",
         "a0WJ200000CDbpCMAT",
         "mirasapo-624",
-        "mirasapo-31098",
-        "mirasapo-31109",
-        "mirasapo-30798"
+        "mirasapo-15578",
+        "mirasapo-31612",
+        "mirasapo-31098"
       ],
       "eligibility_depth": "guidelines"
     },
@@ -470,17 +470,17 @@
         "mirasapo-29100",
         "mirasapo-29009",
         "mirasapo-27338",
-        "ministry-8154836566",
-        "ministry-4341839053",
-        "ministry-904347038",
-        "ministry-5755307148",
-        "ministry-9940140254",
-        "ministry-5274928902",
-        "ministry-763015390",
-        "ministry-365963959",
-        "agency-5081295980",
-        "agency-3312025696",
-        "prefecture-hyogo-2154217529"
+        "ministry-8082120331",
+        "ministry-2027278269",
+        "ministry-7065683026",
+        "ministry-2579577217",
+        "ministry-1134980510",
+        "ministry-4457812352",
+        "ministry-1547622458",
+        "ministry-7782439835",
+        "agency-6632818003",
+        "agency-8817689143",
+        "prefecture-hyogo-444491388"
       ],
       "eligibility_depth": "guidelines"
     },
@@ -505,17 +505,17 @@
         "jnet21-186039",
         "jnet21-181526",
         "jnet21-180135",
-        "ministry-9856916560",
-        "ministry-8459171559",
-        "ministry-9646519742",
-        "ministry-9707550552",
-        "ministry-596099365",
-        "ministry-4987730603",
-        "ministry-9914453809",
-        "ministry-5218263045",
-        "ministry-3661615331",
-        "ministry-1541648472",
-        "ministry-1906425220"
+        "ministry-1596562627",
+        "ministry-2802589931",
+        "ministry-1594580504",
+        "ministry-7564026668",
+        "ministry-977970663",
+        "ministry-3547885695",
+        "ministry-61830918",
+        "ministry-320040398",
+        "ministry-3630074348",
+        "ministry-9562633747",
+        "ministry-2458434135"
       ],
       "eligibility_depth": "guidelines"
     },
@@ -543,14 +543,14 @@
         "mirasapo-29416",
         "mirasapo-29139",
         "mirasapo-28394",
-        "ministry-5553579504",
-        "ministry-5133164831",
-        "ministry-5571282601",
-        "ministry-2411451229",
-        "ministry-7769553967",
-        "ministry-5442731448",
-        "ministry-5338100193",
-        "ministry-5515859262"
+        "ministry-6238996755",
+        "ministry-5242103995",
+        "ministry-7207928548",
+        "ministry-5460800851",
+        "ministry-3924959877",
+        "ministry-5765308000",
+        "ministry-8610375417",
+        "ministry-3143293340"
       ],
       "eligibility_depth": "guidelines"
     },
@@ -579,13 +579,13 @@
         "jnet21-181626",
         "jnet21-181374",
         "jnet21-181089",
-        "ministry-8660511857",
-        "ministry-514312391",
-        "ministry-7002405612",
-        "agency-891453180",
-        "prefecture-shiga-9034769144",
-        "prefecture-yamaguchi-6860026971",
-        "city-kawasaki-208534982"
+        "ministry-8460317745",
+        "ministry-112533974",
+        "ministry-3885047943",
+        "agency-550993527",
+        "prefecture-shiga-446541238",
+        "prefecture-yamaguchi-8854225016",
+        "city-kawasaki-3638465405"
       ],
       "eligibility_depth": "guidelines"
     },
@@ -606,8 +606,7 @@
         "a0WJ200000CDWerMAH",
         "a0WJ200000CDXgBMAX",
         "mirasapo-21731",
-        "national-canonical:meti-seicho-toshi",
-        "a0WJ200000CDJjRMAX"
+        "national-canonical:meti-seicho-toshi"
       ],
       "eligibility_depth": "guidelines"
     },
@@ -632,17 +631,17 @@
         "jnet21-185963",
         "jnet21-183014",
         "jnet21-181240",
-        "ministry-6408158046",
-        "ministry-4138235288",
-        "ministry-6796920027",
-        "ministry-7095414719",
-        "ministry-4559027615",
-        "agency-332310779",
-        "agency-5414562197",
-        "agency-939310647",
-        "agency-3243063168",
-        "agency-3102410627",
-        "agency-9640918627"
+        "ministry-4535427035",
+        "ministry-1831732914",
+        "ministry-7488988876",
+        "ministry-8168196096",
+        "ministry-797795622",
+        "agency-7496661130",
+        "agency-4454456024",
+        "agency-392009749",
+        "agency-57522572",
+        "agency-5556040172",
+        "agency-6416402941"
       ],
       "eligibility_depth": "guidelines"
     },
@@ -673,11 +672,11 @@
         "a0WJ200000CDaphMAD",
         "mirasapo-29772",
         "mirasapo-29729",
-        "jnet21-187994",
         "jnet21-182128",
         "jnet21-179572",
-        "ministry-650078838",
-        "ministry-6497746842"
+        "ministry-5184514167",
+        "ministry-2494214659",
+        "ministry-6045359796"
       ],
       "eligibility_depth": "guidelines"
     },
@@ -702,17 +701,17 @@
         "a0WJ2000000qhOQMAY",
         "a0WJ200000CDQEJMA5",
         "mirasapo-14819",
+        "prefecture-oita-8833678936",
+        "city-sendai-5613916512",
+        "city-kawasaki-769468160",
+        "city-34202-4303681322",
         "prefecture-oita-8880024883",
         "city-sendai-6222213600",
         "city-kawasaki-7437336167",
         "city-34202-2778066539",
         "prefecture-oita-6121036829",
         "city-sendai-9780990234",
-        "city-kawasaki-1677711277",
-        "city-34202-3204044994",
-        "prefecture-oita-8566914088",
-        "city-sendai-2125369707",
-        "city-kawasaki-662646235"
+        "city-kawasaki-1677711277"
       ],
       "eligibility_depth": "guidelines"
     },
@@ -797,25 +796,25 @@
       "in_active_feed": true,
       "matched_item_ids": [
         "mirasapo-29438",
-        "ministry-2205095882",
-        "ministry-2464165223",
-        "prefecture-niigata-4088128103",
-        "prefecture-niigata-5521969102",
-        "prefecture-niigata-9586484152",
-        "prefecture-gunma-3651625919",
-        "prefecture-gunma-9977558450",
-        "prefecture-gunma-1591797010",
-        "prefecture-shimane-5098807466",
-        "prefecture-ehime-3303814192",
-        "city-hiroshima-city-583529379",
-        "city-hiroshima-city-6255223315",
-        "city-hiroshima-city-8253731148",
-        "city-hiroshima-city-5834515205",
-        "city-hiroshima-city-9707971884",
-        "city-27205-5197360384",
-        "city-29201-5644690006",
-        "city-29201-3101291234",
-        "city-29201-5144551635"
+        "ministry-8004924511",
+        "ministry-2650306967",
+        "prefecture-niigata-3497231344",
+        "prefecture-niigata-2184120990",
+        "prefecture-niigata-4363691823",
+        "prefecture-gunma-724844408",
+        "prefecture-gunma-125024566",
+        "prefecture-gunma-5425453790",
+        "prefecture-shimane-514689589",
+        "prefecture-ehime-2526825212",
+        "prefecture-ehime-4122866555",
+        "prefecture-ehime-5042845462",
+        "city-hiroshima-city-6903607438",
+        "city-hiroshima-city-5029175529",
+        "city-hiroshima-city-8613153985",
+        "city-hiroshima-city-9998675440",
+        "city-hiroshima-city-9438229209",
+        "city-27205-8288774945",
+        "city-29201-1865286878"
       ],
       "eligibility_depth": "page_detail"
     },
@@ -832,6 +831,11 @@
       "in_active_feed": true,
       "matched_item_ids": [
         "jnet21-183454",
+        "prefecture-nagasaki-702407611",
+        "prefecture-oita-8452459315",
+        "prefecture-oita-6960523829",
+        "prefecture-oita-1254182265",
+        "prefecture-oita-2196585528",
         "prefecture-nagasaki-1756335531",
         "prefecture-oita-4533167866",
         "prefecture-oita-4809942224",
@@ -845,12 +849,7 @@
         "prefecture-nagasaki-9801809770",
         "prefecture-oita-3771891145",
         "prefecture-oita-6499062817",
-        "prefecture-oita-5134360115",
-        "prefecture-oita-4763419752",
-        "prefecture-nagasaki-9166117766",
-        "prefecture-oita-6420298138",
-        "prefecture-oita-9791793859",
-        "prefecture-oita-4749100338"
+        "prefecture-oita-5134360115"
       ],
       "eligibility_depth": "page_detail"
     },
@@ -866,6 +865,11 @@
       "acceptance_note_ja": null,
       "in_active_feed": true,
       "matched_item_ids": [
+        "prefecture-nagasaki-702407611",
+        "prefecture-oita-8452459315",
+        "prefecture-oita-6960523829",
+        "prefecture-oita-1254182265",
+        "prefecture-oita-2196585528",
         "prefecture-nagasaki-1756335531",
         "prefecture-oita-4533167866",
         "prefecture-oita-4809942224",
@@ -880,12 +884,7 @@
         "prefecture-oita-3771891145",
         "prefecture-oita-6499062817",
         "prefecture-oita-5134360115",
-        "prefecture-oita-4763419752",
-        "prefecture-nagasaki-9166117766",
-        "prefecture-oita-6420298138",
-        "prefecture-oita-9791793859",
-        "prefecture-oita-4749100338",
-        "prefecture-oita-1609745688"
+        "prefecture-oita-4763419752"
       ],
       "eligibility_depth": "page_detail"
     },
@@ -901,6 +900,11 @@
       "acceptance_note_ja": null,
       "in_active_feed": true,
       "matched_item_ids": [
+        "prefecture-nagasaki-702407611",
+        "prefecture-oita-8452459315",
+        "prefecture-oita-6960523829",
+        "prefecture-oita-1254182265",
+        "prefecture-oita-2196585528",
         "prefecture-nagasaki-1756335531",
         "prefecture-oita-4533167866",
         "prefecture-oita-4809942224",
@@ -915,12 +919,7 @@
         "prefecture-oita-3771891145",
         "prefecture-oita-6499062817",
         "prefecture-oita-5134360115",
-        "prefecture-oita-4763419752",
-        "prefecture-nagasaki-9166117766",
-        "prefecture-oita-6420298138",
-        "prefecture-oita-9791793859",
-        "prefecture-oita-4749100338",
-        "prefecture-oita-1609745688"
+        "prefecture-oita-4763419752"
       ],
       "eligibility_depth": "page_detail"
     },
@@ -975,6 +974,8 @@
         "mirasapo-624",
         "mirasapo-621",
         "mirasapo-619",
+        "mirasapo-15578",
+        "mirasapo-31612",
         "mirasapo-33237",
         "mirasapo-33372",
         "mirasapo-33311",
@@ -985,9 +986,7 @@
         "mirasapo-32472",
         "mirasapo-32394",
         "mirasapo-32381",
-        "mirasapo-32263",
-        "mirasapo-32238",
-        "mirasapo-32215"
+        "mirasapo-32263"
       ],
       "eligibility_depth": "page_detail"
     },
@@ -1019,6 +1018,7 @@
       "acceptance_note_ja": null,
       "in_active_feed": true,
       "matched_item_ids": [
+        "prefecture-oita-6960523829",
         "prefecture-oita-4809942224",
         "prefecture-oita-462413098",
         "prefecture-oita-6499062817",
@@ -1047,7 +1047,8 @@
       "acceptance_note_ja": null,
       "in_active_feed": true,
       "matched_item_ids": [
-        "ministry-6363803039",
+        "ministry-1740550162",
+        "prefecture-yamanashi2-9084317087",
         "prefecture-yamanashi2-1486108934",
         "prefecture-yamanashi2-9833529357",
         "prefecture-yamanashi2-2304185130",
@@ -1108,7 +1109,7 @@
       "acceptance_note_ja": null,
       "in_active_feed": true,
       "matched_item_ids": [
-        "agency-8558247082",
+        "agency-1060490743",
         "national-canonical:jogmec"
       ],
       "eligibility_depth": "page_detail"
@@ -1125,6 +1126,11 @@
       "acceptance_note_ja": null,
       "in_active_feed": true,
       "matched_item_ids": [
+        "prefecture-nagasaki-702407611",
+        "prefecture-oita-8452459315",
+        "prefecture-oita-6960523829",
+        "prefecture-oita-1254182265",
+        "prefecture-oita-2196585528",
         "prefecture-nagasaki-1756335531",
         "prefecture-oita-4533167866",
         "prefecture-oita-4809942224",
@@ -1139,12 +1145,7 @@
         "prefecture-oita-3771891145",
         "prefecture-oita-6499062817",
         "prefecture-oita-5134360115",
-        "prefecture-oita-4763419752",
-        "prefecture-nagasaki-9166117766",
-        "prefecture-oita-6420298138",
-        "prefecture-oita-9791793859",
-        "prefecture-oita-4749100338",
-        "prefecture-oita-1609745688"
+        "prefecture-oita-4763419752"
       ],
       "eligibility_depth": "page_detail"
     },
