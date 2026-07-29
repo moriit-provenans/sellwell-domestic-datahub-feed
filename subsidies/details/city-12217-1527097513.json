@@ -1,0 +1,30 @@
+{
+ "schema_version": "1.0.0",
+ "id": "city-12217-1527097513",
+ "title": "【柏市】【第3号様式】柏市チャレンジ支援補助金交付申請取下げ書（PDF：44KB）",
+ "guidelines_url": "https://www.city.kashiwa.lg.jp/documents/45384/3.pdf",
+ "source_urls": [
+  "https://www.city.kashiwa.lg.jp/documents/45384/3.pdf"
+ ],
+ "text": " \n  \n第３号様式 \n \n令和  年  月  日 \n \n \n  柏市長  あて \n \n \n           郵便番号     〒         \n           住  所     千葉県柏市            \n           法人名又は屋号                   \n           肩書・代表者氏名               印  \n \n \n \n柏市チャレンジ支援補助金 交付申請取下書 \n \n \n令和  年  月  日付け柏経商第   号で交付決定があった柏市チャレンジ\n支援補助金に係る事業について， 下記の理由により廃止したいため，柏市補助金等交\n付規則第４条第１項の規定により申請します。 \n \n記 \n \n事業を廃止する理由 \n \n \n \n \n \n \n \n \n \n \n \n ",
+ "text_len": 365,
+ "sections": [
+  {
+   "heading": null,
+   "text": "第３号様式 \n \n令和  年  月  日 \n \n \n  柏市長  あて \n \n \n           郵便番号     〒         \n           住  所     千葉県柏市            \n           法人名又は屋号                   \n           肩書・代表者氏名               印  \n \n \n \n柏市チャレンジ支援補助金 交付申請取下書 \n \n \n令和  年  月  日付け柏経商第   号で交付決定があった柏市チャレンジ\n支援補助金に係る事業について， 下記の理由により廃止したいため，柏市補助金等交\n付規則"
+  },
+  {
+   "heading": "第４条",
+   "text": "第１項の規定により申請します。 \n \n記 \n \n事業を廃止する理由"
+  }
+ ],
+ "section_n": 2,
+ "retrieved_at": "2026-07-29T05:07:08.027500+00:00",
+ "as_of_date": "2026-07-29",
+ "still_valid_2026": true,
+ "veritas": "○",
+ "in_active_feed": true,
+ "synthesized": false,
+ "extract_path": "pdf",
+ "note_ja": "REQ-047 Phase2 葉深掘り。text全文・要約・合成なし。"
+}
