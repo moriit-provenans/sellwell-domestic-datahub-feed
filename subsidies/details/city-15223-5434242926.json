@@ -1,0 +1,26 @@
+{
+ "schema_version": "1.0.0",
+ "id": "city-15223-5434242926",
+ "title": "【阿賀野市】手当・助成",
+ "guidelines_url": "https://www.city.agano.niigata.jp/kosodate/bamen/teate_josei/index.html",
+ "source_urls": [
+  "https://www.city.agano.niigata.jp/kosodate/bamen/teate_josei/index.html"
+ ],
+ "text": "手当・助成／阿賀野市 本文へ 文字サイズ 背景色変更 Select Language ファイル種別 すべて HTML PDF ファイル種別 すべて HTML PDF もしものとき 場面別で探す 年齢別で探す 施設を探す イベント・講座を探す PCサイトを表示 文字サイズ 背景色変更 Select Language メニューを閉じる もしものとき 場面別で探す 年齢別で探す 施設を探す イベント・講座を探す 現在の位置 ホーム 阿賀野市子育てサイト 場面別でさがす 手当・助成 手当・助成 医療費の助成 手当 ひとり親家庭等への支援 障がい児への支援 場面別でさがす 阿賀野市 子育て支援サイト 阿賀野市役所 〒959-2092 新潟県阿賀野市岡山町10番15号 電話番号：0250-62-2510（代表） ファックス番号：0250-62-0281 お問い合わせ 阿賀野市ホームページへ Copyright (c) 2020 Agano City. All Rights Reserved",
+ "text_len": 445,
+ "sections": [
+  {
+   "heading": null,
+   "text": "手当・助成／阿賀野市 本文へ 文字サイズ 背景色変更 Select Language ファイル種別 すべて HTML PDF ファイル種別 すべて HTML PDF もしものとき 場面別で探す 年齢別で探す 施設を探す イベント・講座を探す PCサイトを表示 文字サイズ 背景色変更 Select Language メニューを閉じる もしものとき 場面別で探す 年齢別で探す 施設を探す イベント・講座を探す 現在の位置 ホーム 阿賀野市子育てサイト 場面別でさがす 手当・助成 手当・助成 医療費の助成 手当 ひとり親家庭等への支援 障がい児への支援 場面別でさがす 阿賀野市 子育て支援サイト 阿賀野市役所 〒959-2092 新潟県阿賀野市岡山町10番15号 電話番号：0250-62-2510（代表） ファックス番号：0250-62-0281 お問い合わせ 阿賀野市ホームページへ Copyright (c) 2020 Agano City. All Rights Reserved"
+  }
+ ],
+ "section_n": 1,
+ "retrieved_at": "2026-07-29T05:28:55.261288+00:00",
+ "as_of_date": "2026-07-29",
+ "still_valid_2026": true,
+ "veritas": "○",
+ "in_active_feed": true,
+ "synthesized": false,
+ "extract_path": "html",
+ "note_ja": "REQ-047 Phase2 葉深掘り。text全文・要約・合成なし。"
+}

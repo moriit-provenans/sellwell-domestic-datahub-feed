@@ -1,0 +1,34 @@
+{
+ "schema_version": "1.0.0",
+ "id": "city-15581-4882392513",
+ "title": "【関川村】関川村移動販売支援事業補助金交付申請書",
+ "guidelines_url": "http://www.vill.sekikawa.niigata.jp/file/004_kanko-tiikiseisakushitsu/youshiki1.pdf",
+ "source_urls": [
+  "http://www.vill.sekikawa.niigata.jp/file/004_kanko-tiikiseisakushitsu/youshiki1.pdf"
+ ],
+ "text": "様式第１号（第５条関係）  \n  年  月  日 \n \n関川村 長        様 \n \n申請者            \n \n関川村移動販売支援事業 補助金交付申請書  \n \n関川村移動販売支援事業補助金交付要綱第５条の規定に基づき、下記のとおり\n申請します。  \n \n \n記 \n \n \n１ 交付申請額           円 \n \n２ 補助金区分  \n \n添付書類  \n（1）事業計画書  \n（2）その他、必要と認めるもの  \n ",
+ "text_len": 217,
+ "sections": [
+  {
+   "heading": null,
+   "text": "様式第１号（"
+  },
+  {
+   "heading": "第５条",
+   "text": "関係）  \n  年  月  日 \n \n関川村 長        様 \n \n申請者            \n \n関川村移動販売支援事業 補助金交付申請書  \n \n関川村移動販売支援事業補助金交付要綱"
+  },
+  {
+   "heading": "第５条",
+   "text": "の規定に基づき、下記のとおり\n申請します。  \n \n \n記 \n \n \n１ 交付申請額           円 \n \n２ 補助金区分  \n \n添付書類  \n（1）事業計画書  \n（2）その他、必要と認めるもの"
+  }
+ ],
+ "section_n": 3,
+ "retrieved_at": "2026-07-29T05:29:07.465757+00:00",
+ "as_of_date": "2026-07-29",
+ "still_valid_2026": true,
+ "veritas": "○",
+ "in_active_feed": true,
+ "synthesized": false,
+ "extract_path": "pdf",
+ "note_ja": "REQ-047 Phase2 葉深掘り。text全文・要約・合成なし。"
+}

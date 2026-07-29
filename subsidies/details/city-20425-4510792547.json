@@ -1,0 +1,26 @@
+{
+ "schema_version": "1.0.0",
+ "id": "city-20425-4510792547",
+ "title": "【木祖村】福祉施設トレーニングマシン設置事業（159.7kbyte）",
+ "guidelines_url": "https://www.vill.kiso.nagano.jp/gyoseijoho/shisaku_keikaku/documents/toto_joseikin_katsuyou/settikeikaku.pdf",
+ "source_urls": [
+  "https://www.vill.kiso.nagano.jp/gyoseijoho/shisaku_keikaku/documents/toto_joseikin_katsuyou/settikeikaku.pdf"
+ ],
+ "text": "福祉施設トレーニングマシン設置計画について \n \n木祖村では、令和 3 年 4 月開設に向けて、福祉施設を建設中ですが、トレーニング\nルームに設置するトレーニングマシンを、 スポーツ振興くじ （TOTO） 助成金＊の活\n用して、R3.2 月頃、設置する予定です。 \n \n＊スポーツ振興くじ（TOTO）助成金とは \n子どもからお年寄りまで、誰もが、いつでも、身近にスポーツを楽しめる環境  \nの整備など、新たなスポーツ振興施策を実施するための新たな財源を確保する\nため導入されたもの。くじの販売で得られた財源をスポーツ振興が目的の事業\nへの助成金が交付される。 \n \nマシン名 目的 設置時期 \nMATRIX \nアセントトレーナー A3X ２台 \n村民のスポーツ活動、 体力\n向上、健康増進を図る。 \n令和 3 年 2 月頃 \n \n \n \n",
+ "text_len": 369,
+ "sections": [
+  {
+   "heading": null,
+   "text": "福祉施設トレーニングマシン設置計画について \n \n木祖村では、令和 3 年 4 月開設に向けて、福祉施設を建設中ですが、トレーニング\nルームに設置するトレーニングマシンを、 スポーツ振興くじ （TOTO） 助成金＊の活\n用して、R3.2 月頃、設置する予定です。 \n \n＊スポーツ振興くじ（TOTO）助成金とは \n子どもからお年寄りまで、誰もが、いつでも、身近にスポーツを楽しめる環境  \nの整備など、新たなスポーツ振興施策を実施するための新たな財源を確保する\nため導入されたもの。くじの販売で得られた財源をスポーツ振興が目的の事業\nへの助成金が交付される。 \n \nマシン名 目的 設置時期 \nMATRIX \nアセントトレーナー A3X ２台 \n村民のスポーツ活動、 体力\n向上、健康増進を図る。 \n令和 3 年 2 月頃"
+  }
+ ],
+ "section_n": 1,
+ "retrieved_at": "2026-07-29T05:40:31.658632+00:00",
+ "as_of_date": "2026-07-29",
+ "still_valid_2026": true,
+ "veritas": "○",
+ "in_active_feed": true,
+ "synthesized": false,
+ "extract_path": "pdf",
+ "note_ja": "REQ-047 Phase2 葉深掘り。text全文・要約・合成なし。"
+}
