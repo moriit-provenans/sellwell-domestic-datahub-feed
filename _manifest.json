@@ -28,7 +28,12 @@
     "phase3_adoption_obs": 30,
     "phase3_retail_by_channel_obs": 90,
     "phase3_census_firms_by_pref_obs": 2408,
-    "phase3_updated": "2026-07-28"
+    "phase3_updated": "2026-07-28",
+    "subsidy_details_count": 6262,
+    "guidelines_body_count": 6262,
+    "finder_hb_true_count": 6252,
+    "pdf_body_extracted_count": 3780,
+    "req048_phase1": "PASS"
   },
   "req_phase3": "REQ-SMITH-20260724-045",
   "req_details": "REQ-SMITH-20260727-047",

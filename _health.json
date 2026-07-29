@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-07-28",
+  "generated_at": "2026-07-29",
   "feed_status": "ok",
   "subsidy_open_count": 7661,
   "series_n": 39,
@@ -19,5 +19,16 @@
     "retail_by_channel_obs": 90,
     "census_firms_by_pref_obs": 2408,
     "updated_at": "2026-07-28"
+  },
+  "guidelines_body_count": 6262,
+  "pdf_body_extracted_count": 3780,
+  "pdf_pointer_remaining_count": 8,
+  "pdf_extract_fail_ledger": "Atlas/operations/session_handoff/_048_pdf_fail_ledger.jsonl",
+  "req048": {
+    "phase": "phase1_PASS",
+    "phase1_replaced_unique": 375,
+    "phase1_target": 350,
+    "acceptance": "PASS",
+    "updated_at": "2026-07-29"
   }
 }
