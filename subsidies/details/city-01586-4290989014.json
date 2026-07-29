@@ -24,11 +24,11 @@
  "still_valid_2026": true,
  "veritas": "○",
  "synthesized": false,
- "extract_path": "html",
+ "extract_path": "C:\\Users\\森英朗\\OneDrive - プロヴェナンスグループ\\PROVENANSグループ\\★エージェント\\Projects\\Atlas\\meta\\guidelines_extract\\city-01586-4290989014.json",
  "errors": [
   "http://www.pref.hokkaido.lg.jp/kz/jzi/ui-turn/howto-registration.pdf::http_404",
   "http://www.pref.hokkaido.lg.jp/kz/jzi/ui-turn/wakuwaku-system-manual.pdf::http_404",
   "http://www.pref.hokkaido.lg.jp/kz/jzi/ui-turn/wakuwaku-know-how-manual.pdf::http_404"
  ],
- "note_ja": "REQ-047 設計確定。text は全文。一覧索引へはマージしない。"
+ "note_ja": "REQ-047/048 設計確定。text は全文。一覧索引へはマージしない。"
 }

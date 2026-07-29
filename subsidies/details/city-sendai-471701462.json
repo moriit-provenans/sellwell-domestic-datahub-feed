@@ -126,5 +126,5 @@
  "synthesized": false,
  "extract_path": "pdf",
  "errors": [],
- "note_ja": "REQ-047 設計確定。text は全文。一覧索引へはマージしない。"
+ "note_ja": "REQ-047/048 設計確定。text は全文。一覧索引へはマージしない。"
 }

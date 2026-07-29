@@ -324,11 +324,11 @@
  "still_valid_2026": true,
  "veritas": "○",
  "synthesized": false,
- "extract_path": "html",
+ "extract_path": "C:\\Users\\森英朗\\OneDrive - プロヴェナンスグループ\\PROVENANSグループ\\★エージェント\\Projects\\Atlas\\meta\\guidelines_extract\\prefecture-oita-4202781499.json",
  "errors": [
   "https://www.pref.oita.jp/soshiki/14040/r4youkouyouryou.html::http_404",
   "https://www.mext.go.jp/b_menu/boshu/detail/1417596_00004.htm::http_404",
   "https://www.city.kitsuki.lg.jp/soshiki/1/syoukou_kankou/2/9564.html::http_404"
  ],
- "note_ja": "REQ-047 設計確定。text は全文。一覧索引へはマージしない。"
+ "note_ja": "REQ-047/048 設計確定。text は全文。一覧索引へはマージしない。"
 }

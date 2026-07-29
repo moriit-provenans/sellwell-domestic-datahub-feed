@@ -40,9 +40,9 @@
  "still_valid_2026": true,
  "veritas": "○",
  "synthesized": false,
- "extract_path": "html",
+ "extract_path": "C:\\Users\\森英朗\\OneDrive - プロヴェナンスグループ\\PROVENANSグループ\\★エージェント\\Projects\\Atlas\\meta\\guidelines_extract\\city-kawasaki-6440677823.json",
  "errors": [
   "https://app-eas.readspeaker.com/cgi-bin/rsent?customerid=6272&lang=ja_jp&readid=main_outline&url=::http_400"
  ],
- "note_ja": "REQ-047 設計確定。text は全文。一覧索引へはマージしない。"
+ "note_ja": "REQ-047/048 設計確定。text は全文。一覧索引へはマージしない。"
 }

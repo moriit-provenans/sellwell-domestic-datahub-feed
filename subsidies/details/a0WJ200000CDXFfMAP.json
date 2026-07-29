@@ -48,10 +48,10 @@
  "still_valid_2026": true,
  "veritas": "○",
  "synthesized": false,
- "extract_path": "html",
+ "extract_path": "C:\\Users\\森英朗\\OneDrive - プロヴェナンスグループ\\PROVENANSグループ\\★エージェント\\Projects\\Atlas\\meta\\guidelines_extract\\a0WJ200000CDXFfMAP.json",
  "errors": [
   "https://www.city.kyoto.lg.jp/sankan/page/cmsfiles/contents/0000296/296639/youkou_R8.pdf::http_404",
   "https://www.city.kyoto.lg.jp/sankan/page/cmsfiles/contents/0000296/296639/hatusinsyutusasikae.pdf::http_404"
  ],
- "note_ja": "REQ-047 設計確定。text は全文。一覧索引へはマージしない。"
+ "note_ja": "REQ-047/048 設計確定。text は全文。一覧索引へはマージしない。"
 }

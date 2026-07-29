@@ -20,7 +20,7 @@
  "still_valid_2026": true,
  "veritas": "○",
  "synthesized": false,
- "extract_path": "html",
+ "extract_path": "C:\\Users\\森英朗\\OneDrive - プロヴェナンスグループ\\PROVENANSグループ\\★エージェント\\Projects\\Atlas\\meta\\guidelines_extract\\city-sendai-8835226912.json",
  "errors": [],
- "note_ja": "REQ-047 設計確定。text は全文。一覧索引へはマージしない。"
+ "note_ja": "REQ-047/048 設計確定。text は全文。一覧索引へはマージしない。"
 }

@@ -49,5 +49,5 @@
  "errors": [
   "https://www.city.kyoto.lg.jp/sankan/page/cmsfiles/contents/0000310/310196/youkou_R8.pdf::http_404"
  ],
- "note_ja": "REQ-047 設計確定。text は全文。一覧索引へはマージしない。"
+ "note_ja": "REQ-047/048 設計確定。text は全文。一覧索引へはマージしない。"
 }

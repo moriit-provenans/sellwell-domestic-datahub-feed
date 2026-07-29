@@ -40,11 +40,11 @@
  "still_valid_2026": true,
  "veritas": "○",
  "synthesized": false,
- "extract_path": "html",
+ "extract_path": "C:\\Users\\森英朗\\OneDrive - プロヴェナンスグループ\\PROVENANSグループ\\★エージェント\\Projects\\Atlas\\meta\\guidelines_extract\\city-02210-6264879904.json",
  "errors": [
   "https://www.pref.aomori.lg.jp/soshiki/shoko/roseinoryoku/files/R8_koutsuhi-youkou.pdf::http_404",
   "https://www.pref.aomori.lg.jp/soshiki/shoko/roseinoryoku/files/R8_koutsuhi.pdf::http_404",
   "https://www.pref.aomori.lg.jp/soshiki/shoko/roseinoryoku/files/R8_koutsuhi-FAQ.pdf::http_404"
  ],
- "note_ja": "REQ-047 設計確定。text は全文。一覧索引へはマージしない。"
+ "note_ja": "REQ-047/048 設計確定。text は全文。一覧索引へはマージしない。"
 }

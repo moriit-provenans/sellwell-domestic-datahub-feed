@@ -42,10 +42,10 @@
  "still_valid_2026": true,
  "veritas": "?",
  "synthesized": false,
- "extract_path": "html",
+ "extract_path": "C:\\Users\\森英朗\\OneDrive - プロヴェナンスグループ\\PROVENANSグループ\\★エージェント\\Projects\\Atlas\\meta\\guidelines_extract\\a0WJ200000CDdJhMAL.json",
  "errors": [
   "https://r8.gx-area-hojo.jp/::HTTPSConnectionPool(host='r8.gx-area-hojo.jp', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVe",
   "https://r8.gx-area-hojo.jp/QuestionForm/::HTTPSConnectionPool(host='r8.gx-area-hojo.jp', port=443): Max retries exceeded with url: /QuestionForm/ (Caused by SSLEr"
  ],
- "note_ja": "REQ-047 設計確定。text は全文。一覧索引へはマージしない。"
+ "note_ja": "REQ-047/048 設計確定。text は全文。一覧索引へはマージしない。"
 }

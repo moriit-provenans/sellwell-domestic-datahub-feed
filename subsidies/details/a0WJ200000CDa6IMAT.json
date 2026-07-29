@@ -118,5 +118,5 @@
   "https://www.shigotozaidan.or.jp/koyo-kankyo/boshu/kaigoyuso.files/R7_kaigo_kofuri_20260401.pdf::http_404",
   "https://www.shigotozaidan.or.jp/koyo-kankyo/boshu/kaigoyuso.files/R7_kaigo_tekkai_20250404.pdf::http_404"
  ],
- "note_ja": "REQ-047 設計確定。text は全文。一覧索引へはマージしない。"
+ "note_ja": "REQ-047/048 設計確定。text は全文。一覧索引へはマージしない。"
 }

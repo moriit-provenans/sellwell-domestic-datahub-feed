@@ -53,5 +53,5 @@
  "errors": [
   "https://r7.jizokuka-portal.jp/::HTTPSConnectionPool(host='r7.jizokuka-portal.jp', port=443): Max retries exceeded with url: / (Caused by NameResolutionE"
  ],
- "note_ja": "REQ-047 設計確定。text は全文。一覧索引へはマージしない。"
+ "note_ja": "REQ-047/048 設計確定。text は全文。一覧索引へはマージしない。"
 }
