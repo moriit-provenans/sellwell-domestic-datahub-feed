@@ -1,0 +1,26 @@
+{
+ "schema_version": "1.0.0",
+ "id": "city-07461-4321866721",
+ "title": "【西郷村】補助・手当て",
+ "guidelines_url": "https://www.vill.nishigo.fukushima.jp/purpose/hojo_teate/index.html",
+ "source_urls": [
+  "https://www.vill.nishigo.fukushima.jp/purpose/hojo_teate/index.html"
+ ],
+ "text": "補助・手当て／西郷村 スマートフォン版を表示 本文へ 背景色変更 文字サイズ Select Language くらし・手続き 子育て・教育 健康・医療 福祉 観光・文化 スポーツ 産業・ビジネス 安心・安全 村政情報 メニューを閉じる くらし・手続き 子育て・教育 健康・医療・福祉 観光・文化・スポーツ 産業・ビジネス 安心・安全 村政情報 西郷村公式Facebook 文字サイズ 背景色変更 Select Language PC版を見る メニューを閉じる 現在のページ ホーム 目的別に探す 補助・手当て 補助・手当て 地域 住宅・くらし 福祉 事業者（企業・農林業） 学生 暮らしお役立ち情報一覧 目的別に探す サイトマップ リンク・著作権・免責事項 Webアクセシビリティ 西郷村へのアクセス リンク集 西郷村 法人番号3000020074616 〒961-8501 福島県西白河郡西郷村大字熊倉字折口原40番地 電話：0248-25-1111（代表）ファックス：0248-25-2689 開庁時間：平日 8時30分から17時15分まで （12月29日から翌年1月3日までは除く） Copyright (c) 2021 Nishigo Village. All Rights Reserved.",
+ "text_len": 551,
+ "sections": [
+  {
+   "heading": null,
+   "text": "補助・手当て／西郷村 スマートフォン版を表示 本文へ 背景色変更 文字サイズ Select Language くらし・手続き 子育て・教育 健康・医療 福祉 観光・文化 スポーツ 産業・ビジネス 安心・安全 村政情報 メニューを閉じる くらし・手続き 子育て・教育 健康・医療・福祉 観光・文化・スポーツ 産業・ビジネス 安心・安全 村政情報 西郷村公式Facebook 文字サイズ 背景色変更 Select Language PC版を見る メニューを閉じる 現在のページ ホーム 目的別に探す 補助・手当て 補助・手当て 地域 住宅・くらし 福祉 事業者（企業・農林業） 学生 暮らしお役立ち情報一覧 目的別に探す サイトマップ リンク・著作権・免責事項 Webアクセシビリティ 西郷村へのアクセス リンク集 西郷村 法人番号3000020074616 〒961-8501 福島県西白河郡西郷村大字熊倉字折口原40番地 電話：0248-25-1111（代表）ファックス：0248-25-2689 開庁時間：平日 8時30分から17時15分まで （12月29日から翌年1月3日までは除く） Copyright (c) 2021 Nishigo Village. All Rights Reserved."
+  }
+ ],
+ "section_n": 1,
+ "retrieved_at": "2026-07-29T04:38:52.501766+00:00",
+ "as_of_date": "2026-07-29",
+ "still_valid_2026": true,
+ "veritas": "○",
+ "synthesized": false,
+ "extract_path": "C:\\Users\\森英朗\\OneDrive - プロヴェナンスグループ\\PROVENANSグループ\\★エージェント\\Projects\\Atlas\\meta\\guidelines_extract\\city-07461-4321866721.json",
+ "errors": [],
+ "note_ja": "REQ-047/048 設計確定。text は全文。一覧索引へはマージしない。"
+}

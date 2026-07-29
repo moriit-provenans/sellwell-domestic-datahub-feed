@@ -20,15 +20,49 @@
     "census_firms_by_pref_obs": 2408,
     "updated_at": "2026-07-28"
   },
-  "guidelines_body_count": 6262,
-  "pdf_body_extracted_count": 3780,
-  "pdf_pointer_remaining_count": 8,
+  "guidelines_body_count": 7514,
+  "pdf_body_extracted_count": 4632,
+  "pdf_pointer_remaining_count": 385,
   "pdf_extract_fail_ledger": "Atlas/operations/session_handoff/_048_pdf_fail_ledger.jsonl",
   "req048": {
-    "phase": "phase1_PASS",
+    "phase": "phase2_PASS",
     "phase1_replaced_unique": 375,
-    "phase1_target": 350,
+    "phase2_new_unique": 341,
+    "replaced_unique_total": 716,
+    "phase2_target": 700,
     "acceptance": "PASS",
     "updated_at": "2026-07-29"
+  },
+  "crawl_depth_recorded": 13749,
+  "synthesized_ratio": 0.0676,
+  "synthesized_count": 3783,
+  "req047_cd": {
+    "null_how_apply": 0,
+    "null_who_exclude": 0,
+    "null_where_eq_pref": 0,
+    "null_elig": 0,
+    "rebuilt_from_details": 5370,
+    "filled_how_much": 9,
+    "filled_when": 0,
+    "updated_at": "2026-07-29"
+  },
+  "fit_one_liner_quality_req046": {
+    "fit_count": 12845,
+    "fit_max_len": 300,
+    "fit_avg_len": 57.3,
+    "fit_substantive_est": 4621,
+    "synthesized_count": 3783,
+    "markup_contam": 0,
+    "updated_at": "2026-07-29"
+  },
+  "guidelines_body_bytes": 50628904,
+  "subsidy_body_req047": {
+    "details_published": 7514,
+    "guidelines_body_count": 7514,
+    "guidelines_body_bytes": 50628904,
+    "crawl_depth_recorded": 13749,
+    "updated_at": "2026-07-29",
+    "crawl_depth_recorded_pct": 24.6,
+    "phase": "B_phase3_in_progress"
   }
 }
