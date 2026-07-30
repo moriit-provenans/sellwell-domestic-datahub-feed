@@ -2,7 +2,7 @@
   "schema_version": "1.0.0",
   "metric_id": "jp.subsidy.adoption_stats",
   "title_ja": "補助金採択率・公募回統計（全国系主要制度）",
-  "last_updated": "2026-07-29",
+  "last_updated": "2026-07-30",
   "source": "各執行団体の採択結果公表ページ",
   "note_ja": "REQ-045 P1（wave2）。jGrants APIに採択履歴はないため、公式公表HTML/プレスを収集。ものづくり全公募回＋持続化直近2回＋IT導入2025第8次＋デジタル化・AI2026第1次＋事業再構築第13回＋大規模成長投資（省力化）第3〜5次を収録。大規模成長投資は公式ポータル一時取得不能のため veritas=△（二次出典一致値）。",
   "coverage": {
@@ -63,6 +63,15 @@
             "judgment_ready": false
           },
           {
+            "id": "city-kawasaki-8699433914",
+            "title": "【川崎市】ものづくり補助金（経済産業省） 外部リンク",
+            "detail_url": "http://portal.monodukuri-hojo.jp/",
+            "industry_slugs": [
+              "manufacturing-total"
+            ],
+            "judgment_ready": false
+          },
+          {
             "id": "city-kawasaki-8998822937",
             "title": "【川崎市】ものづくり補助金（経済産業省） 外部リンク",
             "detail_url": "http://portal.monodukuri-hojo.jp/",
@@ -73,15 +82,6 @@
           },
           {
             "id": "city-kawasaki-4021634747",
-            "title": "【川崎市】ものづくり補助金（経済産業省） 外部リンク",
-            "detail_url": "http://portal.monodukuri-hojo.jp/",
-            "industry_slugs": [
-              "manufacturing-total"
-            ],
-            "judgment_ready": false
-          },
-          {
-            "id": "city-kawasaki-214321146",
             "title": "【川崎市】ものづくり補助金（経済産業省） 外部リンク",
             "detail_url": "http://portal.monodukuri-hojo.jp/",
             "industry_slugs": [
@@ -244,7 +244,7 @@
             "judgment_ready": false
           },
           {
-            "id": "ministry-4535427035",
+            "id": "ministry-244774865",
             "title": "デジタル化・AI導入補助金 通常枠、インボイス枠（インボイス対応類型、電子取引類型）、セキュリティ対策推進枠【申請受付期間：第1次締切5/12、第2次締切6/15、第3次締切7/21、第4次締切8/25】 複数者連携デジタル化・AI導入枠【",
             "detail_url": "https://www.chusho.meti.go.jp/koukai/yosan/r7/r6_it.pdf",
             "industry_slugs": [
@@ -254,7 +254,7 @@
             "judgment_ready": false
           },
           {
-            "id": "ministry-7488988876",
+            "id": "ministry-127891153",
             "title": "「デジタル化・AI導入補助金2026」「通常枠：2次締切」、「セキュリティ対策推進枠：2次締切」、「インボイス枠（インボイス対応類型）：2次締切｣、「複数者連携デジタル化・AI導入枠：1次締切｣、の補助事業者を採択しました",
             "detail_url": "https://www.chusho.meti.go.jp/koukai/hojyokin/saitaku/2026/260723001.html",
             "industry_slugs": [
@@ -333,7 +333,7 @@
             "judgment_ready": false
           },
           {
-            "id": "ministry-4535427035",
+            "id": "ministry-244774865",
             "title": "デジタル化・AI導入補助金 通常枠、インボイス枠（インボイス対応類型、電子取引類型）、セキュリティ対策推進枠【申請受付期間：第1次締切5/12、第2次締切6/15、第3次締切7/21、第4次締切8/25】 複数者連携デジタル化・AI導入枠【",
             "detail_url": "https://www.chusho.meti.go.jp/koukai/yosan/r7/r6_it.pdf",
             "industry_slugs": [
@@ -343,7 +343,7 @@
             "judgment_ready": false
           },
           {
-            "id": "ministry-7488988876",
+            "id": "ministry-127891153",
             "title": "「デジタル化・AI導入補助金2026」「通常枠：2次締切」、「セキュリティ対策推進枠：2次締切」、「インボイス枠（インボイス対応類型）：2次締切｣、「複数者連携デジタル化・AI導入枠：1次締切｣、の補助事業者を採択しました",
             "detail_url": "https://www.chusho.meti.go.jp/koukai/hojyokin/saitaku/2026/260723001.html",
             "industry_slugs": [
@@ -364,6 +364,24 @@
           "https://jigyou-saikouchiku.go.jp/result.html"
         ],
         "linked_active_sample": [
+          {
+            "id": "prefecture-oita-4434057396",
+            "title": "【大分県】事業再構築補助金（経済産業省HPへリンク）",
+            "detail_url": "https://www.meti.go.jp/covid-19/jigyo_saikoutiku/index.html",
+            "industry_slugs": [
+              "untagged"
+            ],
+            "judgment_ready": false
+          },
+          {
+            "id": "city-kawasaki-3384604604",
+            "title": "【川崎市】事業再構築補助金（経済産業省） 外部リンク",
+            "detail_url": "https://jigyou-saikouchiku.go.jp/",
+            "industry_slugs": [
+              "untagged"
+            ],
+            "judgment_ready": false
+          },
           {
             "id": "prefecture-oita-8833678936",
             "title": "【大分県】事業再構築補助金（経済産業省HPへリンク）",
@@ -411,24 +429,6 @@
           },
           {
             "id": "city-kawasaki-1677711277",
-            "title": "【川崎市】事業再構築補助金（経済産業省） 外部リンク",
-            "detail_url": "https://jigyou-saikouchiku.go.jp/",
-            "industry_slugs": [
-              "untagged"
-            ],
-            "judgment_ready": false
-          },
-          {
-            "id": "prefecture-oita-8566914088",
-            "title": "【大分県】事業再構築補助金（経済産業省HPへリンク）",
-            "detail_url": "https://www.meti.go.jp/covid-19/jigyo_saikoutiku/index.html",
-            "industry_slugs": [
-              "untagged"
-            ],
-            "judgment_ready": false
-          },
-          {
-            "id": "city-kawasaki-662646235",
             "title": "【川崎市】事業再構築補助金（経済産業省） 外部リンク",
             "detail_url": "https://jigyou-saikouchiku.go.jp/",
             "industry_slugs": [
@@ -504,7 +504,7 @@
             "judgment_ready": false
           },
           {
-            "id": "prefecture-aomori-7606954589",
+            "id": "prefecture-aomori-8712050404",
             "title": "【青森県】【青森県 経済産業政策課】「経済産業省 中小企業省力化投資補助金（カタログ型）の公募スケジュールのお知らせ",
             "detail_url": "https://shoryokuka.smrj.go.jp/",
             "industry_slugs": [
@@ -513,7 +513,7 @@
             "judgment_ready": false
           },
           {
-            "id": "prefecture-aomori-1220948456",
+            "id": "prefecture-aomori-7606954589",
             "title": "【青森県】【青森県 経済産業政策課】「経済産業省 中小企業省力化投資補助金（カタログ型）の公募スケジュールのお知らせ",
             "detail_url": "https://shoryokuka.smrj.go.jp/",
             "industry_slugs": [
@@ -532,7 +532,7 @@
     {
       "as_of_date": "2026-05-12",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-29",
+      "retrieved_at": "2026-07-30",
       "veritas": "✅",
       "metric_id": "jp.subsidy.adoption_stats",
       "program_key": "digital-ai-2026",
@@ -608,7 +608,7 @@
           "judgment_ready": false
         },
         {
-          "id": "ministry-4535427035",
+          "id": "ministry-244774865",
           "title": "デジタル化・AI導入補助金 通常枠、インボイス枠（インボイス対応類型、電子取引類型）、セキュリティ対策推進枠【申請受付期間：第1次締切5/12、第2次締切6/15、第3次締切7/21、第4次締切8/25】 複数者連携デジタル化・AI導入枠【",
           "detail_url": "https://www.chusho.meti.go.jp/koukai/yosan/r7/r6_it.pdf",
           "industry_slugs": [
@@ -618,7 +618,7 @@
           "judgment_ready": false
         },
         {
-          "id": "ministry-7488988876",
+          "id": "ministry-127891153",
           "title": "「デジタル化・AI導入補助金2026」「通常枠：2次締切」、「セキュリティ対策推進枠：2次締切」、「インボイス枠（インボイス対応類型）：2次締切｣、「複数者連携デジタル化・AI導入枠：1次締切｣、の補助事業者を採択しました",
           "detail_url": "https://www.chusho.meti.go.jp/koukai/hojyokin/saitaku/2026/260723001.html",
           "industry_slugs": [
@@ -635,7 +635,7 @@
     {
       "as_of_date": "2026-04-30",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-29",
+      "retrieved_at": "2026-07-30",
       "veritas": "✅",
       "metric_id": "jp.subsidy.adoption_stats",
       "program_key": "monodukuri",
@@ -701,6 +701,15 @@
           "judgment_ready": false
         },
         {
+          "id": "city-kawasaki-8699433914",
+          "title": "【川崎市】ものづくり補助金（経済産業省） 外部リンク",
+          "detail_url": "http://portal.monodukuri-hojo.jp/",
+          "industry_slugs": [
+            "manufacturing-total"
+          ],
+          "judgment_ready": false
+        },
+        {
           "id": "city-kawasaki-8998822937",
           "title": "【川崎市】ものづくり補助金（経済産業省） 外部リンク",
           "detail_url": "http://portal.monodukuri-hojo.jp/",
@@ -717,15 +726,6 @@
             "manufacturing-total"
           ],
           "judgment_ready": false
-        },
-        {
-          "id": "city-kawasaki-214321146",
-          "title": "【川崎市】ものづくり補助金（経済産業省） 外部リンク",
-          "detail_url": "http://portal.monodukuri-hojo.jp/",
-          "industry_slugs": [
-            "manufacturing-total"
-          ],
-          "judgment_ready": false
         }
       ],
       "source": "ものづくり・商業・サービス生産性向上促進補助金",
@@ -735,7 +735,7 @@
     {
       "as_of_date": "2026-03-17",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-29",
+      "retrieved_at": "2026-07-30",
       "veritas": "✅",
       "metric_id": "jp.subsidy.adoption_stats",
       "program_key": "jizokuka-ippan-tsujo",
@@ -833,7 +833,7 @@
     {
       "as_of_date": "2026-02-17",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-29",
+      "retrieved_at": "2026-07-30",
       "veritas": "✅",
       "metric_id": "jp.subsidy.adoption_stats",
       "program_key": "it-donyu-2025",
@@ -909,7 +909,7 @@
           "judgment_ready": false
         },
         {
-          "id": "ministry-4535427035",
+          "id": "ministry-244774865",
           "title": "デジタル化・AI導入補助金 通常枠、インボイス枠（インボイス対応類型、電子取引類型）、セキュリティ対策推進枠【申請受付期間：第1次締切5/12、第2次締切6/15、第3次締切7/21、第4次締切8/25】 複数者連携デジタル化・AI導入枠【",
           "detail_url": "https://www.chusho.meti.go.jp/koukai/yosan/r7/r6_it.pdf",
           "industry_slugs": [
@@ -919,7 +919,7 @@
           "judgment_ready": false
         },
         {
-          "id": "ministry-7488988876",
+          "id": "ministry-127891153",
           "title": "「デジタル化・AI導入補助金2026」「通常枠：2次締切」、「セキュリティ対策推進枠：2次締切」、「インボイス枠（インボイス対応類型）：2次締切｣、「複数者連携デジタル化・AI導入枠：1次締切｣、の補助事業者を採択しました",
           "detail_url": "https://www.chusho.meti.go.jp/koukai/hojyokin/saitaku/2026/260723001.html",
           "industry_slugs": [
@@ -936,7 +936,7 @@
     {
       "as_of_date": "2026-01-23",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-29",
+      "retrieved_at": "2026-07-30",
       "veritas": "✅",
       "metric_id": "jp.subsidy.adoption_stats",
       "program_key": "monodukuri",
@@ -1002,6 +1002,15 @@
           "judgment_ready": false
         },
         {
+          "id": "city-kawasaki-8699433914",
+          "title": "【川崎市】ものづくり補助金（経済産業省） 外部リンク",
+          "detail_url": "http://portal.monodukuri-hojo.jp/",
+          "industry_slugs": [
+            "manufacturing-total"
+          ],
+          "judgment_ready": false
+        },
+        {
           "id": "city-kawasaki-8998822937",
           "title": "【川崎市】ものづくり補助金（経済産業省） 外部リンク",
           "detail_url": "http://portal.monodukuri-hojo.jp/",
@@ -1018,15 +1027,6 @@
             "manufacturing-total"
           ],
           "judgment_ready": false
-        },
-        {
-          "id": "city-kawasaki-214321146",
-          "title": "【川崎市】ものづくり補助金（経済産業省） 外部リンク",
-          "detail_url": "http://portal.monodukuri-hojo.jp/",
-          "industry_slugs": [
-            "manufacturing-total"
-          ],
-          "judgment_ready": false
         }
       ],
       "source": "ものづくり・商業・サービス生産性向上促進補助金",
@@ -1036,7 +1036,7 @@
     {
       "as_of_date": "2026-01-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-29",
+      "retrieved_at": "2026-07-30",
       "veritas": "△",
       "metric_id": "jp.subsidy.adoption_stats",
       "program_key": "daikibo-seicho-shoryoku",
@@ -1109,7 +1109,7 @@
           "judgment_ready": false
         },
         {
-          "id": "prefecture-aomori-7606954589",
+          "id": "prefecture-aomori-8712050404",
           "title": "【青森県】【青森県 経済産業政策課】「経済産業省 中小企業省力化投資補助金（カタログ型）の公募スケジュールのお知らせ",
           "detail_url": "https://shoryokuka.smrj.go.jp/",
           "industry_slugs": [
@@ -1118,7 +1118,7 @@
           "judgment_ready": false
         },
         {
-          "id": "prefecture-aomori-1220948456",
+          "id": "prefecture-aomori-7606954589",
           "title": "【青森県】【青森県 経済産業政策課】「経済産業省 中小企業省力化投資補助金（カタログ型）の公募スケジュールのお知らせ",
           "detail_url": "https://shoryokuka.smrj.go.jp/",
           "industry_slugs": [
@@ -1134,7 +1134,7 @@
     {
       "as_of_date": "2025-10-27",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-29",
+      "retrieved_at": "2026-07-30",
       "veritas": "✅",
       "metric_id": "jp.subsidy.adoption_stats",
       "program_key": "monodukuri",
@@ -1200,6 +1200,15 @@
           "judgment_ready": false
         },
         {
+          "id": "city-kawasaki-8699433914",
+          "title": "【川崎市】ものづくり補助金（経済産業省） 外部リンク",
+          "detail_url": "http://portal.monodukuri-hojo.jp/",
+          "industry_slugs": [
+            "manufacturing-total"
+          ],
+          "judgment_ready": false
+        },
+        {
           "id": "city-kawasaki-8998822937",
           "title": "【川崎市】ものづくり補助金（経済産業省） 外部リンク",
           "detail_url": "http://portal.monodukuri-hojo.jp/",
@@ -1216,15 +1225,6 @@
             "manufacturing-total"
           ],
           "judgment_ready": false
-        },
-        {
-          "id": "city-kawasaki-214321146",
-          "title": "【川崎市】ものづくり補助金（経済産業省） 外部リンク",
-          "detail_url": "http://portal.monodukuri-hojo.jp/",
-          "industry_slugs": [
-            "manufacturing-total"
-          ],
-          "judgment_ready": false
         }
       ],
       "source": "ものづくり・商業・サービス生産性向上促進補助金",
@@ -1234,7 +1234,7 @@
     {
       "as_of_date": "2025-10-15",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-29",
+      "retrieved_at": "2026-07-30",
       "veritas": "△",
       "metric_id": "jp.subsidy.adoption_stats",
       "program_key": "daikibo-seicho-shoryoku",
@@ -1307,7 +1307,7 @@
           "judgment_ready": false
         },
         {
-          "id": "prefecture-aomori-7606954589",
+          "id": "prefecture-aomori-8712050404",
           "title": "【青森県】【青森県 経済産業政策課】「経済産業省 中小企業省力化投資補助金（カタログ型）の公募スケジュールのお知らせ",
           "detail_url": "https://shoryokuka.smrj.go.jp/",
           "industry_slugs": [
@@ -1316,7 +1316,7 @@
           "judgment_ready": false
         },
         {
-          "id": "prefecture-aomori-1220948456",
+          "id": "prefecture-aomori-7606954589",
           "title": "【青森県】【青森県 経済産業政策課】「経済産業省 中小企業省力化投資補助金（カタログ型）の公募スケジュールのお知らせ",
           "detail_url": "https://shoryokuka.smrj.go.jp/",
           "industry_slugs": [
@@ -1332,7 +1332,7 @@
     {
       "as_of_date": "2025-09-26",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-29",
+      "retrieved_at": "2026-07-30",
       "veritas": "✅",
       "metric_id": "jp.subsidy.adoption_stats",
       "program_key": "jizokuka-ippan-tsujo",
@@ -1430,7 +1430,7 @@
     {
       "as_of_date": "2025-07-28",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-29",
+      "retrieved_at": "2026-07-30",
       "veritas": "✅",
       "metric_id": "jp.subsidy.adoption_stats",
       "program_key": "monodukuri",
@@ -1496,6 +1496,15 @@
           "judgment_ready": false
         },
         {
+          "id": "city-kawasaki-8699433914",
+          "title": "【川崎市】ものづくり補助金（経済産業省） 外部リンク",
+          "detail_url": "http://portal.monodukuri-hojo.jp/",
+          "industry_slugs": [
+            "manufacturing-total"
+          ],
+          "judgment_ready": false
+        },
+        {
           "id": "city-kawasaki-8998822937",
           "title": "【川崎市】ものづくり補助金（経済産業省） 外部リンク",
           "detail_url": "http://portal.monodukuri-hojo.jp/",
@@ -1512,15 +1521,6 @@
             "manufacturing-total"
           ],
           "judgment_ready": false
-        },
-        {
-          "id": "city-kawasaki-214321146",
-          "title": "【川崎市】ものづくり補助金（経済産業省） 外部リンク",
-          "detail_url": "http://portal.monodukuri-hojo.jp/",
-          "industry_slugs": [
-            "manufacturing-total"
-          ],
-          "judgment_ready": false
         }
       ],
       "source": "ものづくり・商業・サービス生産性向上促進補助金",
@@ -1530,7 +1530,7 @@
     {
       "as_of_date": "2025-06-30",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-29",
+      "retrieved_at": "2026-07-30",
       "veritas": "✅",
       "metric_id": "jp.subsidy.adoption_stats",
       "program_key": "jigyo-saikochiku",
@@ -1549,6 +1549,24 @@
         "consumer-goods"
       ],
       "linked_active_sample": [
+        {
+          "id": "prefecture-oita-4434057396",
+          "title": "【大分県】事業再構築補助金（経済産業省HPへリンク）",
+          "detail_url": "https://www.meti.go.jp/covid-19/jigyo_saikoutiku/index.html",
+          "industry_slugs": [
+            "untagged"
+          ],
+          "judgment_ready": false
+        },
+        {
+          "id": "city-kawasaki-3384604604",
+          "title": "【川崎市】事業再構築補助金（経済産業省） 外部リンク",
+          "detail_url": "https://jigyou-saikouchiku.go.jp/",
+          "industry_slugs": [
+            "untagged"
+          ],
+          "judgment_ready": false
+        },
         {
           "id": "prefecture-oita-8833678936",
           "title": "【大分県】事業再構築補助金（経済産業省HPへリンク）",
@@ -1602,24 +1620,6 @@
             "untagged"
           ],
           "judgment_ready": false
-        },
-        {
-          "id": "prefecture-oita-8566914088",
-          "title": "【大分県】事業再構築補助金（経済産業省HPへリンク）",
-          "detail_url": "https://www.meti.go.jp/covid-19/jigyo_saikoutiku/index.html",
-          "industry_slugs": [
-            "untagged"
-          ],
-          "judgment_ready": false
-        },
-        {
-          "id": "city-kawasaki-662646235",
-          "title": "【川崎市】事業再構築補助金（経済産業省） 外部リンク",
-          "detail_url": "https://jigyou-saikouchiku.go.jp/",
-          "industry_slugs": [
-            "untagged"
-          ],
-          "judgment_ready": false
         }
       ],
       "source": "事業再構築補助金",
@@ -1629,7 +1629,7 @@
     {
       "as_of_date": "2025-06-30",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-29",
+      "retrieved_at": "2026-07-30",
       "veritas": "△",
       "metric_id": "jp.subsidy.adoption_stats",
       "program_key": "daikibo-seicho-shoryoku",
@@ -1702,7 +1702,7 @@
           "judgment_ready": false
         },
         {
-          "id": "prefecture-aomori-7606954589",
+          "id": "prefecture-aomori-8712050404",
           "title": "【青森県】【青森県 経済産業政策課】「経済産業省 中小企業省力化投資補助金（カタログ型）の公募スケジュールのお知らせ",
           "detail_url": "https://shoryokuka.smrj.go.jp/",
           "industry_slugs": [
@@ -1711,7 +1711,7 @@
           "judgment_ready": false
         },
         {
-          "id": "prefecture-aomori-1220948456",
+          "id": "prefecture-aomori-7606954589",
           "title": "【青森県】【青森県 経済産業政策課】「経済産業省 中小企業省力化投資補助金（カタログ型）の公募スケジュールのお知らせ",
           "detail_url": "https://shoryokuka.smrj.go.jp/",
           "industry_slugs": [
@@ -1727,7 +1727,7 @@
     {
       "as_of_date": "2024-06-25",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-29",
+      "retrieved_at": "2026-07-30",
       "veritas": "✅",
       "metric_id": "jp.subsidy.adoption_stats",
       "program_key": "monodukuri",
@@ -1793,6 +1793,15 @@
           "judgment_ready": false
         },
         {
+          "id": "city-kawasaki-8699433914",
+          "title": "【川崎市】ものづくり補助金（経済産業省） 外部リンク",
+          "detail_url": "http://portal.monodukuri-hojo.jp/",
+          "industry_slugs": [
+            "manufacturing-total"
+          ],
+          "judgment_ready": false
+        },
+        {
           "id": "city-kawasaki-8998822937",
           "title": "【川崎市】ものづくり補助金（経済産業省） 外部リンク",
           "detail_url": "http://portal.monodukuri-hojo.jp/",
@@ -1809,15 +1818,6 @@
             "manufacturing-total"
           ],
           "judgment_ready": false
-        },
-        {
-          "id": "city-kawasaki-214321146",
-          "title": "【川崎市】ものづくり補助金（経済産業省） 外部リンク",
-          "detail_url": "http://portal.monodukuri-hojo.jp/",
-          "industry_slugs": [
-            "manufacturing-total"
-          ],
-          "judgment_ready": false
         }
       ],
       "source": "ものづくり・商業・サービス生産性向上促進補助金",
@@ -1827,7 +1827,7 @@
     {
       "as_of_date": "2024-05-20",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-29",
+      "retrieved_at": "2026-07-30",
       "veritas": "✅",
       "metric_id": "jp.subsidy.adoption_stats",
       "program_key": "monodukuri",
@@ -1893,6 +1893,15 @@
           "judgment_ready": false
         },
         {
+          "id": "city-kawasaki-8699433914",
+          "title": "【川崎市】ものづくり補助金（経済産業省） 外部リンク",
+          "detail_url": "http://portal.monodukuri-hojo.jp/",
+          "industry_slugs": [
+            "manufacturing-total"
+          ],
+          "judgment_ready": false
+        },
+        {
           "id": "city-kawasaki-8998822937",
           "title": "【川崎市】ものづくり補助金（経済産業省） 外部リンク",
           "detail_url": "http://portal.monodukuri-hojo.jp/",
@@ -1909,15 +1918,6 @@
             "manufacturing-total"
           ],
           "judgment_ready": false
-        },
-        {
-          "id": "city-kawasaki-214321146",
-          "title": "【川崎市】ものづくり補助金（経済産業省） 外部リンク",
-          "detail_url": "http://portal.monodukuri-hojo.jp/",
-          "industry_slugs": [
-            "manufacturing-total"
-          ],
-          "judgment_ready": false
         }
       ],
       "source": "ものづくり・商業・サービス生産性向上促進補助金",
@@ -1927,7 +1927,7 @@
     {
       "as_of_date": "2024-01-19",
       "still_valid_2026": true,
-      "retrieved_at": "2026-07-29",
+      "retrieved_at": "2026-07-30",
       "veritas": "✅",
       "metric_id": "jp.subsidy.adoption_stats",
       "program_key": "monodukuri",
@@ -1993,6 +1993,15 @@
           "judgment_ready": false
         },
         {
+          "id": "city-kawasaki-8699433914",
+          "title": "【川崎市】ものづくり補助金（経済産業省） 外部リンク",
+          "detail_url": "http://portal.monodukuri-hojo.jp/",
+          "industry_slugs": [
+            "manufacturing-total"
+          ],
+          "judgment_ready": false
+        },
+        {
           "id": "city-kawasaki-8998822937",
           "title": "【川崎市】ものづくり補助金（経済産業省） 外部リンク",
           "detail_url": "http://portal.monodukuri-hojo.jp/",
@@ -2009,15 +2018,6 @@
             "manufacturing-total"
           ],
           "judgment_ready": false
-        },
-        {
-          "id": "city-kawasaki-214321146",
-          "title": "【川崎市】ものづくり補助金（経済産業省） 外部リンク",
-          "detail_url": "http://portal.monodukuri-hojo.jp/",
-          "industry_slugs": [
-            "manufacturing-total"
-          ],
-          "judgment_ready": false
         }
       ],
       "source": "ものづくり・商業・サービス生産性向上促進補助金",
@@ -2027,7 +2027,7 @@
     {
       "as_of_date": "2023-09-29",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-29",
+      "retrieved_at": "2026-07-30",
       "veritas": "✅",
       "metric_id": "jp.subsidy.adoption_stats",
       "program_key": "monodukuri",
@@ -2093,6 +2093,15 @@
           "judgment_ready": false
         },
         {
+          "id": "city-kawasaki-8699433914",
+          "title": "【川崎市】ものづくり補助金（経済産業省） 外部リンク",
+          "detail_url": "http://portal.monodukuri-hojo.jp/",
+          "industry_slugs": [
+            "manufacturing-total"
+          ],
+          "judgment_ready": false
+        },
+        {
           "id": "city-kawasaki-8998822937",
           "title": "【川崎市】ものづくり補助金（経済産業省） 外部リンク",
           "detail_url": "http://portal.monodukuri-hojo.jp/",
@@ -2109,15 +2118,6 @@
             "manufacturing-total"
           ],
           "judgment_ready": false
-        },
-        {
-          "id": "city-kawasaki-214321146",
-          "title": "【川崎市】ものづくり補助金（経済産業省） 外部リンク",
-          "detail_url": "http://portal.monodukuri-hojo.jp/",
-          "industry_slugs": [
-            "manufacturing-total"
-          ],
-          "judgment_ready": false
         }
       ],
       "source": "ものづくり・商業・サービス生産性向上促進補助金",
@@ -2127,7 +2127,7 @@
     {
       "as_of_date": "2023-06-23",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-29",
+      "retrieved_at": "2026-07-30",
       "veritas": "✅",
       "metric_id": "jp.subsidy.adoption_stats",
       "program_key": "monodukuri",
@@ -2193,6 +2193,15 @@
           "judgment_ready": false
         },
         {
+          "id": "city-kawasaki-8699433914",
+          "title": "【川崎市】ものづくり補助金（経済産業省） 外部リンク",
+          "detail_url": "http://portal.monodukuri-hojo.jp/",
+          "industry_slugs": [
+            "manufacturing-total"
+          ],
+          "judgment_ready": false
+        },
+        {
           "id": "city-kawasaki-8998822937",
           "title": "【川崎市】ものづくり補助金（経済産業省） 外部リンク",
           "detail_url": "http://portal.monodukuri-hojo.jp/",
@@ -2209,15 +2218,6 @@
             "manufacturing-total"
           ],
           "judgment_ready": false
-        },
-        {
-          "id": "city-kawasaki-214321146",
-          "title": "【川崎市】ものづくり補助金（経済産業省） 外部リンク",
-          "detail_url": "http://portal.monodukuri-hojo.jp/",
-          "industry_slugs": [
-            "manufacturing-total"
-          ],
-          "judgment_ready": false
         }
       ],
       "source": "ものづくり・商業・サービス生産性向上促進補助金",
@@ -2227,7 +2227,7 @@
     {
       "as_of_date": "2023-02-20",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-29",
+      "retrieved_at": "2026-07-30",
       "veritas": "✅",
       "metric_id": "jp.subsidy.adoption_stats",
       "program_key": "monodukuri",
@@ -2293,6 +2293,15 @@
           "judgment_ready": false
         },
         {
+          "id": "city-kawasaki-8699433914",
+          "title": "【川崎市】ものづくり補助金（経済産業省） 外部リンク",
+          "detail_url": "http://portal.monodukuri-hojo.jp/",
+          "industry_slugs": [
+            "manufacturing-total"
+          ],
+          "judgment_ready": false
+        },
+        {
           "id": "city-kawasaki-8998822937",
           "title": "【川崎市】ものづくり補助金（経済産業省） 外部リンク",
           "detail_url": "http://portal.monodukuri-hojo.jp/",
@@ -2309,15 +2318,6 @@
             "manufacturing-total"
           ],
           "judgment_ready": false
-        },
-        {
-          "id": "city-kawasaki-214321146",
-          "title": "【川崎市】ものづくり補助金（経済産業省） 外部リンク",
-          "detail_url": "http://portal.monodukuri-hojo.jp/",
-          "industry_slugs": [
-            "manufacturing-total"
-          ],
-          "judgment_ready": false
         }
       ],
       "source": "ものづくり・商業・サービス生産性向上促進補助金",
@@ -2327,7 +2327,7 @@
     {
       "as_of_date": "2022-12-16",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-29",
+      "retrieved_at": "2026-07-30",
       "veritas": "✅",
       "metric_id": "jp.subsidy.adoption_stats",
       "program_key": "monodukuri",
@@ -2393,6 +2393,15 @@
           "judgment_ready": false
         },
         {
+          "id": "city-kawasaki-8699433914",
+          "title": "【川崎市】ものづくり補助金（経済産業省） 外部リンク",
+          "detail_url": "http://portal.monodukuri-hojo.jp/",
+          "industry_slugs": [
+            "manufacturing-total"
+          ],
+          "judgment_ready": false
+        },
+        {
           "id": "city-kawasaki-8998822937",
           "title": "【川崎市】ものづくり補助金（経済産業省） 外部リンク",
           "detail_url": "http://portal.monodukuri-hojo.jp/",
@@ -2409,15 +2418,6 @@
             "manufacturing-total"
           ],
           "judgment_ready": false
-        },
-        {
-          "id": "city-kawasaki-214321146",
-          "title": "【川崎市】ものづくり補助金（経済産業省） 外部リンク",
-          "detail_url": "http://portal.monodukuri-hojo.jp/",
-          "industry_slugs": [
-            "manufacturing-total"
-          ],
-          "judgment_ready": false
         }
       ],
       "source": "ものづくり・商業・サービス生産性向上促進補助金",
@@ -2427,7 +2427,7 @@
     {
       "as_of_date": "2022-10-20",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-29",
+      "retrieved_at": "2026-07-30",
       "veritas": "✅",
       "metric_id": "jp.subsidy.adoption_stats",
       "program_key": "monodukuri",
@@ -2493,6 +2493,15 @@
           "judgment_ready": false
         },
         {
+          "id": "city-kawasaki-8699433914",
+          "title": "【川崎市】ものづくり補助金（経済産業省） 外部リンク",
+          "detail_url": "http://portal.monodukuri-hojo.jp/",
+          "industry_slugs": [
+            "manufacturing-total"
+          ],
+          "judgment_ready": false
+        },
+        {
           "id": "city-kawasaki-8998822937",
           "title": "【川崎市】ものづくり補助金（経済産業省） 外部リンク",
           "detail_url": "http://portal.monodukuri-hojo.jp/",
@@ -2509,15 +2518,6 @@
             "manufacturing-total"
           ],
           "judgment_ready": false
-        },
-        {
-          "id": "city-kawasaki-214321146",
-          "title": "【川崎市】ものづくり補助金（経済産業省） 外部リンク",
-          "detail_url": "http://portal.monodukuri-hojo.jp/",
-          "industry_slugs": [
-            "manufacturing-total"
-          ],
-          "judgment_ready": false
         }
       ],
       "source": "ものづくり・商業・サービス生産性向上促進補助金",
@@ -2527,7 +2527,7 @@
     {
       "as_of_date": "2022-07-15",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-29",
+      "retrieved_at": "2026-07-30",
       "veritas": "✅",
       "metric_id": "jp.subsidy.adoption_stats",
       "program_key": "monodukuri",
@@ -2593,6 +2593,15 @@
           "judgment_ready": false
         },
         {
+          "id": "city-kawasaki-8699433914",
+          "title": "【川崎市】ものづくり補助金（経済産業省） 外部リンク",
+          "detail_url": "http://portal.monodukuri-hojo.jp/",
+          "industry_slugs": [
+            "manufacturing-total"
+          ],
+          "judgment_ready": false
+        },
+        {
           "id": "city-kawasaki-8998822937",
           "title": "【川崎市】ものづくり補助金（経済産業省） 外部リンク",
           "detail_url": "http://portal.monodukuri-hojo.jp/",
@@ -2609,15 +2618,6 @@
             "manufacturing-total"
           ],
           "judgment_ready": false
-        },
-        {
-          "id": "city-kawasaki-214321146",
-          "title": "【川崎市】ものづくり補助金（経済産業省） 外部リンク",
-          "detail_url": "http://portal.monodukuri-hojo.jp/",
-          "industry_slugs": [
-            "manufacturing-total"
-          ],
-          "judgment_ready": false
         }
       ],
       "source": "ものづくり・商業・サービス生産性向上促進補助金",
@@ -2627,7 +2627,7 @@
     {
       "as_of_date": "2022-03-25",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-29",
+      "retrieved_at": "2026-07-30",
       "veritas": "✅",
       "metric_id": "jp.subsidy.adoption_stats",
       "program_key": "monodukuri",
@@ -2693,6 +2693,15 @@
           "judgment_ready": false
         },
         {
+          "id": "city-kawasaki-8699433914",
+          "title": "【川崎市】ものづくり補助金（経済産業省） 外部リンク",
+          "detail_url": "http://portal.monodukuri-hojo.jp/",
+          "industry_slugs": [
+            "manufacturing-total"
+          ],
+          "judgment_ready": false
+        },
+        {
           "id": "city-kawasaki-8998822937",
           "title": "【川崎市】ものづくり補助金（経済産業省） 外部リンク",
           "detail_url": "http://portal.monodukuri-hojo.jp/",
@@ -2709,15 +2718,6 @@
             "manufacturing-total"
           ],
           "judgment_ready": false
-        },
-        {
-          "id": "city-kawasaki-214321146",
-          "title": "【川崎市】ものづくり補助金（経済産業省） 外部リンク",
-          "detail_url": "http://portal.monodukuri-hojo.jp/",
-          "industry_slugs": [
-            "manufacturing-total"
-          ],
-          "judgment_ready": false
         }
       ],
       "source": "ものづくり・商業・サービス生産性向上促進補助金",
@@ -2727,7 +2727,7 @@
     {
       "as_of_date": "2022-01-12",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-29",
+      "retrieved_at": "2026-07-30",
       "veritas": "✅",
       "metric_id": "jp.subsidy.adoption_stats",
       "program_key": "monodukuri",
@@ -2793,6 +2793,15 @@
           "judgment_ready": false
         },
         {
+          "id": "city-kawasaki-8699433914",
+          "title": "【川崎市】ものづくり補助金（経済産業省） 外部リンク",
+          "detail_url": "http://portal.monodukuri-hojo.jp/",
+          "industry_slugs": [
+            "manufacturing-total"
+          ],
+          "judgment_ready": false
+        },
+        {
           "id": "city-kawasaki-8998822937",
           "title": "【川崎市】ものづくり補助金（経済産業省） 外部リンク",
           "detail_url": "http://portal.monodukuri-hojo.jp/",
@@ -2809,15 +2818,6 @@
             "manufacturing-total"
           ],
           "judgment_ready": false
-        },
-        {
-          "id": "city-kawasaki-214321146",
-          "title": "【川崎市】ものづくり補助金（経済産業省） 外部リンク",
-          "detail_url": "http://portal.monodukuri-hojo.jp/",
-          "industry_slugs": [
-            "manufacturing-total"
-          ],
-          "judgment_ready": false
         }
       ],
       "source": "ものづくり・商業・サービス生産性向上促進補助金",
@@ -2827,7 +2827,7 @@
     {
       "as_of_date": "2021-09-27",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-29",
+      "retrieved_at": "2026-07-30",
       "veritas": "✅",
       "metric_id": "jp.subsidy.adoption_stats",
       "program_key": "monodukuri",
@@ -2893,6 +2893,15 @@
           "judgment_ready": false
         },
         {
+          "id": "city-kawasaki-8699433914",
+          "title": "【川崎市】ものづくり補助金（経済産業省） 外部リンク",
+          "detail_url": "http://portal.monodukuri-hojo.jp/",
+          "industry_slugs": [
+            "manufacturing-total"
+          ],
+          "judgment_ready": false
+        },
+        {
           "id": "city-kawasaki-8998822937",
           "title": "【川崎市】ものづくり補助金（経済産業省） 外部リンク",
           "detail_url": "http://portal.monodukuri-hojo.jp/",
@@ -2909,15 +2918,6 @@
             "manufacturing-total"
           ],
           "judgment_ready": false
-        },
-        {
-          "id": "city-kawasaki-214321146",
-          "title": "【川崎市】ものづくり補助金（経済産業省） 外部リンク",
-          "detail_url": "http://portal.monodukuri-hojo.jp/",
-          "industry_slugs": [
-            "manufacturing-total"
-          ],
-          "judgment_ready": false
         }
       ],
       "source": "ものづくり・商業・サービス生産性向上促進補助金",
@@ -2927,7 +2927,7 @@
     {
       "as_of_date": "2021-06-29",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-29",
+      "retrieved_at": "2026-07-30",
       "veritas": "✅",
       "metric_id": "jp.subsidy.adoption_stats",
       "program_key": "monodukuri",
@@ -2993,6 +2993,15 @@
           "judgment_ready": false
         },
         {
+          "id": "city-kawasaki-8699433914",
+          "title": "【川崎市】ものづくり補助金（経済産業省） 外部リンク",
+          "detail_url": "http://portal.monodukuri-hojo.jp/",
+          "industry_slugs": [
+            "manufacturing-total"
+          ],
+          "judgment_ready": false
+        },
+        {
           "id": "city-kawasaki-8998822937",
           "title": "【川崎市】ものづくり補助金（経済産業省） 外部リンク",
           "detail_url": "http://portal.monodukuri-hojo.jp/",
@@ -3009,15 +3018,6 @@
             "manufacturing-total"
           ],
           "judgment_ready": false
-        },
-        {
-          "id": "city-kawasaki-214321146",
-          "title": "【川崎市】ものづくり補助金（経済産業省） 外部リンク",
-          "detail_url": "http://portal.monodukuri-hojo.jp/",
-          "industry_slugs": [
-            "manufacturing-total"
-          ],
-          "judgment_ready": false
         }
       ],
       "source": "ものづくり・商業・サービス生産性向上促進補助金",
@@ -3027,7 +3027,7 @@
     {
       "as_of_date": "2021-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-29",
+      "retrieved_at": "2026-07-30",
       "veritas": "✅",
       "metric_id": "jp.subsidy.adoption_stats",
       "program_key": "monodukuri",
@@ -3093,6 +3093,15 @@
           "judgment_ready": false
         },
         {
+          "id": "city-kawasaki-8699433914",
+          "title": "【川崎市】ものづくり補助金（経済産業省） 外部リンク",
+          "detail_url": "http://portal.monodukuri-hojo.jp/",
+          "industry_slugs": [
+            "manufacturing-total"
+          ],
+          "judgment_ready": false
+        },
+        {
           "id": "city-kawasaki-8998822937",
           "title": "【川崎市】ものづくり補助金（経済産業省） 外部リンク",
           "detail_url": "http://portal.monodukuri-hojo.jp/",
@@ -3109,15 +3118,6 @@
             "manufacturing-total"
           ],
           "judgment_ready": false
-        },
-        {
-          "id": "city-kawasaki-214321146",
-          "title": "【川崎市】ものづくり補助金（経済産業省） 外部リンク",
-          "detail_url": "http://portal.monodukuri-hojo.jp/",
-          "industry_slugs": [
-            "manufacturing-total"
-          ],
-          "judgment_ready": false
         }
       ],
       "source": "ものづくり・商業・サービス生産性向上促進補助金",
@@ -3127,7 +3127,7 @@
     {
       "as_of_date": "2021-02-18",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-29",
+      "retrieved_at": "2026-07-30",
       "veritas": "✅",
       "metric_id": "jp.subsidy.adoption_stats",
       "program_key": "monodukuri",
@@ -3193,6 +3193,15 @@
           "judgment_ready": false
         },
         {
+          "id": "city-kawasaki-8699433914",
+          "title": "【川崎市】ものづくり補助金（経済産業省） 外部リンク",
+          "detail_url": "http://portal.monodukuri-hojo.jp/",
+          "industry_slugs": [
+            "manufacturing-total"
+          ],
+          "judgment_ready": false
+        },
+        {
           "id": "city-kawasaki-8998822937",
           "title": "【川崎市】ものづくり補助金（経済産業省） 外部リンク",
           "detail_url": "http://portal.monodukuri-hojo.jp/",
@@ -3209,15 +3218,6 @@
             "manufacturing-total"
           ],
           "judgment_ready": false
-        },
-        {
-          "id": "city-kawasaki-214321146",
-          "title": "【川崎市】ものづくり補助金（経済産業省） 外部リンク",
-          "detail_url": "http://portal.monodukuri-hojo.jp/",
-          "industry_slugs": [
-            "manufacturing-total"
-          ],
-          "judgment_ready": false
         }
       ],
       "source": "ものづくり・商業・サービス生産性向上促進補助金",
@@ -3227,7 +3227,7 @@
     {
       "as_of_date": "2020-09-25",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-29",
+      "retrieved_at": "2026-07-30",
       "veritas": "✅",
       "metric_id": "jp.subsidy.adoption_stats",
       "program_key": "monodukuri",
@@ -3293,6 +3293,15 @@
           "judgment_ready": false
         },
         {
+          "id": "city-kawasaki-8699433914",
+          "title": "【川崎市】ものづくり補助金（経済産業省） 外部リンク",
+          "detail_url": "http://portal.monodukuri-hojo.jp/",
+          "industry_slugs": [
+            "manufacturing-total"
+          ],
+          "judgment_ready": false
+        },
+        {
           "id": "city-kawasaki-8998822937",
           "title": "【川崎市】ものづくり補助金（経済産業省） 外部リンク",
           "detail_url": "http://portal.monodukuri-hojo.jp/",
@@ -3309,15 +3318,6 @@
             "manufacturing-total"
           ],
           "judgment_ready": false
-        },
-        {
-          "id": "city-kawasaki-214321146",
-          "title": "【川崎市】ものづくり補助金（経済産業省） 外部リンク",
-          "detail_url": "http://portal.monodukuri-hojo.jp/",
-          "industry_slugs": [
-            "manufacturing-total"
-          ],
-          "judgment_ready": false
         }
       ],
       "source": "ものづくり・商業・サービス生産性向上促進補助金",
@@ -3327,7 +3327,7 @@
     {
       "as_of_date": "2020-06-30",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-29",
+      "retrieved_at": "2026-07-30",
       "veritas": "✅",
       "metric_id": "jp.subsidy.adoption_stats",
       "program_key": "monodukuri",
@@ -3393,6 +3393,15 @@
           "judgment_ready": false
         },
         {
+          "id": "city-kawasaki-8699433914",
+          "title": "【川崎市】ものづくり補助金（経済産業省） 外部リンク",
+          "detail_url": "http://portal.monodukuri-hojo.jp/",
+          "industry_slugs": [
+            "manufacturing-total"
+          ],
+          "judgment_ready": false
+        },
+        {
           "id": "city-kawasaki-8998822937",
           "title": "【川崎市】ものづくり補助金（経済産業省） 外部リンク",
           "detail_url": "http://portal.monodukuri-hojo.jp/",
@@ -3409,15 +3418,6 @@
             "manufacturing-total"
           ],
           "judgment_ready": false
-        },
-        {
-          "id": "city-kawasaki-214321146",
-          "title": "【川崎市】ものづくり補助金（経済産業省） 外部リンク",
-          "detail_url": "http://portal.monodukuri-hojo.jp/",
-          "industry_slugs": [
-            "manufacturing-total"
-          ],
-          "judgment_ready": false
         }
       ],
       "source": "ものづくり・商業・サービス生産性向上促進補助金",
@@ -3427,7 +3427,7 @@
     {
       "as_of_date": "2020-04-28",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-07-29",
+      "retrieved_at": "2026-07-30",
       "veritas": "✅",
       "metric_id": "jp.subsidy.adoption_stats",
       "program_key": "monodukuri",
@@ -3493,6 +3493,15 @@
           "judgment_ready": false
         },
         {
+          "id": "city-kawasaki-8699433914",
+          "title": "【川崎市】ものづくり補助金（経済産業省） 外部リンク",
+          "detail_url": "http://portal.monodukuri-hojo.jp/",
+          "industry_slugs": [
+            "manufacturing-total"
+          ],
+          "judgment_ready": false
+        },
+        {
           "id": "city-kawasaki-8998822937",
           "title": "【川崎市】ものづくり補助金（経済産業省） 外部リンク",
           "detail_url": "http://portal.monodukuri-hojo.jp/",
@@ -3503,15 +3512,6 @@
         },
         {
           "id": "city-kawasaki-4021634747",
-          "title": "【川崎市】ものづくり補助金（経済産業省） 外部リンク",
-          "detail_url": "http://portal.monodukuri-hojo.jp/",
-          "industry_slugs": [
-            "manufacturing-total"
-          ],
-          "judgment_ready": false
-        },
-        {
-          "id": "city-kawasaki-214321146",
           "title": "【川崎市】ものづくり補助金（経済産業省） 外部リンク",
           "detail_url": "http://portal.monodukuri-hojo.jp/",
           "industry_slugs": [

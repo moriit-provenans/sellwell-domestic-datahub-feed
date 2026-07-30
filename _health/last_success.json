@@ -43,8 +43,8 @@
     "recrawl_delta_when": 17
   },
   "ok": true,
-  "as_of_date": "2026-07-30",
-  "retrieved_at": "2026-07-30T07:06:37.456978+00:00",
+  "as_of_date": "2026-07-31",
+  "retrieved_at": "2026-07-31T08:15:57+09:00",
   "pdf_body_extracted_count": 7776,
   "pdf_pointer_remaining_count": 608,
   "guidelines_body_count": 13996,
@@ -90,6 +90,28 @@
     },
     "updated_at": "2026-07-30"
   },
-  "workflow": "sellwell_domestic_feed_manual_atlas",
-  "note_ja": "REQ-049 synthesized reconcile + active hb/tl sync"
+  "workflow": "sellwell_domestic_feed_daily",
+  "note_ja": "日次補助金＋Stage4 judgment＋finder_index v2（REQ-030 F / REQ-035 / REQ-044）",
+  "finder_index_schema": "2.0.0",
+  "finder_index_count": 60893,
+  "finder_index_bytes": 17939925,
+  "finder_index_gz_bytes": 3037439,
+  "finder_index_as_of": "2026-07-30",
+  "finder_index_updated_at": "2026-07-31T08:15:45+09:00",
+  "finder_index_exclude": {
+    "dropped_news": 667,
+    "dropped_dead_or_soft_dead": 0,
+    "active_count": 61560
+  },
+  "p0": {
+    "n": 52,
+    "ready": 32,
+    "pct": 61.5
+  },
+  "p1": {
+    "n": 317,
+    "ready": 282,
+    "pct": 89.0
+  },
+  "stage4_items": 14485
 }
