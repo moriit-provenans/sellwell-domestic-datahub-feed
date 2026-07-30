@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-07-29",
+  "generated_at": "2026-07-30",
   "feed_status": "ok",
   "subsidy_open_count": 7653,
   "series_n": 39,
@@ -19,5 +19,31 @@
     "retail_by_channel_obs": 90,
     "census_firms_by_pref_obs": 2408,
     "updated_at": "2026-07-29"
+  },
+  "judgment_ready_total": 930,
+  "req046_3_city": {
+    "city_open": 1665,
+    "how_much": 626,
+    "when_deadline": 357,
+    "ready": 1,
+    "delta_how_much_from_20260729": 189,
+    "delta_when_from_20260729": 83,
+    "filled_this_session_how_much": 572,
+    "filled_this_session_when": 356,
+    "updated_at": "2026-07-30"
+  },
+  "ok": true,
+  "as_of_date": "2026-07-30",
+  "retrieved_at": "2026-07-30T10:40:26.284898+09:00",
+  "pdf_body_extracted_count": 7758,
+  "pdf_pointer_remaining_count": 660,
+  "guidelines_body_count": 13936,
+  "crawl_depth_recorded": 19775,
+  "ready_drop_note_ja": "ライブready=930は日次cron正。ローカル一時369は定型null再適用の副作用で、rebase後はcronベースに復帰。",
+  "req048": {
+    "phase": "pointer_retry_2026-07-30",
+    "replaced_unique": 510,
+    "batch_ok_approx": 240,
+    "updated_at": "2026-07-30"
   }
 }

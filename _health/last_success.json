@@ -1,30 +1,51 @@
 {
-  "ok": true,
-  "workflow": "sellwell_domestic_feed_daily",
-  "retrieved_at": "2026-07-30T08:04:26+09:00",
-  "as_of_date": "2026-07-30",
-  "note_ja": "日次補助金＋Stage4 judgment＋finder_index v2（REQ-030 F / REQ-035 / REQ-044）",
+  "schema_version": "1.0.0",
+  "generated_at": "2026-07-30",
+  "feed_status": "ok",
+  "subsidy_open_count": 7653,
+  "series_n": 39,
+  "stale_or_empty": [],
+  "smith_notify": {
+    "when": "feed_status!=ok OR last_updated が8日超（週次遅延）",
+    "channel": "UDX事業/atlas/from_atlas/ に alert md を置く（Atlas→Smith）"
+  },
+  "ui_failsafe_hint": {
+    "hide_if_as_of_older_than_days": 800,
+    "show_last_updated_banner": true,
+    "prefer_still_valid_2026_true": true
+  },
+  "phase3_req045": {
+    "adoption_observations": 30,
+    "retail_by_channel_obs": 90,
+    "census_firms_by_pref_obs": 2408,
+    "updated_at": "2026-07-29"
+  },
   "judgment_ready_total": 930,
-  "p0": {
-    "n": 52,
-    "ready": 32,
-    "pct": 61.5
+  "req046_3_city": {
+    "city_open": 1665,
+    "how_much": 626,
+    "when_deadline": 357,
+    "ready": 1,
+    "delta_how_much_from_20260729": 189,
+    "delta_when_from_20260729": 83,
+    "filled_this_session_how_much": 572,
+    "filled_this_session_when": 356,
+    "updated_at": "2026-07-30"
   },
-  "p1": {
-    "n": 314,
-    "ready": 280,
-    "pct": 89.2
+  "ok": true,
+  "as_of_date": "2026-07-30",
+  "retrieved_at": "2026-07-30T10:40:26.284898+09:00",
+  "pdf_body_extracted_count": 7758,
+  "pdf_pointer_remaining_count": 660,
+  "guidelines_body_count": 13936,
+  "crawl_depth_recorded": 19775,
+  "ready_drop_note_ja": "ライブready=930は日次cron正。ローカル一時369は定型null再適用の副作用で、rebase後はcronベースに復帰。",
+  "req048": {
+    "phase": "pointer_retry_2026-07-30",
+    "replaced_unique": 510,
+    "batch_ok_approx": 240,
+    "updated_at": "2026-07-30"
   },
-  "stage4_items": 14493,
-  "finder_index_schema": "2.0.0",
-  "finder_index_count": 58097,
-  "finder_index_bytes": 17186784,
-  "finder_index_gz_bytes": 2898355,
-  "finder_index_as_of": "2026-07-29",
-  "finder_index_updated_at": "2026-07-30T08:04:08+09:00",
-  "finder_index_exclude": {
-    "dropped_news": 667,
-    "dropped_dead_or_soft_dead": 0,
-    "active_count": 58764
-  }
+  "workflow": "sellwell_domestic_feed_manual_atlas",
+  "note_ja": "REQ-046-3 city amount/deadline on daily base + REQ-048 PDF pointer retry"
 }
