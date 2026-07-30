@@ -60,8 +60,10 @@
  "as_of_date": "2026-07-29",
  "still_valid_2026": true,
  "veritas": "○",
- "in_active_feed": true,
  "synthesized": false,
  "extract_path": "pdf",
+ "errors": [
+  "https://cms4th.smart-lgov.jp/material/local/1085/files/group/94/R8hojoyoko.pdf::HTTPSConnectionPool(host='cms4th.smart-lgov.jp', port=443): Max retries exceeded with url: /material/local/1085/files/gr"
+ ],
  "note_ja": "REQ-047 Phase2 葉深掘り。text全文・要約・合成なし。"
 }

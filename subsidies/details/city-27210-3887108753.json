@@ -23,12 +23,12 @@
   }
  ],
  "section_n": 3,
- "retrieved_at": "2026-07-29T06:22:52.774037+00:00",
- "as_of_date": "2026-07-29",
+ "retrieved_at": "2026-07-30T01:27:38.846965+00:00",
+ "as_of_date": "2026-07-30",
  "still_valid_2026": true,
  "veritas": "○",
- "in_active_feed": true,
  "synthesized": false,
  "extract_path": "pdf",
- "note_ja": "REQ-047 Phase2 葉深掘り。text全文・要約・合成なし。"
+ "errors": [],
+ "note_ja": "REQ-048 PDF本文抽出。案内HTMLではなく要領PDFの全文。"
 }

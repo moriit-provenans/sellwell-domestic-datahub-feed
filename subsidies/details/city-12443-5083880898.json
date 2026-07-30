@@ -23,8 +23,12 @@
  "as_of_date": "2026-07-29",
  "still_valid_2026": true,
  "veritas": "○",
- "in_active_feed": true,
  "synthesized": false,
- "extract_path": "html",
- "note_ja": "REQ-047 Phase2 葉深掘り。text全文・要約・合成なし。"
+ "extract_path": "C:\\Users\\森英朗\\OneDrive - プロヴェナンスグループ\\PROVENANSグループ\\★エージェント\\Projects\\Atlas\\meta\\guidelines_extract\\city-12443-5083880898.json",
+ "errors": [
+  "https://www.town.onjuku.chiba.jp/sub2/6/content/files/hokenfukushika/fukushi/syougai/GH_uneihihojokin_beppyou.pdf::http_404",
+  "https://www.town.onjuku.chiba.jp/sub2/6/content/files/hokenfukushika/fukushi/syougai/GH_uneihihojokin_koufushinseisyo_pdf.pdf::http_404",
+  "https://www.town.onjuku.chiba.jp/sub2/6/content/files/hokenfukushika/fukushi/syougai/GH_uneihihojokin_koufushinseisyo_besshi_pdf.pdf::http_404"
+ ],
+ "note_ja": "REQ-047/048 設計確定。text は全文。一覧索引へはマージしない。"
 }

@@ -48,8 +48,10 @@
  "as_of_date": "2026-07-29",
  "still_valid_2026": true,
  "veritas": "○",
- "in_active_feed": true,
  "synthesized": false,
  "extract_path": "pdf",
+ "errors": [
+  "https://app-as.readspeaker.com/cgi-bin/rsent?customerid=9284&lang=ja_jp&readid=main_outline&url=::http_400"
+ ],
  "note_ja": "REQ-047 Phase2 葉深掘り。text全文・要約・合成なし。"
 }

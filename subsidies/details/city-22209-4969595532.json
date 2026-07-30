@@ -24,8 +24,10 @@
  "as_of_date": "2026-07-29",
  "still_valid_2026": true,
  "veritas": "○",
- "in_active_feed": true,
  "synthesized": false,
  "extract_path": "pdf",
+ "errors": [
+  "https://www.city.shimada.shizuoka.jp/fs/7/2/8/7/6/1/_/2-sp.pdf::http_404"
+ ],
  "note_ja": "REQ-047 Phase2 葉深掘り。text全文・要約・合成なし。"
 }

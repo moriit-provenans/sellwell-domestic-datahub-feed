@@ -19,8 +19,10 @@
  "as_of_date": "2026-07-29",
  "still_valid_2026": true,
  "veritas": "○",
- "in_active_feed": true,
  "synthesized": false,
- "extract_path": "html",
- "note_ja": "REQ-047 Phase2 葉深掘り。text全文・要約・合成なし。"
+ "extract_path": "C:\\Users\\森英朗\\OneDrive - プロヴェナンスグループ\\PROVENANSグループ\\★エージェント\\Projects\\Atlas\\meta\\guidelines_extract\\city-20414-9121529543.json",
+ "errors": [
+  "http://admin.vill.yasuoka.nagano.jp/fs/2/1/4/1/1/5/_/20414_%E9%95%B7%E9%87%8E%E7%9C%8C_%E6%B3%B0%E9%98%9C%E6%9D%91_%E9%87%8D%E7%82%B9%E6%94%AF%E6%8F%B4%E5%9C%B0%E6%96%B9%E4%BA%A4%E4%BB%98%E9%87%91%E3%81%AE%E6%B4%BB%E7%94%A8%E7%8A%B6%E6%B3%81.pdf?_=1782450759::http_403"
+ ],
+ "note_ja": "REQ-047/048 設計確定。text は全文。一覧索引へはマージしない。"
 }

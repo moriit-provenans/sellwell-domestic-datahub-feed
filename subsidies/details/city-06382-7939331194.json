@@ -32,12 +32,12 @@
   }
  ],
  "section_n": 5,
- "retrieved_at": "2026-07-29T01:46:20.269825+00:00",
- "as_of_date": "2026-07-29",
+ "retrieved_at": "2026-07-30T01:26:51.284841+00:00",
+ "as_of_date": "2026-07-30",
  "still_valid_2026": true,
  "veritas": "○",
  "synthesized": false,
  "extract_path": "pdf",
  "errors": [],
- "note_ja": "REQ-047/048 設計確定。text は全文。一覧索引へはマージしない。"
+ "note_ja": "REQ-048 PDF本文抽出。案内HTMLではなく要領PDFの全文。"
 }

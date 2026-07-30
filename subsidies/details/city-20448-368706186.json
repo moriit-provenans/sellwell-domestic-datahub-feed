@@ -20,8 +20,10 @@
  "as_of_date": "2026-07-29",
  "still_valid_2026": true,
  "veritas": "○",
- "in_active_feed": true,
  "synthesized": false,
  "extract_path": "pdf",
+ "errors": [
+  "https://www.heco-hojo.jp/danref/doc/danref_kohbo_R6_09.pdf::http_404"
+ ],
  "note_ja": "REQ-047 Phase2 葉深掘り。text全文・要約・合成なし。"
 }

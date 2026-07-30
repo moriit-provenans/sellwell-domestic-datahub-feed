@@ -188,8 +188,10 @@
  "as_of_date": "2026-07-29",
  "still_valid_2026": true,
  "veritas": "○",
- "in_active_feed": true,
  "synthesized": false,
  "extract_path": "pdf",
+ "errors": [
+  "ttps://www.city.ishioka.lg.jp/data/doc/1777601711_doc_44_0.pdf::No connection adapters were found for 'ttps://www.city.ishioka.lg.jp/data/doc/1777601711_doc_44_0.pdf'"
+ ],
  "note_ja": "REQ-047 Phase2 葉深掘り。text全文・要約・合成なし。"
 }
