@@ -44,7 +44,7 @@
   },
   "ok": true,
   "as_of_date": "2026-07-30",
-  "retrieved_at": "2026-07-30T13:20:54.269123+09:00",
+  "retrieved_at": "2026-07-30T07:06:37.456978+00:00",
   "pdf_body_extracted_count": 7776,
   "pdf_pointer_remaining_count": 608,
   "guidelines_body_count": 13996,
@@ -69,6 +69,25 @@
     "guidelines_body_count": 13996,
     "guidelines_body_bytes": 81782137,
     "crawl_depth_recorded": 19814,
+    "updated_at": "2026-07-30"
+  },
+  "synthesized_count": 985,
+  "synthesized_ratio": 0.0168,
+  "has_guidelines_body_count": 13972,
+  "req049": {
+    "phase": "reconcile",
+    "before_true": 135,
+    "after_true": 985,
+    "marked_new": 856,
+    "cleared_false_negatives_fixed": 6,
+    "hb_set": 13972,
+    "details_ge200": 13996,
+    "cause": {
+      "reported_3783_source": "2026-07-29 tip付近の run_047_scrub_and_enrich_shortfields 実行時に judgment.synthesized を付与した内部カウント（health.synthesized_count）。当時の rebuild でテンプレ経路に入った件を広く true 化した。",
+      "why_public_now_low": "その後の日次 cron（例: 2026-07-30 7a73abd5）が active を再生成し、Stage4/glance 経路で synthesized キーが大半落ちた。手動 046/048 波も judgment を部分更新するが、テンプレ再検出を全件再走していない。公開/ローカル実測は before_true=135（Smith 135 と一致系統）。",
+      "tip_e8325f8_note": "e8325f8 は Phase3 depth/bodies の tip。synthesized 3,783 は同日の短文 honesty コミット（2ad36ae6 系）報告値。日次上書き後は 135 前後が正。",
+      "fix": "本REQ-049でテンプレ検出を再適用し true 件数を health と一致させる。併せて has_guidelines_body/guidelines_text_len を details index から active に同期。run_048 の publish が hb/tl を pop していた点は別途修正。"
+    },
     "updated_at": "2026-07-30"
   }
 }
