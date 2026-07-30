@@ -2,16 +2,16 @@
  "schema_version": "1.0.0",
  "req": "REQ-SMITH-20260727-047",
  "phase": "A_design_aligned",
- "generated_at": "2026-07-30T01:29:54.777037+00:00",
+ "generated_at": "2026-07-30T04:12:50.811820+00:00",
  "as_of_date": "2026-07-30",
  "path_pattern": "subsidies/details/{id}.json",
  "index_jsonl_gz": "subsidies/details/_index.jsonl.gz",
- "count": 13936,
+ "count": 13996,
  "text_len": {
   "min": 210,
-  "median": 3504,
+  "median": 3505,
   "max": 107837,
-  "sum": 81413350
+  "sum": 81782137
  },
  "note_ja": "確定設計準拠。目録の正本は _index.jsonl.gz。本JSONはサマリ互換。"
 }

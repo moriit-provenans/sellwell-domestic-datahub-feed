@@ -24,12 +24,12 @@
   }
  ],
  "section_n": 3,
- "retrieved_at": "2026-07-28T05:43:16.983172+00:00",
- "as_of_date": "2026-07-28",
+ "retrieved_at": "2026-07-30T04:08:18.016431+00:00",
+ "as_of_date": "2026-07-30",
  "still_valid_2026": true,
  "veritas": "○",
  "synthesized": false,
  "extract_path": "pdf",
  "errors": [],
- "note_ja": "REQ-047/048 設計確定。text は全文。一覧索引へはマージしない。 REQ-048 PDF本文."
+ "note_ja": "REQ-046-3 city recrawl. text全文・創作なし。"
 }

@@ -15,12 +15,12 @@
   }
  ],
  "section_n": 1,
- "retrieved_at": "2026-07-28T00:21:06.322937+00:00",
- "as_of_date": "2026-07-28",
+ "retrieved_at": "2026-07-30T04:08:16.182800+00:00",
+ "as_of_date": "2026-07-30",
  "still_valid_2026": true,
  "veritas": "○",
  "synthesized": false,
- "extract_path": "C:\\Users\\森英朗\\OneDrive - プロヴェナンスグループ\\PROVENANSグループ\\★エージェント\\Projects\\Atlas\\meta\\guidelines_extract\\city-27203-7170399356.json",
+ "extract_path": "html",
  "errors": [],
  "note_ja": "REQ-047/048 設計確定。text は全文。一覧索引へはマージしない。"
 }

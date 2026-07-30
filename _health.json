@@ -20,30 +20,55 @@
     "census_firms_by_pref_obs": 2408,
     "updated_at": "2026-07-29"
   },
-  "judgment_ready_total": 930,
+  "judgment_ready_total": 934,
   "req046_3_city": {
     "city_open": 1665,
-    "how_much": 626,
-    "when_deadline": 357,
-    "ready": 1,
-    "delta_how_much_from_20260729": 189,
-    "delta_when_from_20260729": 83,
-    "filled_this_session_how_much": 572,
-    "filled_this_session_when": 356,
-    "updated_at": "2026-07-30"
+    "how_much": 652,
+    "when_deadline": 374,
+    "ready": 5,
+    "filled_how_much": 0,
+    "filled_when": 0,
+    "filled_where": 0,
+    "became_ready": 5,
+    "updated_at": "2026-07-30",
+    "baseline_2026_07_29": {
+      "how_much": 437,
+      "when_deadline": 274
+    },
+    "baseline_morning": {
+      "how_much": 626,
+      "when_deadline": 357
+    },
+    "recrawl_delta_how_much": 26,
+    "recrawl_delta_when": 17
   },
   "ok": true,
   "as_of_date": "2026-07-30",
-  "retrieved_at": "2026-07-30T10:40:26.284898+09:00",
-  "pdf_body_extracted_count": 7758,
-  "pdf_pointer_remaining_count": 660,
-  "guidelines_body_count": 13936,
-  "crawl_depth_recorded": 19775,
+  "retrieved_at": "2026-07-30T13:20:54.269123+09:00",
+  "pdf_body_extracted_count": 7776,
+  "pdf_pointer_remaining_count": 608,
+  "guidelines_body_count": 13996,
+  "crawl_depth_recorded": 19814,
   "ready_drop_note_ja": "ライブready=930は日次cron正。ローカル一時369は定型null再適用の副作用で、rebase後はcronベースに復帰。",
   "req048": {
-    "phase": "pointer_retry_2026-07-30",
-    "replaced_unique": 510,
-    "batch_ok_approx": 240,
+    "phase": "youkou_harvest_2026-07-30pm",
+    "replaced_unique": 569,
+    "phase2_target": 700,
+    "ok": 827,
+    "fail": 225,
+    "scan_only": 195,
+    "no_pdf": 870,
+    "http_fail": 30,
+    "updated_at": "2026-07-30",
+    "batch_ok": 66
+  },
+  "guidelines_body_bytes": 81782137,
+  "pdf_extract_fail_ledger": "Atlas/operations/session_handoff/_048_pdf_fail_ledger.jsonl",
+  "subsidy_body_req047": {
+    "details_published": 13996,
+    "guidelines_body_count": 13996,
+    "guidelines_body_bytes": 81782137,
+    "crawl_depth_recorded": 19814,
     "updated_at": "2026-07-30"
   }
 }

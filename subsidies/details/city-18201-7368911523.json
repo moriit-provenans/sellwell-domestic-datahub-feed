@@ -1,0 +1,26 @@
+{
+ "schema_version": "1.0.0",
+ "id": "city-18201-7368911523",
+ "title": "【福井市】助成・補助",
+ "guidelines_url": "https://www.city.fukui.lg.jp/sisei/hojyo/index.html",
+ "source_urls": [
+  "https://www.city.fukui.lg.jp/sisei/hojyo/index.html"
+ ],
+ "text": "助成・補助 | 福井市ホームページ 音声読み上げ 文字サイズ 標準 拡大 文字色・背景色 黒 白 黄 Language 日本語 English 中国语 （中国語簡体） 中國語 （中国語繁体） 한국어 Português Tagalog Tiếng Việt bahasa Indonesia MENU くらし 健康・福祉・保険 教育・スポーツ・学習 仕事・産業 観光・文化・イベント 市政情報 ホーム ＞ 市政情報 ＞ 助成・補助 助成・補助 くらし 健康・福祉・保険 教育・スポーツ・学習 仕事・産業 観光・文化・イベント その他 有料広告欄 バナー広告掲載のご案内 ホーム 手続きナビ AIチャット ページトップ 福井市役所 〒910-8511 福井県福井市大手3丁目10番1号 GoogleMap / フロアマップ 電話番号 0776-20-5111（代表） 業務時間 平日8時30分から17時15分 サイトマップ サイトポリシー 福井市の紹介 市の人口 人口 250,974 人 世帯数 110,044 世帯 2026年7月1日現在 サイトマップ サイトポリシー COPYRIGHT © FUKUI CITY",
+ "text_len": 508,
+ "sections": [
+  {
+   "heading": null,
+   "text": "助成・補助 | 福井市ホームページ 音声読み上げ 文字サイズ 標準 拡大 文字色・背景色 黒 白 黄 Language 日本語 English 中国语 （中国語簡体） 中國語 （中国語繁体） 한국어 Português Tagalog Tiếng Việt bahasa Indonesia MENU くらし 健康・福祉・保険 教育・スポーツ・学習 仕事・産業 観光・文化・イベント 市政情報 ホーム ＞ 市政情報 ＞ 助成・補助 助成・補助 くらし 健康・福祉・保険 教育・スポーツ・学習 仕事・産業 観光・文化・イベント その他 有料広告欄 バナー広告掲載のご案内 ホーム 手続きナビ AIチャット ページトップ 福井市役所 〒910-8511 福井県福井市大手3丁目10番1号 GoogleMap / フロアマップ 電話番号 0776-20-5111（代表） 業務時間 平日8時30分から17時15分 サイトマップ サイトポリシー 福井市の紹介 市の人口 人口 250,974 人 世帯数 110,044 世帯 2026年7月1日現在 サイトマップ サイトポリシー COPYRIGHT © FUKUI CITY"
+  }
+ ],
+ "section_n": 1,
+ "retrieved_at": "2026-07-30T04:07:41.041827+00:00",
+ "as_of_date": "2026-07-30",
+ "still_valid_2026": true,
+ "veritas": "○",
+ "synthesized": false,
+ "extract_path": "html",
+ "errors": [],
+ "note_ja": "REQ-047/048 設計確定。text は全文。一覧索引へはマージしない。"
+}
