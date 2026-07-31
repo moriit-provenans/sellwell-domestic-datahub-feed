@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-07-30",
+  "generated_at": "2026-07-31",
   "feed_status": "ok",
-  "subsidy_open_count": 7653,
+  "subsidy_open_count": 7641,
   "series_n": 39,
   "stale_or_empty": [],
   "smith_notify": {
@@ -18,100 +18,159 @@
     "adoption_observations": 30,
     "retail_by_channel_obs": 90,
     "census_firms_by_pref_obs": 2408,
-    "updated_at": "2026-07-29"
+    "updated_at": "2026-07-30"
   },
-  "judgment_ready_total": 934,
-  "req046_3_city": {
-    "city_open": 1665,
-    "how_much": 652,
-    "when_deadline": 374,
-    "ready": 5,
-    "filled_how_much": 0,
-    "filled_when": 0,
-    "filled_where": 0,
-    "became_ready": 5,
-    "updated_at": "2026-07-30",
-    "baseline_2026_07_29": {
-      "how_much": 437,
-      "when_deadline": 274
-    },
-    "baseline_morning": {
-      "how_much": 626,
-      "when_deadline": 357
-    },
-    "recrawl_delta_how_much": 26,
-    "recrawl_delta_when": 17
-  },
-  "ok": true,
   "as_of_date": "2026-07-31",
-  "retrieved_at": "2026-07-31T08:15:57+09:00",
-  "pdf_body_extracted_count": 7776,
-  "pdf_pointer_remaining_count": 608,
-  "guidelines_body_count": 13996,
-  "crawl_depth_recorded": 19814,
-  "ready_drop_note_ja": "ライブready=930は日次cron正。ローカル一時369は定型null再適用の副作用で、rebase後はcronベースに復帰。",
-  "req048": {
-    "phase": "youkou_harvest_2026-07-30pm",
-    "replaced_unique": 569,
-    "phase2_target": 700,
-    "ok": 827,
-    "fail": 225,
-    "scan_only": 195,
-    "no_pdf": 870,
-    "http_fail": 30,
-    "updated_at": "2026-07-30",
-    "batch_ok": 66
+  "retrieved_at": "2026-07-31T07:01:58.399727+00:00",
+  "items_total": 25379,
+  "judgment_ready_total": 922,
+  "has_guidelines_body_count": 8956,
+  "req050": {
+    "before": 61560,
+    "after": 25379,
+    "removed": 36181,
+    "dup_urls_before": 3190,
+    "merged_pairs": 3190,
+    "remain_dup_urls": 0,
+    "remain_involved": 0,
+    "cause": "prefecture_pilot/ministry が abs(hash(url))%10**10 でID生成。Python3の hash() は PYTHONHASHSEED によりプロセスごとに変わり、同一detail_urlでも毎回新規ID。増分L7/L8はURL未正規化照合で取りこぼし。coverage.dedup.merged_pairs は merge_items 実行時のみ更新され増分経路では常に0。",
+    "fix": "hash→sha1(normalize_url) の安定ID化。L78 by_url を normalize_url 化。本バックフィルで既存重複を統合。",
+    "ledger": "Atlas/operations/session_handoff/_050_url_dedup_ledger.jsonl",
+    "updated_at": "2026-07-31"
   },
-  "guidelines_body_bytes": 81782137,
-  "pdf_extract_fail_ledger": "Atlas/operations/session_handoff/_048_pdf_fail_ledger.jsonl",
-  "subsidy_body_req047": {
-    "details_published": 13996,
-    "guidelines_body_count": 13996,
-    "guidelines_body_bytes": 81782137,
-    "crawl_depth_recorded": 19814,
-    "updated_at": "2026-07-30"
+  "dedup": {
+    "merged_pairs": 3190,
+    "merged_items_removed": 36181,
+    "dup_urls_before": 3190,
+    "involved_before": 39371,
+    "extra_before": 36181,
+    "remain_dup_urls": 0,
+    "remain_involved": 0,
+    "merged_top20": [
+      {
+        "url": "https://translate.google.com/translate",
+        "n": 61,
+        "keep_id": "prefecture-shizuoka-fix-82620987",
+        "drop_n": 60
+      },
+      {
+        "url": "https://kobecity.form.kintoneapp.com/public/35198634359250862fbe52ac36e689a3efe094763b48ebc889044470727322b4",
+        "n": 31,
+        "keep_id": "city-kobe-4990272999",
+        "drop_n": 30
+      },
+      {
+        "url": "http://db.pref.tottori.jp/shisaku_joho.nsf/(ForWebSearch_pref)",
+        "n": 18,
+        "keep_id": "prefecture-tottori-fix2-8250505007",
+        "drop_n": 17
+      },
+      {
+        "url": "https://it-shien.smrj.go.jp",
+        "n": 18,
+        "keep_id": "national-canonical:meti-it",
+        "drop_n": 17
+      },
+      {
+        "url": "https://www.ccjc-net.or.jp/category_list.php",
+        "n": 18,
+        "keep_id": "deep-kanagawa-n2-8202d55efe49",
+        "drop_n": 17
+      },
+      {
+        "url": "https://www.ktc.ksrp.or.jp/grant",
+        "n": 16,
+        "keep_id": "deep-kitakyushu-9ad7eb5e4f33",
+        "drop_n": 15
+      },
+      {
+        "url": "https://www.ccjc-net.or.jp/contents_detail.php",
+        "n": 16,
+        "keep_id": "deep-kanagawa-n2-9b6bd7dbb14a",
+        "drop_n": 15
+      },
+      {
+        "url": "https://www.pref.tottori.lg.jp/dd.aspx",
+        "n": 15,
+        "keep_id": "deep-tottori-z1-31924a9b0948",
+        "drop_n": 14
+      },
+      {
+        "url": "https://portal.monodukuri-hojo.jp",
+        "n": 15,
+        "keep_id": "national-canonical:meti-monozukuri",
+        "drop_n": 14
+      },
+      {
+        "url": "https://oita-chusho.jp/support",
+        "n": 15,
+        "keep_id": "prefecture-oita-w3-2597247105",
+        "drop_n": 14
+      },
+      {
+        "url": "https://www.pref.iwate.jp/kensei/nyuusatsu/1010807/1085685.html",
+        "n": 14,
+        "keep_id": "deep-iwate-23e83d58e8ce",
+        "drop_n": 13
+      },
+      {
+        "url": "https://iwate-bukkakoutoutaisaku.pref.iwate.jp",
+        "n": 14,
+        "keep_id": "deep-iwate2-43ca1fab76ca",
+        "drop_n": 13
+      },
+      {
+        "url": "https://www.pref.iwate.jp/sangyoukoyou/koyouroudou/koyou/1017342/1095982.html",
+        "n": 14,
+        "keep_id": "deep-iwate2-1f5bda4598d9",
+        "drop_n": 13
+      },
+      {
+        "url": "https://www.pref.iwate.jp/sangyoukoyou/koyouroudou/koyou/1017342/1099133.html",
+        "n": 14,
+        "keep_id": "deep-iwate2-b6a1e8f68f93",
+        "drop_n": 13
+      },
+      {
+        "url": "https://www.pref.iwate.jp/sangyoukoyou/sangyoushinkou/shoku/1074015.html",
+        "n": 14,
+        "keep_id": "deep-iwate2-dbe02685b593",
+        "drop_n": 13
+      },
+      {
+        "url": "https://www.pref.iwate.jp/shinsaifukkou/nariwai/sonota/1053501.html",
+        "n": 14,
+        "keep_id": "deep-iwate2-1d8999aea33e",
+        "drop_n": 13
+      },
+      {
+        "url": "https://www.pref.iwate.jp/engan/keiei/1072771/shien/1013973.html",
+        "n": 14,
+        "keep_id": "deep-iwate2-b4a9c1dca61d",
+        "drop_n": 13
+      },
+      {
+        "url": "https://www.pref.iwate.jp/sangyoukoyou/koyouroudou/koyou/1017342/index.html",
+        "n": 14,
+        "keep_id": "deep-iwate2-6dd455d3e91d",
+        "drop_n": 13
+      },
+      {
+        "url": "https://www.pref.iwate.jp/sangyoukoyou/koyouroudou/koyou/1017342/1095984.html",
+        "n": 14,
+        "keep_id": "deep-iwate2-0fe0a836f517",
+        "drop_n": 13
+      },
+      {
+        "url": "https://www.pref.iwate.jp/_res/projects/default_project/_page_/001/095/982/youryou7.pdf",
+        "n": 14,
+        "keep_id": "deep-iwate2-0f965a559616",
+        "drop_n": 13
+      }
+    ],
+    "note_ja": "REQ-050: normalize_url(detail_url)完全一致で1件に統合。hash()乱数IDの再発防止済。",
+    "updated_at": "2026-07-31"
   },
-  "synthesized_count": 985,
-  "synthesized_ratio": 0.0168,
-  "has_guidelines_body_count": 13972,
-  "req049": {
-    "phase": "reconcile",
-    "before_true": 135,
-    "after_true": 985,
-    "marked_new": 856,
-    "cleared_false_negatives_fixed": 6,
-    "hb_set": 13972,
-    "details_ge200": 13996,
-    "cause": {
-      "reported_3783_source": "2026-07-29 tip付近の run_047_scrub_and_enrich_shortfields 実行時に judgment.synthesized を付与した内部カウント（health.synthesized_count）。当時の rebuild でテンプレ経路に入った件を広く true 化した。",
-      "why_public_now_low": "その後の日次 cron（例: 2026-07-30 7a73abd5）が active を再生成し、Stage4/glance 経路で synthesized キーが大半落ちた。手動 046/048 波も judgment を部分更新するが、テンプレ再検出を全件再走していない。公開/ローカル実測は before_true=135（Smith 135 と一致系統）。",
-      "tip_e8325f8_note": "e8325f8 は Phase3 depth/bodies の tip。synthesized 3,783 は同日の短文 honesty コミット（2ad36ae6 系）報告値。日次上書き後は 135 前後が正。",
-      "fix": "本REQ-049でテンプレ検出を再適用し true 件数を health と一致させる。併せて has_guidelines_body/guidelines_text_len を details index から active に同期。run_048 の publish が hb/tl を pop していた点は別途修正。"
-    },
-    "updated_at": "2026-07-30"
-  },
-  "workflow": "sellwell_domestic_feed_daily",
-  "note_ja": "日次補助金＋Stage4 judgment＋finder_index v2（REQ-030 F / REQ-035 / REQ-044）",
-  "finder_index_schema": "2.0.0",
-  "finder_index_count": 60893,
-  "finder_index_bytes": 17939925,
-  "finder_index_gz_bytes": 3037439,
-  "finder_index_as_of": "2026-07-30",
-  "finder_index_updated_at": "2026-07-31T08:15:45+09:00",
-  "finder_index_exclude": {
-    "dropped_news": 667,
-    "dropped_dead_or_soft_dead": 0,
-    "active_count": 61560
-  },
-  "p0": {
-    "n": 52,
-    "ready": 32,
-    "pct": 61.5
-  },
-  "p1": {
-    "n": 317,
-    "ready": 282,
-    "pct": 89.0
-  },
-  "stage4_items": 14485
+  "workflow": "sellwell_domestic_feed_manual_atlas",
+  "note_ja": "REQ-050 URL dedup backfill"
 }

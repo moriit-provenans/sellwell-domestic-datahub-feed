@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-07-30",
+  "generated_at": "2026-07-31",
   "feed_status": "ok",
   "subsidy_open_count": 7641,
   "series_n": 39,
@@ -19,5 +19,156 @@
     "retail_by_channel_obs": 90,
     "census_firms_by_pref_obs": 2408,
     "updated_at": "2026-07-30"
+  },
+  "as_of_date": "2026-07-31",
+  "retrieved_at": "2026-07-31T07:01:58.399727+00:00",
+  "items_total": 25379,
+  "judgment_ready_total": 922,
+  "has_guidelines_body_count": 9011,
+  "req050": {
+    "before": 61560,
+    "after": 25379,
+    "removed": 36181,
+    "dup_urls_before": 3190,
+    "merged_pairs": 3190,
+    "remain_dup_urls": 0,
+    "remain_involved": 0,
+    "cause": "prefecture_pilot/ministry が abs(hash(url))%10**10 でID生成。Python3の hash() は PYTHONHASHSEED によりプロセスごとに変わり、同一detail_urlでも毎回新規ID。増分L7/L8はURL未正規化照合で取りこぼし。coverage.dedup.merged_pairs は merge_items 実行時のみ更新され増分経路では常に0。",
+    "fix": "hash→sha1(normalize_url) の安定ID化。L78 by_url を normalize_url 化。本バックフィルで既存重複を統合。",
+    "ledger": "Atlas/operations/session_handoff/_050_url_dedup_ledger.jsonl",
+    "updated_at": "2026-07-31"
+  },
+  "dedup": {
+    "merged_pairs": 3190,
+    "merged_items_removed": 36181,
+    "dup_urls_before": 3190,
+    "involved_before": 39371,
+    "extra_before": 36181,
+    "remain_dup_urls": 0,
+    "remain_involved": 0,
+    "merged_top20": [
+      {
+        "url": "https://translate.google.com/translate",
+        "n": 61,
+        "keep_id": "prefecture-shizuoka-fix-82620987",
+        "drop_n": 60
+      },
+      {
+        "url": "https://kobecity.form.kintoneapp.com/public/35198634359250862fbe52ac36e689a3efe094763b48ebc889044470727322b4",
+        "n": 31,
+        "keep_id": "city-kobe-4990272999",
+        "drop_n": 30
+      },
+      {
+        "url": "http://db.pref.tottori.jp/shisaku_joho.nsf/(ForWebSearch_pref)",
+        "n": 18,
+        "keep_id": "prefecture-tottori-fix2-8250505007",
+        "drop_n": 17
+      },
+      {
+        "url": "https://it-shien.smrj.go.jp",
+        "n": 18,
+        "keep_id": "national-canonical:meti-it",
+        "drop_n": 17
+      },
+      {
+        "url": "https://www.ccjc-net.or.jp/category_list.php",
+        "n": 18,
+        "keep_id": "deep-kanagawa-n2-8202d55efe49",
+        "drop_n": 17
+      },
+      {
+        "url": "https://www.ktc.ksrp.or.jp/grant",
+        "n": 16,
+        "keep_id": "deep-kitakyushu-9ad7eb5e4f33",
+        "drop_n": 15
+      },
+      {
+        "url": "https://www.ccjc-net.or.jp/contents_detail.php",
+        "n": 16,
+        "keep_id": "deep-kanagawa-n2-9b6bd7dbb14a",
+        "drop_n": 15
+      },
+      {
+        "url": "https://www.pref.tottori.lg.jp/dd.aspx",
+        "n": 15,
+        "keep_id": "deep-tottori-z1-31924a9b0948",
+        "drop_n": 14
+      },
+      {
+        "url": "https://portal.monodukuri-hojo.jp",
+        "n": 15,
+        "keep_id": "national-canonical:meti-monozukuri",
+        "drop_n": 14
+      },
+      {
+        "url": "https://oita-chusho.jp/support",
+        "n": 15,
+        "keep_id": "prefecture-oita-w3-2597247105",
+        "drop_n": 14
+      },
+      {
+        "url": "https://www.pref.iwate.jp/kensei/nyuusatsu/1010807/1085685.html",
+        "n": 14,
+        "keep_id": "deep-iwate-23e83d58e8ce",
+        "drop_n": 13
+      },
+      {
+        "url": "https://iwate-bukkakoutoutaisaku.pref.iwate.jp",
+        "n": 14,
+        "keep_id": "deep-iwate2-43ca1fab76ca",
+        "drop_n": 13
+      },
+      {
+        "url": "https://www.pref.iwate.jp/sangyoukoyou/koyouroudou/koyou/1017342/1095982.html",
+        "n": 14,
+        "keep_id": "deep-iwate2-1f5bda4598d9",
+        "drop_n": 13
+      },
+      {
+        "url": "https://www.pref.iwate.jp/sangyoukoyou/koyouroudou/koyou/1017342/1099133.html",
+        "n": 14,
+        "keep_id": "deep-iwate2-b6a1e8f68f93",
+        "drop_n": 13
+      },
+      {
+        "url": "https://www.pref.iwate.jp/sangyoukoyou/sangyoushinkou/shoku/1074015.html",
+        "n": 14,
+        "keep_id": "deep-iwate2-dbe02685b593",
+        "drop_n": 13
+      },
+      {
+        "url": "https://www.pref.iwate.jp/shinsaifukkou/nariwai/sonota/1053501.html",
+        "n": 14,
+        "keep_id": "deep-iwate2-1d8999aea33e",
+        "drop_n": 13
+      },
+      {
+        "url": "https://www.pref.iwate.jp/engan/keiei/1072771/shien/1013973.html",
+        "n": 14,
+        "keep_id": "deep-iwate2-b4a9c1dca61d",
+        "drop_n": 13
+      },
+      {
+        "url": "https://www.pref.iwate.jp/sangyoukoyou/koyouroudou/koyou/1017342/index.html",
+        "n": 14,
+        "keep_id": "deep-iwate2-6dd455d3e91d",
+        "drop_n": 13
+      },
+      {
+        "url": "https://www.pref.iwate.jp/sangyoukoyou/koyouroudou/koyou/1017342/1095984.html",
+        "n": 14,
+        "keep_id": "deep-iwate2-0fe0a836f517",
+        "drop_n": 13
+      },
+      {
+        "url": "https://www.pref.iwate.jp/_res/projects/default_project/_page_/001/095/982/youryou7.pdf",
+        "n": 14,
+        "keep_id": "deep-iwate2-0f965a559616",
+        "drop_n": 13
+      }
+    ],
+    "note_ja": "REQ-050: normalize_url(detail_url)完全一致で1件に統合。hash()乱数IDの再発防止済。",
+    "updated_at": "2026-07-31"
   }
 }
