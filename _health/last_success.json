@@ -20,10 +20,10 @@
     "census_firms_by_pref_obs": 2408,
     "updated_at": "2026-07-30"
   },
-  "as_of_date": "2026-07-31",
-  "retrieved_at": "2026-07-31T07:01:58.399727+00:00",
+  "as_of_date": "2026-08-01",
+  "retrieved_at": "2026-08-01T08:08:40+09:00",
   "items_total": 25379,
-  "judgment_ready_total": 922,
+  "judgment_ready_total": 940,
   "has_guidelines_body_count": 8956,
   "req050": {
     "before": 61560,
@@ -171,6 +171,29 @@
     "note_ja": "REQ-050: normalize_url(detail_url)完全一致で1件に統合。hash()乱数IDの再発防止済。",
     "updated_at": "2026-07-31"
   },
-  "workflow": "sellwell_domestic_feed_manual_atlas",
-  "note_ja": "REQ-050 URL dedup backfill"
+  "workflow": "sellwell_domestic_feed_daily",
+  "note_ja": "日次補助金＋Stage4 judgment＋finder_index v2（REQ-030 F / REQ-035 / REQ-044）",
+  "finder_index_schema": "2.0.0",
+  "finder_index_count": 27576,
+  "finder_index_bytes": 14956441,
+  "finder_index_gz_bytes": 1783577,
+  "finder_index_as_of": "2026-07-31",
+  "finder_index_updated_at": "2026-08-01T08:08:27+09:00",
+  "finder_index_exclude": {
+    "dropped_news": 631,
+    "dropped_dead_or_soft_dead": 0,
+    "active_count": 28207
+  },
+  "ok": true,
+  "p0": {
+    "n": 51,
+    "ready": 31,
+    "pct": 60.8
+  },
+  "p1": {
+    "n": 309,
+    "ready": 273,
+    "pct": 88.3
+  },
+  "stage4_items": 13929
 }
