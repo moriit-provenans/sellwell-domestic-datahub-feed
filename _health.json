@@ -2,7 +2,7 @@
   "schema_version": "1.0.0",
   "generated_at": "2026-08-01",
   "feed_status": "ok",
-  "subsidy_open_count": 7588,
+  "subsidy_open_count": 7593,
   "series_n": 39,
   "stale_or_empty": [],
   "smith_notify": {
@@ -18,24 +18,6 @@
     "adoption_observations": 30,
     "retail_by_channel_obs": 90,
     "census_firms_by_pref_obs": 2408,
-    "updated_at": "2026-07-31"
-  },
-  "req051_canonical_body": {
-    "canonical_count": 48,
-    "canonical_hb": 38,
-    "canonical_hb_pct": 79.2,
-    "fit_trunc_before_mukete": 0,
-    "wp_total": 7106,
-    "wp_in_fit": 0,
-    "wp_in_fit_pct": 0.0,
-    "catalog_total": 40,
-    "feed_items_from_catalog": 48,
-    "fit_fixed": 6212,
-    "crawl_ok_body": 0,
-    "crawl_fail": 0,
-    "crawl_skipped_short": 0,
-    "finder_index_count": 27576,
-    "details_total": 14051,
-    "updated_at": "2026-08-01T06:11:10.821960+00:00"
+    "updated_at": "2026-08-01"
   }
 }
