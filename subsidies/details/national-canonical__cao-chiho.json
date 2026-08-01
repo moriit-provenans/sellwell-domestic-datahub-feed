@@ -1,0 +1,28 @@
+{
+ "schema_version": "1.0.0",
+ "id": "national-canonical:cao-chiho",
+ "title": "地方創生関連交付金・補助",
+ "guidelines_url": "https://www.chisou.go.jp/sousei/",
+ "source_urls": [
+  "https://www.chisou.go.jp/sousei/"
+ ],
+ "text": "地方創生 キーワードで探す 一般の方 > 企業の方 > NPOの方 > 地方公共団体の方 > 新着情報 Read More 注目ワード ▶ 地域未来戦略 ▶ 「地域課題」ダッシュボードβ版 ▶ 地域未来交付金 ▶ 「新結合」相談窓口 ▶ 地域産品の海外展開 ▶ 地方創生伴走支援制度 ▶ 関係人口 ▶ 地創塾 ▶ 都市再生 ▶ 買物支援等の推進 ▶ 地方創生SDGs ▶ 中心市街地活性化 ▶ 住宅団地の再生 ▶ 地域再生施策の評価 ▶ 地域活性化伝道師 施策一覧 国の役割に基づく支援等 > 強い経済 > 豊かな生活環境 > 選ばれる地方 > 国の役割に基づく支援等 > 強い経済 > 豊かな生活環境 > 選ばれる地方 >",
+ "text_len": 312,
+ "sections": [
+  {
+   "heading": null,
+   "text": "地方創生 キーワードで探す 一般の方 > 企業の方 > NPOの方 > 地方公共団体の方 > 新着情報 Read More 注目ワード ▶ 地域未来戦略 ▶ 「地域課題」ダッシュボードβ版 ▶ 地域未来交付金 ▶ 「新結合」相談窓口 ▶ 地域産品の海外展開 ▶ 地方創生伴走支援制度 ▶ 関係人口 ▶ 地創塾 ▶ 都市再生 ▶ 買物支援等の推進 ▶ 地方創生SDGs ▶ 中心市街地活性化 ▶ 住宅団地の再生 ▶ 地域再生施策の評価 ▶ 地域活性化伝道師 施策一覧 国の役割に基づく支援等 > 強い経済 > 豊かな生活環境 > 選ばれる地方 > 国の役割に基づく支援等 > 強い経済 > 豊かな生活環境 > 選ばれる地方 >"
+  }
+ ],
+ "section_n": 1,
+ "retrieved_at": "2026-08-01T06:11:13.290352+00:00",
+ "as_of_date": "2026-08-01",
+ "still_valid_2026": true,
+ "veritas": "○",
+ "in_active_feed": true,
+ "synthesized": false,
+ "extract_path": "html",
+ "note_ja": "REQ-051 national-canonical 本文配信。",
+ "is_canonical_national": true,
+ "file_stem": "national-canonical__cao-chiho"
+}
