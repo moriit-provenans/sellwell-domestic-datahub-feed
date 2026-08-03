@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "as_of": "2026-08-02",
+  "as_of": "2026-08-03",
   "catalog_total": 40,
   "present": 40,
   "missing": 0,
@@ -87,6 +87,7 @@
       "in_active_feed": true,
       "matched_item_ids": [
         "a0WJ200000CDYnpMAH",
+        "jnet21-188382",
         "jnet21-180436",
         "jnet21-180437",
         "jnet21-180438",
@@ -104,8 +105,7 @@
         "deep-hiroshima-92aac5e2d385",
         "national-canonical:mhlw-jinzai",
         "national-canonical:mhlw-jinzai-人材育成支援コース",
-        "national-canonical:mhlw-jinzai-事業展開等リスキリング支援コース",
-        "national-canonical:mhlw-jinzai-人への投資促進コース"
+        "national-canonical:mhlw-jinzai-事業展開等リスキリング支援コース"
       ],
       "eligibility_depth": "guidelines"
     },
@@ -382,10 +382,10 @@
         "mirasapo-13442",
         "mirasapo-12960",
         "mirasapo-12515",
-        "mirasapo-7654",
-        "mirasapo-7656",
         "jnet21-187071",
-        "agency-7267385931"
+        "agency-7267385931",
+        "agency-89316208",
+        "agency-1047577427"
       ],
       "eligibility_depth": "guidelines"
     },
@@ -418,9 +418,9 @@
         "a0WJ200000CDdALMA1",
         "a0WJ200000CDbpCMAT",
         "mirasapo-624",
+        "mirasapo-33462",
         "mirasapo-15578",
-        "mirasapo-31612",
-        "mirasapo-31098"
+        "mirasapo-31612"
       ],
       "eligibility_depth": "guidelines"
     },
@@ -477,6 +477,7 @@
         "mirasapo-27809",
         "mirasapo-24088",
         "mirasapo-28174",
+        "jnet21-188834",
         "jnet21-181526",
         "jnet21-180135",
         "ministry-753102570",
@@ -489,8 +490,7 @@
         "ministry-1250667240",
         "ministry-9048488894",
         "ministry-5805967927",
-        "ministry-9521526661",
-        "ministry-7239312170"
+        "ministry-9521526661"
       ],
       "eligibility_depth": "guidelines"
     },
@@ -790,8 +790,8 @@
         "city-hiroshima-city-2174596182",
         "city-hiroshima-city-4476910204",
         "city-hiroshima-city-8524482365",
-        "city-27205-916016757",
-        "city-29201-9292848362"
+        "city-07203-7065188519",
+        "city-27205-916016757"
       ],
       "eligibility_depth": "page_detail"
     },
@@ -951,7 +951,9 @@
         "mirasapo-624",
         "mirasapo-621",
         "mirasapo-619",
+        "mirasapo-33469",
         "mirasapo-32495",
+        "mirasapo-33462",
         "mirasapo-15578",
         "mirasapo-31612",
         "mirasapo-33237",
@@ -961,9 +963,7 @@
         "mirasapo-32651",
         "mirasapo-32507",
         "mirasapo-32472",
-        "mirasapo-32394",
-        "mirasapo-32381",
-        "mirasapo-32263"
+        "mirasapo-32394"
       ],
       "eligibility_depth": "page_detail"
     },
