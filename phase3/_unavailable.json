@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "req": "REQ-SMITH-20260724-045",
-  "as_of_date": "2026-08-03",
-  "retrieved_at": "2026-08-03",
+  "as_of_date": "2026-08-04",
+  "retrieved_at": "2026-08-04",
   "slots": [
     {
       "id": "P2a_io_transaction_structure",

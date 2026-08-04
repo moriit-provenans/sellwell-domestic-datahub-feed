@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "as_of": "2026-08-03",
+  "as_of": "2026-08-04",
   "catalog_total": 40,
   "present": 40,
   "missing": 0,
@@ -87,7 +87,6 @@
       "in_active_feed": true,
       "matched_item_ids": [
         "a0WJ200000CDYnpMAH",
-        "jnet21-188382",
         "jnet21-180436",
         "jnet21-180437",
         "jnet21-180438",
@@ -105,7 +104,8 @@
         "deep-hiroshima-92aac5e2d385",
         "national-canonical:mhlw-jinzai",
         "national-canonical:mhlw-jinzai-人材育成支援コース",
-        "national-canonical:mhlw-jinzai-事業展開等リスキリング支援コース"
+        "national-canonical:mhlw-jinzai-事業展開等リスキリング支援コース",
+        "national-canonical:mhlw-jinzai-人への投資促進コース"
       ],
       "eligibility_depth": "guidelines"
     },
@@ -545,7 +545,6 @@
         "a0WJ200000CDWZYMA5",
         "mirasapo-29668",
         "mirasapo-31373",
-        "mirasapo-30818",
         "mirasapo-28132",
         "mirasapo-27828",
         "jnet21-187928",
@@ -554,13 +553,14 @@
         "jnet21-181374",
         "ministry-6460917998",
         "ministry-234812818",
+        "ministry-4892038647",
         "ministry-5311170392",
+        "agency-7168159352",
         "agency-4114288129",
         "prefecture-shiga-4572710300",
         "prefecture-yamaguchi-1286965692",
         "city-kawasaki-5775260951",
-        "city-40203-1013375658",
-        "agency-7571966518"
+        "city-40203-1013375658"
       ],
       "eligibility_depth": "guidelines"
     },
@@ -754,9 +754,9 @@
         "a0WJ200000CDZBWMA5",
         "a0WJ200000CDckfMAD",
         "a0WJ200000CDbPkMAL",
+        "a0WJ200000CDdr3MAD",
         "a0WJ200000CDYtoMAH",
-        "a0WJ200000CDaPKMA1",
-        "a0WJ200000CDdicMAD"
+        "a0WJ200000CDdrNMAT"
       ],
       "eligibility_depth": "page_detail"
     },
@@ -951,6 +951,7 @@
         "mirasapo-624",
         "mirasapo-621",
         "mirasapo-619",
+        "mirasapo-30818",
         "mirasapo-33469",
         "mirasapo-32495",
         "mirasapo-33462",
@@ -962,8 +963,7 @@
         "mirasapo-32666",
         "mirasapo-32651",
         "mirasapo-32507",
-        "mirasapo-32472",
-        "mirasapo-32394"
+        "mirasapo-32472"
       ],
       "eligibility_depth": "page_detail"
     },
