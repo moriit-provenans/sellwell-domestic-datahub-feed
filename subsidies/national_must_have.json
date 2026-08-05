@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "as_of": "2026-08-04",
+  "as_of": "2026-08-05",
   "catalog_total": 40,
   "present": 40,
   "missing": 0,
@@ -87,6 +87,7 @@
       "in_active_feed": true,
       "matched_item_ids": [
         "a0WJ200000CDYnpMAH",
+        "jnet21-188382",
         "jnet21-180436",
         "jnet21-180437",
         "jnet21-180438",
@@ -104,8 +105,7 @@
         "deep-hiroshima-92aac5e2d385",
         "national-canonical:mhlw-jinzai",
         "national-canonical:mhlw-jinzai-人材育成支援コース",
-        "national-canonical:mhlw-jinzai-事業展開等リスキリング支援コース",
-        "national-canonical:mhlw-jinzai-人への投資促進コース"
+        "national-canonical:mhlw-jinzai-事業展開等リスキリング支援コース"
       ],
       "eligibility_depth": "guidelines"
     },
@@ -283,14 +283,14 @@
         "jnet21-180228",
         "jnet21-180229",
         "jnet21-180231",
-        "jnet21-178500",
         "ministry-7691619357",
         "prefecture-yamaguchi-864956097",
         "prefecture-yamaguchi-8456126342",
         "prefecture-yamaguchi-6894208904",
         "deep-mhlw-hub-858baa7cf497",
         "deep-fukuoka-n3-8b137ebce356",
-        "deep-leaf-fukuoka-e2626df04d57"
+        "deep-leaf-fukuoka-e2626df04d57",
+        "deep-mhlw-hub-337650177938"
       ],
       "eligibility_depth": "guidelines"
     },
@@ -581,6 +581,7 @@
         "a0WJ200000CDWerMAH",
         "a0WJ200000CDcfDMAT",
         "mirasapo-21731",
+        "jnet21-188839",
         "city-34202-568167947",
         "a0WJ200000CDXgBMAX",
         "national-canonical:meti-seicho-toshi"
@@ -790,8 +791,8 @@
         "city-hiroshima-city-2174596182",
         "city-hiroshima-city-4476910204",
         "city-hiroshima-city-8524482365",
-        "city-07203-7065188519",
-        "city-27205-916016757"
+        "city-27205-916016757",
+        "city-29201-9292848362"
       ],
       "eligibility_depth": "page_detail"
     },
