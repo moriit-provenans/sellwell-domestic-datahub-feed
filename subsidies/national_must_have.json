@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "as_of": "2026-08-05",
+  "as_of": "2026-08-07",
   "catalog_total": 40,
   "present": 40,
   "missing": 0,
@@ -791,8 +791,8 @@
         "city-hiroshima-city-2174596182",
         "city-hiroshima-city-4476910204",
         "city-hiroshima-city-8524482365",
-        "city-27205-916016757",
-        "city-29201-9292848362"
+        "city-05201-6074833073",
+        "city-05201-1414233775"
       ],
       "eligibility_depth": "page_detail"
     },
@@ -808,7 +808,6 @@
       "acceptance_note_ja": null,
       "in_active_feed": true,
       "matched_item_ids": [
-        "jnet21-183454",
         "prefecture-nagasaki-6527989091",
         "prefecture-oita-4628963541",
         "prefecture-oita-7726312361",
@@ -827,7 +826,8 @@
         "city-15227-8706630241",
         "city-46219-5636998541",
         "city-46527-6045771762",
-        "city-06382-7441758811"
+        "city-06382-7441758811",
+        "city-06382-6167655171"
       ],
       "eligibility_depth": "page_detail"
     },
