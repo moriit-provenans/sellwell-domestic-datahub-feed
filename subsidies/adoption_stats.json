@@ -10,13 +10,22 @@
       {
         "program_key": "monodukuri",
         "program_name_ja": "ものづくり・商業・サービス生産性向上促進補助金",
-        "rounds_n": 22,
-        "latest_round": "22次",
-        "latest_rate_pct": 37.5,
+        "rounds_n": 23,
+        "latest_round": "23次",
+        "latest_rate_pct": 35.14,
         "source_refs": [
           "https://portal.monodukuri-hojo.jp/saitaku.html"
         ],
         "linked_active_sample": [
+          {
+            "id": "a0WJ200000CDdtMMAT",
+            "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（23次締切）",
+            "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdtMMAT",
+            "industry_slugs": [
+              "manufacturing-total"
+            ],
+            "judgment_ready": false
+          },
           {
             "id": "a0WJ200000CDTzMMAX",
             "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（19次締切）",
@@ -75,15 +84,6 @@
             "id": "city-kawasaki-fix-1170732803",
             "title": "【川崎市】ものづくり補助金（経済産業省） 外部リンク",
             "detail_url": "http://portal.monodukuri-hojo.jp/",
-            "industry_slugs": [
-              "manufacturing-total"
-            ],
-            "judgment_ready": false
-          },
-          {
-            "id": "mirasapo-31200",
-            "title": "【補助金】ものづくり・商業・サービス補助金の第23次公募要領を公開",
-            "detail_url": "https://mirasapo-plus.go.jp/infomation/31200/",
             "industry_slugs": [
               "manufacturing-total"
             ],
@@ -524,11 +524,111 @@
         ]
       }
     ],
-    "observations_n": 30,
-    "monodukuri_rounds": 22,
+    "observations_n": 31,
+    "monodukuri_rounds": 23,
     "jizokuka_rounds": 2
   },
   "observations": [
+    {
+      "as_of_date": "2026-08-07",
+      "still_valid_2026": true,
+      "retrieved_at": "2026-08-07",
+      "veritas": "✅",
+      "metric_id": "jp.subsidy.adoption_stats",
+      "program_key": "monodukuri",
+      "program_name_ja": "ものづくり・商業・サービス生産性向上促進補助金",
+      "round_label": "23次",
+      "frame": null,
+      "applicants": 1275,
+      "adopted": 448,
+      "adoption_rate_pct": 35.14,
+      "unit": "pct",
+      "value": 35.14,
+      "industry_slugs_hint": [
+        "manufacturing-total",
+        "industrial-machinery",
+        "electrical-equipment",
+        "automotive-mobility",
+        "food-beverage"
+      ],
+      "linked_active_sample": [
+        {
+          "id": "a0WJ200000CDdtMMAT",
+          "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（23次締切）",
+          "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdtMMAT",
+          "industry_slugs": [
+            "manufacturing-total"
+          ],
+          "judgment_ready": false
+        },
+        {
+          "id": "a0WJ200000CDTzMMAX",
+          "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（19次締切）",
+          "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDTzMMAX",
+          "industry_slugs": [
+            "manufacturing-total"
+          ],
+          "judgment_ready": false
+        },
+        {
+          "id": "a0WJ200000CDVkeMAH",
+          "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（20次締切）",
+          "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDVkeMAH",
+          "industry_slugs": [
+            "manufacturing-total"
+          ],
+          "judgment_ready": false
+        },
+        {
+          "id": "a0WJ200000CDX4vMAH",
+          "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（21次締切）",
+          "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDX4vMAH",
+          "industry_slugs": [
+            "manufacturing-total"
+          ],
+          "judgment_ready": false
+        },
+        {
+          "id": "a0WJ200000CDYimMAH",
+          "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（22次締切）",
+          "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYimMAH",
+          "industry_slugs": [
+            "manufacturing-total"
+          ],
+          "judgment_ready": false
+        },
+        {
+          "id": "mirasapo-29369",
+          "title": "中小企業庁担当者に聞く「ものづくり補助金（令和6年度補正）」",
+          "detail_url": "https://mirasapo-plus.go.jp/infomation/29369/",
+          "industry_slugs": [
+            "manufacturing-total"
+          ],
+          "judgment_ready": false
+        },
+        {
+          "id": "city-kawasaki-4796395291",
+          "title": "【川崎市】ものづくり補助金（経済産業省） 外部リンク",
+          "detail_url": "http://portal.monodukuri-hojo.jp/",
+          "industry_slugs": [
+            "manufacturing-total"
+          ],
+          "judgment_ready": false
+        },
+        {
+          "id": "city-kawasaki-fix-1170732803",
+          "title": "【川崎市】ものづくり補助金（経済産業省） 外部リンク",
+          "detail_url": "http://portal.monodukuri-hojo.jp/",
+          "industry_slugs": [
+            "manufacturing-total"
+          ],
+          "judgment_ready": false
+        }
+      ],
+      "source": "ものづくり・商業・サービス生産性向上促進補助金",
+      "source_ref": "https://portal.monodukuri-hojo.jp/saitaku.html",
+      "note": "制度単位の公表採択率。採択企業の実名一覧は source_ref の公表ページを参照（feed本体には載せない）。"
+    },
     {
       "as_of_date": "2026-05-12",
       "still_valid_2026": true,
@@ -656,6 +756,15 @@
       ],
       "linked_active_sample": [
         {
+          "id": "a0WJ200000CDdtMMAT",
+          "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（23次締切）",
+          "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdtMMAT",
+          "industry_slugs": [
+            "manufacturing-total"
+          ],
+          "judgment_ready": false
+        },
+        {
           "id": "a0WJ200000CDTzMMAX",
           "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（19次締切）",
           "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDTzMMAX",
@@ -713,15 +822,6 @@
           "id": "city-kawasaki-fix-1170732803",
           "title": "【川崎市】ものづくり補助金（経済産業省） 外部リンク",
           "detail_url": "http://portal.monodukuri-hojo.jp/",
-          "industry_slugs": [
-            "manufacturing-total"
-          ],
-          "judgment_ready": false
-        },
-        {
-          "id": "mirasapo-31200",
-          "title": "【補助金】ものづくり・商業・サービス補助金の第23次公募要領を公開",
-          "detail_url": "https://mirasapo-plus.go.jp/infomation/31200/",
           "industry_slugs": [
             "manufacturing-total"
           ],
@@ -957,6 +1057,15 @@
       ],
       "linked_active_sample": [
         {
+          "id": "a0WJ200000CDdtMMAT",
+          "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（23次締切）",
+          "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdtMMAT",
+          "industry_slugs": [
+            "manufacturing-total"
+          ],
+          "judgment_ready": false
+        },
+        {
           "id": "a0WJ200000CDTzMMAX",
           "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（19次締切）",
           "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDTzMMAX",
@@ -1014,15 +1123,6 @@
           "id": "city-kawasaki-fix-1170732803",
           "title": "【川崎市】ものづくり補助金（経済産業省） 外部リンク",
           "detail_url": "http://portal.monodukuri-hojo.jp/",
-          "industry_slugs": [
-            "manufacturing-total"
-          ],
-          "judgment_ready": false
-        },
-        {
-          "id": "mirasapo-31200",
-          "title": "【補助金】ものづくり・商業・サービス補助金の第23次公募要領を公開",
-          "detail_url": "https://mirasapo-plus.go.jp/infomation/31200/",
           "industry_slugs": [
             "manufacturing-total"
           ],
@@ -1155,6 +1255,15 @@
       ],
       "linked_active_sample": [
         {
+          "id": "a0WJ200000CDdtMMAT",
+          "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（23次締切）",
+          "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdtMMAT",
+          "industry_slugs": [
+            "manufacturing-total"
+          ],
+          "judgment_ready": false
+        },
+        {
           "id": "a0WJ200000CDTzMMAX",
           "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（19次締切）",
           "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDTzMMAX",
@@ -1212,15 +1321,6 @@
           "id": "city-kawasaki-fix-1170732803",
           "title": "【川崎市】ものづくり補助金（経済産業省） 外部リンク",
           "detail_url": "http://portal.monodukuri-hojo.jp/",
-          "industry_slugs": [
-            "manufacturing-total"
-          ],
-          "judgment_ready": false
-        },
-        {
-          "id": "mirasapo-31200",
-          "title": "【補助金】ものづくり・商業・サービス補助金の第23次公募要領を公開",
-          "detail_url": "https://mirasapo-plus.go.jp/infomation/31200/",
           "industry_slugs": [
             "manufacturing-total"
           ],
@@ -1451,6 +1551,15 @@
       ],
       "linked_active_sample": [
         {
+          "id": "a0WJ200000CDdtMMAT",
+          "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（23次締切）",
+          "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdtMMAT",
+          "industry_slugs": [
+            "manufacturing-total"
+          ],
+          "judgment_ready": false
+        },
+        {
           "id": "a0WJ200000CDTzMMAX",
           "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（19次締切）",
           "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDTzMMAX",
@@ -1508,15 +1617,6 @@
           "id": "city-kawasaki-fix-1170732803",
           "title": "【川崎市】ものづくり補助金（経済産業省） 外部リンク",
           "detail_url": "http://portal.monodukuri-hojo.jp/",
-          "industry_slugs": [
-            "manufacturing-total"
-          ],
-          "judgment_ready": false
-        },
-        {
-          "id": "mirasapo-31200",
-          "title": "【補助金】ものづくり・商業・サービス補助金の第23次公募要領を公開",
-          "detail_url": "https://mirasapo-plus.go.jp/infomation/31200/",
           "industry_slugs": [
             "manufacturing-total"
           ],
@@ -1748,6 +1848,15 @@
       ],
       "linked_active_sample": [
         {
+          "id": "a0WJ200000CDdtMMAT",
+          "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（23次締切）",
+          "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdtMMAT",
+          "industry_slugs": [
+            "manufacturing-total"
+          ],
+          "judgment_ready": false
+        },
+        {
           "id": "a0WJ200000CDTzMMAX",
           "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（19次締切）",
           "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDTzMMAX",
@@ -1805,15 +1914,6 @@
           "id": "city-kawasaki-fix-1170732803",
           "title": "【川崎市】ものづくり補助金（経済産業省） 外部リンク",
           "detail_url": "http://portal.monodukuri-hojo.jp/",
-          "industry_slugs": [
-            "manufacturing-total"
-          ],
-          "judgment_ready": false
-        },
-        {
-          "id": "mirasapo-31200",
-          "title": "【補助金】ものづくり・商業・サービス補助金の第23次公募要領を公開",
-          "detail_url": "https://mirasapo-plus.go.jp/infomation/31200/",
           "industry_slugs": [
             "manufacturing-total"
           ],
@@ -1848,6 +1948,15 @@
       ],
       "linked_active_sample": [
         {
+          "id": "a0WJ200000CDdtMMAT",
+          "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（23次締切）",
+          "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdtMMAT",
+          "industry_slugs": [
+            "manufacturing-total"
+          ],
+          "judgment_ready": false
+        },
+        {
           "id": "a0WJ200000CDTzMMAX",
           "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（19次締切）",
           "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDTzMMAX",
@@ -1905,15 +2014,6 @@
           "id": "city-kawasaki-fix-1170732803",
           "title": "【川崎市】ものづくり補助金（経済産業省） 外部リンク",
           "detail_url": "http://portal.monodukuri-hojo.jp/",
-          "industry_slugs": [
-            "manufacturing-total"
-          ],
-          "judgment_ready": false
-        },
-        {
-          "id": "mirasapo-31200",
-          "title": "【補助金】ものづくり・商業・サービス補助金の第23次公募要領を公開",
-          "detail_url": "https://mirasapo-plus.go.jp/infomation/31200/",
           "industry_slugs": [
             "manufacturing-total"
           ],
@@ -1948,6 +2048,15 @@
       ],
       "linked_active_sample": [
         {
+          "id": "a0WJ200000CDdtMMAT",
+          "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（23次締切）",
+          "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdtMMAT",
+          "industry_slugs": [
+            "manufacturing-total"
+          ],
+          "judgment_ready": false
+        },
+        {
           "id": "a0WJ200000CDTzMMAX",
           "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（19次締切）",
           "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDTzMMAX",
@@ -2005,15 +2114,6 @@
           "id": "city-kawasaki-fix-1170732803",
           "title": "【川崎市】ものづくり補助金（経済産業省） 外部リンク",
           "detail_url": "http://portal.monodukuri-hojo.jp/",
-          "industry_slugs": [
-            "manufacturing-total"
-          ],
-          "judgment_ready": false
-        },
-        {
-          "id": "mirasapo-31200",
-          "title": "【補助金】ものづくり・商業・サービス補助金の第23次公募要領を公開",
-          "detail_url": "https://mirasapo-plus.go.jp/infomation/31200/",
           "industry_slugs": [
             "manufacturing-total"
           ],
@@ -2048,6 +2148,15 @@
       ],
       "linked_active_sample": [
         {
+          "id": "a0WJ200000CDdtMMAT",
+          "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（23次締切）",
+          "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdtMMAT",
+          "industry_slugs": [
+            "manufacturing-total"
+          ],
+          "judgment_ready": false
+        },
+        {
           "id": "a0WJ200000CDTzMMAX",
           "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（19次締切）",
           "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDTzMMAX",
@@ -2105,15 +2214,6 @@
           "id": "city-kawasaki-fix-1170732803",
           "title": "【川崎市】ものづくり補助金（経済産業省） 外部リンク",
           "detail_url": "http://portal.monodukuri-hojo.jp/",
-          "industry_slugs": [
-            "manufacturing-total"
-          ],
-          "judgment_ready": false
-        },
-        {
-          "id": "mirasapo-31200",
-          "title": "【補助金】ものづくり・商業・サービス補助金の第23次公募要領を公開",
-          "detail_url": "https://mirasapo-plus.go.jp/infomation/31200/",
           "industry_slugs": [
             "manufacturing-total"
           ],
@@ -2148,6 +2248,15 @@
       ],
       "linked_active_sample": [
         {
+          "id": "a0WJ200000CDdtMMAT",
+          "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（23次締切）",
+          "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdtMMAT",
+          "industry_slugs": [
+            "manufacturing-total"
+          ],
+          "judgment_ready": false
+        },
+        {
           "id": "a0WJ200000CDTzMMAX",
           "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（19次締切）",
           "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDTzMMAX",
@@ -2205,15 +2314,6 @@
           "id": "city-kawasaki-fix-1170732803",
           "title": "【川崎市】ものづくり補助金（経済産業省） 外部リンク",
           "detail_url": "http://portal.monodukuri-hojo.jp/",
-          "industry_slugs": [
-            "manufacturing-total"
-          ],
-          "judgment_ready": false
-        },
-        {
-          "id": "mirasapo-31200",
-          "title": "【補助金】ものづくり・商業・サービス補助金の第23次公募要領を公開",
-          "detail_url": "https://mirasapo-plus.go.jp/infomation/31200/",
           "industry_slugs": [
             "manufacturing-total"
           ],
@@ -2248,6 +2348,15 @@
       ],
       "linked_active_sample": [
         {
+          "id": "a0WJ200000CDdtMMAT",
+          "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（23次締切）",
+          "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdtMMAT",
+          "industry_slugs": [
+            "manufacturing-total"
+          ],
+          "judgment_ready": false
+        },
+        {
           "id": "a0WJ200000CDTzMMAX",
           "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（19次締切）",
           "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDTzMMAX",
@@ -2305,15 +2414,6 @@
           "id": "city-kawasaki-fix-1170732803",
           "title": "【川崎市】ものづくり補助金（経済産業省） 外部リンク",
           "detail_url": "http://portal.monodukuri-hojo.jp/",
-          "industry_slugs": [
-            "manufacturing-total"
-          ],
-          "judgment_ready": false
-        },
-        {
-          "id": "mirasapo-31200",
-          "title": "【補助金】ものづくり・商業・サービス補助金の第23次公募要領を公開",
-          "detail_url": "https://mirasapo-plus.go.jp/infomation/31200/",
           "industry_slugs": [
             "manufacturing-total"
           ],
@@ -2348,6 +2448,15 @@
       ],
       "linked_active_sample": [
         {
+          "id": "a0WJ200000CDdtMMAT",
+          "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（23次締切）",
+          "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdtMMAT",
+          "industry_slugs": [
+            "manufacturing-total"
+          ],
+          "judgment_ready": false
+        },
+        {
           "id": "a0WJ200000CDTzMMAX",
           "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（19次締切）",
           "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDTzMMAX",
@@ -2405,15 +2514,6 @@
           "id": "city-kawasaki-fix-1170732803",
           "title": "【川崎市】ものづくり補助金（経済産業省） 外部リンク",
           "detail_url": "http://portal.monodukuri-hojo.jp/",
-          "industry_slugs": [
-            "manufacturing-total"
-          ],
-          "judgment_ready": false
-        },
-        {
-          "id": "mirasapo-31200",
-          "title": "【補助金】ものづくり・商業・サービス補助金の第23次公募要領を公開",
-          "detail_url": "https://mirasapo-plus.go.jp/infomation/31200/",
           "industry_slugs": [
             "manufacturing-total"
           ],
@@ -2448,6 +2548,15 @@
       ],
       "linked_active_sample": [
         {
+          "id": "a0WJ200000CDdtMMAT",
+          "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（23次締切）",
+          "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdtMMAT",
+          "industry_slugs": [
+            "manufacturing-total"
+          ],
+          "judgment_ready": false
+        },
+        {
           "id": "a0WJ200000CDTzMMAX",
           "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（19次締切）",
           "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDTzMMAX",
@@ -2505,15 +2614,6 @@
           "id": "city-kawasaki-fix-1170732803",
           "title": "【川崎市】ものづくり補助金（経済産業省） 外部リンク",
           "detail_url": "http://portal.monodukuri-hojo.jp/",
-          "industry_slugs": [
-            "manufacturing-total"
-          ],
-          "judgment_ready": false
-        },
-        {
-          "id": "mirasapo-31200",
-          "title": "【補助金】ものづくり・商業・サービス補助金の第23次公募要領を公開",
-          "detail_url": "https://mirasapo-plus.go.jp/infomation/31200/",
           "industry_slugs": [
             "manufacturing-total"
           ],
@@ -2548,6 +2648,15 @@
       ],
       "linked_active_sample": [
         {
+          "id": "a0WJ200000CDdtMMAT",
+          "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（23次締切）",
+          "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdtMMAT",
+          "industry_slugs": [
+            "manufacturing-total"
+          ],
+          "judgment_ready": false
+        },
+        {
           "id": "a0WJ200000CDTzMMAX",
           "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（19次締切）",
           "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDTzMMAX",
@@ -2605,15 +2714,6 @@
           "id": "city-kawasaki-fix-1170732803",
           "title": "【川崎市】ものづくり補助金（経済産業省） 外部リンク",
           "detail_url": "http://portal.monodukuri-hojo.jp/",
-          "industry_slugs": [
-            "manufacturing-total"
-          ],
-          "judgment_ready": false
-        },
-        {
-          "id": "mirasapo-31200",
-          "title": "【補助金】ものづくり・商業・サービス補助金の第23次公募要領を公開",
-          "detail_url": "https://mirasapo-plus.go.jp/infomation/31200/",
           "industry_slugs": [
             "manufacturing-total"
           ],
@@ -2648,6 +2748,15 @@
       ],
       "linked_active_sample": [
         {
+          "id": "a0WJ200000CDdtMMAT",
+          "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（23次締切）",
+          "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdtMMAT",
+          "industry_slugs": [
+            "manufacturing-total"
+          ],
+          "judgment_ready": false
+        },
+        {
           "id": "a0WJ200000CDTzMMAX",
           "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（19次締切）",
           "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDTzMMAX",
@@ -2705,15 +2814,6 @@
           "id": "city-kawasaki-fix-1170732803",
           "title": "【川崎市】ものづくり補助金（経済産業省） 外部リンク",
           "detail_url": "http://portal.monodukuri-hojo.jp/",
-          "industry_slugs": [
-            "manufacturing-total"
-          ],
-          "judgment_ready": false
-        },
-        {
-          "id": "mirasapo-31200",
-          "title": "【補助金】ものづくり・商業・サービス補助金の第23次公募要領を公開",
-          "detail_url": "https://mirasapo-plus.go.jp/infomation/31200/",
           "industry_slugs": [
             "manufacturing-total"
           ],
@@ -2748,6 +2848,15 @@
       ],
       "linked_active_sample": [
         {
+          "id": "a0WJ200000CDdtMMAT",
+          "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（23次締切）",
+          "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdtMMAT",
+          "industry_slugs": [
+            "manufacturing-total"
+          ],
+          "judgment_ready": false
+        },
+        {
           "id": "a0WJ200000CDTzMMAX",
           "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（19次締切）",
           "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDTzMMAX",
@@ -2805,15 +2914,6 @@
           "id": "city-kawasaki-fix-1170732803",
           "title": "【川崎市】ものづくり補助金（経済産業省） 外部リンク",
           "detail_url": "http://portal.monodukuri-hojo.jp/",
-          "industry_slugs": [
-            "manufacturing-total"
-          ],
-          "judgment_ready": false
-        },
-        {
-          "id": "mirasapo-31200",
-          "title": "【補助金】ものづくり・商業・サービス補助金の第23次公募要領を公開",
-          "detail_url": "https://mirasapo-plus.go.jp/infomation/31200/",
           "industry_slugs": [
             "manufacturing-total"
           ],
@@ -2848,6 +2948,15 @@
       ],
       "linked_active_sample": [
         {
+          "id": "a0WJ200000CDdtMMAT",
+          "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（23次締切）",
+          "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdtMMAT",
+          "industry_slugs": [
+            "manufacturing-total"
+          ],
+          "judgment_ready": false
+        },
+        {
           "id": "a0WJ200000CDTzMMAX",
           "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（19次締切）",
           "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDTzMMAX",
@@ -2905,15 +3014,6 @@
           "id": "city-kawasaki-fix-1170732803",
           "title": "【川崎市】ものづくり補助金（経済産業省） 外部リンク",
           "detail_url": "http://portal.monodukuri-hojo.jp/",
-          "industry_slugs": [
-            "manufacturing-total"
-          ],
-          "judgment_ready": false
-        },
-        {
-          "id": "mirasapo-31200",
-          "title": "【補助金】ものづくり・商業・サービス補助金の第23次公募要領を公開",
-          "detail_url": "https://mirasapo-plus.go.jp/infomation/31200/",
           "industry_slugs": [
             "manufacturing-total"
           ],
@@ -2948,6 +3048,15 @@
       ],
       "linked_active_sample": [
         {
+          "id": "a0WJ200000CDdtMMAT",
+          "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（23次締切）",
+          "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdtMMAT",
+          "industry_slugs": [
+            "manufacturing-total"
+          ],
+          "judgment_ready": false
+        },
+        {
           "id": "a0WJ200000CDTzMMAX",
           "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（19次締切）",
           "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDTzMMAX",
@@ -3005,15 +3114,6 @@
           "id": "city-kawasaki-fix-1170732803",
           "title": "【川崎市】ものづくり補助金（経済産業省） 外部リンク",
           "detail_url": "http://portal.monodukuri-hojo.jp/",
-          "industry_slugs": [
-            "manufacturing-total"
-          ],
-          "judgment_ready": false
-        },
-        {
-          "id": "mirasapo-31200",
-          "title": "【補助金】ものづくり・商業・サービス補助金の第23次公募要領を公開",
-          "detail_url": "https://mirasapo-plus.go.jp/infomation/31200/",
           "industry_slugs": [
             "manufacturing-total"
           ],
@@ -3048,6 +3148,15 @@
       ],
       "linked_active_sample": [
         {
+          "id": "a0WJ200000CDdtMMAT",
+          "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（23次締切）",
+          "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdtMMAT",
+          "industry_slugs": [
+            "manufacturing-total"
+          ],
+          "judgment_ready": false
+        },
+        {
           "id": "a0WJ200000CDTzMMAX",
           "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（19次締切）",
           "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDTzMMAX",
@@ -3105,15 +3214,6 @@
           "id": "city-kawasaki-fix-1170732803",
           "title": "【川崎市】ものづくり補助金（経済産業省） 外部リンク",
           "detail_url": "http://portal.monodukuri-hojo.jp/",
-          "industry_slugs": [
-            "manufacturing-total"
-          ],
-          "judgment_ready": false
-        },
-        {
-          "id": "mirasapo-31200",
-          "title": "【補助金】ものづくり・商業・サービス補助金の第23次公募要領を公開",
-          "detail_url": "https://mirasapo-plus.go.jp/infomation/31200/",
           "industry_slugs": [
             "manufacturing-total"
           ],
@@ -3148,6 +3248,15 @@
       ],
       "linked_active_sample": [
         {
+          "id": "a0WJ200000CDdtMMAT",
+          "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（23次締切）",
+          "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdtMMAT",
+          "industry_slugs": [
+            "manufacturing-total"
+          ],
+          "judgment_ready": false
+        },
+        {
           "id": "a0WJ200000CDTzMMAX",
           "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（19次締切）",
           "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDTzMMAX",
@@ -3205,15 +3314,6 @@
           "id": "city-kawasaki-fix-1170732803",
           "title": "【川崎市】ものづくり補助金（経済産業省） 外部リンク",
           "detail_url": "http://portal.monodukuri-hojo.jp/",
-          "industry_slugs": [
-            "manufacturing-total"
-          ],
-          "judgment_ready": false
-        },
-        {
-          "id": "mirasapo-31200",
-          "title": "【補助金】ものづくり・商業・サービス補助金の第23次公募要領を公開",
-          "detail_url": "https://mirasapo-plus.go.jp/infomation/31200/",
           "industry_slugs": [
             "manufacturing-total"
           ],
@@ -3248,6 +3348,15 @@
       ],
       "linked_active_sample": [
         {
+          "id": "a0WJ200000CDdtMMAT",
+          "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（23次締切）",
+          "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdtMMAT",
+          "industry_slugs": [
+            "manufacturing-total"
+          ],
+          "judgment_ready": false
+        },
+        {
           "id": "a0WJ200000CDTzMMAX",
           "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（19次締切）",
           "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDTzMMAX",
@@ -3305,15 +3414,6 @@
           "id": "city-kawasaki-fix-1170732803",
           "title": "【川崎市】ものづくり補助金（経済産業省） 外部リンク",
           "detail_url": "http://portal.monodukuri-hojo.jp/",
-          "industry_slugs": [
-            "manufacturing-total"
-          ],
-          "judgment_ready": false
-        },
-        {
-          "id": "mirasapo-31200",
-          "title": "【補助金】ものづくり・商業・サービス補助金の第23次公募要領を公開",
-          "detail_url": "https://mirasapo-plus.go.jp/infomation/31200/",
           "industry_slugs": [
             "manufacturing-total"
           ],
@@ -3348,6 +3448,15 @@
       ],
       "linked_active_sample": [
         {
+          "id": "a0WJ200000CDdtMMAT",
+          "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（23次締切）",
+          "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdtMMAT",
+          "industry_slugs": [
+            "manufacturing-total"
+          ],
+          "judgment_ready": false
+        },
+        {
           "id": "a0WJ200000CDTzMMAX",
           "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（19次締切）",
           "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDTzMMAX",
@@ -3405,15 +3514,6 @@
           "id": "city-kawasaki-fix-1170732803",
           "title": "【川崎市】ものづくり補助金（経済産業省） 外部リンク",
           "detail_url": "http://portal.monodukuri-hojo.jp/",
-          "industry_slugs": [
-            "manufacturing-total"
-          ],
-          "judgment_ready": false
-        },
-        {
-          "id": "mirasapo-31200",
-          "title": "【補助金】ものづくり・商業・サービス補助金の第23次公募要領を公開",
-          "detail_url": "https://mirasapo-plus.go.jp/infomation/31200/",
           "industry_slugs": [
             "manufacturing-total"
           ],
@@ -3448,6 +3548,15 @@
       ],
       "linked_active_sample": [
         {
+          "id": "a0WJ200000CDdtMMAT",
+          "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（23次締切）",
+          "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdtMMAT",
+          "industry_slugs": [
+            "manufacturing-total"
+          ],
+          "judgment_ready": false
+        },
+        {
           "id": "a0WJ200000CDTzMMAX",
           "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（19次締切）",
           "detail_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDTzMMAX",
@@ -3505,15 +3614,6 @@
           "id": "city-kawasaki-fix-1170732803",
           "title": "【川崎市】ものづくり補助金（経済産業省） 外部リンク",
           "detail_url": "http://portal.monodukuri-hojo.jp/",
-          "industry_slugs": [
-            "manufacturing-total"
-          ],
-          "judgment_ready": false
-        },
-        {
-          "id": "mirasapo-31200",
-          "title": "【補助金】ものづくり・商業・サービス補助金の第23次公募要領を公開",
-          "detail_url": "https://mirasapo-plus.go.jp/infomation/31200/",
           "industry_slugs": [
             "manufacturing-total"
           ],

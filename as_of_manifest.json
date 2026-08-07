@@ -25,16 +25,16 @@
     },
     {
       "metric_id": "jp.iip.index",
-      "as_of_date": "2026-05-01",
+      "as_of_date": "2026-06-01",
       "still_valid_2026": true,
-      "n_observations": 2328,
+      "n_observations": 2329,
       "retrieved_at": "2026-08-07"
     },
     {
       "metric_id": "jp.labor.job_openings_ratio",
-      "as_of_date": "2026-05-01",
+      "as_of_date": "2026-06-01",
       "still_valid_2026": true,
-      "n_observations": 137,
+      "n_observations": 138,
       "retrieved_at": "2026-08-07"
     },
     {
@@ -181,7 +181,7 @@
       "metric_id": "jp.trade.hs_by_industry_usd",
       "as_of_date": "2024-12-31",
       "still_valid_2026": true,
-      "n_observations": 299,
+      "n_observations": 240,
       "retrieved_at": "2026-08-07"
     },
     {
@@ -207,23 +207,23 @@
     },
     {
       "metric_id": "jp.cao.leading_index",
-      "as_of_date": "2026-05-01",
+      "as_of_date": "2026-06-01",
       "still_valid_2026": true,
-      "n_observations": 137,
+      "n_observations": 138,
       "retrieved_at": "2026-08-07"
     },
     {
       "metric_id": "jp.cao.coincident_index",
-      "as_of_date": "2026-05-01",
+      "as_of_date": "2026-06-01",
       "still_valid_2026": true,
-      "n_observations": 137,
+      "n_observations": 138,
       "retrieved_at": "2026-08-07"
     },
     {
       "metric_id": "jp.cao.consumer_sentiment",
-      "as_of_date": "2026-05-01",
+      "as_of_date": "2026-06-01",
       "still_valid_2026": true,
-      "n_observations": 137,
+      "n_observations": 138,
       "retrieved_at": "2026-08-07"
     },
     {
@@ -251,7 +251,7 @@
       "metric_id": "jp.subsidy.open_count",
       "as_of_date": "2026-08-07",
       "still_valid_2026": true,
-      "n_observations": 7692,
+      "n_observations": 7615,
       "retrieved_at": "2026-08-07"
     },
     {

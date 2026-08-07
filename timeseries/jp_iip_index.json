@@ -2198,6 +2198,22 @@
       "note": "正式な鉱工業指数表への切替は表ID確定後。現状は一致指数C1を代理使用"
     },
     {
+      "as_of_date": "2026-06-01",
+      "still_valid_2026": true,
+      "retrieved_at": "2026-08-07",
+      "veritas": "✅",
+      "metric_id": "jp.iip.index",
+      "industry_slug": "manufacturing-total",
+      "industry_name_ja": "鉱工業（景気動向指数 C1）",
+      "period": "2026-06",
+      "period_type": "monthly",
+      "value": 103.9,
+      "unit": "index_2020=100",
+      "source": "e-Stat 景気動向指数（一致・鉱工業生産）",
+      "source_ref": "statsDataId=0003446462 cat01=2010",
+      "note": "正式な鉱工業指数表への切替は表ID確定後。現状は一致指数C1を代理使用"
+    },
+    {
       "as_of_date": "2008-01-01",
       "still_valid_2026": "unverified",
       "retrieved_at": "2026-08-07",

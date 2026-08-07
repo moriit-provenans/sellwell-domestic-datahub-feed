@@ -2,7 +2,7 @@
   "schema_version": "1.0.0",
   "generated_at": "2026-08-07",
   "feed_status": "ok",
-  "subsidy_open_count": 7692,
+  "subsidy_open_count": 7615,
   "series_n": 39,
   "stale_or_empty": [],
   "smith_notify": {
@@ -15,7 +15,7 @@
     "prefer_still_valid_2026_true": true
   },
   "phase3_req045": {
-    "adoption_observations": 30,
+    "adoption_observations": 31,
     "retail_by_channel_obs": 90,
     "census_firms_by_pref_obs": 2408,
     "updated_at": "2026-08-07"

@@ -2196,6 +2196,22 @@
       "source": "e-Stat 景気動向指数（一致・有効求人倍率）",
       "source_ref": "statsDataId=0003446462 cat01=2090",
       "note": "厚労省『一般職業紹介状況』由来の一致指数系列"
+    },
+    {
+      "as_of_date": "2026-06-01",
+      "still_valid_2026": true,
+      "retrieved_at": "2026-08-07",
+      "veritas": "✅",
+      "metric_id": "jp.labor.job_openings_ratio",
+      "industry_slug": "national",
+      "industry_name_ja": "全国（除学卒）",
+      "period": "2026-06",
+      "period_type": "monthly",
+      "value": 1.18,
+      "unit": "ratio",
+      "source": "e-Stat 景気動向指数（一致・有効求人倍率）",
+      "source_ref": "statsDataId=0003446462 cat01=2090",
+      "note": "厚労省『一般職業紹介状況』由来の一致指数系列"
     }
   ]
 }
