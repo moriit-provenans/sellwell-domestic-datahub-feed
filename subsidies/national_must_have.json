@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "as_of": "2026-08-12",
+  "as_of": "2026-08-13",
   "catalog_total": 40,
   "present": 40,
   "missing": 0,
@@ -283,10 +283,10 @@
         "jnet21-180228",
         "jnet21-180229",
         "jnet21-180231",
-        "ministry-7691619357",
         "prefecture-yamaguchi-864956097",
         "prefecture-yamaguchi-8456126342",
         "prefecture-yamaguchi-6894208904",
+        "prefecture-yamaguchi-7691619357",
         "deep-mhlw-hub-858baa7cf497",
         "deep-fukuoka-n3-8b137ebce356",
         "deep-leaf-fukuoka-e2626df04d57",
@@ -606,10 +606,6 @@
         "mirasapo-32651",
         "mirasapo-32009",
         "mirasapo-31537",
-        "jnet21-189383",
-        "jnet21-189384",
-        "jnet21-189386",
-        "jnet21-189387",
         "jnet21-185963",
         "jnet21-183014",
         "jnet21-181240",
@@ -619,7 +615,11 @@
         "ministry-492442833",
         "ministry-8363091279",
         "ministry-3225561440",
-        "agency-2866728145"
+        "agency-2866728145",
+        "agency-8380967732",
+        "agency-4536533766",
+        "agency-7634766398",
+        "agency-3378259911"
       ],
       "eligibility_depth": "guidelines"
     },
