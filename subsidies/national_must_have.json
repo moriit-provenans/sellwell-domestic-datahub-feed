@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "as_of": "2026-08-13",
+  "as_of": "2026-08-14",
   "catalog_total": 40,
   "present": 40,
   "missing": 0,
@@ -283,14 +283,14 @@
         "jnet21-180228",
         "jnet21-180229",
         "jnet21-180231",
+        "ministry-7691619357",
         "prefecture-yamaguchi-864956097",
         "prefecture-yamaguchi-8456126342",
         "prefecture-yamaguchi-6894208904",
         "prefecture-yamaguchi-7691619357",
         "deep-mhlw-hub-858baa7cf497",
         "deep-fukuoka-n3-8b137ebce356",
-        "deep-leaf-fukuoka-e2626df04d57",
-        "deep-mhlw-hub-337650177938"
+        "deep-leaf-fukuoka-e2626df04d57"
       ],
       "eligibility_depth": "guidelines"
     },
@@ -414,8 +414,8 @@
         "a0WJ200000CDWRiMAP",
         "a0WJ200000CDW4SMAX",
         "a0WJ200000CDXEhMAP",
-        "a0WJ200000CDYEIMA5",
         "a0WJ200000CDcQOMA1",
+        "a0WJ200000CDYEIMA5",
         "a0WJ200000CDdALMA1",
         "a0WJ200000CDbpCMAT",
         "mirasapo-624",
@@ -477,7 +477,6 @@
         "mirasapo-27809",
         "mirasapo-24088",
         "mirasapo-28174",
-        "jnet21-188834",
         "jnet21-181526",
         "jnet21-180135",
         "ministry-753102570",
@@ -490,7 +489,8 @@
         "ministry-1250667240",
         "ministry-9048488894",
         "ministry-5805967927",
-        "ministry-9521526661"
+        "ministry-9521526661",
+        "ministry-7239312170"
       ],
       "eligibility_depth": "guidelines"
     },
@@ -757,7 +757,7 @@
         "a0WJ200000CDbPkMAL",
         "a0WJ200000CDdr3MAD",
         "a0WJ200000CDYtoMAH",
-        "a0WJ200000CDdrNMAT"
+        "a0WJ200000CDe5zMAD"
       ],
       "eligibility_depth": "page_detail"
     },
