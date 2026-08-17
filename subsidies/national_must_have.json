@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "as_of": "2026-08-16",
+  "as_of": "2026-08-17",
   "catalog_total": 40,
   "present": 40,
   "missing": 0,
@@ -556,10 +556,10 @@
         "ministry-4892038647",
         "ministry-5311170392",
         "agency-4114288129",
+        "prefecture-shiga-4572710300",
         "prefecture-yamaguchi-1286965692",
         "city-kawasaki-5775260951",
         "city-40203-1013375658",
-        "prefecture-shiga-4572710300",
         "agency-7571966518"
       ],
       "eligibility_depth": "guidelines"
@@ -584,7 +584,8 @@
         "jnet21-188839",
         "city-34202-568167947",
         "a0WJ200000CDXgBMAX",
-        "national-canonical:meti-seicho-toshi"
+        "national-canonical:meti-seicho-toshi",
+        "deep-c3be8b97fb6c"
       ],
       "eligibility_depth": "guidelines"
     },
@@ -606,6 +607,10 @@
         "mirasapo-32651",
         "mirasapo-32009",
         "mirasapo-31537",
+        "jnet21-189383",
+        "jnet21-189384",
+        "jnet21-189386",
+        "jnet21-189387",
         "jnet21-185963",
         "jnet21-183014",
         "jnet21-181240",
@@ -615,11 +620,7 @@
         "ministry-492442833",
         "ministry-8363091279",
         "ministry-3225561440",
-        "agency-2866728145",
-        "agency-8380967732",
-        "agency-4536533766",
-        "agency-7634766398",
-        "agency-3378259911"
+        "agency-2866728145"
       ],
       "eligibility_depth": "guidelines"
     },
@@ -945,6 +946,7 @@
       "acceptance_note_ja": null,
       "in_active_feed": true,
       "matched_item_ids": [
+        "mirasapo-33520",
         "mirasapo-29772",
         "mirasapo-29680",
         "mirasapo-29674",
@@ -955,7 +957,6 @@
         "mirasapo-33511",
         "mirasapo-30818",
         "mirasapo-33469",
-        "mirasapo-32495",
         "mirasapo-33462",
         "mirasapo-15578",
         "mirasapo-31612",
