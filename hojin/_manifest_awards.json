@@ -1,11 +1,13 @@
 {
  "schema": "hojin_awards_manifest_v1",
- "retrieved_at": "2026-08-18T20:41:59+09:00",
+ "retrieved_at": "2026-08-18T21:04:08+09:00",
  "coverage": {
   "from": 2014,
   "to": 2026,
-  "years": 13
+  "years": 13,
+  "national_geps": true,
+  "municipal": false
  },
  "missing_years": [],
- "note_ja": "欠測年は埋めない。番号が無い落札者は捨てず unmatched に残す"
+ "note_ja": "欠測年は埋めない。番号が無い落札者は捨てず unmatched に残す。自治体分は無い"
 }

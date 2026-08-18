@@ -1,7 +1,7 @@
 {
  "ok": true,
  "workflow": "hojin_awards",
- "retrieved_at": "2026-08-18T20:41:59+09:00",
+ "retrieved_at": "2026-08-18T21:04:08+09:00",
  "years_ingested": [
   2014,
   2015,
@@ -17,5 +17,8 @@
   2025,
   2026
  ],
- "missing_years": []
+ "missing_years": [],
+ "national_geps": true,
+ "municipal": false,
+ "municipal_reason_ja": "調達ポータルの落札ZIPは政府電子調達（GEPS＝国の機関）。KKJ検索APIは公告のみで落札結果を出さない。自治体は各サイトに散在し、一括オープンデータは無い。1700団体を取りに行かない"
 }

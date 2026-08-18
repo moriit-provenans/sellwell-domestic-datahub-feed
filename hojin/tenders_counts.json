@@ -3,6 +3,19 @@
  "records": 8247,
  "matched": 2935,
  "unmatched": 5312,
+ "with_deadline": 3520,
+ "with_opening_date": 1740,
+ "with_bid_start": 92,
+ "with_category_ja": 4097,
+ "with_procedure_ja": 2806,
+ "deadline_by_source": {
+  "提出期限": 1608,
+  "公開終了日": 1337,
+  "入札期限": 201,
+  "受付期限": 171,
+  "入札締切": 167,
+  "申請期限": 36
+ },
  "by_prefecture_top": {
   "東京都": 1086,
   "北海道": 524,
@@ -17,7 +30,7 @@
   "神奈川県": 205,
   "兵庫県": 203
  },
- "retrieved_at": "2026-08-18T20:45:13+09:00",
+ "retrieved_at": "2026-08-18T21:07:37+09:00",
  "window": {
   "cft_issue_from": "2026-07-19",
   "cft_issue_to": "2026-08-18",

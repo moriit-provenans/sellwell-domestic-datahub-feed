@@ -1,7 +1,7 @@
 {
  "ok": true,
  "workflow": "hojin_daily",
- "retrieved_at": "2026-08-18T20:41:52+09:00",
+ "retrieved_at": "2026-08-18T21:04:01+09:00",
  "as_of_date": "2026-08-18",
  "latest_published": "2026-08-18",
  "lag_days": 0,
@@ -43,13 +43,7 @@
   "2026-08-07",
   "2026-08-10"
  ],
- "written_this_run": [
-  "2026-08-12",
-  "2026-08-13",
-  "2026-08-14",
-  "2026-08-17",
-  "2026-08-18"
- ],
+ "written_this_run": [],
  "gate": {
   "ok": true,
   "problems": [],
@@ -62,7 +56,8 @@
    "awards": "ok",
    "attributes": "ok",
    "edinet": "ok",
-   "geo": "ok"
+   "geo": "ok",
+   "trademarks": "ok"
   }
  },
  "lanes": {
@@ -71,6 +66,7 @@
   "awards": "ok",
   "attributes": "ok",
   "edinet": "ok",
-  "geo": "ok"
+  "geo": "ok",
+  "trademarks": "ok"
  }
 }
