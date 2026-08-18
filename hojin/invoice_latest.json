@@ -1,0 +1,32 @@
+{
+ "schema": "hojin_invoice_latest_v1",
+ "as_of_date": "2026-08-18",
+ "still_valid_2026": true,
+ "retrieved_at": "2026-08-19T08:37:31+09:00",
+ "source_ref": {
+  "publisher_ja": "国税庁",
+  "dataset_ja": "適格請求書発行事業者公表サイト 差分データ（CSV）",
+  "url": "https://www.invoice-kohyo.nta.go.jp/download/sabun",
+  "terms_ja": "利用規約に基づき商用利用可。出典表記「国税庁適格請求書発行事業者公表サイト」",
+  "resource_def": "https://www.invoice-kohyo.nta.go.jp/files/k-resource-dl.pdf"
+ },
+ "veritas": {
+  "verifier": "Atlas collector",
+  "note_ja": "登録番号が T＋13桁かつ人格区分=法人(2)の行だけを採る。個人は捨てる。法人番号は登録番号から機械的に取るだけで推測しない。訂正区分1は history_correction。欠測日は埋めない",
+  "skipped_person": 1022,
+  "skipped_bad": 0,
+  "corrections": 463
+ },
+ "counts": {
+  "records": 1122,
+  "by_event": {
+   "invoice_changed": 463,
+   "invoice_registered": 627,
+   "invoice_expired": 31,
+   "invoice_deleted": 1
+  },
+  "corrections": 463,
+  "skipped_person": 1022,
+  "skipped_bad": 0
+ }
+}

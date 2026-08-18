@@ -1,0 +1,118 @@
+{
+ "schema": "hojin_invoice_manifest_v1",
+ "retrieved_at": "2026-08-19T08:37:31+09:00",
+ "available_on_nta": [
+  "2026-06-22",
+  "2026-06-23",
+  "2026-06-24",
+  "2026-06-25",
+  "2026-06-26",
+  "2026-06-29",
+  "2026-06-30",
+  "2026-07-01",
+  "2026-07-02",
+  "2026-07-03",
+  "2026-07-06",
+  "2026-07-07",
+  "2026-07-08",
+  "2026-07-09",
+  "2026-07-10",
+  "2026-07-13",
+  "2026-07-14",
+  "2026-07-15",
+  "2026-07-16",
+  "2026-07-17",
+  "2026-07-21",
+  "2026-07-22",
+  "2026-07-23",
+  "2026-07-24",
+  "2026-07-27",
+  "2026-07-28",
+  "2026-07-29",
+  "2026-07-30",
+  "2026-07-31",
+  "2026-08-03",
+  "2026-08-04",
+  "2026-08-05",
+  "2026-08-06",
+  "2026-08-07",
+  "2026-08-10",
+  "2026-08-12",
+  "2026-08-13",
+  "2026-08-14",
+  "2026-08-17",
+  "2026-08-18"
+ ],
+ "ingested": [
+  "2026-08-12",
+  "2026-08-13",
+  "2026-08-14",
+  "2026-08-17",
+  "2026-08-18"
+ ],
+ "missing_requested": [],
+ "day_counts": {
+  "2026-08-12": {
+   "records": 178,
+   "by_event": {
+    "invoice_registered": 145,
+    "invoice_changed": 16,
+    "invoice_expired": 17
+   },
+   "corrections": 16,
+   "skipped_person": 362,
+   "skipped_bad": 0
+  },
+  "2026-08-13": {
+   "records": 170,
+   "by_event": {
+    "invoice_cancelled": 20,
+    "invoice_expired": 54,
+    "invoice_registered": 93,
+    "invoice_changed": 3
+   },
+   "corrections": 3,
+   "skipped_person": 289,
+   "skipped_bad": 0
+  },
+  "2026-08-14": {
+   "records": 757,
+   "by_event": {
+    "invoice_changed": 404,
+    "invoice_registered": 57,
+    "invoice_expired": 289,
+    "invoice_cancelled": 5,
+    "invoice_deleted": 2
+   },
+   "corrections": 404,
+   "skipped_person": 200,
+   "skipped_bad": 0
+  },
+  "2026-08-17": {
+   "records": 455,
+   "by_event": {
+    "invoice_changed": 29,
+    "invoice_registered": 372,
+    "invoice_expired": 39,
+    "invoice_cancelled": 14,
+    "invoice_deleted": 1
+   },
+   "corrections": 29,
+   "skipped_person": 797,
+   "skipped_bad": 0
+  },
+  "2026-08-18": {
+   "records": 1122,
+   "by_event": {
+    "invoice_changed": 463,
+    "invoice_registered": 627,
+    "invoice_expired": 31,
+    "invoice_deleted": 1
+   },
+   "corrections": 463,
+   "skipped_person": 1022,
+   "skipped_bad": 0
+  }
+ },
+ "note_ja": "国税庁が公表していない日は missing に入れず、要求したのに無い日だけ記す"
+}
