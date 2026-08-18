@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "as_of": "2026-08-17",
+  "as_of": "2026-08-18",
   "catalog_total": 40,
   "present": 40,
   "missing": 0,
@@ -55,12 +55,12 @@
         "jnet21-180204",
         "jnet21-180205",
         "jnet21-180206",
-        "jnet21-179463",
         "ministry-4553840892",
         "ministry-1706685799",
         "prefecture-oita-6130031718",
         "city-fukuoka-city-6546111542",
-        "city-fukuoka-city-6996405908"
+        "city-fukuoka-city-6996405908",
+        "ministry-2357098813"
       ],
       "eligibility_depth": "guidelines"
     },
@@ -475,10 +475,12 @@
         "mirasapo-29248",
         "mirasapo-28322",
         "mirasapo-27809",
+        "mirasapo-27807",
         "mirasapo-24088",
         "mirasapo-28174",
         "jnet21-181526",
         "jnet21-180135",
+        "ministry-618745313",
         "ministry-753102570",
         "ministry-7421664599",
         "ministry-831414393",
@@ -488,9 +490,7 @@
         "ministry-5119286940",
         "ministry-1250667240",
         "ministry-9048488894",
-        "ministry-5805967927",
-        "ministry-9521526661",
-        "ministry-7239312170"
+        "ministry-5805967927"
       ],
       "eligibility_depth": "guidelines"
     },
@@ -607,20 +607,20 @@
         "mirasapo-32651",
         "mirasapo-32009",
         "mirasapo-31537",
-        "jnet21-189383",
-        "jnet21-189384",
-        "jnet21-189386",
         "jnet21-189387",
+        "jnet21-189386",
+        "jnet21-189384",
+        "jnet21-189383",
         "jnet21-185963",
-        "jnet21-183014",
         "jnet21-181240",
         "ministry-9720163135",
         "ministry-3748473312",
         "ministry-1776433262",
         "ministry-492442833",
         "ministry-8363091279",
-        "ministry-3225561440",
-        "agency-2866728145"
+        "agency-2866728145",
+        "agency-7110785917",
+        "agency-4536533766"
       ],
       "eligibility_depth": "guidelines"
     },
@@ -791,9 +791,9 @@
         "city-hiroshima-city-2174596182",
         "city-hiroshima-city-4476910204",
         "city-hiroshima-city-8524482365",
-        "city-27205-916016757",
-        "city-29201-9292848362",
-        "city-29201-2261918090"
+        "city-20202-6699506621",
+        "city-23202-7877270206",
+        "city-27205-916016757"
       ],
       "eligibility_depth": "page_detail"
     },
@@ -954,6 +954,7 @@
         "mirasapo-624",
         "mirasapo-621",
         "mirasapo-619",
+        "mirasapo-32495",
         "mirasapo-33511",
         "mirasapo-30818",
         "mirasapo-33469",
@@ -964,8 +965,7 @@
         "mirasapo-33372",
         "mirasapo-33311",
         "mirasapo-32666",
-        "mirasapo-32651",
-        "mirasapo-32507"
+        "mirasapo-32651"
       ],
       "eligibility_depth": "page_detail"
     },
