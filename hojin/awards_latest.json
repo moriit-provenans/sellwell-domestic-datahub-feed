@@ -1,6 +1,6 @@
 {
  "schema": "hojin_awards_latest_v1",
- "retrieved_at": "2026-08-18T21:04:08+09:00",
+ "retrieved_at": "2026-08-18T23:25:05+09:00",
  "years": [
   2014,
   2015,
@@ -21,25 +21,25 @@
    "records": 7088,
    "matched": 7031,
    "unmatched": 57,
-   "gz_bytes": 408371
+   "gz_bytes": 408374
   },
   "2015": {
    "records": 12027,
    "matched": 11928,
    "unmatched": 99,
-   "gz_bytes": 716027
+   "gz_bytes": 716029
   },
   "2016": {
    "records": 16420,
    "matched": 16328,
    "unmatched": 92,
-   "gz_bytes": 986174
+   "gz_bytes": 986178
   },
   "2017": {
    "records": 21688,
    "matched": 21570,
    "unmatched": 118,
-   "gz_bytes": 1272422
+   "gz_bytes": 1272423
   },
   "2018": {
    "records": 23132,
@@ -69,7 +69,7 @@
    "records": 31660,
    "matched": 31345,
    "unmatched": 315,
-   "gz_bytes": 1919229
+   "gz_bytes": 1919230
   },
   "2023": {
    "records": 33858,

@@ -1,0 +1,28 @@
+{
+ "ok": true,
+ "available": false,
+ "workflow": "hojin_ffc",
+ "retrieved_at": "2026-08-18T23:28:15+09:00",
+ "source_ref": {
+  "publisher_ja": "消費者庁",
+  "dataset_ja": "機能性表示食品の届出情報検索",
+  "url": "https://www.fld.caa.go.jp/caaks/cssc01/",
+  "robots": "https://www.fld.caa.go.jp/robots.txt",
+  "page_http": 200,
+  "robots_http": 200,
+  "robots_allow_site": true,
+  "csv_button_on_page": false
+ },
+ "waiting": "stable_csv_url",
+ "reason_ja": "検索は Salesforce Community（Lightning Aura）。「前日までの全届出の全項目出力(CSV出力)」は画面のボタンで、安定した GET URL が無い。app.js は汎用 Salesforce で、sitemap にも CSV は無い。Aura を逆にすると明日壊れる。data.go.jp にも使える一括は無かった。robots は Allow。取れる形になったら届出者正式商号を台帳の exact に当て、外れは matched:false と raw_name。機能性の文言は広告材料なので保持する。",
+ "will_keep": [
+  "notifier_name",
+  "product_name",
+  "filed_on",
+  "functional_claim_ja"
+ ],
+ "will_not": [
+  "lightning_aura_scrape",
+  "guess_hojin_bango"
+ ]
+}

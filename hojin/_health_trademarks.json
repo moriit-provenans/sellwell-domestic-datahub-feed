@@ -3,7 +3,7 @@
  "available": false,
  "workflow": "hojin_trademarks",
  "waiting": "jpo_bulk_id",
- "retrieved_at": "2026-08-18T21:07:45+09:00",
+ "retrieved_at": "2026-08-18T23:28:14+09:00",
  "reason_ja": "特許庁バルクの利用IDがまだ無いので日次の新規出願は取れない。gBizINFO は 2023-11 で止まり、期間指定の一括は 404。Smith が既に引いた EDINET 提出者 2,295社／212,171行は二重取得しない。名称マッチはしない。公開 feed に商標の生レコードは置かない。",
  "seed_already_at_smith": {
   "companies": 2295,

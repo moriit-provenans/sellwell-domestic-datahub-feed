@@ -1,0 +1,26 @@
+{
+ "ok": true,
+ "available": true,
+ "workflow": "hojin_large_retail",
+ "retrieved_at": "2026-08-18T23:28:24+09:00",
+ "records": 82,
+ "matched": 33,
+ "unmatched": 49,
+ "with_open_on": 69,
+ "unmatched_by_reason": {
+  "store_name_only": 13,
+  "ambiguous": 24,
+  "no_trade_name": 6,
+  "no_hit": 6
+ },
+ "by_prefecture": {
+  "東京都": 45,
+  "大阪府": 37
+ },
+ "prefectures": [
+  "東京都",
+  "大阪府"
+ ],
+ "not_collected_ja": "神奈川は一覧URLが変わって404。埼玉・千葉・愛知はまだ。経産省全国一括は令和5年度末で終了。47は取らない",
+ "gz_bytes": 6289
+}
