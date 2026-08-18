@@ -2,7 +2,7 @@
  "ok": true,
  "available": true,
  "workflow": "hojin_large_retail",
- "retrieved_at": "2026-08-18T23:28:24+09:00",
+ "retrieved_at": "2026-08-19T07:54:31+09:00",
  "records": 82,
  "matched": 33,
  "unmatched": 49,
@@ -22,5 +22,5 @@
   "大阪府"
  ],
  "not_collected_ja": "神奈川は一覧URLが変わって404。埼玉・千葉・愛知はまだ。経産省全国一括は令和5年度末で終了。47は取らない",
- "gz_bytes": 6289
+ "gz_bytes": 6288
 }
