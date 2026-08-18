@@ -1,0 +1,14 @@
+{
+ "ok": true,
+ "workflow": "hojin_edinet",
+ "retrieved_at": "2026-08-18T20:24:30+09:00",
+ "codelist": {
+  "filers": 11383,
+  "with_hojin_bango": 7244
+ },
+ "documents_api": {
+  "available": false,
+  "note_ja": "Subscription-Key が無い間は取得不能。キー無しでの呼び出しは401を返す。代理の推計はしない",
+  "dates_fetched": []
+ }
+}

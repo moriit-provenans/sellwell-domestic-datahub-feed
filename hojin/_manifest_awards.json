@@ -1,0 +1,11 @@
+{
+ "schema": "hojin_awards_manifest_v1",
+ "retrieved_at": "2026-08-18T20:25:18+09:00",
+ "coverage": {
+  "from": 2014,
+  "to": 2026,
+  "years": 13
+ },
+ "missing_years": [],
+ "note_ja": "欠測年は埋めない。番号が無い落札者は捨てず unmatched に残す"
+}
