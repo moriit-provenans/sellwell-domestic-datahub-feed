@@ -1,6 +1,6 @@
 {
  "schema": "hojin_manifest_v1",
- "retrieved_at": "2026-08-18T20:30:05+09:00",
+ "retrieved_at": "2026-08-18T20:41:52+09:00",
  "source_ref": {
   "publisher_ja": "国税庁",
   "dataset_ja": "法人番号公表サイト 差分データ（CSV／Unicode）",
@@ -79,6 +79,7 @@
  "name_ledger": {
   "path": "datalake/_hojin/name_ledger.sqlite",
   "companies": 5819658,
-  "note_ja": "商号変更の「前の商号」を解くための台帳。全件データで種を入れるまでは未収録の法人があり、その場合 name_before_known: false を立てる"
+  "with_pref": 5810034,
+  "note_ja": "商号変更の「前の商号」と所在地（都道府県・市区町村）を解く台帳。全件データで種を入れるまでは未収録の法人があり、その場合 name_before_known: false を立てる。住所は推測しない"
  }
 }

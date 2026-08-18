@@ -1,7 +1,7 @@
 {
  "ok": true,
  "workflow": "hojin_daily",
- "retrieved_at": "2026-08-18T20:30:05+09:00",
+ "retrieved_at": "2026-08-18T20:41:52+09:00",
  "as_of_date": "2026-08-18",
  "latest_published": "2026-08-18",
  "lag_days": 0,
@@ -61,7 +61,8 @@
    "tenders": "ok",
    "awards": "ok",
    "attributes": "ok",
-   "edinet": "ok"
+   "edinet": "ok",
+   "geo": "ok"
   }
  },
  "lanes": {
@@ -69,6 +70,7 @@
   "tenders": "ok",
   "awards": "ok",
   "attributes": "ok",
-  "edinet": "ok"
+  "edinet": "ok",
+  "geo": "ok"
  }
 }
