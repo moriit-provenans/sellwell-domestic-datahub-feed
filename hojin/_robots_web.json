@@ -1,0 +1,37 @@
+{
+ "retrieved_at": "2026-08-19T10:36:27+09:00",
+ "decisions": [
+  {
+   "hojin_bango": "3010902026320",
+   "homepage": "http://www.fridayfarm.net/",
+   "robots": "ok",
+   "host": "www.fridayfarm.net",
+   "items": 0,
+   "listing_n": 3
+  },
+  {
+   "hojin_bango": "3010905002475",
+   "homepage": "https://www.gotoh-museum.or.jp/",
+   "robots": "ok",
+   "host": "www.gotoh-museum.or.jp",
+   "items": 3,
+   "listing_n": 2
+  },
+  {
+   "hojin_bango": "3011001000588",
+   "homepage": "http://www.aoyama-office.co.jp/",
+   "robots": "ok",
+   "host": "www.aoyama-office.co.jp",
+   "items": 0,
+   "listing_n": 1
+  },
+  {
+   "hojin_bango": "3011001001116",
+   "homepage": "http://www.adessonet.co.jp/",
+   "robots": "ok",
+   "host": "www.adessonet.co.jp",
+   "items": 0,
+   "listing_n": 3
+  }
+ ]
+}
