@@ -1,8 +1,8 @@
 {
  "schema": "edinet_codelist_v1",
- "as_of_date": "2026-08-19",
+ "as_of_date": "2026-08-20",
  "still_valid_2026": true,
- "retrieved_at": "2026-08-19T10:48:38+09:00",
+ "retrieved_at": "2026-08-20T07:50:42+09:00",
  "source_ref": {
   "publisher_ja": "金融庁 EDINET",
   "dataset_ja": "EDINETコードリスト",
@@ -14,7 +14,7 @@
   "note_ja": "提出者法人番号の列をそのまま採る。13桁でない提出者は matched:false とraw_name を残す。社名から番号を推測しない"
  },
  "counts": {
-  "filers": 11383,
+  "filers": 11384,
   "with_hojin_bango": 7244,
   "listed": 3822
  },
@@ -90754,6 +90754,14 @@
    "securities_code": null,
    "listed": false,
    "filer_kind_ja": "個人（組合発行者を除く）"
+  },
+  "E42050": {
+   "hojin_bango": null,
+   "matched": false,
+   "raw_name": "ビーシーピーイー　ネオン　ケイマン　エルピー",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "外国法人・組合（有価証券報告書等の提出義務者以外）"
   },
   "E42051": {
    "hojin_bango": null,

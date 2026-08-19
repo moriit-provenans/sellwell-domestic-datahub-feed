@@ -1,10 +1,10 @@
 {
  "schema": "hojin_awards_manifest_v1",
- "retrieved_at": "2026-08-19T10:39:38+09:00",
+ "retrieved_at": "2026-08-20T07:50:45+09:00",
  "coverage": {
-  "from": 2014,
+  "from": 2026,
   "to": 2026,
-  "years": 13,
+  "years": 1,
   "national_geps": true,
   "municipal": false
  },
