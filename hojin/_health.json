@@ -1,11 +1,11 @@
 {
  "ok": true,
  "workflow": "hojin_daily",
- "retrieved_at": "2026-08-19T08:33:57+09:00",
+ "retrieved_at": "2026-08-19T10:39:31+09:00",
  "as_of_date": "2026-08-18",
  "latest_published": "2026-08-18",
  "lag_days": 0,
- "days_ingested": 5,
+ "days_ingested": 30,
  "missing_dates": [
   "2026-06-22",
   "2026-06-23",
@@ -16,7 +16,9 @@
   "2026-06-30",
   "2026-07-01",
   "2026-07-02",
-  "2026-07-03",
+  "2026-07-03"
+ ],
+ "written_this_run": [
   "2026-07-06",
   "2026-07-07",
   "2026-07-08",
@@ -43,12 +45,12 @@
   "2026-08-07",
   "2026-08-10"
  ],
- "written_this_run": [],
  "gate": {
   "ok": true,
   "problems": [],
   "warnings": [
-   "公表されているのに未取得の日が 35日: ['2026-06-22', '2026-06-23', '2026-06-24', '2026-06-25', '2026-06-26']"
+   "公表されているのに未取得の日が 10日: ['2026-06-22', '2026-06-23', '2026-06-24', '2026-06-25', '2026-06-26']",
+   "企業サイト見出し が欠けている（脊骨は出して、欠けたものは欠けたと書く）"
   ],
   "lanes": {
    "nta_daily": "ok",
@@ -60,7 +62,9 @@
    "trademarks": "ok",
    "ffc": "ok",
    "large_retail": "ok",
-   "invoice": "ok"
+   "invoice": "ok",
+   "web": "missing",
+   "gbiz": "ok"
   }
  },
  "lanes": {
@@ -73,6 +77,8 @@
   "trademarks": "ok",
   "ffc": "ok",
   "large_retail": "ok",
-  "invoice": "ok"
+  "invoice": "ok",
+  "web": "missing",
+  "gbiz": "ok"
  }
 }

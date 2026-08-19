@@ -2,11 +2,11 @@
  "ok": true,
  "available": true,
  "workflow": "hojin_invoice",
- "retrieved_at": "2026-08-19T08:37:31+09:00",
+ "retrieved_at": "2026-08-19T10:44:43+09:00",
  "as_of_date": "2026-08-18",
  "latest_published": "2026-08-18",
  "lag_days": 0,
- "days_ingested": 5,
+ "days_ingested": 30,
  "records_latest": 1122,
  "by_event_latest": {
   "invoice_changed": 463,

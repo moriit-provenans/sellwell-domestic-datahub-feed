@@ -1,6 +1,6 @@
 {
  "schema": "hojin_awards_latest_v1",
- "retrieved_at": "2026-08-19T08:34:04+09:00",
+ "retrieved_at": "2026-08-19T10:39:38+09:00",
  "years": [
   2014,
   2015,
@@ -69,7 +69,7 @@
    "records": 31660,
    "matched": 31345,
    "unmatched": 315,
-   "gz_bytes": 1919230
+   "gz_bytes": 1919229
   },
   "2023": {
    "records": 33858,

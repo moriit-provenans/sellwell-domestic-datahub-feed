@@ -1,0 +1,16 @@
+{
+ "ok": true,
+ "available": false,
+ "workflow": "hojin_gbiz",
+ "waiting": "gbizinfo_api_token",
+ "retrieved_at": "2026-08-19T10:44:43+09:00",
+ "reason_ja": "gBizINFO のアクセストークンが Atlas Secrets に無い。ダウンロードページもトークン必須。Smith 側（セルウェル株式会社名義）のキーを GitHub Secrets GBIZINFO_API_TOKEN に渡すか、Atlas 名義で取り直す。期間指定が 404 なら最小の取れる幅をここに書く。代理の推計はしない",
+ "will_fetch": [
+  "procurement",
+  "subsidy"
+ ],
+ "will_not_fetch": [
+  "patent",
+  "trademark_period"
+ ]
+}

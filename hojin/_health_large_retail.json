@@ -2,25 +2,35 @@
  "ok": true,
  "available": true,
  "workflow": "hojin_large_retail",
- "retrieved_at": "2026-08-19T08:37:28+09:00",
- "records": 82,
+ "retrieved_at": "2026-08-19T10:44:12+09:00",
+ "records": 149,
  "matched": 33,
- "unmatched": 49,
- "with_open_on": 69,
+ "unmatched": 116,
+ "with_open_on": 111,
  "unmatched_by_reason": {
-  "store_name_only": 13,
+  "store_name_only": 80,
   "ambiguous": 24,
   "no_trade_name": 6,
   "no_hit": 6
  },
  "by_prefecture": {
+  "京都府": 3,
+  "兵庫県": 12,
+  "千葉県": 42,
+  "埼玉県": 4,
+  "大阪府": 37,
   "東京都": 45,
-  "大阪府": 37
+  "横浜市": 6
  },
  "prefectures": [
+  "京都府",
+  "兵庫県",
+  "千葉県",
+  "埼玉県",
+  "大阪府",
   "東京都",
-  "大阪府"
+  "横浜市"
  ],
- "not_collected_ja": "神奈川は一覧URLが変わって404。埼玉・千葉・愛知はまだ。経産省全国一括は令和5年度末で終了。47は取らない",
- "gz_bytes": 6288
+ "not_collected_ja": "愛知県は Cookie 無しだと無限リダイレクト。神奈川県域の県ページは四半期PDFのみ。横浜市HTMLは収録。政令市のうち川崎・相模原・名古屋・神戸・さいたま・千葉市は未収録。経産省全国一括は令和5年度末で終了。47は取らない",
+ "gz_bytes": 9674
 }
