@@ -1,23 +1,14 @@
 {
  "ok": true,
  "workflow": "hojin_edinet",
- "retrieved_at": "2026-08-20T12:06:20+09:00",
+ "retrieved_at": "2026-08-21T07:55:03+09:00",
  "codelist": {
-  "filers": 11385,
-  "with_hojin_bango": 7244
+  "filers": 11387,
+  "with_hojin_bango": 7245
  },
  "documents_api": {
-  "available": true,
-  "note_ja": "取得済み",
-  "dates_fetched": [
-   "2026-08-13",
-   "2026-08-14",
-   "2026-08-15",
-   "2026-08-16",
-   "2026-08-17",
-   "2026-08-18",
-   "2026-08-19",
-   "2026-08-20"
-  ]
+  "available": false,
+  "note_ja": "Subscription-Key が無い間は取得不能。キー無しでの呼び出しは401を返す。代理の推計はしない",
+  "dates_fetched": []
  }
 }

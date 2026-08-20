@@ -1,12 +1,12 @@
 {
  "ok": true,
  "workflow": "hojin_tenders_open",
- "retrieved_at": "2026-08-20T07:53:52+09:00",
- "as_of_date": "2026-08-20",
- "records": 9183,
- "matched": 3285,
- "with_deadline": 3914,
- "with_opening_date": 1946,
+ "retrieved_at": "2026-08-21T07:58:13+09:00",
+ "as_of_date": "2026-08-21",
+ "records": 9083,
+ "matched": 3230,
+ "with_deadline": 3850,
+ "with_opening_date": 1971,
  "detail_pages_fetched": false,
  "detail_pages_reason_ja": "ExternalDocumentURI は 774 ドメイン。p-portal 分は案件ページではなく検索トップ。kkj.go.jp の robots.txt は 404。他サイトは負荷の点で取らない"
 }
