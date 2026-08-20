@@ -1,16 +1,41 @@
 {
  "ok": true,
- "available": false,
+ "available": true,
  "workflow": "hojin_gbiz",
- "waiting": "gbizinfo_api_token",
- "retrieved_at": "2026-08-20T07:54:41+09:00",
- "reason_ja": "gBizINFO のアクセストークンが無い。セルウェル名義のキーを GitHub Secrets GBIZINFO_API_TOKEN に渡すか、Atlas 名義で取り直す。期間指定が 404 なら最小の取れる幅をここに書く。代理の推計はしない",
- "will_fetch": [
-  "procurement",
-  "subsidy"
+ "retrieved_at": "2026-08-20T12:06:20+09:00",
+ "smallest_window": {
+  "procurement": "7d",
+  "subsidy": "90d"
+ },
+ "probes": [
+  {
+   "lane": "procurement",
+   "window": "7d",
+   "http": 200,
+   "page1": 94
+  },
+  {
+   "lane": "subsidy",
+   "window": "7d",
+   "http": 404,
+   "page1": 0
+  },
+  {
+   "lane": "subsidy",
+   "window": "30d",
+   "http": 404,
+   "page1": 0
+  },
+  {
+   "lane": "subsidy",
+   "window": "90d",
+   "http": 200,
+   "page1": 100
+  }
  ],
- "will_not_fetch": [
-  "patent",
-  "trademark_period"
- ]
+ "note_ja": "最短期間で本収集した",
+ "counts": {
+  "records": 4578,
+  "matched": 4578
+ }
 }

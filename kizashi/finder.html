@@ -1,0 +1,547 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>兆しファインダー（試作）｜セルウェル</title>
+<style>
+:root{
+  --ink:#1b1f24; --sub:#5b6672; --line:#e3e7eb; --bg:#f6f8fa; --card:#fff;
+  --accent:#0f6e8c; --accent-w:#e6f2f6; --warn:#b4531a; --warn-w:#fdf0e7;
+  --r:8px;
+}
+*{box-sizing:border-box}
+body{margin:0;font-family:"Noto Sans JP","Hiragino Kaku Gothic ProN",Meiryo,sans-serif;
+  color:var(--ink);background:var(--bg);font-size:14px;line-height:1.7;-webkit-font-smoothing:antialiased}
+header{background:var(--card);border-bottom:1px solid var(--line);padding:14px 22px;position:sticky;top:0;z-index:20}
+.hrow{display:flex;align-items:baseline;gap:14px;flex-wrap:wrap;max-width:1560px;margin:0 auto}
+h1{font-size:17px;margin:0;letter-spacing:.02em}
+.tag{font-size:11px;background:var(--accent-w);color:var(--accent);padding:2px 8px;border-radius:99px;font-weight:700}
+.cover{font-size:11.5px;color:var(--sub);margin-left:auto}
+nav{max-width:1560px;margin:0 auto;display:flex;gap:4px;margin-top:12px}
+nav button{border:1px solid var(--line);background:var(--bg);color:var(--sub);padding:7px 16px;
+  border-radius:var(--r) var(--r) 0 0;cursor:pointer;font-size:13px;font-family:inherit;font-weight:600;border-bottom:none}
+nav button[aria-selected=true]{background:var(--card);color:var(--accent);box-shadow:inset 0 2px 0 var(--accent)}
+main{max-width:1560px;margin:0 auto;padding:18px 22px 60px}
+.lens-note{background:var(--card);border:1px solid var(--line);border-left:3px solid var(--accent);
+  border-radius:var(--r);padding:12px 16px;margin-bottom:16px;font-size:13px}
+.lens-note b{color:var(--accent)}
+.lens-note .why{color:var(--sub);font-size:12.5px;display:block;margin-top:3px}
+.grid{display:grid;grid-template-columns:268px minmax(0,1fr) 380px;gap:16px;align-items:start}
+@media(max-width:1360px){.grid{grid-template-columns:248px minmax(0,1fr)}.pane-card{grid-column:1/-1}}
+.box{background:var(--card);border:1px solid var(--line);border-radius:var(--r);padding:14px}
+.box h2{font-size:12px;margin:0 0 10px;color:var(--sub);letter-spacing:.06em;font-weight:700}
+.box h2 .rst{float:right;font-weight:600;color:var(--accent);cursor:pointer;letter-spacing:0}
+input[type=search]{width:100%;padding:8px 10px;border:1px solid var(--line);border-radius:6px;
+  font-family:inherit;font-size:13px}
+.fgroup{margin-bottom:14px}
+.fgroup>.lab{font-size:11.5px;color:var(--sub);font-weight:700;margin-bottom:5px}
+.chip{display:inline-flex;align-items:center;gap:5px;border:1px solid var(--line);background:#fbfcfd;
+  border-radius:99px;padding:3px 9px;margin:0 4px 4px 0;cursor:pointer;font-size:12px;user-select:none}
+.chip:hover{border-color:var(--accent)}
+.chip[aria-pressed=true]{background:var(--accent);border-color:var(--accent);color:#fff}
+.chip .n{font-variant-numeric:tabular-nums;opacity:.65;font-size:11px}
+.chip[aria-pressed=true] .n{opacity:.85}
+.chip.zero{opacity:.35;cursor:default}
+/* クロス集計 */
+.xt{width:100%;border-collapse:collapse;font-size:12px;margin-bottom:14px}
+.xt th,.xt td{border:1px solid var(--line);padding:4px 7px;text-align:right;font-variant-numeric:tabular-nums}
+.xt th{background:#fafbfc;color:var(--sub);font-weight:700;font-size:11px}
+.xt th:first-child,.xt td:first-child{text-align:left;white-space:nowrap}
+.xt td.c{cursor:pointer}
+.xt td.c:hover{outline:2px solid var(--accent);outline-offset:-2px}
+.xt td.on{background:var(--accent);color:#fff;font-weight:700}
+.xt td.z{color:#c3cbd2}
+.xt tfoot td{background:#fafbfc;font-weight:700}
+/* 一覧 */
+.tbar{display:flex;align-items:center;gap:12px;margin-bottom:8px;flex-wrap:wrap}
+.tbar .cnt{font-size:13px;font-weight:700}
+.tbar .cnt em{color:var(--accent);font-style:normal;font-size:16px}
+.tbar .sp{margin-left:auto;display:flex;gap:6px}
+.tbar select,.tbar button{border:1px solid var(--line);background:var(--card);border-radius:6px;
+  padding:5px 10px;font-family:inherit;font-size:12px;cursor:pointer}
+.rows{max-height:70vh;overflow:auto;border:1px solid var(--line);border-radius:var(--r);background:var(--card)}
+.row{padding:10px 13px;border-bottom:1px solid var(--line);cursor:pointer;display:flex;gap:12px;align-items:flex-start}
+.row:hover{background:#f9fbfc}
+.row[aria-current=true]{background:var(--accent-w);box-shadow:inset 3px 0 0 var(--accent)}
+.row .main{min-width:0;flex:1}
+.row .nm{font-weight:700;font-size:13.5px}
+.row .meta{color:var(--sub);font-size:11.5px;margin-top:2px}
+.row .amt{text-align:right;font-variant-numeric:tabular-nums;white-space:nowrap;font-size:12.5px}
+.pill{display:inline-block;font-size:10.5px;padding:1px 6px;border-radius:99px;margin-right:4px;
+  background:var(--accent-w);color:var(--accent);font-weight:700}
+.pill.w{background:var(--warn-w);color:var(--warn)}
+.pill.g{background:#eef1f4;color:var(--sub)}
+/* 年度の帯 */
+.years{display:flex;gap:2px;margin-top:5px}
+.years i{width:15px;height:15px;border-radius:3px;background:#eef1f4;font-size:8.5px;line-height:15px;
+  text-align:center;color:#98a4b0;font-style:normal}
+.years i.on{background:var(--accent);color:#fff}
+.years i.gap{background:var(--warn);color:#fff}
+.years i.miss{background:#fff;border:1.5px dashed var(--warn);color:var(--warn)}
+/* カルテ */
+.pane-card{position:sticky;top:112px}
+.kv{display:grid;grid-template-columns:88px 1fr;gap:3px 10px;font-size:12.5px;margin-bottom:12px}
+.kv dt{color:var(--sub)}
+.kv dd{margin:0;font-weight:600}
+.rd{background:#fafbfc;border:1px solid var(--line);border-radius:6px;padding:10px 12px;font-size:12.5px;margin-bottom:10px}
+.rd .t{font-weight:700;font-size:11.5px;color:var(--sub);margin-bottom:4px;letter-spacing:.04em}
+.rd ul{margin:0;padding-left:16px}
+.empty{color:var(--sub);text-align:center;padding:40px 10px;font-size:13px}
+.limits{font-size:11.5px;color:var(--sub);border-top:1px dashed var(--line);padding-top:9px;margin-top:4px}
+</style>
+</head>
+<body>
+<header>
+  <div class="hrow">
+    <h1>兆しファインダー</h1><span class="tag">試作・公開データ</span>
+    <span class="cover" id="cover"></span>
+  </div>
+  <nav id="nav">
+    <button data-lens="tenders" aria-selected="true">いま出ている案件</button>
+    <button data-lens="slots" aria-selected="false">空いた枠・まだ出ていない枠</button>
+    <button data-lens="moves" aria-selected="false">動いている会社</button>
+    <button data-lens="trademarks" aria-selected="false">新しい売り場の商標</button>
+  </nav>
+</header>
+<main>
+  <div class="lens-note" id="note"></div>
+  <div class="grid">
+    <div class="box" id="facets"></div>
+    <div>
+      <div class="box" id="xtab"></div>
+      <div class="tbar">
+        <span class="cnt"><em id="n">0</em> 件</span>
+        <span id="active" style="font-size:12px;color:var(--sub)"></span>
+        <span class="sp">
+          <select id="sort"></select>
+          <button id="csv">この条件で持ち出す（CSV）</button>
+          <button id="save">この条件を担当として保存</button>
+        </span>
+      </div>
+      <div class="rows" id="rows"></div>
+    </div>
+    <div class="box pane-card" id="card"><div class="empty">左の一覧から1件選ぶと、ここに中身が出ます</div></div>
+  </div>
+</main>
+
+<script src="kizashi_index.js"></script>
+<script>
+const D = window.KIZASHI;
+if(!D){ document.body.insertAdjacentHTML('afterbegin',
+  '<p style="padding:20px">kizashi_index.js がありません。先に <code>python build_index.py --write kizashi_index.json</code> を実行してください。</p>');
+  throw new Error('KIZASHI missing'); }
+const $ = s => document.querySelector(s);
+const esc = s => String(s==null?'':s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+const yen = v => !v ? '—'
+  : v>=1e8 ? (v/1e8).toFixed(v>=1e9?0:1)+'億円'
+  : v>=1e4 ? Math.round(v/1e6*10)/10+'百万円' : v.toLocaleString()+'円';
+const EV = {new:'新設',name_change:'商号変更',address_change_domestic:'本店移転',
+  address_change_overseas:'本店を国外へ',merger_in:'他社を吸収',merger_out:'合併で消滅',
+  liquidated:'清算して閉鎖',closed_admin:'登記官が閉鎖',closed_other:'登記の閉鎖',
+  revived:'登記の復活'};
+const ST = {broke:'去年で切れた',pending:'今年まだ出ていない'};
+
+/* ---------------- レンズの定義。軸はここに集めてある ---------------- */
+const LENS = {
+  tenders:{
+    rows:D.tenders,
+    note:'<b>いま公示されている案件に、同じ業務の過去13年分の落札を貼っています。</b>'
+      +'<span class="why">締切は公告本文の日付ラベルから採っています（詳細ページは取りに行っていないので、無い行があります）。'
+      +'落札の突き合わせは国の機関の分だけです。履歴なしは、初めて出た案件か、自治体の案件か、業務名が言い換えられているかです。</span>',
+    facets:[
+      {k:'has_dl',lab:'締切'},
+      {k:'hist',lab:'過去の落札履歴'},
+      {k:'cat',lab:'仕事の種類',max:14},
+      {k:'band',lab:'過去の落札額の帯'},
+      {k:'p',lab:'都道府県',max:14},
+      {k:'an',lab:'発注機関',max:14},
+      {k:'proc',lab:'入札の方式',max:8},
+    ],
+    xtab:{rk:'p',ck:'hist',rlab:'都道府県',clab:'過去の落札履歴',rmax:12,
+      corder:['履歴なし','過去1年','過去2年','過去3年','過去4年','過去5年','過去6年',
+        '過去7年','過去8年','過去9年','過去10年','過去11年','過去12年','過去13年']},
+    sorts:[['left','締切が近い順'],['hy','過去の履歴が長い順'],['a','過去の落札額が大きい順'],['d','公示された日が新しい順']],
+    search:r=>r.t+' '+r.an+' '+(r.in||''),
+    render:r=>`<div class="main">
+        <div class="nm">${esc(r.t)}</div>
+        <div class="meta"><span class="pill ${r.hy>=3?'':'g'}">${esc(r.hist)}</span>
+          <span class="pill ${r.dl?'':'g'}">${r.dl?('締切 '+esc(r.dl)): '締切なし'}</span>
+          <span class="pill g">${esc(r.cat)}</span>
+          ${esc(r.an)} ・ ${esc(r.p)}${esc(r.c||'')} ・ 公示 ${esc(r.d)}</div>
+        ${r.in?`<div class="meta">これまで取っていた会社：${esc(r.in)}（${r.icnt}回）</div>`:''}
+      </div>
+      <div class="amt">${r.a?yen(r.a):''}<br><span style="color:var(--sub);font-size:11px">${
+        r.left!=null?(r.left>=0?'あと'+r.left+'日':'期限超過'): (r.a?'過去の中央値':'—')}</span></div>`,
+    card:r=>`<h2>案件のカルテ</h2>
+      <div style="font-weight:700;font-size:14.5px;margin-bottom:2px">${esc(r.t)}</div>
+      <div style="color:var(--sub);font-size:12px;margin-bottom:12px">${esc(r.an)} ／ ${esc(r.cat)}</div>
+      <dl class="kv">
+        <dt>場所</dt><dd>${esc(r.p)}${esc(r.c||'')}</dd>
+        <dt>公示された日</dt><dd>${esc(r.d)}</dd>
+        <dt>締切</dt><dd>${r.dl?esc(r.dl)+(r.dls?'（'+esc(r.dls)+'）':'')+(r.left!=null?' ／ '+(r.left>=0?'あと'+r.left+'日':'期限超過'):'')
+          :'公告本文に日付ラベルが無い'}</dd>
+        <dt>開札</dt><dd>${esc(r.od)||'—'}</dd>
+        <dt>方式</dt><dd>${esc(r.proc)}</dd>
+      </dl>
+      ${r.hy>=2?`<div class="rd"><div class="t">これまで同じ業務を取っていた会社</div>
+        <b>${esc(r.in)}</b>（${r.icnt}回）<br>
+        ${r.hfrom}〜${r.hto}年度の${r.hy}年分／落札額の中央値 ${yen(r.a)}<br>
+        <span style="color:var(--sub);font-size:11.5px">法人番号 ${esc(r.ih)}</span></div>
+        <div class="rd"><div class="t">この行が意味していること</div>
+        同じ業務名の落札が${r.hy}年分あり、${esc(r.in)}が${r.icnt}回取っている。
+        金額の目安は${yen(r.a)}前後。${r.hy>=5
+          ? '5年以上続いているため、入れ替わりにくい相手である可能性がある。'
+          : '続いた年数が短いため、入れ替わる余地がある可能性がある。'}</div>`
+      :`<div class="rd"><div class="t">過去の落札が見つかっていない</div>
+        初めて出た案件か、業務名が言い換えられているか、
+        自治体の案件（手元の落札結果は国の機関の分だけ）のいずれか。
+        金額の目安を作るには、近い業務名で引き直す必要がある。</div>`}
+      <div class="rd"><div class="t">判断のポイント</div><ul>
+        <li>公告本文に予定価格が書かれているか（多くは書かれていない）</li>
+        <li>同じ発注機関が過去に出した近い業務の金額</li>
+        <li>${r.hy>=2?'常連の会社がこの1年で合併・商号変更をしていないか（「動いている会社」で引ける）'
+          :'業務名の言い換えで別の行になっていないか'}</li>
+      </ul></div>
+      <div style="margin-top:10px"><a href="${esc(r.url)}" target="_blank" rel="noopener">調達ポータルで見る</a></div>
+      <div class="limits">締切は公告本文から採っています。無い行は、本文に日付ラベルが無かったものです（詳細ページは取りに行っていません）。
+        落札の突き合わせは国の機関の分だけです。自治体の落札は一括では取れません。</div>`,
+    csv:['t','an','p','c','cat','proc','d','dl','dls','od','hist','in','a','url'],
+  },
+  moves:{
+    rows:D.moves,
+    note:'<b>登記が動いた会社に、別の出どころが重なったものだけ</b>を並べています。'
+      +'<span class="why">商号変更・合併・復活は、それ単独でも意味が読めるので残しています。'
+      +'新設や本店移転は、落札の履歴か届出の属性が重なったときだけ出しています。'
+      +'1種類だけでは出さない、という商品の決めごとを索引の段階で当てています。</span>',
+    facets:[
+      {k:'e',lab:'登記で起きたこと',ja:v=>EV[v]||v},
+      {k:'srcs',lab:'重なっている出どころ'},
+      {k:'cats',lab:'落札している仕事の種類'},
+      {k:'attr',lab:'届出・登録の属性'},
+      {k:'p',lab:'本店の都道府県',max:14},
+      {k:'k',lab:'法人の種別',max:6},
+    ],
+    xtab:{rk:'p',ck:'e',rlab:'都道府県',clab:'登記で起きたこと',cja:v=>EV[v]||v,rmax:12},
+    sorts:[['srcn','重なっている出どころが多い順'],['d','登記が動いた日が新しい順'],
+      ['asum','落札の累計が大きい順'],['aw','落札の件数が多い順']],
+    search:r=>r.n,
+    render:r=>`<div class="main">
+        <div class="nm">${esc(r.n)}</div>
+        <div class="meta">${r.e.map(e=>`<span class="pill">${EV[e]||e}</span>`).join('')}
+          ${esc(r.d)}${r.p?' ・ '+esc(r.p)+esc(r.c):''}${r.k?' ・ '+esc(r.k):''}</div>
+        <div class="meta">${r.attr.map(a=>`<span class="pill g">${esc(a)}</span>`).join('')}
+          ${r.aw?`<span class="pill g">落札 ${r.aw}件</span>`:''}</div>
+      </div>
+      <div class="amt">${r.aw?yen(r.asum):''}<br><span style="color:var(--sub);font-size:11px">${
+        r.srcs.length}種類の重なり</span></div>`,
+    card:r=>`<h2>会社カルテ</h2>
+      <div style="font-weight:700;font-size:15px;margin-bottom:2px">${esc(r.n)}</div>
+      <div style="color:var(--sub);font-size:12px;margin-bottom:12px">法人番号 ${esc(r.h)}</div>
+      <dl class="kv">
+        <dt>起きたこと</dt><dd>${r.e.map(e=>EV[e]||e).join('、')}</dd>
+        <dt>公表された日</dt><dd>${esc(r.d)}</dd>
+        <dt>本店</dt><dd>${esc(r.p)+esc(r.c)||'—'}</dd>
+        <dt>種別</dt><dd>${esc(r.k)||'—'}</dd>
+        <dt>設立</dt><dd>${esc(r.born)||'—'}</dd>
+      </dl>
+      ${r.aw?`<div class="rd"><div class="t">公共の仕事</div>
+        ${r.aw}件・累計 ${yen(r.asum)}<br>
+        仕事の種類：${r.cats.join('、')||'分類にかからないもの'}</div>`:''}
+      ${r.attr.length?`<div class="rd"><div class="t">届出・登録</div>${r.attr.join('、')}</div>`:''}
+      <div class="rd"><div class="t">重なっている出どころ</div>${r.srcs.join(' ＋ ')}</div>
+      <div class="limits">この画面が持っていないもの：決算（EDINET）。
+        商標は「新しい売り場の商標」の入口に分けてあります。</div>
+      <div style="margin-top:10px"><a href="https://www.houjin-bangou.nta.go.jp/henkorireki-johoto.html?selHouzinNo=${
+        esc(r.h)}" target="_blank" rel="noopener">国税庁で登記の履歴を見る</a></div>`,
+    csv:['h','n','p','c','k','d','aw','asum'],
+  },
+  slots:{
+    rows:D.slots,
+    note:'<b>「有るもの」ではなく「無いもの」を数えた列です。</b>'
+      +'<span class="why">同じ業務が3年以上続いていたのに去年の落札が無い（枠が空いた）、'
+      +'あるいは例年ならもう決まっている月を過ぎたのに今年度の落札がまだ無い、というものだけを出しています。'
+      +'落札結果に発注機関名は入っていないため、年度表記を外した業務名で同じ仕事かどうかを見ています。</span>',
+    facets:[
+      {k:'st',lab:'枠の状態',ja:v=>ST[v]||v},
+      {k:'cat',lab:'仕事の種類'},
+      {k:'band',lab:'例年の金額帯'},
+      {k:'p',lab:'これまで取っていた会社の本店',max:14},
+      {k:'run',lab:'続いていた年数',ja:v=>v+'年'},
+      {k:'m',lab:'例年決まる月',ja:v=>v+'月'},
+    ],
+    xtab:{rk:'cat',ck:'band',rlab:'仕事の種類',clab:'例年の金額帯',
+      corder:['300万円未満','300万〜1千万円','1千万〜3千万円','3千万〜1億円','1億円以上','不明']},
+    sorts:[['a','例年の金額が大きい順'],['run','続いていた年数が長い順'],['m','例年決まる月が早い順']],
+    search:r=>r.t+' '+(r.n||''),
+    render:r=>`<div class="main">
+        <div class="nm">${esc(r.t)}</div>
+        <div class="meta"><span class="pill ${r.st==='broke'?'w':''}">${ST[r.st]}</span>
+          <span class="pill g">${esc(r.cat)}</span>
+          例年 ${r.m}月ごろ決まる ・ ${r.run}年続いていた</div>
+        <div class="meta">これまで取っていた会社：${esc(r.n||r.h)}</div>
+        ${yearbar(r)}
+      </div>
+      <div class="amt">${yen(r.a)}<br><span style="color:var(--sub);font-size:11px">例年の中央値</span></div>`,
+    card:r=>`<h2>枠のカルテ</h2>
+      <div style="font-weight:700;font-size:14.5px;margin-bottom:2px">${esc(r.t)}</div>
+      <div style="color:var(--sub);font-size:12px;margin-bottom:12px">${esc(r.cat)}</div>
+      <dl class="kv">
+        <dt>状態</dt><dd>${ST[r.st]}</dd>
+        <dt>これまで</dt><dd>${esc(r.n||'')}<br>
+          <span style="font-weight:400;color:var(--sub);font-size:11.5px">法人番号 ${esc(r.h)}</span></dd>
+        <dt>続いた年</dt><dd>${r.ys[0]}〜${r.ys[r.ys.length-1]}（${r.run}年）</dd>
+        <dt>例年の月</dt><dd>${r.m}月ごろ</dd>
+        <dt>金額</dt><dd>${yen(r.a)}（中央値）</dd>
+        <dt>本店</dt><dd>${(r.p||r.c)?esc(r.p||'')+esc(r.c||''):'—'}</dd>
+      </dl>
+      ${yearbar(r,true)}
+      <div class="rd"><div class="t">この行が意味していること</div>
+        ${r.st==='broke'
+          ? '3年以上続けて同じ会社が取っていた業務で、'+FY.prev+'年度の落札が手元のデータに無い。'
+            +'発注が終わったのか、別の会社に替わったのか、名前が変わって別の行になっているのかで意味が変わる。'
+          : '直近2年は同じ会社が取っていて、例年なら'+r.m+'月ごろに決まる業務。'
+            +'今年度の落札がまだ出ていない。これから公示されるのか、'
+            +'今年度から発注が無くなったのかで意味が変わる。'}</div>
+      <div class="rd"><div class="t">判断のポイント</div><ul>
+        <li>同じ業務が別の名前で出ていないか（業務名の言い換えで別の行になる）</li>
+        <li>いま公示中の入札に、同じ業務が出ていないか</li>
+        <li>${r.st==='broke'?'取っていた会社が合併・商号変更をしていないか（「動いている会社」の側で引ける）'
+          :'例年の公示から落札までの日数を引き、公示の時期を過ぎているか'}</li>
+      </ul></div>
+      <div class="limits">落札結果に発注機関名が無いため、どこが出していた仕事かは特定できていません。
+        落札は国の機関の分だけです。所在地は落札した会社の本店で絞れます。</div>`,
+    csv:['h','n','t','cat','band','st','m','run','a','p','c'],
+  },
+  trademarks:{
+    rows:D.trademarks||[],
+    note:'<b>いつも使っていない区分に、まとめて商標を出している会社</b>です。'
+      +'<span class="why">直近3か月の出願が例年の2倍を超え、同じ区分に別々の出願が2件以上あり、'
+      +'その区分が直前24か月に無い、の4つをすべて満たしたものだけです。'
+      +'商品化とは書いていません。防衛出願や海外ブランドの国内代理でも同じ形になります。'
+      +'日次の新規は特許庁の利用ID待ちで、いま見ているのは gBizINFO の最終月までの履歴です。</span>',
+    facets:[
+      {k:'d',lab:'発火した月',max:12},
+      {k:'cls0',lab:'新しい区分',max:14},
+      {k:'overlap',lab:'公共の落札'},
+      {k:'p',lab:'本店の都道府県',max:14},
+    ],
+    xtab:{rk:'p',ck:'cls0',rlab:'都道府県',clab:'新しい区分',rmax:12},
+    sorts:[['d','発火した月が新しい順'],['recent','直近の出願数が多い順'],['asum','落札の累計が大きい順']],
+    search:r=>r.n+' '+(r.cls||[]).join(' '),
+    render:r=>`<div class="main">
+        <div class="nm">${esc(r.n)}</div>
+        <div class="meta">${(r.cls||[]).map(c=>`<span class="pill">${esc(c)}</span>`).join('')}
+          ${esc(r.d)}${r.p?' ・ '+esc(r.p)+esc(r.c||''):''}</div>
+        <div class="meta">直近3か月 ${r.recent}件（例年 月${r.mean}件）
+          ${r.aw?`<span class="pill g">落札 ${r.aw}件</span>`:''}</div>
+      </div>
+      <div class="amt">${r.aw?yen(r.asum):''}<br><span style="color:var(--sub);font-size:11px">${
+        r.overlap}</span></div>`,
+    card:r=>`<h2>会社カルテ</h2>
+      <div style="font-weight:700;font-size:15px;margin-bottom:2px">${esc(r.n)}</div>
+      <div style="color:var(--sub);font-size:12px;margin-bottom:12px">法人番号 ${esc(r.h)}</div>
+      <dl class="kv">
+        <dt>発火した月</dt><dd>${esc(r.d)}</dd>
+        <dt>本店</dt><dd>${(r.p||r.c)?esc(r.p||'')+esc(r.c||''):'—'}</dd>
+        <dt>直近3か月</dt><dd>${r.recent}件（例年は月${r.mean}件）</dd>
+        <dt>新しい区分</dt><dd>${(r.cls||[]).join('、')}</dd>
+      </dl>
+      <div class="rd"><div class="t">この行が意味していること</div>
+        いつも使っていない区分に、まとめて商標を出している。
+        発売が近い可能性もあるが、使う予定のない名前を押さえる防衛出願や、
+        海外ブランドの国内代理契約に伴う出願でも同じ形になる。</div>
+      ${r.aw?`<div class="rd"><div class="t">公共の仕事</div>
+        ${r.aw}件・累計 ${yen(r.asum)}<br>
+        仕事の種類：${(r.cats||[]).join('、')||'分類にかからないもの'}</div>`:''}
+      <div class="rd"><div class="t">判断のポイント</div><ul>
+        <li>出願された名称に、商品名としての具体性があるか（J-PlatPatで名称を並べて見る）</li>
+        <li>${(r.cls||[])[0]||'新しい区分'} が、この会社の既存事業のどこに当たるのか</li>
+        <li>研究開発費が増えていて広告宣伝費はまだ増えていないか（決算が取れた会社だけ）</li>
+      </ul></div>
+      <div class="limits">商標の名称そのものはこの画面に出していません（特許庁への申し出どおり、名寄せ・集計の結果だけを出します）。
+        データは gBizINFO の最終月（${esc((D.coverage&&D.coverage.trademark_asof)||'')}）までです。日次の新規出願は特許庁バルクの利用IDが届いてから足します。</div>
+      <div style="margin-top:10px"><a href="https://www.j-platpat.inpit.go.jp/" target="_blank" rel="noopener">J-PlatPatで名称を見る</a></div>`,
+    csv:['h','n','p','c','d','recent','mean','cls0','aw','asum'],
+  },
+};
+const FY = {latest:2026, prev:2025};
+
+function yearbar(r, big){
+  const a=r.ys[0], b=Math.max(FY.latest, r.ys[r.ys.length-1]); let h='';
+  for(let y=a;y<=b;y++){
+    const on=r.ys.includes(y);
+    const cls = on ? 'on' : (y===FY.latest ? 'miss' : (y<r.ys[r.ys.length-1]?'gap':'miss'));
+    h+=`<i class="${cls}" title="${y}年度${on?'：落札あり':'：落札なし'}">${String(y).slice(2)}</i>`;
+  }
+  return `<div class="years">${h}</div>`+(big?'<div style="font-size:11px;color:var(--sub);margin:4px 0 10px">'
+    +'塗り＝落札あり／点線＝落札なし</div>':'');
+}
+
+/* ---------------- 状態 ---------------- */
+let lens='tenders', sel={}, q='', sortKey=null, cur=null;
+const KEY='kizashi.saved.v1';
+
+function conf(){ return LENS[lens]; }
+function base(){ return conf().rows; }
+function has(r,k,v){ const x=r[k]; return Array.isArray(x)?x.includes(v):String(x)===String(v); }
+/* 指定した軸を外したときの母集団。件数を出すのに使う（絞ると数字が動く画面にするため）。
+   自分の軸を含めて数えると、1回押した時点で表が1マスに潰れて次が押せなくなる */
+function subset(...except){
+  let rs=base();
+  for(const k in sel){ if(except.includes(k)||!sel[k].length) continue;
+    rs=rs.filter(r=>sel[k].some(v=>has(r,k,v))); }
+  if(q){ const s=q.toLowerCase(); rs=rs.filter(r=>conf().search(r).toLowerCase().includes(s)); }
+  return rs;
+}
+function filtered(){ return subset(); }
+
+/* ---------------- 描画 ---------------- */
+/* クリックの引き当て表。値に日本語や引用符が入るので、
+   属性に値そのものを埋めず、この配列の添字だけを持たせる */
+let FKEYS=[], XCELLS=[];
+
+function drawFacets(){
+  const c=conf(); FKEYS=[];
+  let h=`<h2>絞り込み<span class="rst" data-reset="1">全部外す</span></h2>
+    <div class="fgroup"><input type="search" id="q" placeholder="${
+      {moves:'会社名で探す',slots:'業務名・会社名で探す',
+       tenders:'案件名・発注機関・会社名で探す',
+       trademarks:'会社名・区分で探す'}[lens]}" value="${esc(q)}"></div>`;
+  for(const f of c.facets){
+    const pool=subset(f.k), cnt={};
+    pool.forEach(r=>{ const v=r[f.k];
+      (Array.isArray(v)?v:[v]).forEach(x=>{ if(x!==''&&x!=null) cnt[x]=(cnt[x]||0)+1; }); });
+    const pre=D.facets[lens]&&D.facets[lens][f.k];
+    let keys=Object.keys(pre&&Object.keys(pre).length?pre:cnt);
+    if(!keys.length) keys=Object.keys(cnt);
+    keys.sort((a,b)=>(cnt[b]||0)-(cnt[a]||0)||String(a).localeCompare(String(b),'ja'));
+    if(f.max) keys=keys.slice(0,f.max);
+    h+=`<div class="fgroup"><div class="lab">${f.lab}</div>`;
+    for(const k of keys){
+      const on=(sel[f.k]||[]).some(v=>String(v)===String(k)), n=cnt[k]||0;
+      if(!n&&!on){ h+=`<span class="chip zero">${esc(f.ja?f.ja(k):k)}<span class="n">0</span></span>`; continue; }
+      FKEYS.push([f.k,k]);
+      h+=`<span class="chip" aria-pressed="${on}" data-f="${FKEYS.length-1}"
+        >${esc(f.ja?f.ja(k):k)}<span class="n">${n}</span></span>`;
+    }
+    h+='</div>';
+  }
+  const saved=JSON.parse(localStorage.getItem(KEY)||'[]');
+  if(saved.length){
+    h+='<div class="fgroup"><div class="lab">保存した担当</div>';
+    saved.forEach((s,i)=>h+=`<span class="chip" data-saved="${i}">${esc(s.label)}</span>`);
+    h+='</div>';
+  }
+  $('#facets').innerHTML=h;
+  // 入力中はファセットを描き替えない（描き替えると入力欄ごと差し替わり、カーソルが飛ぶ）
+  $('#q').oninput=e=>{ q=e.target.value; cur=null; drawXtab(); drawRows(); drawCard(); };
+}
+
+function drawXtab(){
+  const x=conf().xtab, rs=subset(x.rk,x.ck); XCELLS=[];
+  let rk=[...new Set(base().map(r=>r[x.rk]))].filter(v=>v!==''&&v!=null);
+  let ck=x.corder?[...x.corder]:[...new Set(base().map(r=>r[x.ck]).flat())].filter(v=>v!==''&&v!=null);
+  const cell={},rt={},ct={};
+  rs.forEach(r=>{ const rv=r[x.rk]; (Array.isArray(r[x.ck])?r[x.ck]:[r[x.ck]]).forEach(cv=>{
+    cell[rv+'|'+cv]=(cell[rv+'|'+cv]||0)+1; rt[rv]=(rt[rv]||0)+1; ct[cv]=(ct[cv]||0)+1; }); });
+  rk.sort((a,b)=>(rt[b]||0)-(rt[a]||0));
+  rk=rk.filter(r=>rt[r]||(sel[x.rk]||[]).includes(r));
+  if(x.rmax) rk=rk.slice(0,x.rmax);
+  if(!x.corder) ck.sort((a,b)=>(ct[b]||0)-(ct[a]||0));
+  ck=ck.filter(c=>ct[c]||(sel[x.ck]||[]).includes(c));
+  let h=`<h2>${x.rlab} × ${x.clab}<span class="rst" style="cursor:default;color:var(--sub);font-weight:400"
+    >マスをクリックすると、その組み合わせだけに絞ります（もう一度押すと外れます）</span></h2>
+    <table class="xt"><thead><tr><th></th>`;
+  ck.forEach(c=>h+=`<th>${esc(x.cja?x.cja(c):c)}</th>`); h+='<th>計</th></tr></thead><tbody>';
+  rk.forEach(r=>{ h+=`<tr><td>${esc(x.rja?x.rja(r):r)}</td>`;
+    ck.forEach(c=>{ const n=cell[r+'|'+c]||0;
+      const on=(sel[x.rk]||[]).includes(r)&&(sel[x.ck]||[]).includes(c);
+      XCELLS.push([x.rk,r,x.ck,c]);
+      h+=`<td class="c${n?'':' z'}${on?' on':''}" data-x="${XCELLS.length-1}">${n||'·'}</td>`; });
+    h+=`<td>${rt[r]||0}</td></tr>`; });
+  h+='</tbody><tfoot><tr><td>計</td>';
+  ck.forEach(c=>h+=`<td>${ct[c]||0}</td>`); h+=`<td>${rs.length}</td></tr></tfoot></table>`;
+  $('#xtab').innerHTML=h;
+}
+
+function drawRows(){
+  const c=conf(); let rs=filtered();
+  const sk=sortKey||c.sorts[0][0];
+  const val=r=> sk==='srcn' ? r.srcs.length*1e13+r.asum : r[sk];
+  rs=[...rs].sort((a,b)=> sk==='m' ? a.m-b.m
+    : sk==='left' ? ((a.left==null?1e9:a.left)-(b.left==null?1e9:b.left))
+    : (typeof val(a)==='string' ? String(val(b)).localeCompare(String(val(a)))
+                                : (val(b)||0)-(val(a)||0)));
+  $('#n').textContent=rs.length.toLocaleString();
+  const act=Object.entries(sel).filter(([,v])=>v.length)
+    .map(([k,v])=>v.join('・')).join(' / ');
+  $('#active').textContent=act?'（'+act+'）':'';
+  $('#sort').innerHTML=c.sorts.map(([k,l])=>`<option value="${k}"${k===sk?' selected':''}>${l}</option>`).join('');
+  $('#rows').innerHTML = rs.length
+    ? rs.slice(0,400).map((r,i)=>`<div class="row" aria-current="${r===cur}" data-r="${i}">${c.render(r)}</div>`).join('')
+      + (rs.length>400?`<div class="empty">上位400件を出しています（該当は${rs.length.toLocaleString()}件）。絞り込むか、CSVで持ち出してください</div>`:'')
+    : '<div class="empty">この条件に当てはまるものはありません</div>';
+  window._rs=rs;
+}
+function drawCard(){
+  $('#card').innerHTML = cur ? conf().card(cur)
+    : '<div class="empty">左の一覧から1件選ぶと、ここに中身が出ます</div>';
+}
+function draw(){ drawFacets(); drawXtab(); drawRows(); drawCard(); }
+
+/* ---------------- 操作 ---------------- */
+function tog(k,v){ sel[k]=sel[k]||[];
+  const i=sel[k].findIndex(x=>String(x)===String(v));
+  i<0?sel[k].push(v):sel[k].splice(i,1); cur=null; draw(); }
+
+$('#facets').onclick=e=>{
+  const t=e.target.closest('[data-f],[data-saved],[data-reset]'); if(!t) return;
+  if(t.dataset.reset!==undefined){ sel={}; q=''; cur=null; return draw(); }
+  if(t.dataset.saved!==undefined){
+    const s=JSON.parse(localStorage.getItem(KEY))[+t.dataset.saved];
+    lens=s.lens; sel=s.sel; q=s.q||''; cur=null; setTab(); return draw(); }
+  const [k,v]=FKEYS[+t.dataset.f]; tog(k,v);
+};
+$('#xtab').onclick=e=>{
+  const t=e.target.closest('td[data-x]'); if(!t) return;
+  const [rk,rv,ck,cv]=XCELLS[+t.dataset.x];
+  const same=(sel[rk]||[])[0]===rv&&(sel[ck]||[])[0]===cv;
+  sel={}; if(!same){ sel[rk]=[rv]; sel[ck]=[cv]; }
+  cur=null; draw();
+};
+$('#rows').onclick=e=>{
+  const t=e.target.closest('.row[data-r]'); if(!t) return;
+  cur=window._rs[+t.dataset.r]; drawRows(); drawCard();
+};
+$('#sort').onchange=e=>{ sortKey=e.target.value; drawRows(); };
+$('#csv').onclick=()=>{ const c=conf(), rs=window._rs;
+  const body=[c.csv.join(',')].concat(rs.map(r=>c.csv.map(k=>{
+    const v=Array.isArray(r[k])?r[k].join('|'):r[k]; return /[",\n]/.test(String(v??''))?'"'+String(v).replace(/"/g,'""')+'"':(v??''); }).join(','))).join('\n');
+  const a=document.createElement('a');
+  a.href=URL.createObjectURL(new Blob(['\ufeff'+body],{type:'text/csv'}));
+  a.download=`兆しファインダー_${lens}_${D.generated_at}.csv`; a.click(); };
+$('#save').onclick=()=>{
+  const act=Object.entries(sel).filter(([,v])=>v.length).map(([,v])=>v.join('・')).join('/')||'すべて';
+  const label=prompt('この条件の名前（例：食品・首都圏）', act.slice(0,24)); if(!label) return;
+  const saved=JSON.parse(localStorage.getItem(KEY)||'[]');
+  saved.unshift({label,lens,sel,q}); localStorage.setItem(KEY,JSON.stringify(saved.slice(0,8)));
+  drawFacets(); };
+function setTab(){ document.querySelectorAll('#nav button').forEach(b=>
+  b.setAttribute('aria-selected', b.dataset.lens===lens));
+  $('#note').innerHTML=conf().note; sortKey=null; }
+$('#nav').onclick=e=>{ const b=e.target.closest('button'); if(!b) return;
+  lens=b.dataset.lens; sel={}; q=''; cur=null; setTab(); draw(); };
+
+const cv=D.coverage;
+const tm=cv.trademark_asof?` ／ 商標の時点 ${cv.trademark_asof}`:'';
+$('#cover').innerHTML=`落札 ${cv.awards_records.toLocaleString()}件（${cv.awards_years[0]}〜${
+  cv.awards_years[cv.awards_years.length-1]}年度・${cv.firms.toLocaleString()}社） ／ `
+  +`登記の日次 ${cv.registry_days.from}〜${cv.registry_days.to}（${cv.registry_days.days}日）`
+  +(cv.tenders_with_deadline!=null?` ／ 締切 ${cv.tenders_with_deadline.toLocaleString()}/${(cv.tenders||D.tenders.length).toLocaleString()}`:'')
+  +tm
+  +` ／ 作成 ${D.generated_at}`;
+setTab(); draw();
+</script>
+</body>
+</html>
