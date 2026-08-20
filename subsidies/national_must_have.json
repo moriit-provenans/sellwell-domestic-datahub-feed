@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "as_of": "2026-08-19",
+  "as_of": "2026-08-20",
   "catalog_total": 40,
   "present": 40,
   "missing": 0,
@@ -122,6 +122,7 @@
       "in_active_feed": true,
       "matched_item_ids": [
         "a0WJ200000CDIvFMAX",
+        "a0WJ200000CDe6OMAT",
         "jnet21-188597",
         "ministry-7783705607",
         "prefecture-fukui-2740315973",
@@ -139,8 +140,7 @@
         "city-12236-4983198711",
         "city-23220-4321552710",
         "city-24216-9520100918",
-        "city-11301-5301862851",
-        "prefecture-yamanashi-w3b3-9629787959"
+        "city-11301-5301862851"
       ],
       "eligibility_depth": "guidelines"
     },
@@ -551,16 +551,16 @@
         "jnet21-187446",
         "jnet21-181626",
         "jnet21-181374",
+        "ministry-8151328513",
         "ministry-6460917998",
         "ministry-234812818",
         "ministry-4892038647",
         "ministry-5311170392",
+        "agency-9398557052",
         "agency-4114288129",
-        "prefecture-shiga-4572710300",
         "prefecture-yamaguchi-1286965692",
         "city-kawasaki-5775260951",
-        "city-40203-1013375658",
-        "agency-7571966518"
+        "city-40203-1013375658"
       ],
       "eligibility_depth": "guidelines"
     },
@@ -618,9 +618,9 @@
         "ministry-1776433262",
         "ministry-492442833",
         "ministry-8363091279",
+        "ministry-3225561440",
         "agency-2866728145",
-        "agency-7110785917",
-        "agency-4536533766"
+        "agency-7110785917"
       ],
       "eligibility_depth": "guidelines"
     },
@@ -954,6 +954,7 @@
         "mirasapo-624",
         "mirasapo-621",
         "mirasapo-619",
+        "mirasapo-30818",
         "mirasapo-32495",
         "mirasapo-33511",
         "mirasapo-33469",
@@ -964,8 +965,7 @@
         "mirasapo-33372",
         "mirasapo-33311",
         "mirasapo-32666",
-        "mirasapo-32651",
-        "mirasapo-32507"
+        "mirasapo-32651"
       ],
       "eligibility_depth": "page_detail"
     },
