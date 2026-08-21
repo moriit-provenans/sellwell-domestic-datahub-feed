@@ -1,8 +1,8 @@
 {
  "schema": "edinet_codelist_v1",
- "as_of_date": "2026-08-21",
+ "as_of_date": "2026-08-22",
  "still_valid_2026": true,
- "retrieved_at": "2026-08-21T07:55:03+09:00",
+ "retrieved_at": "2026-08-22T07:50:13+09:00",
  "source_ref": {
   "publisher_ja": "金融庁 EDINET",
   "dataset_ja": "EDINETコードリスト",
@@ -14,8 +14,8 @@
   "note_ja": "提出者法人番号の列をそのまま採る。13桁でない提出者は matched:false とraw_name を残す。社名から番号を推測しない"
  },
  "counts": {
-  "filers": 11387,
-  "with_hojin_bango": 7245,
+  "filers": 11383,
+  "with_hojin_bango": 7244,
   "listed": 3822
  },
  "filers": {
@@ -34875,14 +34875,6 @@
    "listed": false,
    "filer_kind_ja": "個人（組合発行者を除く）"
   },
-  "E11567": {
-   "hojin_bango": null,
-   "matched": false,
-   "raw_name": "冨田　薫",
-   "securities_code": null,
-   "listed": false,
-   "filer_kind_ja": "個人（組合発行者を除く）"
-  },
   "E11573": {
    "hojin_bango": null,
    "matched": false,
@@ -44314,14 +44306,6 @@
    "securities_code": null,
    "listed": false,
    "filer_kind_ja": "外国法人・組合（有価証券報告書等の提出義務者以外）"
-  },
-  "E27314": {
-   "hojin_bango": null,
-   "matched": false,
-   "raw_name": "ＭＡＲＩＬＹＮ　ＨＷＥＥＴＩＡＮＧ　ＴＡＮＧ",
-   "securities_code": null,
-   "listed": false,
-   "filer_kind_ja": "個人（非居住者）（組合発行者を除く）"
   },
   "E27325": {
    "hojin_bango": "6011001091831",
@@ -63475,14 +63459,6 @@
    "listed": true,
    "filer_kind_ja": "内国法人・組合"
   },
-  "E36071": {
-   "hojin_bango": "3011101072593",
-   "matched": true,
-   "raw_name": "京東株式会社",
-   "securities_code": null,
-   "listed": false,
-   "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
-  },
   "E36077": {
    "hojin_bango": "8040001042344",
    "matched": true,
@@ -66935,14 +66911,6 @@
    "hojin_bango": "1010401109966",
    "matched": true,
    "raw_name": "株式会社ユニヴァ・アセット・マネジメント",
-   "securities_code": null,
-   "listed": false,
-   "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
-  },
-  "E36925": {
-   "hojin_bango": "1011001140551",
-   "matched": true,
-   "raw_name": "株式会社トミコーポレーション",
    "securities_code": null,
    "listed": false,
    "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
@@ -72385,7 +72353,7 @@
    "raw_name": "岡田　陽介",
    "securities_code": null,
    "listed": false,
-   "filer_kind_ja": "個人（組合発行者を除く）"
+   "filer_kind_ja": "個人（非居住者）（組合発行者を除く）"
   },
   "E38092": {
    "hojin_bango": null,
@@ -83995,14 +83963,6 @@
    "listed": false,
    "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
   },
-  "E40481": {
-   "hojin_bango": null,
-   "matched": false,
-   "raw_name": "中村　祐輔",
-   "securities_code": null,
-   "listed": false,
-   "filer_kind_ja": "個人（組合発行者を除く）"
-  },
   "E40482": {
    "hojin_bango": null,
    "matched": false,
@@ -90778,6 +90738,14 @@
    "securities_code": null,
    "listed": false,
    "filer_kind_ja": "個人（組合発行者を除く）"
+  },
+  "E42049": {
+   "hojin_bango": "1180001029763",
+   "matched": true,
+   "raw_name": "岡谷不動産株式会社",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
   },
   "E42050": {
    "hojin_bango": null,

@@ -1,11 +1,11 @@
 {
  "ok": true,
  "workflow": "hojin_attributes",
- "retrieved_at": "2026-08-21T07:58:20+09:00",
- "companies": 7775,
+ "retrieved_at": "2026-08-22T07:54:20+09:00",
+ "companies": 7772,
  "by_flag": {
   "listed": 3816,
-  "fsa_kinshouhin": 1921,
+  "fsa_kinshouhin": 1918,
   "electricity_retailer": 382,
   "dx_certified": 2325
  }

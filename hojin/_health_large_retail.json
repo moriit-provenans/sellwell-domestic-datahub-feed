@@ -2,20 +2,20 @@
  "ok": true,
  "available": true,
  "workflow": "hojin_large_retail",
- "retrieved_at": "2026-08-21T07:58:45+09:00",
- "records": 203,
+ "retrieved_at": "2026-08-22T07:54:54+09:00",
+ "records": 202,
  "matched": 33,
- "unmatched": 170,
+ "unmatched": 169,
  "with_open_on": 111,
  "unmatched_by_reason": {
-  "store_name_only": 134,
+  "store_name_only": 133,
   "ambiguous": 24,
   "no_trade_name": 6,
   "no_hit": 6
  },
  "by_prefecture": {
   "京都府": 3,
-  "兵庫県": 12,
+  "兵庫県": 11,
   "千葉県": 42,
   "埼玉県": 4,
   "大阪府": 37,
@@ -34,5 +34,5 @@
   "神戸市"
  ],
  "not_collected_ja": "愛知県の旧トップURLは無限リダイレクトのため使わない（年次の法第5条は収録）。神奈川県域の県ページは四半期PDFのみ。横浜市HTMLは収録。政令市のうち川崎・相模原・名古屋・さいたま・千葉市は未収録。経産省全国一括は令和5年度末で終了。47は取らない",
- "gz_bytes": 11328
+ "gz_bytes": 11305
 }
