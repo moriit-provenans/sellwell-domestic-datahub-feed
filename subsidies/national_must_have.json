@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "as_of": "2026-08-20",
+  "as_of": "2026-08-21",
   "catalog_total": 40,
   "present": 40,
   "missing": 0,
@@ -186,6 +186,7 @@
       "acceptance_note_ja": "経済上の理由による休業等（通常制度）",
       "in_active_feed": true,
       "matched_item_ids": [
+        "jnet21-190212",
         "jnet21-179669",
         "ministry-2051167197",
         "city-niigata-city-19874461",
@@ -547,7 +548,6 @@
         "mirasapo-31373",
         "mirasapo-28132",
         "mirasapo-27828",
-        "jnet21-187928",
         "jnet21-187446",
         "jnet21-181626",
         "jnet21-181374",
@@ -557,10 +557,11 @@
         "ministry-4892038647",
         "ministry-5311170392",
         "agency-9398557052",
+        "agency-3938048028",
         "agency-4114288129",
+        "prefecture-shiga-4572710300",
         "prefecture-yamaguchi-1286965692",
-        "city-kawasaki-5775260951",
-        "city-40203-1013375658"
+        "city-kawasaki-5775260951"
       ],
       "eligibility_depth": "guidelines"
     },
@@ -582,6 +583,7 @@
         "a0WJ200000CDcfDMAT",
         "mirasapo-21731",
         "jnet21-188839",
+        "prefecture-ishikawa-4884014698",
         "city-34202-568167947",
         "a0WJ200000CDXgBMAX",
         "national-canonical:meti-seicho-toshi",
@@ -756,9 +758,9 @@
         "a0WJ200000CDaBZMA1",
         "a0WJ200000CDckfMAD",
         "a0WJ200000CDbPkMAL",
-        "a0WJ200000CDdr3MAD",
         "a0WJ200000CDYtoMAH",
-        "a0WJ200000CDe5zMAD"
+        "a0WJ200000CDe5zMAD",
+        "a0WJ200000CDdrNMAT"
       ],
       "eligibility_depth": "page_detail"
     },
@@ -791,9 +793,9 @@
         "city-hiroshima-city-2174596182",
         "city-hiroshima-city-4476910204",
         "city-hiroshima-city-8524482365",
-        "city-23202-7877270206",
-        "city-20202-6699506621",
-        "city-27205-916016757"
+        "city-27227-2917869560",
+        "city-29201-9292848362",
+        "city-29201-2261918090"
       ],
       "eligibility_depth": "page_detail"
     },
