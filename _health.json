@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-08-21",
+  "generated_at": "2026-08-22",
   "feed_status": "ok",
-  "subsidy_open_count": 7682,
+  "subsidy_open_count": 7654,
   "series_n": 39,
   "stale_or_empty": [],
   "smith_notify": {
@@ -18,6 +18,6 @@
     "adoption_observations": 31,
     "retail_by_channel_obs": 90,
     "census_firms_by_pref_obs": 2408,
-    "updated_at": "2026-08-21"
+    "updated_at": "2026-08-22"
   }
 }

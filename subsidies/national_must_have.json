@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "as_of": "2026-08-21",
+  "as_of": "2026-08-22",
   "catalog_total": 40,
   "present": 40,
   "missing": 0,
@@ -620,9 +620,9 @@
         "ministry-1776433262",
         "ministry-492442833",
         "ministry-8363091279",
-        "ministry-3225561440",
         "agency-2866728145",
-        "agency-7110785917"
+        "agency-7110785917",
+        "agency-4536533766"
       ],
       "eligibility_depth": "guidelines"
     },
@@ -793,9 +793,9 @@
         "city-hiroshima-city-2174596182",
         "city-hiroshima-city-4476910204",
         "city-hiroshima-city-8524482365",
-        "city-27227-2917869560",
         "city-29201-9292848362",
-        "city-29201-2261918090"
+        "city-29201-2261918090",
+        "city-29201-1814731556"
       ],
       "eligibility_depth": "page_detail"
     },
