@@ -1,8 +1,8 @@
 {
  "schema": "edinet_codelist_v1",
- "as_of_date": "2026-08-22",
+ "as_of_date": "2026-08-23",
  "still_valid_2026": true,
- "retrieved_at": "2026-08-22T07:50:13+09:00",
+ "retrieved_at": "2026-08-23T07:47:31+09:00",
  "source_ref": {
   "publisher_ja": "金融庁 EDINET",
   "dataset_ja": "EDINETコードリスト",

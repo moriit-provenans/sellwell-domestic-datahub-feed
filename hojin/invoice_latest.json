@@ -2,7 +2,7 @@
  "schema": "hojin_invoice_latest_v1",
  "as_of_date": "2026-08-20",
  "still_valid_2026": true,
- "retrieved_at": "2026-08-22T07:55:26+09:00",
+ "retrieved_at": "2026-08-23T07:51:28+09:00",
  "source_ref": {
   "publisher_ja": "国税庁",
   "dataset_ja": "適格請求書発行事業者公表サイト 差分データ（CSV）",
