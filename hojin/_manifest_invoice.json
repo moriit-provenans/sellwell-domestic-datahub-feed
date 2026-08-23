@@ -1,8 +1,7 @@
 {
  "schema": "hojin_invoice_manifest_v1",
- "retrieved_at": "2026-08-23T07:51:28+09:00",
+ "retrieved_at": "2026-08-24T07:52:41+09:00",
  "available_on_nta": [
-  "2026-06-24",
   "2026-06-25",
   "2026-06-26",
   "2026-06-29",
@@ -41,10 +40,10 @@
   "2026-08-17",
   "2026-08-18",
   "2026-08-19",
-  "2026-08-20"
+  "2026-08-20",
+  "2026-08-21"
  ],
  "ingested": [
-  "2026-07-08",
   "2026-07-09",
   "2026-07-10",
   "2026-07-13",
@@ -73,21 +72,11 @@
   "2026-08-17",
   "2026-08-18",
   "2026-08-19",
-  "2026-08-20"
+  "2026-08-20",
+  "2026-08-21"
  ],
  "missing_requested": [],
  "day_counts": {
-  "2026-07-08": {
-   "records": 1162,
-   "by_event": {
-    "invoice_registered": 521,
-    "invoice_changed": 581,
-    "invoice_expired": 60
-   },
-   "corrections": 581,
-   "skipped_person": 929,
-   "skipped_bad": 0
-  },
   "2026-07-09": {
    "records": 979,
    "by_event": {
@@ -434,6 +423,18 @@
    },
    "corrections": 135,
    "skipped_person": 846,
+   "skipped_bad": 0
+  },
+  "2026-08-21": {
+   "records": 602,
+   "by_event": {
+    "invoice_changed": 112,
+    "invoice_registered": 456,
+    "invoice_expired": 33,
+    "invoice_cancelled": 1
+   },
+   "corrections": 112,
+   "skipped_person": 565,
    "skipped_bad": 0
   }
  },
