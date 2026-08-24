@@ -2,7 +2,7 @@
   "schema_version": "1.0.0",
   "metric_id": "jp.retail.by_channel_jpy",
   "title_ja": "商業動態統計・業態別小売販売額",
-  "last_updated": "2026-08-22",
+  "last_updated": "2026-08-24",
   "source": "e-Stat 商業動態統計",
   "alias_of": "jp.retail.sales_jpy",
   "note_ja": "REQ-045 P3b。既存 jp_retail_sales_jpy をチャネル別metricとして再公開。",
@@ -10,7 +10,7 @@
     {
       "as_of_date": "2021-10-01",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-22",
+      "retrieved_at": "2026-08-24",
       "veritas": "✅",
       "metric_id": "jp.retail.by_channel_jpy",
       "industry_slug": "convenience-store",
@@ -29,7 +29,7 @@
     {
       "as_of_date": "2022-10-01",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-22",
+      "retrieved_at": "2026-08-24",
       "veritas": "✅",
       "metric_id": "jp.retail.by_channel_jpy",
       "industry_slug": "convenience-store",
@@ -48,7 +48,7 @@
     {
       "as_of_date": "2023-10-01",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-22",
+      "retrieved_at": "2026-08-24",
       "veritas": "✅",
       "metric_id": "jp.retail.by_channel_jpy",
       "industry_slug": "convenience-store",
@@ -67,7 +67,7 @@
     {
       "as_of_date": "2023-11-01",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-22",
+      "retrieved_at": "2026-08-24",
       "veritas": "✅",
       "metric_id": "jp.retail.by_channel_jpy",
       "industry_slug": "convenience-store",
@@ -86,7 +86,7 @@
     {
       "as_of_date": "2023-12-01",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-22",
+      "retrieved_at": "2026-08-24",
       "veritas": "✅",
       "metric_id": "jp.retail.by_channel_jpy",
       "industry_slug": "convenience-store",
@@ -105,7 +105,7 @@
     {
       "as_of_date": "2024-01-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-08-22",
+      "retrieved_at": "2026-08-24",
       "veritas": "✅",
       "metric_id": "jp.retail.by_channel_jpy",
       "industry_slug": "convenience-store",
@@ -124,7 +124,7 @@
     {
       "as_of_date": "2024-02-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-08-22",
+      "retrieved_at": "2026-08-24",
       "veritas": "✅",
       "metric_id": "jp.retail.by_channel_jpy",
       "industry_slug": "convenience-store",
@@ -143,7 +143,7 @@
     {
       "as_of_date": "2024-03-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-08-22",
+      "retrieved_at": "2026-08-24",
       "veritas": "✅",
       "metric_id": "jp.retail.by_channel_jpy",
       "industry_slug": "convenience-store",
@@ -162,7 +162,7 @@
     {
       "as_of_date": "2024-04-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-08-22",
+      "retrieved_at": "2026-08-24",
       "veritas": "✅",
       "metric_id": "jp.retail.by_channel_jpy",
       "industry_slug": "convenience-store",
@@ -181,7 +181,7 @@
     {
       "as_of_date": "2024-05-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-08-22",
+      "retrieved_at": "2026-08-24",
       "veritas": "✅",
       "metric_id": "jp.retail.by_channel_jpy",
       "industry_slug": "convenience-store",
@@ -200,7 +200,7 @@
     {
       "as_of_date": "2024-06-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-08-22",
+      "retrieved_at": "2026-08-24",
       "veritas": "✅",
       "metric_id": "jp.retail.by_channel_jpy",
       "industry_slug": "convenience-store",
@@ -219,7 +219,7 @@
     {
       "as_of_date": "2024-07-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-08-22",
+      "retrieved_at": "2026-08-24",
       "veritas": "✅",
       "metric_id": "jp.retail.by_channel_jpy",
       "industry_slug": "convenience-store",
@@ -238,7 +238,7 @@
     {
       "as_of_date": "2024-08-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-08-22",
+      "retrieved_at": "2026-08-24",
       "veritas": "✅",
       "metric_id": "jp.retail.by_channel_jpy",
       "industry_slug": "convenience-store",
@@ -257,7 +257,7 @@
     {
       "as_of_date": "2024-09-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-08-22",
+      "retrieved_at": "2026-08-24",
       "veritas": "✅",
       "metric_id": "jp.retail.by_channel_jpy",
       "industry_slug": "convenience-store",
@@ -276,7 +276,7 @@
     {
       "as_of_date": "2024-10-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-08-22",
+      "retrieved_at": "2026-08-24",
       "veritas": "✅",
       "metric_id": "jp.retail.by_channel_jpy",
       "industry_slug": "convenience-store",
@@ -295,7 +295,7 @@
     {
       "as_of_date": "2024-11-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-08-22",
+      "retrieved_at": "2026-08-24",
       "veritas": "✅",
       "metric_id": "jp.retail.by_channel_jpy",
       "industry_slug": "convenience-store",
@@ -314,7 +314,7 @@
     {
       "as_of_date": "2024-12-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-08-22",
+      "retrieved_at": "2026-08-24",
       "veritas": "✅",
       "metric_id": "jp.retail.by_channel_jpy",
       "industry_slug": "convenience-store",
@@ -333,7 +333,7 @@
     {
       "as_of_date": "2025-01-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-08-22",
+      "retrieved_at": "2026-08-24",
       "veritas": "✅",
       "metric_id": "jp.retail.by_channel_jpy",
       "industry_slug": "convenience-store",
@@ -352,7 +352,7 @@
     {
       "as_of_date": "2021-10-01",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-22",
+      "retrieved_at": "2026-08-24",
       "veritas": "✅",
       "metric_id": "jp.retail.by_channel_jpy",
       "industry_slug": "department-store",
@@ -371,7 +371,7 @@
     {
       "as_of_date": "2022-10-01",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-22",
+      "retrieved_at": "2026-08-24",
       "veritas": "✅",
       "metric_id": "jp.retail.by_channel_jpy",
       "industry_slug": "department-store",
@@ -390,7 +390,7 @@
     {
       "as_of_date": "2023-10-01",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-22",
+      "retrieved_at": "2026-08-24",
       "veritas": "✅",
       "metric_id": "jp.retail.by_channel_jpy",
       "industry_slug": "department-store",
@@ -409,7 +409,7 @@
     {
       "as_of_date": "2023-11-01",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-22",
+      "retrieved_at": "2026-08-24",
       "veritas": "✅",
       "metric_id": "jp.retail.by_channel_jpy",
       "industry_slug": "department-store",
@@ -428,7 +428,7 @@
     {
       "as_of_date": "2023-12-01",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-22",
+      "retrieved_at": "2026-08-24",
       "veritas": "✅",
       "metric_id": "jp.retail.by_channel_jpy",
       "industry_slug": "department-store",
@@ -447,7 +447,7 @@
     {
       "as_of_date": "2024-01-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-08-22",
+      "retrieved_at": "2026-08-24",
       "veritas": "✅",
       "metric_id": "jp.retail.by_channel_jpy",
       "industry_slug": "department-store",
@@ -466,7 +466,7 @@
     {
       "as_of_date": "2024-02-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-08-22",
+      "retrieved_at": "2026-08-24",
       "veritas": "✅",
       "metric_id": "jp.retail.by_channel_jpy",
       "industry_slug": "department-store",
@@ -485,7 +485,7 @@
     {
       "as_of_date": "2024-03-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-08-22",
+      "retrieved_at": "2026-08-24",
       "veritas": "✅",
       "metric_id": "jp.retail.by_channel_jpy",
       "industry_slug": "department-store",
@@ -504,7 +504,7 @@
     {
       "as_of_date": "2024-04-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-08-22",
+      "retrieved_at": "2026-08-24",
       "veritas": "✅",
       "metric_id": "jp.retail.by_channel_jpy",
       "industry_slug": "department-store",
@@ -523,7 +523,7 @@
     {
       "as_of_date": "2024-05-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-08-22",
+      "retrieved_at": "2026-08-24",
       "veritas": "✅",
       "metric_id": "jp.retail.by_channel_jpy",
       "industry_slug": "department-store",
@@ -542,7 +542,7 @@
     {
       "as_of_date": "2024-06-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-08-22",
+      "retrieved_at": "2026-08-24",
       "veritas": "✅",
       "metric_id": "jp.retail.by_channel_jpy",
       "industry_slug": "department-store",
@@ -561,7 +561,7 @@
     {
       "as_of_date": "2024-07-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-08-22",
+      "retrieved_at": "2026-08-24",
       "veritas": "✅",
       "metric_id": "jp.retail.by_channel_jpy",
       "industry_slug": "department-store",
@@ -580,7 +580,7 @@
     {
       "as_of_date": "2024-08-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-08-22",
+      "retrieved_at": "2026-08-24",
       "veritas": "✅",
       "metric_id": "jp.retail.by_channel_jpy",
       "industry_slug": "department-store",
@@ -599,7 +599,7 @@
     {
       "as_of_date": "2024-09-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-08-22",
+      "retrieved_at": "2026-08-24",
       "veritas": "✅",
       "metric_id": "jp.retail.by_channel_jpy",
       "industry_slug": "department-store",
@@ -618,7 +618,7 @@
     {
       "as_of_date": "2024-10-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-08-22",
+      "retrieved_at": "2026-08-24",
       "veritas": "✅",
       "metric_id": "jp.retail.by_channel_jpy",
       "industry_slug": "department-store",
@@ -637,7 +637,7 @@
     {
       "as_of_date": "2024-11-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-08-22",
+      "retrieved_at": "2026-08-24",
       "veritas": "✅",
       "metric_id": "jp.retail.by_channel_jpy",
       "industry_slug": "department-store",
@@ -656,7 +656,7 @@
     {
       "as_of_date": "2024-12-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-08-22",
+      "retrieved_at": "2026-08-24",
       "veritas": "✅",
       "metric_id": "jp.retail.by_channel_jpy",
       "industry_slug": "department-store",
@@ -675,7 +675,7 @@
     {
       "as_of_date": "2025-01-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-08-22",
+      "retrieved_at": "2026-08-24",
       "veritas": "✅",
       "metric_id": "jp.retail.by_channel_jpy",
       "industry_slug": "department-store",
@@ -694,7 +694,7 @@
     {
       "as_of_date": "2021-10-01",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-22",
+      "retrieved_at": "2026-08-24",
       "veritas": "✅",
       "metric_id": "jp.retail.by_channel_jpy",
       "industry_slug": "drugstore",
@@ -713,7 +713,7 @@
     {
       "as_of_date": "2022-10-01",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-22",
+      "retrieved_at": "2026-08-24",
       "veritas": "✅",
       "metric_id": "jp.retail.by_channel_jpy",
       "industry_slug": "drugstore",
@@ -732,7 +732,7 @@
     {
       "as_of_date": "2023-10-01",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-22",
+      "retrieved_at": "2026-08-24",
       "veritas": "✅",
       "metric_id": "jp.retail.by_channel_jpy",
       "industry_slug": "drugstore",
@@ -751,7 +751,7 @@
     {
       "as_of_date": "2023-11-01",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-22",
+      "retrieved_at": "2026-08-24",
       "veritas": "✅",
       "metric_id": "jp.retail.by_channel_jpy",
       "industry_slug": "drugstore",
@@ -770,7 +770,7 @@
     {
       "as_of_date": "2023-12-01",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-22",
+      "retrieved_at": "2026-08-24",
       "veritas": "✅",
       "metric_id": "jp.retail.by_channel_jpy",
       "industry_slug": "drugstore",
@@ -789,7 +789,7 @@
     {
       "as_of_date": "2024-01-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-08-22",
+      "retrieved_at": "2026-08-24",
       "veritas": "✅",
       "metric_id": "jp.retail.by_channel_jpy",
       "industry_slug": "drugstore",
@@ -808,7 +808,7 @@
     {
       "as_of_date": "2024-02-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-08-22",
+      "retrieved_at": "2026-08-24",
       "veritas": "✅",
       "metric_id": "jp.retail.by_channel_jpy",
       "industry_slug": "drugstore",
@@ -827,7 +827,7 @@
     {
       "as_of_date": "2024-03-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-08-22",
+      "retrieved_at": "2026-08-24",
       "veritas": "✅",
       "metric_id": "jp.retail.by_channel_jpy",
       "industry_slug": "drugstore",
@@ -846,7 +846,7 @@
     {
       "as_of_date": "2024-04-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-08-22",
+      "retrieved_at": "2026-08-24",
       "veritas": "✅",
       "metric_id": "jp.retail.by_channel_jpy",
       "industry_slug": "drugstore",
@@ -865,7 +865,7 @@
     {
       "as_of_date": "2024-05-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-08-22",
+      "retrieved_at": "2026-08-24",
       "veritas": "✅",
       "metric_id": "jp.retail.by_channel_jpy",
       "industry_slug": "drugstore",
@@ -884,7 +884,7 @@
     {
       "as_of_date": "2024-06-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-08-22",
+      "retrieved_at": "2026-08-24",
       "veritas": "✅",
       "metric_id": "jp.retail.by_channel_jpy",
       "industry_slug": "drugstore",
@@ -903,7 +903,7 @@
     {
       "as_of_date": "2024-07-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-08-22",
+      "retrieved_at": "2026-08-24",
       "veritas": "✅",
       "metric_id": "jp.retail.by_channel_jpy",
       "industry_slug": "drugstore",
@@ -922,7 +922,7 @@
     {
       "as_of_date": "2024-08-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-08-22",
+      "retrieved_at": "2026-08-24",
       "veritas": "✅",
       "metric_id": "jp.retail.by_channel_jpy",
       "industry_slug": "drugstore",
@@ -941,7 +941,7 @@
     {
       "as_of_date": "2024-09-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-08-22",
+      "retrieved_at": "2026-08-24",
       "veritas": "✅",
       "metric_id": "jp.retail.by_channel_jpy",
       "industry_slug": "drugstore",
@@ -960,7 +960,7 @@
     {
       "as_of_date": "2024-10-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-08-22",
+      "retrieved_at": "2026-08-24",
       "veritas": "✅",
       "metric_id": "jp.retail.by_channel_jpy",
       "industry_slug": "drugstore",
@@ -979,7 +979,7 @@
     {
       "as_of_date": "2024-11-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-08-22",
+      "retrieved_at": "2026-08-24",
       "veritas": "✅",
       "metric_id": "jp.retail.by_channel_jpy",
       "industry_slug": "drugstore",
@@ -998,7 +998,7 @@
     {
       "as_of_date": "2024-12-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-08-22",
+      "retrieved_at": "2026-08-24",
       "veritas": "✅",
       "metric_id": "jp.retail.by_channel_jpy",
       "industry_slug": "drugstore",
@@ -1017,7 +1017,7 @@
     {
       "as_of_date": "2025-01-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-08-22",
+      "retrieved_at": "2026-08-24",
       "veritas": "✅",
       "metric_id": "jp.retail.by_channel_jpy",
       "industry_slug": "drugstore",
@@ -1036,7 +1036,7 @@
     {
       "as_of_date": "2021-10-01",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-22",
+      "retrieved_at": "2026-08-24",
       "veritas": "✅",
       "metric_id": "jp.retail.by_channel_jpy",
       "industry_slug": "home-center",
@@ -1055,7 +1055,7 @@
     {
       "as_of_date": "2022-10-01",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-22",
+      "retrieved_at": "2026-08-24",
       "veritas": "✅",
       "metric_id": "jp.retail.by_channel_jpy",
       "industry_slug": "home-center",
@@ -1074,7 +1074,7 @@
     {
       "as_of_date": "2023-10-01",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-22",
+      "retrieved_at": "2026-08-24",
       "veritas": "✅",
       "metric_id": "jp.retail.by_channel_jpy",
       "industry_slug": "home-center",
@@ -1093,7 +1093,7 @@
     {
       "as_of_date": "2023-11-01",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-22",
+      "retrieved_at": "2026-08-24",
       "veritas": "✅",
       "metric_id": "jp.retail.by_channel_jpy",
       "industry_slug": "home-center",
@@ -1112,7 +1112,7 @@
     {
       "as_of_date": "2023-12-01",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-22",
+      "retrieved_at": "2026-08-24",
       "veritas": "✅",
       "metric_id": "jp.retail.by_channel_jpy",
       "industry_slug": "home-center",
@@ -1131,7 +1131,7 @@
     {
       "as_of_date": "2024-01-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-08-22",
+      "retrieved_at": "2026-08-24",
       "veritas": "✅",
       "metric_id": "jp.retail.by_channel_jpy",
       "industry_slug": "home-center",
@@ -1150,7 +1150,7 @@
     {
       "as_of_date": "2024-02-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-08-22",
+      "retrieved_at": "2026-08-24",
       "veritas": "✅",
       "metric_id": "jp.retail.by_channel_jpy",
       "industry_slug": "home-center",
@@ -1169,7 +1169,7 @@
     {
       "as_of_date": "2024-03-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-08-22",
+      "retrieved_at": "2026-08-24",
       "veritas": "✅",
       "metric_id": "jp.retail.by_channel_jpy",
       "industry_slug": "home-center",
@@ -1188,7 +1188,7 @@
     {
       "as_of_date": "2024-04-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-08-22",
+      "retrieved_at": "2026-08-24",
       "veritas": "✅",
       "metric_id": "jp.retail.by_channel_jpy",
       "industry_slug": "home-center",
@@ -1207,7 +1207,7 @@
     {
       "as_of_date": "2024-05-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-08-22",
+      "retrieved_at": "2026-08-24",
       "veritas": "✅",
       "metric_id": "jp.retail.by_channel_jpy",
       "industry_slug": "home-center",
@@ -1226,7 +1226,7 @@
     {
       "as_of_date": "2024-06-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-08-22",
+      "retrieved_at": "2026-08-24",
       "veritas": "✅",
       "metric_id": "jp.retail.by_channel_jpy",
       "industry_slug": "home-center",
@@ -1245,7 +1245,7 @@
     {
       "as_of_date": "2024-07-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-08-22",
+      "retrieved_at": "2026-08-24",
       "veritas": "✅",
       "metric_id": "jp.retail.by_channel_jpy",
       "industry_slug": "home-center",
@@ -1264,7 +1264,7 @@
     {
       "as_of_date": "2024-08-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-08-22",
+      "retrieved_at": "2026-08-24",
       "veritas": "✅",
       "metric_id": "jp.retail.by_channel_jpy",
       "industry_slug": "home-center",
@@ -1283,7 +1283,7 @@
     {
       "as_of_date": "2024-09-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-08-22",
+      "retrieved_at": "2026-08-24",
       "veritas": "✅",
       "metric_id": "jp.retail.by_channel_jpy",
       "industry_slug": "home-center",
@@ -1302,7 +1302,7 @@
     {
       "as_of_date": "2024-10-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-08-22",
+      "retrieved_at": "2026-08-24",
       "veritas": "✅",
       "metric_id": "jp.retail.by_channel_jpy",
       "industry_slug": "home-center",
@@ -1321,7 +1321,7 @@
     {
       "as_of_date": "2024-11-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-08-22",
+      "retrieved_at": "2026-08-24",
       "veritas": "✅",
       "metric_id": "jp.retail.by_channel_jpy",
       "industry_slug": "home-center",
@@ -1340,7 +1340,7 @@
     {
       "as_of_date": "2024-12-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-08-22",
+      "retrieved_at": "2026-08-24",
       "veritas": "✅",
       "metric_id": "jp.retail.by_channel_jpy",
       "industry_slug": "home-center",
@@ -1359,7 +1359,7 @@
     {
       "as_of_date": "2025-01-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-08-22",
+      "retrieved_at": "2026-08-24",
       "veritas": "✅",
       "metric_id": "jp.retail.by_channel_jpy",
       "industry_slug": "home-center",
@@ -1378,7 +1378,7 @@
     {
       "as_of_date": "2021-10-01",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-22",
+      "retrieved_at": "2026-08-24",
       "veritas": "✅",
       "metric_id": "jp.retail.by_channel_jpy",
       "industry_slug": "supermarket",
@@ -1397,7 +1397,7 @@
     {
       "as_of_date": "2022-10-01",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-22",
+      "retrieved_at": "2026-08-24",
       "veritas": "✅",
       "metric_id": "jp.retail.by_channel_jpy",
       "industry_slug": "supermarket",
@@ -1416,7 +1416,7 @@
     {
       "as_of_date": "2023-10-01",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-22",
+      "retrieved_at": "2026-08-24",
       "veritas": "✅",
       "metric_id": "jp.retail.by_channel_jpy",
       "industry_slug": "supermarket",
@@ -1435,7 +1435,7 @@
     {
       "as_of_date": "2023-11-01",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-22",
+      "retrieved_at": "2026-08-24",
       "veritas": "✅",
       "metric_id": "jp.retail.by_channel_jpy",
       "industry_slug": "supermarket",
@@ -1454,7 +1454,7 @@
     {
       "as_of_date": "2023-12-01",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-22",
+      "retrieved_at": "2026-08-24",
       "veritas": "✅",
       "metric_id": "jp.retail.by_channel_jpy",
       "industry_slug": "supermarket",
@@ -1473,7 +1473,7 @@
     {
       "as_of_date": "2024-01-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-08-22",
+      "retrieved_at": "2026-08-24",
       "veritas": "✅",
       "metric_id": "jp.retail.by_channel_jpy",
       "industry_slug": "supermarket",
@@ -1492,7 +1492,7 @@
     {
       "as_of_date": "2024-02-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-08-22",
+      "retrieved_at": "2026-08-24",
       "veritas": "✅",
       "metric_id": "jp.retail.by_channel_jpy",
       "industry_slug": "supermarket",
@@ -1511,7 +1511,7 @@
     {
       "as_of_date": "2024-03-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-08-22",
+      "retrieved_at": "2026-08-24",
       "veritas": "✅",
       "metric_id": "jp.retail.by_channel_jpy",
       "industry_slug": "supermarket",
@@ -1530,7 +1530,7 @@
     {
       "as_of_date": "2024-04-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-08-22",
+      "retrieved_at": "2026-08-24",
       "veritas": "✅",
       "metric_id": "jp.retail.by_channel_jpy",
       "industry_slug": "supermarket",
@@ -1549,7 +1549,7 @@
     {
       "as_of_date": "2024-05-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-08-22",
+      "retrieved_at": "2026-08-24",
       "veritas": "✅",
       "metric_id": "jp.retail.by_channel_jpy",
       "industry_slug": "supermarket",
@@ -1568,7 +1568,7 @@
     {
       "as_of_date": "2024-06-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-08-22",
+      "retrieved_at": "2026-08-24",
       "veritas": "✅",
       "metric_id": "jp.retail.by_channel_jpy",
       "industry_slug": "supermarket",
@@ -1587,7 +1587,7 @@
     {
       "as_of_date": "2024-07-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-08-22",
+      "retrieved_at": "2026-08-24",
       "veritas": "✅",
       "metric_id": "jp.retail.by_channel_jpy",
       "industry_slug": "supermarket",
@@ -1606,7 +1606,7 @@
     {
       "as_of_date": "2024-08-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-08-22",
+      "retrieved_at": "2026-08-24",
       "veritas": "✅",
       "metric_id": "jp.retail.by_channel_jpy",
       "industry_slug": "supermarket",
@@ -1625,7 +1625,7 @@
     {
       "as_of_date": "2024-09-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-08-22",
+      "retrieved_at": "2026-08-24",
       "veritas": "✅",
       "metric_id": "jp.retail.by_channel_jpy",
       "industry_slug": "supermarket",
@@ -1644,7 +1644,7 @@
     {
       "as_of_date": "2024-10-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-08-22",
+      "retrieved_at": "2026-08-24",
       "veritas": "✅",
       "metric_id": "jp.retail.by_channel_jpy",
       "industry_slug": "supermarket",
@@ -1663,7 +1663,7 @@
     {
       "as_of_date": "2024-11-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-08-22",
+      "retrieved_at": "2026-08-24",
       "veritas": "✅",
       "metric_id": "jp.retail.by_channel_jpy",
       "industry_slug": "supermarket",
@@ -1682,7 +1682,7 @@
     {
       "as_of_date": "2024-12-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-08-22",
+      "retrieved_at": "2026-08-24",
       "veritas": "✅",
       "metric_id": "jp.retail.by_channel_jpy",
       "industry_slug": "supermarket",
@@ -1701,7 +1701,7 @@
     {
       "as_of_date": "2025-01-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-08-22",
+      "retrieved_at": "2026-08-24",
       "veritas": "✅",
       "metric_id": "jp.retail.by_channel_jpy",
       "industry_slug": "supermarket",

@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "as_of": "2026-08-22",
+  "as_of": "2026-08-24",
   "catalog_total": 40,
   "present": 40,
   "missing": 0,
@@ -759,7 +759,7 @@
         "a0WJ200000CDckfMAD",
         "a0WJ200000CDbPkMAL",
         "a0WJ200000CDYtoMAH",
-        "a0WJ200000CDe5zMAD",
+        "a0WJ200000CDe5uMAD",
         "a0WJ200000CDdrNMAT"
       ],
       "eligibility_depth": "page_detail"
