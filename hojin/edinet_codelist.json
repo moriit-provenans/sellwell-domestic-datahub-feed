@@ -1,8 +1,8 @@
 {
  "schema": "edinet_codelist_v1",
- "as_of_date": "2026-08-24",
+ "as_of_date": "2026-08-25",
  "still_valid_2026": true,
- "retrieved_at": "2026-08-24T07:47:38+09:00",
+ "retrieved_at": "2026-08-25T07:52:51+09:00",
  "source_ref": {
   "publisher_ja": "金融庁 EDINET",
   "dataset_ja": "EDINETコードリスト",
@@ -14,8 +14,8 @@
   "note_ja": "提出者法人番号の列をそのまま採る。13桁でない提出者は matched:false とraw_name を残す。社名から番号を推測しない"
  },
  "counts": {
-  "filers": 11383,
-  "with_hojin_bango": 7244,
+  "filers": 11385,
+  "with_hojin_bango": 7245,
   "listed": 3822
  },
  "filers": {
@@ -89659,6 +89659,14 @@
    "listed": false,
    "filer_kind_ja": "個人（組合発行者を除く）"
   },
+  "E41715": {
+   "hojin_bango": "2290001018911",
+   "matched": true,
+   "raw_name": "株式会社レイヤード",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "内国法人・組合"
+  },
   "E41718": {
    "hojin_bango": null,
    "matched": false,
@@ -91082,6 +91090,14 @@
    "securities_code": null,
    "listed": false,
    "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
+  },
+  "E42139": {
+   "hojin_bango": null,
+   "matched": false,
+   "raw_name": "菊谷　茂吉",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "個人（組合発行者を除く）"
   }
  }
 }

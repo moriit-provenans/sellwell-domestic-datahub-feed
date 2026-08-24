@@ -3,7 +3,7 @@
  "available": false,
  "workflow": "hojin_gbiz",
  "waiting": "gbizinfo_api_token",
- "retrieved_at": "2026-08-24T07:52:42+09:00",
+ "retrieved_at": "2026-08-25T07:54:42+09:00",
  "reason_ja": "gBizINFO のアクセストークンが無い。セルウェル名義のキーを GitHub Secrets GBIZINFO_API_TOKEN に渡すか、Atlas 名義で取り直す。期間指定が 404 なら最小の取れる幅をここに書く。代理の推計はしない",
  "will_fetch": [
   "procurement",
