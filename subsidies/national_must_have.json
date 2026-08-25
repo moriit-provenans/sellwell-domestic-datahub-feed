@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "as_of": "2026-08-24",
+  "as_of": "2026-08-25",
   "catalog_total": 40,
   "present": 40,
   "missing": 0,
@@ -55,12 +55,12 @@
         "jnet21-180204",
         "jnet21-180205",
         "jnet21-180206",
-        "jnet21-179463",
         "ministry-4553840892",
         "ministry-1706685799",
         "prefecture-oita-6130031718",
         "city-fukuoka-city-6546111542",
-        "city-fukuoka-city-6996405908"
+        "city-fukuoka-city-6996405908",
+        "ministry-2357098813"
       ],
       "eligibility_depth": "guidelines"
     },
@@ -609,11 +609,6 @@
         "mirasapo-32651",
         "mirasapo-32009",
         "mirasapo-31537",
-        "jnet21-189383",
-        "jnet21-189384",
-        "jnet21-189386",
-        "jnet21-189387",
-        "jnet21-185963",
         "jnet21-181240",
         "ministry-9720163135",
         "ministry-3748473312",
@@ -622,7 +617,12 @@
         "ministry-8363091279",
         "agency-2866728145",
         "agency-7110785917",
-        "agency-4536533766"
+        "agency-4536533766",
+        "agency-7634766398",
+        "agency-8494045679",
+        "agency-3378259911",
+        "agency-2664481718",
+        "agency-8305282934"
       ],
       "eligibility_depth": "guidelines"
     },
@@ -759,7 +759,7 @@
         "a0WJ200000CDckfMAD",
         "a0WJ200000CDbPkMAL",
         "a0WJ200000CDYtoMAH",
-        "a0WJ200000CDe5uMAD",
+        "a0WJ200000CDe5zMAD",
         "a0WJ200000CDdrNMAT"
       ],
       "eligibility_depth": "page_detail"
