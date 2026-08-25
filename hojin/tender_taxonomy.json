@@ -1,0 +1,42 @@
+{
+ "schema": "sellwell_tender_taxonomy_v1",
+ "categories": [
+  {
+   "name": "広報・PR",
+   "pattern": "広報|PR"
+  },
+  {
+   "name": "イベント・展示",
+   "pattern": "イベント|展示"
+  },
+  {
+   "name": "映像・写真",
+   "pattern": "映像|写真"
+  },
+  {
+   "name": "Web・SNS",
+   "pattern": "Web|SNS"
+  },
+  {
+   "name": "印刷・制作物",
+   "pattern": "印刷|制作"
+  },
+  {
+   "name": "調査・分析",
+   "pattern": "調査|分析"
+  },
+  {
+   "name": "誘客・観光",
+   "pattern": "観光|誘客"
+  },
+  {
+   "name": "採用・人材",
+   "pattern": "採用|人材"
+  }
+ ],
+ "kkj_category_ja": [
+  "物品",
+  "工事",
+  "役務"
+ ]
+}

@@ -1,0 +1,11 @@
+{
+ "ok": true,
+ "workflow": "hojin_tender_finder_index",
+ "built_at": "2026-08-25T09:02:37+09:00",
+ "records": 8743,
+ "open_now": 2810,
+ "with_deadline": 4836,
+ "with_past": 532,
+ "with_regular_firm": 368,
+ "with_past_match": 532
+}
