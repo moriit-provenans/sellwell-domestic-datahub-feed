@@ -2,39 +2,39 @@
  "ok": true,
  "available": true,
  "workflow": "hojin_large_retail",
- "retrieved_at": "2026-08-19T10:48:47+09:00",
- "records": 252,
- "matched": 66,
- "unmatched": 186,
- "with_open_on": 159,
+ "retrieved_at": "2026-08-25T09:08:20+09:00",
+ "records": 236,
+ "matched": 33,
+ "unmatched": 203,
+ "with_open_on": 111,
  "unmatched_by_reason": {
-  "store_name_only": 134,
-  "no_hit": 7,
-  "ambiguous": 39,
-  "no_trade_name": 6
+  "store_name_only": 167,
+  "ambiguous": 24,
+  "no_trade_name": 6,
+  "no_hit": 6
  },
  "by_prefecture": {
   "京都府": 3,
-  "兵庫県": 12,
+  "兵庫県": 11,
   "千葉県": 42,
+  "名古屋市": 33,
   "埼玉県": 4,
   "大阪府": 37,
-  "愛知県": 49,
   "東京都": 45,
   "横浜市": 6,
-  "神戸市": 54
+  "神戸市": 55
  },
  "prefectures": [
   "京都府",
   "兵庫県",
   "千葉県",
+  "名古屋市",
   "埼玉県",
   "大阪府",
-  "愛知県",
   "東京都",
   "横浜市",
   "神戸市"
  ],
- "not_collected_ja": "愛知県の旧トップURLは無限リダイレクトのため使わない（年次の法第5条は収録）。神奈川県域の県ページは四半期PDFのみ。横浜市HTMLは収録。政令市のうち川崎・相模原・名古屋・さいたま・千葉市は未収録。経産省全国一括は令和5年度末で終了。47は取らない",
- "gz_bytes": 13976
+ "not_collected_ja": "愛知県の旧トップURLは無限リダイレクトのため使わない（年次の法第5条は収録）。神奈川県域の県ページは四半期PDFのみ。横浜市HTML・川崎市年度HTMLは収録。政令市のうち相模原・さいたま・千葉市は未収録または不安定。名古屋市は新設行のみ（変更行は取らない）。経産省全国一括は令和5年度末で終了。47は取らない",
+ "gz_bytes": 12786
 }
