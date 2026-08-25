@@ -1,37 +1,38 @@
 {
  "schema": "sellwell_tender_taxonomy_v1",
+ "note_ja": "CATEGORIES / NOT_AD は hojin_tender_common.py と同型（兆し・Smith とズレ禁止）",
  "categories": [
   {
    "name": "広報・PR",
-   "pattern": "広報|PR"
+   "pattern": "広報|ＰＲ|PR業務|パブリシティ|プレスリリース|情報発信|周知|啓発|広聴"
   },
   {
    "name": "イベント・展示",
-   "pattern": "イベント|展示"
+   "pattern": "イベント|展示|博覧|フェア|シンポジウム|セミナー|フォーラム|式典|来場"
   },
   {
    "name": "映像・写真",
-   "pattern": "映像|写真"
+   "pattern": "動画|映像|ビデオ|写真|撮影|CM|コマーシャル"
   },
   {
    "name": "Web・SNS",
-   "pattern": "Web|SNS"
+   "pattern": "ホームページ|ウェブ|ウエブ|Ｗｅｂ|WEB|サイト|SNS|ＳＮＳ|デジタル広報"
   },
   {
    "name": "印刷・制作物",
-   "pattern": "印刷|制作"
+   "pattern": "印刷|パンフレット|リーフレット|ポスター|冊子|チラシ|封筒|デザイン|看板"
   },
   {
    "name": "調査・分析",
-   "pattern": "調査|分析"
+   "pattern": "意識調査|世論調査|市場調査|需要調査|実態調査|利用者調査|アンケート|ヒアリング調査|満足度|効果測定|実態把握|モニタリング調査|統計調査"
   },
   {
    "name": "誘客・観光",
-   "pattern": "観光|誘客"
+   "pattern": "観光|誘客|インバウンド|移住|定住|ふるさと|物産|販路"
   },
   {
    "name": "採用・人材",
-   "pattern": "採用|人材"
+   "pattern": "採用|求人|募集|人材確保|就職"
   }
  ],
  "kkj_category_ja": [

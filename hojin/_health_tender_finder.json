@@ -1,11 +1,22 @@
 {
  "ok": true,
  "workflow": "hojin_tender_finder_index",
- "built_at": "2026-08-25T12:31:13+09:00",
+ "built_at": "2026-08-25T12:38:03+09:00",
  "records": 8743,
  "open_now": 2813,
- "with_deadline": 4868,
+ "with_deadline": 4867,
  "with_past": 532,
  "with_regular_firm": 368,
- "with_past_match": 532
+ "with_genre": 292,
+ "with_past_match": 532,
+ "facets_g": {
+  "イベント・展示": 56,
+  "採用・人材": 52,
+  "広報・PR": 41,
+  "映像・写真": 39,
+  "印刷・制作物": 39,
+  "調査・分析": 27,
+  "誘客・観光": 23,
+  "Web・SNS": 15
+ }
 }
