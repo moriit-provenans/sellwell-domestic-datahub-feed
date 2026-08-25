@@ -2,7 +2,7 @@
  "schema": "edinet_codelist_v1",
  "as_of_date": "2026-08-25",
  "still_valid_2026": true,
- "retrieved_at": "2026-08-25T07:52:51+09:00",
+ "retrieved_at": "2026-08-25T08:57:13+09:00",
  "source_ref": {
   "publisher_ja": "金融庁 EDINET",
   "dataset_ja": "EDINETコードリスト",
@@ -14,8 +14,8 @@
   "note_ja": "提出者法人番号の列をそのまま採る。13桁でない提出者は matched:false とraw_name を残す。社名から番号を推測しない"
  },
  "counts": {
-  "filers": 11385,
-  "with_hojin_bango": 7245,
+  "filers": 11383,
+  "with_hojin_bango": 7244,
   "listed": 3822
  },
  "filers": {
@@ -25537,14 +25537,6 @@
    "raw_name": "株式会社トーシンホールディングス",
    "securities_code": "94440",
    "listed": true,
-   "filer_kind_ja": "内国法人・組合"
-  },
-  "E05141": {
-   "hojin_bango": "1010001138085",
-   "matched": true,
-   "raw_name": "株式会社エル・シー・エーホールディングス",
-   "securities_code": null,
-   "listed": false,
    "filer_kind_ja": "内国法人・組合"
   },
   "E05143": {
@@ -67119,14 +67111,6 @@
    "hojin_bango": null,
    "matched": false,
    "raw_name": "石井　丈晴",
-   "securities_code": null,
-   "listed": false,
-   "filer_kind_ja": "個人（組合発行者を除く）"
-  },
-  "E36964": {
-   "hojin_bango": null,
-   "matched": false,
-   "raw_name": "岡田　亮介",
    "securities_code": null,
    "listed": false,
    "filer_kind_ja": "個人（組合発行者を除く）"
