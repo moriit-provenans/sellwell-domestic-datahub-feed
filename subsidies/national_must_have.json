@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "as_of": "2026-08-25",
+  "as_of": "2026-08-27",
   "catalog_total": 40,
   "present": 40,
   "missing": 0,
@@ -122,7 +122,7 @@
       "in_active_feed": true,
       "matched_item_ids": [
         "a0WJ200000CDIvFMAX",
-        "a0WJ200000CDe6OMAT",
+        "a0WJ200000CDducMAD",
         "jnet21-188597",
         "ministry-7783705607",
         "prefecture-fukui-2740315973",
@@ -556,12 +556,12 @@
         "ministry-234812818",
         "ministry-4892038647",
         "ministry-5311170392",
-        "agency-9398557052",
         "agency-3938048028",
         "agency-4114288129",
         "prefecture-shiga-4572710300",
         "prefecture-yamaguchi-1286965692",
-        "city-kawasaki-5775260951"
+        "city-kawasaki-5775260951",
+        "city-40203-1013375658"
       ],
       "eligibility_depth": "guidelines"
     },
@@ -615,14 +615,14 @@
         "ministry-1776433262",
         "ministry-492442833",
         "ministry-8363091279",
+        "ministry-3225561440",
         "agency-2866728145",
         "agency-7110785917",
         "agency-4536533766",
         "agency-7634766398",
         "agency-8494045679",
         "agency-3378259911",
-        "agency-2664481718",
-        "agency-8305282934"
+        "agency-2664481718"
       ],
       "eligibility_depth": "guidelines"
     },
