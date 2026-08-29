@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "as_of": "2026-08-28",
+  "as_of": "2026-08-29",
   "catalog_total": 40,
   "present": 40,
   "missing": 0,
@@ -383,10 +383,10 @@
         "mirasapo-13442",
         "mirasapo-12960",
         "mirasapo-12515",
-        "mirasapo-7654",
         "jnet21-187071",
         "agency-7267385931",
-        "agency-89316208"
+        "agency-89316208",
+        "agency-1047577427"
       ],
       "eligibility_depth": "guidelines"
     },
@@ -614,7 +614,6 @@
         "ministry-1776433262",
         "ministry-492442833",
         "ministry-8363091279",
-        "ministry-3225561440",
         "agency-2866728145",
         "agency-7110785917",
         "agency-4536533766",
@@ -622,7 +621,8 @@
         "agency-8494045679",
         "agency-3378259911",
         "agency-2664481718",
-        "agency-8305282934"
+        "agency-8305282934",
+        "prefecture-aichi-8525146100"
       ],
       "eligibility_depth": "guidelines"
     },
@@ -790,12 +790,12 @@
         "city-hiroshima-city-2174596182",
         "city-hiroshima-city-4476910204",
         "city-hiroshima-city-8524482365",
+        "city-07204-6421332655",
+        "city-07204-8912151510",
         "city-29201-9292848362",
         "city-29201-2261918090",
         "city-29201-1814731556",
-        "city-29201-7765551725",
-        "city-29201-2849328734",
-        "city-29201-1568576829"
+        "city-29201-7765551725"
       ],
       "eligibility_depth": "page_detail"
     },
@@ -956,6 +956,7 @@
         "mirasapo-624",
         "mirasapo-621",
         "mirasapo-619",
+        "mirasapo-32507",
         "mirasapo-30818",
         "mirasapo-32495",
         "mirasapo-33511",
@@ -966,8 +967,7 @@
         "mirasapo-33372",
         "mirasapo-33311",
         "mirasapo-32666",
-        "mirasapo-32651",
-        "mirasapo-32472"
+        "mirasapo-32651"
       ],
       "eligibility_depth": "page_detail"
     },
