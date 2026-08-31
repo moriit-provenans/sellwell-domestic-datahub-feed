@@ -2,7 +2,7 @@
   "schema_version": "1.0.0",
   "feed_id": "sellwell-domestic-datahub",
   "title": "Sellwell Domestic Data Hub Public Feed",
-  "last_updated": "2026-08-29",
+  "last_updated": "2026-08-30",
   "status": "mvp_req010_multisource_g1",
   "owner": "Atlas",
   "consumer": "Smith / sellwell.jp",
@@ -20,15 +20,15 @@
     "veritas"
   ],
   "live_metrics": {
-    "finder_index_count": 28900,
-    "finder_index_bytes": 15656842,
-    "finder_index_gz_bytes": 1886767,
+    "finder_index_count": 28924,
+    "finder_index_bytes": 15668742,
+    "finder_index_gz_bytes": 1888836,
     "finder_index_schema": "2.0.0",
-    "finder_index_as_of": "2026-08-29",
+    "finder_index_as_of": "2026-08-31",
     "phase3_adoption_obs": 31,
     "phase3_retail_by_channel_obs": 90,
     "phase3_census_firms_by_pref_obs": 2408,
-    "phase3_updated": "2026-08-30"
+    "phase3_updated": "2026-08-31"
   },
   "req_phase3": "REQ-SMITH-20260724-045",
   "req_details": "REQ-SMITH-20260727-047",

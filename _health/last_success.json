@@ -20,8 +20,8 @@
     "census_firms_by_pref_obs": 2408,
     "updated_at": "2026-07-30"
   },
-  "as_of_date": "2026-08-30",
-  "retrieved_at": "2026-08-30T09:07:33+09:00",
+  "as_of_date": "2026-08-31",
+  "retrieved_at": "2026-08-31T09:17:55+09:00",
   "items_total": 25379,
   "judgment_ready_total": 989,
   "has_guidelines_body_count": 8956,
@@ -174,15 +174,15 @@
   "workflow": "sellwell_domestic_feed_daily",
   "note_ja": "日次補助金＋Stage4 judgment＋finder_index v2（REQ-030 F / REQ-035 / REQ-044）",
   "finder_index_schema": "2.0.0",
-  "finder_index_count": 28900,
-  "finder_index_bytes": 15656842,
-  "finder_index_gz_bytes": 1886767,
-  "finder_index_as_of": "2026-08-29",
-  "finder_index_updated_at": "2026-08-30T09:07:20+09:00",
+  "finder_index_count": 28924,
+  "finder_index_bytes": 15668742,
+  "finder_index_gz_bytes": 1888836,
+  "finder_index_as_of": "2026-08-31",
+  "finder_index_updated_at": "2026-08-31T09:17:44+09:00",
   "finder_index_exclude": {
     "dropped_news": 631,
     "dropped_dead_or_soft_dead": 0,
-    "active_count": 29531
+    "active_count": 29555
   },
   "ok": true,
   "p0": {
