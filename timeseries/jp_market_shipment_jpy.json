@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "metric_id": "jp.market.shipment_jpy",
   "title_ja": "製造品出荷額等",
-  "last_updated": "2026-08-30",
+  "last_updated": "2026-09-01",
   "source": "e-Stat 経済構造実態調査",
   "observations": [
     {
       "as_of_date": "2005-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "37",
@@ -26,7 +26,7 @@
     {
       "as_of_date": "2006-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "37",
@@ -44,7 +44,7 @@
     {
       "as_of_date": "2007-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "37",
@@ -62,7 +62,7 @@
     {
       "as_of_date": "2008-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "37",
@@ -80,7 +80,7 @@
     {
       "as_of_date": "2009-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "37",
@@ -98,7 +98,7 @@
     {
       "as_of_date": "2010-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "37",
@@ -116,7 +116,7 @@
     {
       "as_of_date": "2011-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "37",
@@ -134,7 +134,7 @@
     {
       "as_of_date": "2012-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "37",
@@ -152,7 +152,7 @@
     {
       "as_of_date": "2013-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "37",
@@ -170,7 +170,7 @@
     {
       "as_of_date": "2014-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "37",
@@ -188,7 +188,7 @@
     {
       "as_of_date": "2015-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "37",
@@ -206,7 +206,7 @@
     {
       "as_of_date": "2016-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "37",
@@ -224,7 +224,7 @@
     {
       "as_of_date": "2017-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "37",
@@ -242,7 +242,7 @@
     {
       "as_of_date": "2018-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "37",
@@ -260,7 +260,7 @@
     {
       "as_of_date": "2019-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "37",
@@ -278,7 +278,7 @@
     {
       "as_of_date": "2020-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "37",
@@ -296,7 +296,7 @@
     {
       "as_of_date": "2021-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "37",
@@ -314,7 +314,7 @@
     {
       "as_of_date": "2022-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "37",
@@ -332,7 +332,7 @@
     {
       "as_of_date": "2023-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "37",
@@ -350,7 +350,7 @@
     {
       "as_of_date": "2024-12-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "37",
@@ -366,9 +366,29 @@
       "series_type": "info_services_sales"
     },
     {
+      "as_of_date": "2025-03-31",
+      "still_valid_2026": true,
+      "retrieved_at": "2026-09-01",
+      "veritas": "✅",
+      "metric_id": "jp.market.shipment_jpy",
+      "industry_id": "37",
+      "industry_slug": "ai",
+      "industry_name_ja": "情報通信業（AI代理・法人企業統計）",
+      "estat_cat02": "142",
+      "size_code": "26",
+      "period": "2025",
+      "period_type": "annual",
+      "value": 94149714.0,
+      "unit": "million_JPY",
+      "source": "e-Stat 法人企業統計（売上高）",
+      "source_ref": "statsDataId=0003060791 cat01=045 cat02=142",
+      "note": "P1接続: 製造品出荷額の長期プロキシ（法人売上高）。経済構造実態調査の出荷額とは定義差あり（断層）",
+      "series_type": "corp_sales_proxy"
+    },
+    {
       "as_of_date": "2005-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "30",
@@ -388,7 +408,7 @@
     {
       "as_of_date": "2006-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "30",
@@ -408,7 +428,7 @@
     {
       "as_of_date": "2007-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "30",
@@ -428,7 +448,7 @@
     {
       "as_of_date": "2008-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "30",
@@ -448,7 +468,7 @@
     {
       "as_of_date": "2009-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "30",
@@ -468,7 +488,7 @@
     {
       "as_of_date": "2010-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "30",
@@ -488,7 +508,7 @@
     {
       "as_of_date": "2011-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "30",
@@ -508,7 +528,7 @@
     {
       "as_of_date": "2012-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "30",
@@ -528,7 +548,7 @@
     {
       "as_of_date": "2013-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "30",
@@ -548,7 +568,7 @@
     {
       "as_of_date": "2014-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "30",
@@ -568,7 +588,7 @@
     {
       "as_of_date": "2015-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "30",
@@ -588,7 +608,7 @@
     {
       "as_of_date": "2016-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "30",
@@ -608,7 +628,7 @@
     {
       "as_of_date": "2017-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "30",
@@ -628,7 +648,7 @@
     {
       "as_of_date": "2018-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "30",
@@ -648,7 +668,7 @@
     {
       "as_of_date": "2019-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "30",
@@ -668,7 +688,7 @@
     {
       "as_of_date": "2020-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "30",
@@ -688,7 +708,7 @@
     {
       "as_of_date": "2021-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "30",
@@ -706,7 +726,7 @@
     {
       "as_of_date": "2022-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "30",
@@ -724,7 +744,7 @@
     {
       "as_of_date": "2023-03-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "30",
@@ -744,7 +764,7 @@
     {
       "as_of_date": "2024-03-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "30",
@@ -762,9 +782,29 @@
       "series_type": "corp_sales_proxy"
     },
     {
+      "as_of_date": "2025-03-31",
+      "still_valid_2026": true,
+      "retrieved_at": "2026-09-01",
+      "veritas": "✅",
+      "metric_id": "jp.market.shipment_jpy",
+      "industry_id": "30",
+      "industry_slug": "automotive-mobility",
+      "industry_name_ja": "輸送用機械器具製造業(集約)",
+      "estat_cat02": "146",
+      "size_code": "26",
+      "period": "2025",
+      "period_type": "annual",
+      "value": 98262535.0,
+      "unit": "million_JPY",
+      "source": "e-Stat 法人企業統計（売上高）",
+      "source_ref": "statsDataId=0003060791 cat01=045 cat02=146",
+      "note": "P1接続: 製造品出荷額の長期プロキシ（法人売上高）。経済構造実態調査の出荷額とは定義差あり（断層）",
+      "series_type": "corp_sales_proxy"
+    },
+    {
       "as_of_date": "2005-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "27",
@@ -784,7 +824,7 @@
     {
       "as_of_date": "2006-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "27",
@@ -804,7 +844,7 @@
     {
       "as_of_date": "2007-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "27",
@@ -824,7 +864,7 @@
     {
       "as_of_date": "2008-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "27",
@@ -844,7 +884,7 @@
     {
       "as_of_date": "2009-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "27",
@@ -864,7 +904,7 @@
     {
       "as_of_date": "2010-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "27",
@@ -884,7 +924,7 @@
     {
       "as_of_date": "2011-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "27",
@@ -904,7 +944,7 @@
     {
       "as_of_date": "2012-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "27",
@@ -924,7 +964,7 @@
     {
       "as_of_date": "2013-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "27",
@@ -944,7 +984,7 @@
     {
       "as_of_date": "2014-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "27",
@@ -964,7 +1004,7 @@
     {
       "as_of_date": "2015-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "27",
@@ -984,7 +1024,7 @@
     {
       "as_of_date": "2016-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "27",
@@ -1004,7 +1044,7 @@
     {
       "as_of_date": "2017-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "27",
@@ -1024,7 +1064,7 @@
     {
       "as_of_date": "2018-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "27",
@@ -1044,7 +1084,7 @@
     {
       "as_of_date": "2019-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "27",
@@ -1064,7 +1104,7 @@
     {
       "as_of_date": "2020-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "27",
@@ -1084,7 +1124,7 @@
     {
       "as_of_date": "2021-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "27",
@@ -1102,7 +1142,7 @@
     {
       "as_of_date": "2022-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "27",
@@ -1120,7 +1160,7 @@
     {
       "as_of_date": "2023-03-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "27",
@@ -1140,7 +1180,7 @@
     {
       "as_of_date": "2024-03-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "27",
@@ -1158,9 +1198,29 @@
       "series_type": "corp_sales_proxy"
     },
     {
+      "as_of_date": "2025-03-31",
+      "still_valid_2026": true,
+      "retrieved_at": "2026-09-01",
+      "veritas": "✅",
+      "metric_id": "jp.market.shipment_jpy",
+      "industry_id": "27",
+      "industry_slug": "business-machinery",
+      "industry_name_ja": "業務用機械器具製造業",
+      "estat_cat02": "124",
+      "size_code": "26",
+      "period": "2025",
+      "period_type": "annual",
+      "value": 14530465.0,
+      "unit": "million_JPY",
+      "source": "e-Stat 法人企業統計（売上高）",
+      "source_ref": "statsDataId=0003060791 cat01=045 cat02=124",
+      "note": "P1接続: 製造品出荷額の長期プロキシ（法人売上高）。経済構造実態調査の出荷額とは定義差あり（断層）",
+      "series_type": "corp_sales_proxy"
+    },
+    {
       "as_of_date": "2005-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "21",
@@ -1180,7 +1240,7 @@
     {
       "as_of_date": "2006-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "21",
@@ -1200,7 +1260,7 @@
     {
       "as_of_date": "2007-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "21",
@@ -1220,7 +1280,7 @@
     {
       "as_of_date": "2008-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "21",
@@ -1240,7 +1300,7 @@
     {
       "as_of_date": "2009-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "21",
@@ -1260,7 +1320,7 @@
     {
       "as_of_date": "2010-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "21",
@@ -1280,7 +1340,7 @@
     {
       "as_of_date": "2011-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "21",
@@ -1300,7 +1360,7 @@
     {
       "as_of_date": "2012-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "21",
@@ -1320,7 +1380,7 @@
     {
       "as_of_date": "2013-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "21",
@@ -1340,7 +1400,7 @@
     {
       "as_of_date": "2014-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "21",
@@ -1360,7 +1420,7 @@
     {
       "as_of_date": "2015-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "21",
@@ -1380,7 +1440,7 @@
     {
       "as_of_date": "2016-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "21",
@@ -1400,7 +1460,7 @@
     {
       "as_of_date": "2017-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "21",
@@ -1420,7 +1480,7 @@
     {
       "as_of_date": "2018-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "21",
@@ -1440,7 +1500,7 @@
     {
       "as_of_date": "2019-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "21",
@@ -1460,7 +1520,7 @@
     {
       "as_of_date": "2020-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "21",
@@ -1480,7 +1540,7 @@
     {
       "as_of_date": "2021-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "21",
@@ -1498,7 +1558,7 @@
     {
       "as_of_date": "2022-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "21",
@@ -1516,7 +1576,7 @@
     {
       "as_of_date": "2023-03-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "21",
@@ -1536,7 +1596,7 @@
     {
       "as_of_date": "2024-03-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "21",
@@ -1554,9 +1614,29 @@
       "series_type": "corp_sales_proxy"
     },
     {
+      "as_of_date": "2025-03-31",
+      "still_valid_2026": true,
+      "retrieved_at": "2026-09-01",
+      "veritas": "✅",
+      "metric_id": "jp.market.shipment_jpy",
+      "industry_id": "21",
+      "industry_slug": "ceramics",
+      "industry_name_ja": "窯業・土石製品製造業",
+      "estat_cat02": "117",
+      "size_code": "26",
+      "period": "2025",
+      "period_type": "annual",
+      "value": 11163802.0,
+      "unit": "million_JPY",
+      "source": "e-Stat 法人企業統計（売上高）",
+      "source_ref": "statsDataId=0003060791 cat01=045 cat02=117",
+      "note": "P1接続: 製造品出荷額の長期プロキシ（法人売上高）。経済構造実態調査の出荷額とは定義差あり（断層）",
+      "series_type": "corp_sales_proxy"
+    },
+    {
       "as_of_date": "2005-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "16",
@@ -1576,7 +1656,7 @@
     {
       "as_of_date": "2006-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "16",
@@ -1596,7 +1676,7 @@
     {
       "as_of_date": "2007-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "16",
@@ -1616,7 +1696,7 @@
     {
       "as_of_date": "2008-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "16",
@@ -1636,7 +1716,7 @@
     {
       "as_of_date": "2009-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "16",
@@ -1656,7 +1736,7 @@
     {
       "as_of_date": "2010-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "16",
@@ -1676,7 +1756,7 @@
     {
       "as_of_date": "2011-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "16",
@@ -1696,7 +1776,7 @@
     {
       "as_of_date": "2012-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "16",
@@ -1716,7 +1796,7 @@
     {
       "as_of_date": "2013-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "16",
@@ -1736,7 +1816,7 @@
     {
       "as_of_date": "2014-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "16",
@@ -1756,7 +1836,7 @@
     {
       "as_of_date": "2015-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "16",
@@ -1776,7 +1856,7 @@
     {
       "as_of_date": "2016-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "16",
@@ -1796,7 +1876,7 @@
     {
       "as_of_date": "2017-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "16",
@@ -1816,7 +1896,7 @@
     {
       "as_of_date": "2018-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "16",
@@ -1836,7 +1916,7 @@
     {
       "as_of_date": "2019-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "16",
@@ -1856,7 +1936,7 @@
     {
       "as_of_date": "2020-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "16",
@@ -1876,7 +1956,7 @@
     {
       "as_of_date": "2021-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "16",
@@ -1894,7 +1974,7 @@
     {
       "as_of_date": "2022-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "16",
@@ -1912,7 +1992,7 @@
     {
       "as_of_date": "2023-03-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "16",
@@ -1932,7 +2012,7 @@
     {
       "as_of_date": "2024-03-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "16",
@@ -1950,9 +2030,29 @@
       "series_type": "corp_sales_proxy"
     },
     {
+      "as_of_date": "2025-03-31",
+      "still_valid_2026": true,
+      "retrieved_at": "2026-09-01",
+      "veritas": "✅",
+      "metric_id": "jp.market.shipment_jpy",
+      "industry_id": "16",
+      "industry_slug": "chemicals",
+      "industry_name_ja": "化学工業（医薬品を含む）",
+      "estat_cat02": "115",
+      "size_code": "26",
+      "period": "2025",
+      "period_type": "annual",
+      "value": 49938471.0,
+      "unit": "million_JPY",
+      "source": "e-Stat 法人企業統計（売上高）",
+      "source_ref": "statsDataId=0003060791 cat01=045 cat02=115",
+      "note": "P1接続: 製造品出荷額の長期プロキシ（法人売上高）。経済構造実態調査の出荷額とは定義差あり（断層）",
+      "series_type": "corp_sales_proxy"
+    },
+    {
       "as_of_date": "2009-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "11",
@@ -1972,7 +2072,7 @@
     {
       "as_of_date": "2010-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "11",
@@ -1992,7 +2092,7 @@
     {
       "as_of_date": "2011-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "11",
@@ -2012,7 +2112,7 @@
     {
       "as_of_date": "2012-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "11",
@@ -2032,7 +2132,7 @@
     {
       "as_of_date": "2013-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "11",
@@ -2052,7 +2152,7 @@
     {
       "as_of_date": "2014-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "11",
@@ -2072,7 +2172,7 @@
     {
       "as_of_date": "2015-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "11",
@@ -2092,7 +2192,7 @@
     {
       "as_of_date": "2016-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "11",
@@ -2112,7 +2212,7 @@
     {
       "as_of_date": "2017-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "11",
@@ -2132,7 +2232,7 @@
     {
       "as_of_date": "2018-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "11",
@@ -2152,7 +2252,7 @@
     {
       "as_of_date": "2019-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "11",
@@ -2172,7 +2272,7 @@
     {
       "as_of_date": "2020-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "11",
@@ -2192,7 +2292,7 @@
     {
       "as_of_date": "2021-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "11",
@@ -2210,7 +2310,7 @@
     {
       "as_of_date": "2022-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "11",
@@ -2228,7 +2328,7 @@
     {
       "as_of_date": "2023-03-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "11",
@@ -2248,7 +2348,7 @@
     {
       "as_of_date": "2024-03-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "11",
@@ -2266,9 +2366,29 @@
       "series_type": "corp_sales_proxy"
     },
     {
+      "as_of_date": "2025-03-31",
+      "still_valid_2026": true,
+      "retrieved_at": "2026-09-01",
+      "veritas": "✅",
+      "metric_id": "jp.market.shipment_jpy",
+      "industry_id": "11",
+      "industry_slug": "consumer-goods",
+      "industry_name_ja": "繊維工業（消費財代理）",
+      "estat_cat02": "110",
+      "size_code": "26",
+      "period": "2025",
+      "period_type": "annual",
+      "value": 8047874.0,
+      "unit": "million_JPY",
+      "source": "e-Stat 法人企業統計（売上高）",
+      "source_ref": "statsDataId=0003060791 cat01=045 cat02=110",
+      "note": "P1接続: 製造品出荷額の長期プロキシ（法人売上高）。経済構造実態調査の出荷額とは定義差あり（断層）",
+      "series_type": "corp_sales_proxy"
+    },
+    {
       "as_of_date": "2005-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "29",
@@ -2288,7 +2408,7 @@
     {
       "as_of_date": "2006-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "29",
@@ -2308,7 +2428,7 @@
     {
       "as_of_date": "2007-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "29",
@@ -2328,7 +2448,7 @@
     {
       "as_of_date": "2008-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "29",
@@ -2348,7 +2468,7 @@
     {
       "as_of_date": "2009-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "29",
@@ -2368,7 +2488,7 @@
     {
       "as_of_date": "2010-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "29",
@@ -2388,7 +2508,7 @@
     {
       "as_of_date": "2011-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "29",
@@ -2408,7 +2528,7 @@
     {
       "as_of_date": "2012-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "29",
@@ -2428,7 +2548,7 @@
     {
       "as_of_date": "2013-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "29",
@@ -2448,7 +2568,7 @@
     {
       "as_of_date": "2014-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "29",
@@ -2468,7 +2588,7 @@
     {
       "as_of_date": "2015-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "29",
@@ -2488,7 +2608,7 @@
     {
       "as_of_date": "2016-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "29",
@@ -2508,7 +2628,7 @@
     {
       "as_of_date": "2017-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "29",
@@ -2528,7 +2648,7 @@
     {
       "as_of_date": "2018-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "29",
@@ -2548,7 +2668,7 @@
     {
       "as_of_date": "2019-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "29",
@@ -2568,7 +2688,7 @@
     {
       "as_of_date": "2020-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "29",
@@ -2588,7 +2708,7 @@
     {
       "as_of_date": "2021-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "29",
@@ -2606,7 +2726,7 @@
     {
       "as_of_date": "2022-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "29",
@@ -2624,7 +2744,7 @@
     {
       "as_of_date": "2023-03-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "29",
@@ -2644,7 +2764,7 @@
     {
       "as_of_date": "2024-03-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "29",
@@ -2662,9 +2782,29 @@
       "series_type": "corp_sales_proxy"
     },
     {
+      "as_of_date": "2025-03-31",
+      "still_valid_2026": true,
+      "retrieved_at": "2026-09-01",
+      "veritas": "✅",
+      "metric_id": "jp.market.shipment_jpy",
+      "industry_id": "29",
+      "industry_slug": "electrical-equipment",
+      "industry_name_ja": "電気機械器具製造業",
+      "estat_cat02": "122",
+      "size_code": "26",
+      "period": "2025",
+      "period_type": "annual",
+      "value": 34920452.0,
+      "unit": "million_JPY",
+      "source": "e-Stat 法人企業統計（売上高）",
+      "source_ref": "statsDataId=0003060791 cat01=045 cat02=122",
+      "note": "P1接続: 製造品出荷額の長期プロキシ（法人売上高）。経済構造実態調査の出荷額とは定義差あり（断層）",
+      "series_type": "corp_sales_proxy"
+    },
+    {
       "as_of_date": "2005-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "28",
@@ -2684,7 +2824,7 @@
     {
       "as_of_date": "2006-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "28",
@@ -2704,7 +2844,7 @@
     {
       "as_of_date": "2007-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "28",
@@ -2724,7 +2864,7 @@
     {
       "as_of_date": "2008-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "28",
@@ -2744,7 +2884,7 @@
     {
       "as_of_date": "2009-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "28",
@@ -2764,7 +2904,7 @@
     {
       "as_of_date": "2010-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "28",
@@ -2784,7 +2924,7 @@
     {
       "as_of_date": "2011-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "28",
@@ -2804,7 +2944,7 @@
     {
       "as_of_date": "2012-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "28",
@@ -2824,7 +2964,7 @@
     {
       "as_of_date": "2013-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "28",
@@ -2844,7 +2984,7 @@
     {
       "as_of_date": "2014-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "28",
@@ -2864,7 +3004,7 @@
     {
       "as_of_date": "2015-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "28",
@@ -2884,7 +3024,7 @@
     {
       "as_of_date": "2016-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "28",
@@ -2904,7 +3044,7 @@
     {
       "as_of_date": "2017-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "28",
@@ -2924,7 +3064,7 @@
     {
       "as_of_date": "2018-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "28",
@@ -2944,7 +3084,7 @@
     {
       "as_of_date": "2019-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "28",
@@ -2964,7 +3104,7 @@
     {
       "as_of_date": "2020-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "28",
@@ -2984,7 +3124,7 @@
     {
       "as_of_date": "2021-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "28",
@@ -3002,7 +3142,7 @@
     {
       "as_of_date": "2022-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "28",
@@ -3020,7 +3160,7 @@
     {
       "as_of_date": "2023-03-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "28",
@@ -3040,7 +3180,7 @@
     {
       "as_of_date": "2024-03-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "28",
@@ -3058,9 +3198,29 @@
       "series_type": "corp_sales_proxy"
     },
     {
+      "as_of_date": "2025-03-31",
+      "still_valid_2026": true,
+      "retrieved_at": "2026-09-01",
+      "veritas": "✅",
+      "metric_id": "jp.market.shipment_jpy",
+      "industry_id": "28",
+      "industry_slug": "electronic-components",
+      "industry_name_ja": "情報通信機械器具製造業（電子部品代理）",
+      "estat_cat02": "145",
+      "size_code": "26",
+      "period": "2025",
+      "period_type": "annual",
+      "value": 35817686.0,
+      "unit": "million_JPY",
+      "source": "e-Stat 法人企業統計（売上高）",
+      "source_ref": "statsDataId=0003060791 cat01=045 cat02=145",
+      "note": "P1接続: 製造品出荷額の長期プロキシ（法人売上高）。経済構造実態調査の出荷額とは定義差あり（断層）",
+      "series_type": "corp_sales_proxy"
+    },
+    {
       "as_of_date": "2005-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "33",
@@ -3080,7 +3240,7 @@
     {
       "as_of_date": "2006-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "33",
@@ -3100,7 +3260,7 @@
     {
       "as_of_date": "2007-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "33",
@@ -3120,7 +3280,7 @@
     {
       "as_of_date": "2008-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "33",
@@ -3140,7 +3300,7 @@
     {
       "as_of_date": "2009-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "33",
@@ -3160,7 +3320,7 @@
     {
       "as_of_date": "2010-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "33",
@@ -3180,7 +3340,7 @@
     {
       "as_of_date": "2011-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "33",
@@ -3200,7 +3360,7 @@
     {
       "as_of_date": "2012-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "33",
@@ -3220,7 +3380,7 @@
     {
       "as_of_date": "2013-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "33",
@@ -3240,7 +3400,7 @@
     {
       "as_of_date": "2014-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "33",
@@ -3260,7 +3420,7 @@
     {
       "as_of_date": "2015-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "33",
@@ -3280,7 +3440,7 @@
     {
       "as_of_date": "2016-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "33",
@@ -3300,7 +3460,7 @@
     {
       "as_of_date": "2017-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "33",
@@ -3320,7 +3480,7 @@
     {
       "as_of_date": "2018-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "33",
@@ -3340,7 +3500,7 @@
     {
       "as_of_date": "2019-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "33",
@@ -3360,7 +3520,7 @@
     {
       "as_of_date": "2020-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "33",
@@ -3380,7 +3540,7 @@
     {
       "as_of_date": "2021-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "33",
@@ -3400,7 +3560,7 @@
     {
       "as_of_date": "2022-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "33",
@@ -3420,7 +3580,7 @@
     {
       "as_of_date": "2023-03-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "33",
@@ -3440,7 +3600,7 @@
     {
       "as_of_date": "2024-03-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "33",
@@ -3458,9 +3618,29 @@
       "series_type": "corp_sales_proxy"
     },
     {
+      "as_of_date": "2025-03-31",
+      "still_valid_2026": true,
+      "retrieved_at": "2026-09-01",
+      "veritas": "✅",
+      "metric_id": "jp.market.shipment_jpy",
+      "industry_id": "33",
+      "industry_slug": "energy-gx",
+      "industry_name_ja": "電気業（エネルギー・GX代理）",
+      "estat_cat02": "135",
+      "size_code": "26",
+      "period": "2025",
+      "period_type": "annual",
+      "value": 39042961.0,
+      "unit": "million_JPY",
+      "source": "e-Stat 法人企業統計（売上高）",
+      "source_ref": "statsDataId=0003060791 cat01=045 cat02=135",
+      "note": "P1接続: 製造品出荷額の長期プロキシ（法人売上高）。経済構造実態調査の出荷額とは定義差あり（断層）",
+      "series_type": "corp_sales_proxy"
+    },
+    {
       "as_of_date": "2005-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "09",
@@ -3480,7 +3660,7 @@
     {
       "as_of_date": "2006-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "09",
@@ -3500,7 +3680,7 @@
     {
       "as_of_date": "2007-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "09",
@@ -3520,7 +3700,7 @@
     {
       "as_of_date": "2008-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "09",
@@ -3540,7 +3720,7 @@
     {
       "as_of_date": "2009-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "09",
@@ -3560,7 +3740,7 @@
     {
       "as_of_date": "2010-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "09",
@@ -3580,7 +3760,7 @@
     {
       "as_of_date": "2011-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "09",
@@ -3600,7 +3780,7 @@
     {
       "as_of_date": "2012-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "09",
@@ -3620,7 +3800,7 @@
     {
       "as_of_date": "2013-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "09",
@@ -3640,7 +3820,7 @@
     {
       "as_of_date": "2014-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "09",
@@ -3660,7 +3840,7 @@
     {
       "as_of_date": "2015-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "09",
@@ -3680,7 +3860,7 @@
     {
       "as_of_date": "2016-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "09",
@@ -3700,7 +3880,7 @@
     {
       "as_of_date": "2017-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "09",
@@ -3720,7 +3900,7 @@
     {
       "as_of_date": "2018-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "09",
@@ -3740,7 +3920,7 @@
     {
       "as_of_date": "2019-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "09",
@@ -3760,7 +3940,7 @@
     {
       "as_of_date": "2020-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "09",
@@ -3780,7 +3960,7 @@
     {
       "as_of_date": "2021-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "09",
@@ -3798,7 +3978,7 @@
     {
       "as_of_date": "2022-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "09",
@@ -3816,7 +3996,7 @@
     {
       "as_of_date": "2023-03-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "09",
@@ -3836,7 +4016,7 @@
     {
       "as_of_date": "2024-03-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "09",
@@ -3854,9 +4034,29 @@
       "series_type": "corp_sales_proxy"
     },
     {
+      "as_of_date": "2025-03-31",
+      "still_valid_2026": true,
+      "retrieved_at": "2026-09-01",
+      "veritas": "✅",
+      "metric_id": "jp.market.shipment_jpy",
+      "industry_id": "09",
+      "industry_slug": "food-beverage",
+      "industry_name_ja": "食料品製造業",
+      "estat_cat02": "109",
+      "size_code": "26",
+      "period": "2025",
+      "period_type": "annual",
+      "value": 57392107.0,
+      "unit": "million_JPY",
+      "source": "e-Stat 法人企業統計（売上高）",
+      "source_ref": "statsDataId=0003060791 cat01=045 cat02=109",
+      "note": "P1接続: 製造品出荷額の長期プロキシ（法人売上高）。経済構造実態調査の出荷額とは定義差あり（断層）",
+      "series_type": "corp_sales_proxy"
+    },
+    {
       "as_of_date": "2005-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "09FT",
@@ -3876,7 +4076,7 @@
     {
       "as_of_date": "2006-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "09FT",
@@ -3896,7 +4096,7 @@
     {
       "as_of_date": "2007-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "09FT",
@@ -3916,7 +4116,7 @@
     {
       "as_of_date": "2008-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "09FT",
@@ -3936,7 +4136,7 @@
     {
       "as_of_date": "2009-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "09FT",
@@ -3956,7 +4156,7 @@
     {
       "as_of_date": "2010-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "09FT",
@@ -3976,7 +4176,7 @@
     {
       "as_of_date": "2011-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "09FT",
@@ -3996,7 +4196,7 @@
     {
       "as_of_date": "2012-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "09FT",
@@ -4016,7 +4216,7 @@
     {
       "as_of_date": "2013-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "09FT",
@@ -4036,7 +4236,7 @@
     {
       "as_of_date": "2014-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "09FT",
@@ -4056,7 +4256,7 @@
     {
       "as_of_date": "2015-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "09FT",
@@ -4076,7 +4276,7 @@
     {
       "as_of_date": "2016-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "09FT",
@@ -4096,7 +4296,7 @@
     {
       "as_of_date": "2017-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "09FT",
@@ -4116,7 +4316,7 @@
     {
       "as_of_date": "2018-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "09FT",
@@ -4136,7 +4336,7 @@
     {
       "as_of_date": "2019-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "09FT",
@@ -4156,7 +4356,7 @@
     {
       "as_of_date": "2020-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "09FT",
@@ -4176,7 +4376,7 @@
     {
       "as_of_date": "2021-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "09FT",
@@ -4194,7 +4394,7 @@
     {
       "as_of_date": "2022-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "09FT",
@@ -4212,7 +4412,7 @@
     {
       "as_of_date": "2023-03-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "09FT",
@@ -4232,7 +4432,7 @@
     {
       "as_of_date": "2024-03-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "09FT",
@@ -4250,9 +4450,29 @@
       "series_type": "foodtech_proxy_from_food"
     },
     {
+      "as_of_date": "2025-03-31",
+      "still_valid_2026": true,
+      "retrieved_at": "2026-09-01",
+      "veritas": "✅",
+      "metric_id": "jp.market.shipment_jpy",
+      "industry_id": "09FT",
+      "industry_slug": "foodtech",
+      "industry_name_ja": "フードテック（食料品系代理）",
+      "estat_cat02": "109",
+      "size_code": "26",
+      "period": "2025",
+      "period_type": "annual",
+      "value": 57392107.0,
+      "unit": "million_JPY",
+      "source": "e-Stat 法人企業統計（売上高）",
+      "source_ref": "statsDataId=0003060791 cat01=045 cat02=109",
+      "note": "P1接続: 製造品出荷額の長期プロキシ（法人売上高）。経済構造実態調査の出荷額とは定義差あり（断層） / foodtechは食料品系列のテーマ代理",
+      "series_type": "foodtech_proxy_from_food"
+    },
+    {
       "as_of_date": "2009-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "25a",
@@ -4272,7 +4492,7 @@
     {
       "as_of_date": "2010-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "25a",
@@ -4292,7 +4512,7 @@
     {
       "as_of_date": "2011-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "25a",
@@ -4312,7 +4532,7 @@
     {
       "as_of_date": "2012-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "25a",
@@ -4332,7 +4552,7 @@
     {
       "as_of_date": "2013-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "25a",
@@ -4352,7 +4572,7 @@
     {
       "as_of_date": "2014-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "25a",
@@ -4372,7 +4592,7 @@
     {
       "as_of_date": "2015-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "25a",
@@ -4392,7 +4612,7 @@
     {
       "as_of_date": "2016-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "25a",
@@ -4412,7 +4632,7 @@
     {
       "as_of_date": "2017-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "25a",
@@ -4432,7 +4652,7 @@
     {
       "as_of_date": "2018-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "25a",
@@ -4452,7 +4672,7 @@
     {
       "as_of_date": "2019-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "25a",
@@ -4472,7 +4692,7 @@
     {
       "as_of_date": "2020-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "25a",
@@ -4492,7 +4712,7 @@
     {
       "as_of_date": "2021-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "25a",
@@ -4510,7 +4730,7 @@
     {
       "as_of_date": "2022-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "25a",
@@ -4528,7 +4748,7 @@
     {
       "as_of_date": "2023-03-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "25a",
@@ -4548,7 +4768,7 @@
     {
       "as_of_date": "2024-03-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "25a",
@@ -4566,9 +4786,29 @@
       "series_type": "corp_sales_proxy"
     },
     {
+      "as_of_date": "2025-03-31",
+      "still_valid_2026": true,
+      "retrieved_at": "2026-09-01",
+      "veritas": "✅",
+      "metric_id": "jp.market.shipment_jpy",
+      "industry_id": "25a",
+      "industry_slug": "general-machinery",
+      "industry_name_ja": "はん用機械器具製造業",
+      "estat_cat02": "154",
+      "size_code": "26",
+      "period": "2025",
+      "period_type": "annual",
+      "value": 8330321.0,
+      "unit": "million_JPY",
+      "source": "e-Stat 法人企業統計（売上高）",
+      "source_ref": "statsDataId=0003060791 cat01=045 cat02=154",
+      "note": "P1接続: 製造品出荷額の長期プロキシ（法人売上高）。経済構造実態調査の出荷額とは定義差あり（断層）",
+      "series_type": "corp_sales_proxy"
+    },
+    {
       "as_of_date": "2005-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "25",
@@ -4588,7 +4828,7 @@
     {
       "as_of_date": "2006-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "25",
@@ -4608,7 +4848,7 @@
     {
       "as_of_date": "2007-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "25",
@@ -4628,7 +4868,7 @@
     {
       "as_of_date": "2008-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "25",
@@ -4648,7 +4888,7 @@
     {
       "as_of_date": "2009-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "25",
@@ -4668,7 +4908,7 @@
     {
       "as_of_date": "2010-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "25",
@@ -4688,7 +4928,7 @@
     {
       "as_of_date": "2011-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "25",
@@ -4708,7 +4948,7 @@
     {
       "as_of_date": "2012-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "25",
@@ -4728,7 +4968,7 @@
     {
       "as_of_date": "2013-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "25",
@@ -4748,7 +4988,7 @@
     {
       "as_of_date": "2014-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "25",
@@ -4768,7 +5008,7 @@
     {
       "as_of_date": "2015-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "25",
@@ -4788,7 +5028,7 @@
     {
       "as_of_date": "2016-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "25",
@@ -4808,7 +5048,7 @@
     {
       "as_of_date": "2017-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "25",
@@ -4828,7 +5068,7 @@
     {
       "as_of_date": "2018-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "25",
@@ -4848,7 +5088,7 @@
     {
       "as_of_date": "2019-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "25",
@@ -4868,7 +5108,7 @@
     {
       "as_of_date": "2020-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "25",
@@ -4888,7 +5128,7 @@
     {
       "as_of_date": "2021-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "25",
@@ -4906,7 +5146,7 @@
     {
       "as_of_date": "2022-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "25",
@@ -4924,7 +5164,7 @@
     {
       "as_of_date": "2023-03-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "25",
@@ -4944,7 +5184,7 @@
     {
       "as_of_date": "2024-03-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "25",
@@ -4962,9 +5202,29 @@
       "series_type": "corp_sales_proxy"
     },
     {
+      "as_of_date": "2025-03-31",
+      "still_valid_2026": true,
+      "retrieved_at": "2026-09-01",
+      "veritas": "✅",
+      "metric_id": "jp.market.shipment_jpy",
+      "industry_id": "25",
+      "industry_slug": "industrial-machinery",
+      "industry_name_ja": "生産用機械器具製造業",
+      "estat_cat02": "121",
+      "size_code": "26",
+      "period": "2025",
+      "period_type": "annual",
+      "value": 29221412.0,
+      "unit": "million_JPY",
+      "source": "e-Stat 法人企業統計（売上高）",
+      "source_ref": "statsDataId=0003060791 cat01=045 cat02=121",
+      "note": "P1接続: 製造品出荷額の長期プロキシ（法人売上高）。経済構造実態調査の出荷額とは定義差あり（断層）",
+      "series_type": "corp_sales_proxy"
+    },
+    {
       "as_of_date": "2005-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "C",
@@ -4984,7 +5244,7 @@
     {
       "as_of_date": "2006-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "C",
@@ -5004,7 +5264,7 @@
     {
       "as_of_date": "2007-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "C",
@@ -5024,7 +5284,7 @@
     {
       "as_of_date": "2008-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "C",
@@ -5044,7 +5304,7 @@
     {
       "as_of_date": "2009-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "C",
@@ -5064,7 +5324,7 @@
     {
       "as_of_date": "2010-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "C",
@@ -5084,7 +5344,7 @@
     {
       "as_of_date": "2011-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "C",
@@ -5104,7 +5364,7 @@
     {
       "as_of_date": "2012-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "C",
@@ -5124,7 +5384,7 @@
     {
       "as_of_date": "2013-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "C",
@@ -5144,7 +5404,7 @@
     {
       "as_of_date": "2014-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "C",
@@ -5164,7 +5424,7 @@
     {
       "as_of_date": "2015-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "C",
@@ -5184,7 +5444,7 @@
     {
       "as_of_date": "2016-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "C",
@@ -5204,7 +5464,7 @@
     {
       "as_of_date": "2017-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "C",
@@ -5224,7 +5484,7 @@
     {
       "as_of_date": "2018-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "C",
@@ -5244,7 +5504,7 @@
     {
       "as_of_date": "2019-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "C",
@@ -5264,7 +5524,7 @@
     {
       "as_of_date": "2020-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "C",
@@ -5284,7 +5544,7 @@
     {
       "as_of_date": "2021-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "C",
@@ -5302,7 +5562,7 @@
     {
       "as_of_date": "2022-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "C",
@@ -5320,7 +5580,7 @@
     {
       "as_of_date": "2023-03-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "C",
@@ -5340,7 +5600,7 @@
     {
       "as_of_date": "2024-03-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "C",
@@ -5358,9 +5618,29 @@
       "series_type": "corp_sales_proxy"
     },
     {
+      "as_of_date": "2025-03-31",
+      "still_valid_2026": true,
+      "retrieved_at": "2026-09-01",
+      "veritas": "✅",
+      "metric_id": "jp.market.shipment_jpy",
+      "industry_id": "C",
+      "industry_slug": "manufacturing-total",
+      "industry_name_ja": "製造業",
+      "estat_cat02": "108",
+      "size_code": "26",
+      "period": "2025",
+      "period_type": "annual",
+      "value": 477013010.0,
+      "unit": "million_JPY",
+      "source": "e-Stat 法人企業統計（売上高）",
+      "source_ref": "statsDataId=0003060791 cat01=045 cat02=108",
+      "note": "P1接続: 製造品出荷額の長期プロキシ（法人売上高）。経済構造実態調査の出荷額とは定義差あり（断層）",
+      "series_type": "corp_sales_proxy"
+    },
+    {
       "as_of_date": "2005-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "24",
@@ -5380,7 +5660,7 @@
     {
       "as_of_date": "2006-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "24",
@@ -5400,7 +5680,7 @@
     {
       "as_of_date": "2007-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "24",
@@ -5420,7 +5700,7 @@
     {
       "as_of_date": "2008-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "24",
@@ -5440,7 +5720,7 @@
     {
       "as_of_date": "2009-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "24",
@@ -5460,7 +5740,7 @@
     {
       "as_of_date": "2010-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "24",
@@ -5480,7 +5760,7 @@
     {
       "as_of_date": "2011-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "24",
@@ -5500,7 +5780,7 @@
     {
       "as_of_date": "2012-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "24",
@@ -5520,7 +5800,7 @@
     {
       "as_of_date": "2013-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "24",
@@ -5540,7 +5820,7 @@
     {
       "as_of_date": "2014-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "24",
@@ -5560,7 +5840,7 @@
     {
       "as_of_date": "2015-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "24",
@@ -5580,7 +5860,7 @@
     {
       "as_of_date": "2016-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "24",
@@ -5600,7 +5880,7 @@
     {
       "as_of_date": "2017-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "24",
@@ -5620,7 +5900,7 @@
     {
       "as_of_date": "2018-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "24",
@@ -5640,7 +5920,7 @@
     {
       "as_of_date": "2019-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "24",
@@ -5660,7 +5940,7 @@
     {
       "as_of_date": "2020-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "24",
@@ -5680,7 +5960,7 @@
     {
       "as_of_date": "2021-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "24",
@@ -5698,7 +5978,7 @@
     {
       "as_of_date": "2022-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "24",
@@ -5716,7 +5996,7 @@
     {
       "as_of_date": "2023-03-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "24",
@@ -5736,7 +6016,7 @@
     {
       "as_of_date": "2024-03-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "24",
@@ -5754,9 +6034,29 @@
       "series_type": "corp_sales_proxy"
     },
     {
+      "as_of_date": "2025-03-31",
+      "still_valid_2026": true,
+      "retrieved_at": "2026-09-01",
+      "veritas": "✅",
+      "metric_id": "jp.market.shipment_jpy",
+      "industry_id": "24",
+      "industry_slug": "metal-products",
+      "industry_name_ja": "金属製品製造業",
+      "estat_cat02": "120",
+      "size_code": "26",
+      "period": "2025",
+      "period_type": "annual",
+      "value": 21236659.0,
+      "unit": "million_JPY",
+      "source": "e-Stat 法人企業統計（売上高）",
+      "source_ref": "statsDataId=0003060791 cat01=045 cat02=120",
+      "note": "P1接続: 製造品出荷額の長期プロキシ（法人売上高）。経済構造実態調査の出荷額とは定義差あり（断層）",
+      "series_type": "corp_sales_proxy"
+    },
+    {
       "as_of_date": "2005-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "23",
@@ -5776,7 +6076,7 @@
     {
       "as_of_date": "2006-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "23",
@@ -5796,7 +6096,7 @@
     {
       "as_of_date": "2007-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "23",
@@ -5816,7 +6116,7 @@
     {
       "as_of_date": "2008-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "23",
@@ -5836,7 +6136,7 @@
     {
       "as_of_date": "2009-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "23",
@@ -5856,7 +6156,7 @@
     {
       "as_of_date": "2010-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "23",
@@ -5876,7 +6176,7 @@
     {
       "as_of_date": "2011-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "23",
@@ -5896,7 +6196,7 @@
     {
       "as_of_date": "2012-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "23",
@@ -5916,7 +6216,7 @@
     {
       "as_of_date": "2013-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "23",
@@ -5936,7 +6236,7 @@
     {
       "as_of_date": "2014-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "23",
@@ -5956,7 +6256,7 @@
     {
       "as_of_date": "2015-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "23",
@@ -5976,7 +6276,7 @@
     {
       "as_of_date": "2016-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "23",
@@ -5996,7 +6296,7 @@
     {
       "as_of_date": "2017-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "23",
@@ -6016,7 +6316,7 @@
     {
       "as_of_date": "2018-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "23",
@@ -6036,7 +6336,7 @@
     {
       "as_of_date": "2019-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "23",
@@ -6056,7 +6356,7 @@
     {
       "as_of_date": "2020-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "23",
@@ -6076,7 +6376,7 @@
     {
       "as_of_date": "2021-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "23",
@@ -6094,7 +6394,7 @@
     {
       "as_of_date": "2022-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "23",
@@ -6112,7 +6412,7 @@
     {
       "as_of_date": "2023-03-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "23",
@@ -6132,7 +6432,7 @@
     {
       "as_of_date": "2024-03-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "23",
@@ -6150,9 +6450,29 @@
       "series_type": "corp_sales_proxy"
     },
     {
+      "as_of_date": "2025-03-31",
+      "still_valid_2026": true,
+      "retrieved_at": "2026-09-01",
+      "veritas": "✅",
+      "metric_id": "jp.market.shipment_jpy",
+      "industry_id": "23",
+      "industry_slug": "nonferrous-metals",
+      "industry_name_ja": "非鉄金属製造業",
+      "estat_cat02": "119",
+      "size_code": "26",
+      "period": "2025",
+      "period_type": "annual",
+      "value": 18488971.0,
+      "unit": "million_JPY",
+      "source": "e-Stat 法人企業統計（売上高）",
+      "source_ref": "statsDataId=0003060791 cat01=045 cat02=119",
+      "note": "P1接続: 製造品出荷額の長期プロキシ（法人売上高）。経済構造実態調査の出荷額とは定義差あり（断層）",
+      "series_type": "corp_sales_proxy"
+    },
+    {
       "as_of_date": "2005-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "17",
@@ -6172,7 +6492,7 @@
     {
       "as_of_date": "2006-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "17",
@@ -6192,7 +6512,7 @@
     {
       "as_of_date": "2007-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "17",
@@ -6212,7 +6532,7 @@
     {
       "as_of_date": "2008-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "17",
@@ -6232,7 +6552,7 @@
     {
       "as_of_date": "2009-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "17",
@@ -6252,7 +6572,7 @@
     {
       "as_of_date": "2010-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "17",
@@ -6272,7 +6592,7 @@
     {
       "as_of_date": "2011-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "17",
@@ -6292,7 +6612,7 @@
     {
       "as_of_date": "2012-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "17",
@@ -6312,7 +6632,7 @@
     {
       "as_of_date": "2013-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "17",
@@ -6332,7 +6652,7 @@
     {
       "as_of_date": "2014-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "17",
@@ -6352,7 +6672,7 @@
     {
       "as_of_date": "2015-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "17",
@@ -6372,7 +6692,7 @@
     {
       "as_of_date": "2016-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "17",
@@ -6392,7 +6712,7 @@
     {
       "as_of_date": "2017-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "17",
@@ -6412,7 +6732,7 @@
     {
       "as_of_date": "2018-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "17",
@@ -6432,7 +6752,7 @@
     {
       "as_of_date": "2019-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "17",
@@ -6452,7 +6772,7 @@
     {
       "as_of_date": "2020-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "17",
@@ -6472,7 +6792,7 @@
     {
       "as_of_date": "2021-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "17",
@@ -6490,7 +6810,7 @@
     {
       "as_of_date": "2022-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "17",
@@ -6508,7 +6828,7 @@
     {
       "as_of_date": "2023-03-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "17",
@@ -6528,7 +6848,7 @@
     {
       "as_of_date": "2024-03-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "17",
@@ -6546,9 +6866,29 @@
       "series_type": "corp_sales_proxy"
     },
     {
+      "as_of_date": "2025-03-31",
+      "still_valid_2026": true,
+      "retrieved_at": "2026-09-01",
+      "veritas": "✅",
+      "metric_id": "jp.market.shipment_jpy",
+      "industry_id": "17",
+      "industry_slug": "petroleum",
+      "industry_name_ja": "石油製品・石炭製品製造業",
+      "estat_cat02": "116",
+      "size_code": "26",
+      "period": "2025",
+      "period_type": "annual",
+      "value": 12508939.0,
+      "unit": "million_JPY",
+      "source": "e-Stat 法人企業統計（売上高）",
+      "source_ref": "statsDataId=0003060791 cat01=045 cat02=116",
+      "note": "P1接続: 製造品出荷額の長期プロキシ（法人売上高）。経済構造実態調査の出荷額とは定義差あり（断層）",
+      "series_type": "corp_sales_proxy"
+    },
+    {
       "as_of_date": "2005-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "14",
@@ -6568,7 +6908,7 @@
     {
       "as_of_date": "2006-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "14",
@@ -6588,7 +6928,7 @@
     {
       "as_of_date": "2007-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "14",
@@ -6608,7 +6948,7 @@
     {
       "as_of_date": "2008-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "14",
@@ -6628,7 +6968,7 @@
     {
       "as_of_date": "2009-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "14",
@@ -6648,7 +6988,7 @@
     {
       "as_of_date": "2010-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "14",
@@ -6668,7 +7008,7 @@
     {
       "as_of_date": "2011-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "14",
@@ -6688,7 +7028,7 @@
     {
       "as_of_date": "2012-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "14",
@@ -6708,7 +7048,7 @@
     {
       "as_of_date": "2013-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "14",
@@ -6728,7 +7068,7 @@
     {
       "as_of_date": "2014-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "14",
@@ -6748,7 +7088,7 @@
     {
       "as_of_date": "2015-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "14",
@@ -6768,7 +7108,7 @@
     {
       "as_of_date": "2016-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "14",
@@ -6788,7 +7128,7 @@
     {
       "as_of_date": "2017-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "14",
@@ -6808,7 +7148,7 @@
     {
       "as_of_date": "2018-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "14",
@@ -6828,7 +7168,7 @@
     {
       "as_of_date": "2019-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "14",
@@ -6848,7 +7188,7 @@
     {
       "as_of_date": "2020-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "14",
@@ -6868,7 +7208,7 @@
     {
       "as_of_date": "2021-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "14",
@@ -6886,7 +7226,7 @@
     {
       "as_of_date": "2022-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "14",
@@ -6904,7 +7244,7 @@
     {
       "as_of_date": "2023-03-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "14",
@@ -6924,7 +7264,7 @@
     {
       "as_of_date": "2024-03-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "14",
@@ -6942,9 +7282,29 @@
       "series_type": "corp_sales_proxy"
     },
     {
+      "as_of_date": "2025-03-31",
+      "still_valid_2026": true,
+      "retrieved_at": "2026-09-01",
+      "veritas": "✅",
+      "metric_id": "jp.market.shipment_jpy",
+      "industry_id": "14",
+      "industry_slug": "pulp-paper",
+      "industry_name_ja": "パルプ・紙・紙加工品製造業",
+      "estat_cat02": "113",
+      "size_code": "26",
+      "period": "2025",
+      "period_type": "annual",
+      "value": 7679004.0,
+      "unit": "million_JPY",
+      "source": "e-Stat 法人企業統計（売上高）",
+      "source_ref": "statsDataId=0003060791 cat01=045 cat02=113",
+      "note": "P1接続: 製造品出荷額の長期プロキシ（法人売上高）。経済構造実態調査の出荷額とは定義差あり（断層）",
+      "series_type": "corp_sales_proxy"
+    },
+    {
       "as_of_date": "2005-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "22",
@@ -6964,7 +7324,7 @@
     {
       "as_of_date": "2006-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "22",
@@ -6984,7 +7344,7 @@
     {
       "as_of_date": "2007-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "22",
@@ -7004,7 +7364,7 @@
     {
       "as_of_date": "2008-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "22",
@@ -7024,7 +7384,7 @@
     {
       "as_of_date": "2009-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "22",
@@ -7044,7 +7404,7 @@
     {
       "as_of_date": "2010-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "22",
@@ -7064,7 +7424,7 @@
     {
       "as_of_date": "2011-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "22",
@@ -7084,7 +7444,7 @@
     {
       "as_of_date": "2012-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "22",
@@ -7104,7 +7464,7 @@
     {
       "as_of_date": "2013-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "22",
@@ -7124,7 +7484,7 @@
     {
       "as_of_date": "2014-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "22",
@@ -7144,7 +7504,7 @@
     {
       "as_of_date": "2015-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "22",
@@ -7164,7 +7524,7 @@
     {
       "as_of_date": "2016-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "22",
@@ -7184,7 +7544,7 @@
     {
       "as_of_date": "2017-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "22",
@@ -7204,7 +7564,7 @@
     {
       "as_of_date": "2018-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "22",
@@ -7224,7 +7584,7 @@
     {
       "as_of_date": "2019-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "22",
@@ -7244,7 +7604,7 @@
     {
       "as_of_date": "2020-03-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "22",
@@ -7264,7 +7624,7 @@
     {
       "as_of_date": "2021-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "22",
@@ -7282,7 +7642,7 @@
     {
       "as_of_date": "2022-12-31",
       "still_valid_2026": "unverified",
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "22",
@@ -7300,7 +7660,7 @@
     {
       "as_of_date": "2023-03-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "22",
@@ -7320,7 +7680,7 @@
     {
       "as_of_date": "2024-03-31",
       "still_valid_2026": true,
-      "retrieved_at": "2026-08-30",
+      "retrieved_at": "2026-09-01",
       "veritas": "✅",
       "metric_id": "jp.market.shipment_jpy",
       "industry_id": "22",
@@ -7331,6 +7691,26 @@
       "period": "2024",
       "period_type": "annual",
       "value": 19896292.0,
+      "unit": "million_JPY",
+      "source": "e-Stat 法人企業統計（売上高）",
+      "source_ref": "statsDataId=0003060791 cat01=045 cat02=118",
+      "note": "P1接続: 製造品出荷額の長期プロキシ（法人売上高）。経済構造実態調査の出荷額とは定義差あり（断層）",
+      "series_type": "corp_sales_proxy"
+    },
+    {
+      "as_of_date": "2025-03-31",
+      "still_valid_2026": true,
+      "retrieved_at": "2026-09-01",
+      "veritas": "✅",
+      "metric_id": "jp.market.shipment_jpy",
+      "industry_id": "22",
+      "industry_slug": "steel",
+      "industry_name_ja": "鉄鋼業",
+      "estat_cat02": "118",
+      "size_code": "26",
+      "period": "2025",
+      "period_type": "annual",
+      "value": 18463242.0,
       "unit": "million_JPY",
       "source": "e-Stat 法人企業統計（売上高）",
       "source_ref": "statsDataId=0003060791 cat01=045 cat02=118",

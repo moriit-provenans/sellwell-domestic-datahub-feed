@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "as_of": "2026-08-31",
+  "as_of": "2026-09-02",
   "catalog_total": 40,
   "present": 40,
   "missing": 0,
@@ -42,7 +42,6 @@
       "in_active_feed": true,
       "matched_item_ids": [
         "a0WJ200000CDTjnMAH",
-        "jnet21-188093",
         "jnet21-184636",
         "jnet21-184186",
         "jnet21-181927",
@@ -55,6 +54,7 @@
         "jnet21-180204",
         "jnet21-180205",
         "jnet21-180206",
+        "jnet21-179463",
         "ministry-4553840892",
         "ministry-1706685799",
         "prefecture-oita-6130031718",
@@ -125,6 +125,7 @@
         "a0WJ200000CDe6OMAT",
         "jnet21-188597",
         "ministry-7783705607",
+        "prefecture-fukui-1802748802",
         "prefecture-fukui-2740315973",
         "prefecture-fukui-7233805550",
         "prefecture-yamaguchi-7500736828",
@@ -139,8 +140,7 @@
         "deep-niigata-city-c-aa56ef091e6b",
         "city-12236-4983198711",
         "city-23220-4321552710",
-        "city-24216-9520100918",
-        "city-11301-5301862851"
+        "city-24216-9520100918"
       ],
       "eligibility_depth": "guidelines"
     },
@@ -252,6 +252,7 @@
         "jnet21-180188",
         "ministry-1914699091",
         "ministry-764844260",
+        "agency-3669330523",
         "city-27230-7177271317",
         "city-27230-6973552160",
         "city-33202-7598575280",
@@ -284,14 +285,14 @@
         "jnet21-180228",
         "jnet21-180229",
         "jnet21-180231",
+        "jnet21-178500",
         "prefecture-yamaguchi-864956097",
         "prefecture-yamaguchi-8456126342",
         "prefecture-yamaguchi-6894208904",
         "prefecture-yamaguchi-7691619357",
         "deep-mhlw-hub-858baa7cf497",
         "deep-fukuoka-n3-8b137ebce356",
-        "deep-leaf-fukuoka-e2626df04d57",
-        "deep-mhlw-hub-337650177938"
+        "deep-leaf-fukuoka-e2626df04d57"
       ],
       "eligibility_depth": "guidelines"
     },
@@ -383,7 +384,7 @@
         "mirasapo-13442",
         "mirasapo-12960",
         "mirasapo-12515",
-        "jnet21-187071",
+        "mirasapo-7654",
         "agency-7267385931",
         "agency-89316208",
         "agency-1047577427"
@@ -548,7 +549,6 @@
         "mirasapo-31373",
         "mirasapo-28132",
         "mirasapo-27828",
-        "jnet21-187446",
         "jnet21-181626",
         "jnet21-181374",
         "ministry-8151328513",
@@ -561,7 +561,8 @@
         "prefecture-shiga-4572710300",
         "prefecture-yamaguchi-1286965692",
         "city-kawasaki-5775260951",
-        "city-40203-1013375658"
+        "city-40203-1013375658",
+        "agency-7571966518"
       ],
       "eligibility_depth": "guidelines"
     },
@@ -580,12 +581,11 @@
         "a0WJ200000CDSBJMA5",
         "a0WJ200000CDWemMAH",
         "a0WJ200000CDWerMAH",
-        "a0WJ200000CDcfDMAT",
+        "a0WJ200000CDXgBMAX",
         "mirasapo-21731",
-        "jnet21-188839",
         "prefecture-ishikawa-4884014698",
         "city-34202-568167947",
-        "a0WJ200000CDXgBMAX",
+        "a0WJ200000CDcfDMAT",
         "national-canonical:meti-seicho-toshi",
         "deep-c3be8b97fb6c"
       ],
@@ -757,10 +757,10 @@
         "a0WJ200000CDZBWMA5",
         "a0WJ200000CDckfMAD",
         "a0WJ200000CDbPkMAL",
+        "a0WJ200000CDdr3MAD",
         "a0WJ200000CDYtoMAH",
         "a0WJ200000CDe5zMAD",
-        "a0WJ200000CDdrNMAT",
-        "a0WJ200000CDdrXMAT"
+        "a0WJ200000CDdrNMAT"
       ],
       "eligibility_depth": "page_detail"
     },
@@ -782,7 +782,6 @@
         "prefecture-niigata-412577219",
         "prefecture-niigata-7632204276",
         "prefecture-shimane-3865850257",
-        "prefecture-ehime-4753181123",
         "prefecture-ehime-6012566172",
         "prefecture-ehime-1312264139",
         "city-hiroshima-city-8941208324",
@@ -790,12 +789,13 @@
         "city-hiroshima-city-2174596182",
         "city-hiroshima-city-4476910204",
         "city-hiroshima-city-8524482365",
-        "city-07204-6421332655",
-        "city-07204-8912151510",
         "city-29201-9292848362",
         "city-29201-2261918090",
         "city-29201-1814731556",
-        "city-29201-7765551725"
+        "city-29201-7765551725",
+        "city-29201-2849328734",
+        "city-29201-1568576829",
+        "city-29201-9122281377"
       ],
       "eligibility_depth": "page_detail"
     },
@@ -811,6 +811,7 @@
       "acceptance_note_ja": null,
       "in_active_feed": true,
       "matched_item_ids": [
+        "prefecture-toyama-7757841609",
         "prefecture-nagasaki-6527989091",
         "prefecture-oita-4628963541",
         "prefecture-oita-7726312361",
@@ -829,8 +830,7 @@
         "city-15227-8706630241",
         "city-46219-5636998541",
         "city-46527-6045771762",
-        "city-06382-7441758811",
-        "city-06382-6167655171"
+        "city-06382-7441758811"
       ],
       "eligibility_depth": "page_detail"
     },
@@ -846,6 +846,7 @@
       "acceptance_note_ja": null,
       "in_active_feed": true,
       "matched_item_ids": [
+        "prefecture-toyama-7757841609",
         "prefecture-nagasaki-6527989091",
         "prefecture-oita-4628963541",
         "prefecture-oita-7726312361",
@@ -864,8 +865,7 @@
         "city-15227-8706630241",
         "city-46219-5636998541",
         "city-46527-6045771762",
-        "city-06382-7441758811",
-        "city-06382-6167655171"
+        "city-06382-7441758811"
       ],
       "eligibility_depth": "page_detail"
     },
@@ -881,6 +881,7 @@
       "acceptance_note_ja": null,
       "in_active_feed": true,
       "matched_item_ids": [
+        "prefecture-toyama-7757841609",
         "prefecture-nagasaki-6527989091",
         "prefecture-oita-4628963541",
         "prefecture-oita-7726312361",
@@ -899,8 +900,7 @@
         "city-15227-8706630241",
         "city-46219-5636998541",
         "city-46527-6045771762",
-        "city-06382-7441758811",
-        "city-06382-6167655171"
+        "city-06382-7441758811"
       ],
       "eligibility_depth": "page_detail"
     },
@@ -1085,6 +1085,7 @@
       "acceptance_note_ja": null,
       "in_active_feed": true,
       "matched_item_ids": [
+        "prefecture-toyama-7757841609",
         "prefecture-nagasaki-6527989091",
         "prefecture-oita-4628963541",
         "prefecture-oita-7726312361",
@@ -1103,8 +1104,7 @@
         "city-15227-8706630241",
         "city-46219-5636998541",
         "city-46527-6045771762",
-        "city-06382-7441758811",
-        "city-06382-6167655171"
+        "city-06382-7441758811"
       ],
       "eligibility_depth": "page_detail"
     },
