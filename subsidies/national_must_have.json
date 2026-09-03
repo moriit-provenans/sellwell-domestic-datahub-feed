@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "as_of": "2026-09-02",
+  "as_of": "2026-09-03",
   "catalog_total": 40,
   "present": 40,
   "missing": 0,
@@ -42,6 +42,7 @@
       "in_active_feed": true,
       "matched_item_ids": [
         "a0WJ200000CDTjnMAH",
+        "jnet21-188093",
         "jnet21-184636",
         "jnet21-184186",
         "jnet21-181927",
@@ -57,10 +58,9 @@
         "jnet21-179463",
         "ministry-4553840892",
         "ministry-1706685799",
+        "prefecture-toyama-5045250204",
         "prefecture-oita-6130031718",
-        "city-fukuoka-city-6546111542",
-        "city-fukuoka-city-6996405908",
-        "ministry-2357098813"
+        "city-fukuoka-city-6546111542"
       ],
       "eligibility_depth": "guidelines"
     },
@@ -125,6 +125,7 @@
         "a0WJ200000CDe6OMAT",
         "jnet21-188597",
         "ministry-7783705607",
+        "prefecture-ishikawa-5675215514",
         "prefecture-fukui-1802748802",
         "prefecture-fukui-2740315973",
         "prefecture-fukui-7233805550",
@@ -139,8 +140,7 @@
         "deep-sendai-9764b378db84",
         "deep-niigata-city-c-aa56ef091e6b",
         "city-12236-4983198711",
-        "city-23220-4321552710",
-        "city-24216-9520100918"
+        "city-23220-4321552710"
       ],
       "eligibility_depth": "guidelines"
     },
@@ -549,6 +549,7 @@
         "mirasapo-31373",
         "mirasapo-28132",
         "mirasapo-27828",
+        "jnet21-187446",
         "jnet21-181626",
         "jnet21-181374",
         "ministry-8151328513",
@@ -561,8 +562,7 @@
         "prefecture-shiga-4572710300",
         "prefecture-yamaguchi-1286965692",
         "city-kawasaki-5775260951",
-        "city-40203-1013375658",
-        "agency-7571966518"
+        "city-40203-1013375658"
       ],
       "eligibility_depth": "guidelines"
     },
@@ -612,17 +612,17 @@
         "ministry-9720163135",
         "ministry-3748473312",
         "ministry-1776433262",
+        "ministry-4320739309",
         "ministry-492442833",
         "ministry-8363091279",
         "agency-2866728145",
         "agency-7110785917",
+        "agency-969119345",
         "agency-4536533766",
         "agency-7634766398",
+        "agency-304947064",
         "agency-8494045679",
-        "agency-3378259911",
-        "agency-2664481718",
-        "agency-8305282934",
-        "prefecture-aichi-8525146100"
+        "agency-3378259911"
       ],
       "eligibility_depth": "guidelines"
     },
@@ -1152,6 +1152,7 @@
       "acceptance_note_ja": null,
       "in_active_feed": true,
       "matched_item_ids": [
+        "prefecture-ishikawa-5675215514",
         "city-45202-1914789247",
         "national-canonical:mhlw-hub"
       ],
