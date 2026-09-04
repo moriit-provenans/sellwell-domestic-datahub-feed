@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "as_of": "2026-09-03",
+  "as_of": "2026-09-04",
   "catalog_total": 40,
   "present": 40,
   "missing": 0,
@@ -58,9 +58,9 @@
         "jnet21-179463",
         "ministry-4553840892",
         "ministry-1706685799",
-        "prefecture-toyama-5045250204",
         "prefecture-oita-6130031718",
-        "city-fukuoka-city-6546111542"
+        "city-fukuoka-city-6546111542",
+        "city-fukuoka-city-6996405908"
       ],
       "eligibility_depth": "guidelines"
     },
@@ -285,14 +285,14 @@
         "jnet21-180228",
         "jnet21-180229",
         "jnet21-180231",
-        "jnet21-178500",
         "prefecture-yamaguchi-864956097",
         "prefecture-yamaguchi-8456126342",
         "prefecture-yamaguchi-6894208904",
         "prefecture-yamaguchi-7691619357",
         "deep-mhlw-hub-858baa7cf497",
         "deep-fukuoka-n3-8b137ebce356",
-        "deep-leaf-fukuoka-e2626df04d57"
+        "deep-leaf-fukuoka-e2626df04d57",
+        "deep-mhlw-hub-337650177938"
       ],
       "eligibility_depth": "guidelines"
     },
@@ -384,10 +384,10 @@
         "mirasapo-13442",
         "mirasapo-12960",
         "mirasapo-12515",
-        "mirasapo-7654",
         "agency-7267385931",
         "agency-89316208",
-        "agency-1047577427"
+        "agency-1047577427",
+        "agency-4118630351"
       ],
       "eligibility_depth": "guidelines"
     },
@@ -604,6 +604,7 @@
       "in_active_feed": true,
       "matched_item_ids": [
         "mirasapo-619",
+        "mirasapo-33237",
         "mirasapo-32666",
         "mirasapo-32651",
         "mirasapo-32009",
@@ -621,8 +622,7 @@
         "agency-4536533766",
         "agency-7634766398",
         "agency-304947064",
-        "agency-8494045679",
-        "agency-3378259911"
+        "agency-8494045679"
       ],
       "eligibility_depth": "guidelines"
     },
@@ -956,6 +956,7 @@
         "mirasapo-624",
         "mirasapo-621",
         "mirasapo-619",
+        "mirasapo-33237",
         "mirasapo-32507",
         "mirasapo-30818",
         "mirasapo-32495",
@@ -966,8 +967,7 @@
         "mirasapo-31612",
         "mirasapo-33372",
         "mirasapo-33311",
-        "mirasapo-32666",
-        "mirasapo-32651"
+        "mirasapo-32666"
       ],
       "eligibility_depth": "page_detail"
     },
