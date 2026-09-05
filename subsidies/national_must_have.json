@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "as_of": "2026-09-04",
+  "as_of": "2026-09-05",
   "catalog_total": 40,
   "present": 40,
   "missing": 0,
@@ -94,7 +94,7 @@
         "jnet21-180439",
         "jnet21-180192",
         "jnet21-180193",
-        "ministry-6617991575",
+        "ministry-1640201385",
         "ministry-7277951652",
         "city-sendai-6186366144",
         "city-27227-1198142935",
@@ -122,11 +122,10 @@
       "in_active_feed": true,
       "matched_item_ids": [
         "a0WJ200000CDIvFMAX",
-        "a0WJ200000CDe6OMAT",
+        "a0WJ200000CDe6QMAT",
         "jnet21-191231",
         "jnet21-188597",
         "ministry-7783705607",
-        "ministry-8599430294",
         "prefecture-ishikawa-5675215514",
         "prefecture-fukui-1802748802",
         "prefecture-fukui-2740315973",
@@ -140,7 +139,8 @@
         "deep-mhlw-hub-2252a2aacdcd",
         "prefecture-oita-w3-7451199211",
         "deep-sendai-9764b378db84",
-        "deep-niigata-city-c-aa56ef091e6b"
+        "deep-niigata-city-c-aa56ef091e6b",
+        "city-12236-4983198711"
       ],
       "eligibility_depth": "guidelines"
     },
@@ -285,14 +285,14 @@
         "jnet21-180228",
         "jnet21-180229",
         "jnet21-180231",
-        "ministry-7691619357",
         "prefecture-yamaguchi-864956097",
         "prefecture-yamaguchi-8456126342",
         "prefecture-yamaguchi-6894208904",
         "prefecture-yamaguchi-7691619357",
         "deep-mhlw-hub-858baa7cf497",
         "deep-fukuoka-n3-8b137ebce356",
-        "deep-leaf-fukuoka-e2626df04d57"
+        "deep-leaf-fukuoka-e2626df04d57",
+        "deep-mhlw-hub-337650177938"
       ],
       "eligibility_depth": "guidelines"
     },
@@ -447,6 +447,7 @@
         "mirasapo-29100",
         "mirasapo-29009",
         "mirasapo-27338",
+        "ministry-9720163135",
         "ministry-8635080528",
         "ministry-6102020679",
         "ministry-8919585182",
@@ -456,8 +457,7 @@
         "ministry-6889536517",
         "ministry-1081318621",
         "agency-6123280331",
-        "agency-4901475169",
-        "agency-9450062681"
+        "agency-4901475169"
       ],
       "eligibility_depth": "guidelines"
     },
@@ -520,14 +520,14 @@
         "mirasapo-29416",
         "mirasapo-29139",
         "mirasapo-28394",
+        "ministry-9720163135",
         "ministry-403464379",
         "ministry-6892143745",
         "ministry-2283468841",
         "ministry-7681783568",
         "ministry-2436333422",
         "ministry-5205072625",
-        "ministry-2919927015",
-        "ministry-2104326399"
+        "ministry-2919927015"
       ],
       "eligibility_depth": "guidelines"
     },
@@ -610,12 +610,12 @@
         "mirasapo-32009",
         "mirasapo-31537",
         "jnet21-181240",
+        "ministry-9720163135",
         "ministry-3748473312",
         "ministry-1776433262",
         "ministry-4320739309",
         "ministry-492442833",
         "ministry-8363091279",
-        "ministry-3225561440",
         "agency-1546481849",
         "agency-2866728145",
         "agency-7110785917",
