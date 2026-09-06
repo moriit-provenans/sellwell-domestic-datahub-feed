@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "as_of": "2026-09-05",
+  "as_of": "2026-09-06",
   "catalog_total": 40,
   "present": 40,
   "missing": 0,
@@ -559,10 +559,10 @@
         "ministry-5311170392",
         "agency-3938048028",
         "agency-4114288129",
-        "prefecture-shiga-4572710300",
+        "prefecture-shiga-5744429159",
+        "prefecture-shiga-3167943384",
         "prefecture-yamaguchi-1286965692",
-        "city-kawasaki-5775260951",
-        "city-40203-1013375658"
+        "city-kawasaki-5775260951"
       ],
       "eligibility_depth": "guidelines"
     },
