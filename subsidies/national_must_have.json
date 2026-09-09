@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "as_of": "2026-09-08",
+  "as_of": "2026-09-09",
   "catalog_total": 40,
   "present": 40,
   "missing": 0,
@@ -122,7 +122,8 @@
       "in_active_feed": true,
       "matched_item_ids": [
         "a0WJ200000CDIvFMAX",
-        "a0WJ200000CDe6UMAT",
+        "a0WJ200000CDdulMAD",
+        "a0WJ200000CDe6OMAT",
         "jnet21-191231",
         "jnet21-188597",
         "ministry-7783705607",
@@ -139,8 +140,7 @@
         "deep-mhlw-hub-2252a2aacdcd",
         "prefecture-oita-w3-7451199211",
         "deep-sendai-9764b378db84",
-        "deep-niigata-city-c-aa56ef091e6b",
-        "city-12236-4983198711"
+        "deep-niigata-city-c-aa56ef091e6b"
       ],
       "eligibility_depth": "guidelines"
     },
@@ -644,13 +644,13 @@
         "a0WJ200000CDXUTMA5",
         "a0WJ200000CDXUSMA5",
         "a0WJ200000CDXURMA5",
-        "a0WJ200000CDapgMAD",
+        "a0WJ200000CDapkMAD",
         "a0WJ200000CDapmMAD",
         "a0WJ200000CDaplMAD",
-        "a0WJ200000CDapkMAD",
         "a0WJ200000CDapjMAD",
         "a0WJ200000CDapiMAD",
         "a0WJ200000CDaphMAD",
+        "a0WJ200000CDapgMAD",
         "mirasapo-29772",
         "mirasapo-33686",
         "mirasapo-29729",
