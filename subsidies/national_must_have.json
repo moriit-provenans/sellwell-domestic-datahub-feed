@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "as_of": "2026-09-09",
+  "as_of": "2026-09-10",
   "catalog_total": 40,
   "present": 40,
   "missing": 0,
@@ -55,12 +55,12 @@
         "jnet21-180204",
         "jnet21-180205",
         "jnet21-180206",
-        "jnet21-179463",
         "ministry-4553840892",
         "ministry-1706685799",
         "prefecture-oita-6130031718",
         "city-fukuoka-city-6546111542",
-        "city-fukuoka-city-6996405908"
+        "city-fukuoka-city-6996405908",
+        "prefecture-toyama-5045250204"
       ],
       "eligibility_depth": "guidelines"
     },
@@ -122,8 +122,8 @@
       "in_active_feed": true,
       "matched_item_ids": [
         "a0WJ200000CDIvFMAX",
-        "a0WJ200000CDdulMAD",
-        "a0WJ200000CDe6OMAT",
+        "a0WJ200000CDe6bMAD",
+        "jnet21-191633",
         "jnet21-191231",
         "jnet21-188597",
         "ministry-7783705607",
@@ -457,7 +457,7 @@
         "ministry-6889536517",
         "ministry-1081318621",
         "agency-6123280331",
-        "agency-4901475169"
+        "agency-7545627559"
       ],
       "eligibility_depth": "guidelines"
     },
@@ -616,10 +616,10 @@
         "ministry-4320739309",
         "ministry-492442833",
         "ministry-8363091279",
+        "ministry-9684651920",
         "agency-1546481849",
         "agency-2866728145",
         "agency-7110785917",
-        "agency-969119345",
         "agency-4536533766",
         "agency-7634766398",
         "agency-304947064"
@@ -638,15 +638,15 @@
       "acceptance_note_ja": null,
       "in_active_feed": true,
       "matched_item_ids": [
+        "a0WJ200000CDXURMA5",
         "a0WJ200000CDXUWMA5",
         "a0WJ200000CDXUVMA5",
         "a0WJ200000CDXUUMA5",
         "a0WJ200000CDXUTMA5",
         "a0WJ200000CDXUSMA5",
-        "a0WJ200000CDXURMA5",
-        "a0WJ200000CDapkMAD",
         "a0WJ200000CDapmMAD",
         "a0WJ200000CDaplMAD",
+        "a0WJ200000CDapkMAD",
         "a0WJ200000CDapjMAD",
         "a0WJ200000CDapiMAD",
         "a0WJ200000CDaphMAD",
@@ -755,8 +755,8 @@
         "a0WJ200000CDOVOMA5",
         "a0WJ200000CDYooMAH",
         "a0WJ200000CDZBWMA5",
-        "a0WJ200000CDckfMAD",
         "a0WJ200000CDbPkMAL",
+        "a0WJ200000CDckfMAD",
         "a0WJ200000CDdr3MAD",
         "a0WJ200000CDYtoMAH",
         "a0WJ200000CDe5zMAD",
@@ -789,13 +789,13 @@
         "city-hiroshima-city-2174596182",
         "city-hiroshima-city-4476910204",
         "city-hiroshima-city-8524482365",
-        "city-23202-314906261",
         "city-29201-9292848362",
         "city-29201-2261918090",
         "city-29201-1814731556",
         "city-29201-7765551725",
         "city-29201-2849328734",
-        "city-29201-1568576829"
+        "city-29201-1568576829",
+        "city-29201-9122281377"
       ],
       "eligibility_depth": "page_detail"
     },
@@ -811,6 +811,7 @@
       "acceptance_note_ja": null,
       "in_active_feed": true,
       "matched_item_ids": [
+        "ministry-3330858856",
         "prefecture-toyama-7757841609",
         "prefecture-nagasaki-6527989091",
         "prefecture-oita-4628963541",
@@ -829,8 +830,7 @@
         "city-14204-5577483075",
         "city-15227-8706630241",
         "city-46219-5636998541",
-        "city-46527-6045771762",
-        "city-06382-7441758811"
+        "city-46527-6045771762"
       ],
       "eligibility_depth": "page_detail"
     },
@@ -846,6 +846,7 @@
       "acceptance_note_ja": null,
       "in_active_feed": true,
       "matched_item_ids": [
+        "ministry-3330858856",
         "prefecture-toyama-7757841609",
         "prefecture-nagasaki-6527989091",
         "prefecture-oita-4628963541",
@@ -864,8 +865,7 @@
         "city-14204-5577483075",
         "city-15227-8706630241",
         "city-46219-5636998541",
-        "city-46527-6045771762",
-        "city-06382-7441758811"
+        "city-46527-6045771762"
       ],
       "eligibility_depth": "page_detail"
     },
@@ -881,6 +881,7 @@
       "acceptance_note_ja": null,
       "in_active_feed": true,
       "matched_item_ids": [
+        "ministry-3330858856",
         "prefecture-toyama-7757841609",
         "prefecture-nagasaki-6527989091",
         "prefecture-oita-4628963541",
@@ -899,8 +900,7 @@
         "city-14204-5577483075",
         "city-15227-8706630241",
         "city-46219-5636998541",
-        "city-46527-6045771762",
-        "city-06382-7441758811"
+        "city-46527-6045771762"
       ],
       "eligibility_depth": "page_detail"
     },
@@ -1085,6 +1085,7 @@
       "acceptance_note_ja": null,
       "in_active_feed": true,
       "matched_item_ids": [
+        "ministry-3330858856",
         "prefecture-toyama-7757841609",
         "prefecture-nagasaki-6527989091",
         "prefecture-oita-4628963541",
@@ -1103,8 +1104,7 @@
         "city-14204-5577483075",
         "city-15227-8706630241",
         "city-46219-5636998541",
-        "city-46527-6045771762",
-        "city-06382-7441758811"
+        "city-46527-6045771762"
       ],
       "eligibility_depth": "page_detail"
     },
@@ -1152,6 +1152,7 @@
       "acceptance_note_ja": null,
       "in_active_feed": true,
       "matched_item_ids": [
+        "prefecture-ishikawa-1734846944",
         "prefecture-ishikawa-5675215514",
         "city-45202-1914789247",
         "national-canonical:mhlw-hub"
