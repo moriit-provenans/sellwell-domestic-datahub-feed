@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "as_of": "2026-09-10",
+  "as_of": "2026-09-11",
   "catalog_total": 40,
   "present": 40,
   "missing": 0,
@@ -254,6 +254,7 @@
         "ministry-764844260",
         "agency-3669330523",
         "city-27230-7177271317",
+        "city-31201-8096246717",
         "city-27230-6973552160",
         "city-33202-7598575280",
         "city-12236-9888097693",
@@ -559,10 +560,10 @@
         "ministry-5311170392",
         "agency-3938048028",
         "agency-4114288129",
+        "prefecture-ishikawa-1611243649",
         "prefecture-shiga-5744429159",
         "prefecture-shiga-3167943384",
-        "prefecture-yamaguchi-1286965692",
-        "city-kawasaki-5775260951"
+        "prefecture-yamaguchi-1286965692"
       ],
       "eligibility_depth": "guidelines"
     },
@@ -638,19 +639,19 @@
       "acceptance_note_ja": null,
       "in_active_feed": true,
       "matched_item_ids": [
-        "a0WJ200000CDXURMA5",
         "a0WJ200000CDXUWMA5",
         "a0WJ200000CDXUVMA5",
         "a0WJ200000CDXUUMA5",
         "a0WJ200000CDXUTMA5",
         "a0WJ200000CDXUSMA5",
-        "a0WJ200000CDapmMAD",
-        "a0WJ200000CDaplMAD",
+        "a0WJ200000CDXURMA5",
         "a0WJ200000CDapkMAD",
         "a0WJ200000CDapjMAD",
         "a0WJ200000CDapiMAD",
         "a0WJ200000CDaphMAD",
         "a0WJ200000CDapgMAD",
+        "a0WJ200000CDapmMAD",
+        "a0WJ200000CDaplMAD",
         "mirasapo-29772",
         "mirasapo-33686",
         "mirasapo-29729",
@@ -789,13 +790,13 @@
         "city-hiroshima-city-2174596182",
         "city-hiroshima-city-4476910204",
         "city-hiroshima-city-8524482365",
+        "city-23202-2767419281",
+        "city-23202-7877270206",
         "city-29201-9292848362",
         "city-29201-2261918090",
         "city-29201-1814731556",
         "city-29201-7765551725",
-        "city-29201-2849328734",
-        "city-29201-1568576829",
-        "city-29201-9122281377"
+        "city-29201-2849328734"
       ],
       "eligibility_depth": "page_detail"
     },
