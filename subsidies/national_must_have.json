@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "as_of": "2026-09-11",
+  "as_of": "2026-09-12",
   "catalog_total": 40,
   "present": 40,
   "missing": 0,
@@ -55,12 +55,12 @@
         "jnet21-180204",
         "jnet21-180205",
         "jnet21-180206",
+        "jnet21-179463",
         "ministry-4553840892",
         "ministry-1706685799",
         "prefecture-oita-6130031718",
         "city-fukuoka-city-6546111542",
-        "city-fukuoka-city-6996405908",
-        "prefecture-toyama-5045250204"
+        "city-fukuoka-city-6996405908"
       ],
       "eligibility_depth": "guidelines"
     },
@@ -286,14 +286,14 @@
         "jnet21-180228",
         "jnet21-180229",
         "jnet21-180231",
+        "ministry-7691619357",
         "prefecture-yamaguchi-864956097",
         "prefecture-yamaguchi-8456126342",
         "prefecture-yamaguchi-6894208904",
         "prefecture-yamaguchi-7691619357",
         "deep-mhlw-hub-858baa7cf497",
         "deep-fukuoka-n3-8b137ebce356",
-        "deep-leaf-fukuoka-e2626df04d57",
-        "deep-mhlw-hub-337650177938"
+        "deep-leaf-fukuoka-e2626df04d57"
       ],
       "eligibility_depth": "guidelines"
     },
@@ -384,11 +384,11 @@
         "mirasapo-13609",
         "mirasapo-13442",
         "mirasapo-12960",
-        "mirasapo-12515",
         "agency-7267385931",
         "agency-89316208",
         "agency-1047577427",
-        "agency-4118630351"
+        "agency-4118630351",
+        "agency-430075675"
       ],
       "eligibility_depth": "guidelines"
     },
@@ -618,12 +618,12 @@
         "ministry-492442833",
         "ministry-8363091279",
         "ministry-9684651920",
+        "ministry-3225561440",
         "agency-1546481849",
         "agency-2866728145",
         "agency-7110785917",
         "agency-4536533766",
-        "agency-7634766398",
-        "agency-304947064"
+        "agency-7634766398"
       ],
       "eligibility_depth": "guidelines"
     },
@@ -639,23 +639,23 @@
       "acceptance_note_ja": null,
       "in_active_feed": true,
       "matched_item_ids": [
+        "a0WJ200000CDXUTMA5",
         "a0WJ200000CDXUWMA5",
         "a0WJ200000CDXUVMA5",
         "a0WJ200000CDXUUMA5",
-        "a0WJ200000CDXUTMA5",
         "a0WJ200000CDXUSMA5",
         "a0WJ200000CDXURMA5",
-        "a0WJ200000CDapkMAD",
-        "a0WJ200000CDapjMAD",
         "a0WJ200000CDapiMAD",
         "a0WJ200000CDaphMAD",
         "a0WJ200000CDapgMAD",
         "a0WJ200000CDapmMAD",
         "a0WJ200000CDaplMAD",
+        "a0WJ200000CDapkMAD",
+        "a0WJ200000CDapjMAD",
         "mirasapo-29772",
+        "mirasapo-33776",
         "mirasapo-33686",
         "mirasapo-29729",
-        "jnet21-191438",
         "jnet21-187994",
         "jnet21-182128",
         "jnet21-179572"
@@ -791,12 +791,12 @@
         "city-hiroshima-city-4476910204",
         "city-hiroshima-city-8524482365",
         "city-23202-2767419281",
-        "city-23202-7877270206",
         "city-29201-9292848362",
         "city-29201-2261918090",
         "city-29201-1814731556",
         "city-29201-7765551725",
-        "city-29201-2849328734"
+        "city-29201-2849328734",
+        "city-29201-1568576829"
       ],
       "eligibility_depth": "page_detail"
     },
@@ -957,6 +957,7 @@
         "mirasapo-624",
         "mirasapo-621",
         "mirasapo-619",
+        "mirasapo-33776",
         "mirasapo-33686",
         "mirasapo-33237",
         "mirasapo-32507",
@@ -967,8 +968,7 @@
         "mirasapo-33462",
         "mirasapo-15578",
         "mirasapo-31612",
-        "mirasapo-33372",
-        "mirasapo-33311"
+        "mirasapo-33372"
       ],
       "eligibility_depth": "page_detail"
     },
