@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "as_of": "2026-09-12",
+  "as_of": "2026-09-15",
   "catalog_total": 40,
   "present": 40,
   "missing": 0,
@@ -55,12 +55,12 @@
         "jnet21-180204",
         "jnet21-180205",
         "jnet21-180206",
-        "jnet21-179463",
         "ministry-4553840892",
         "ministry-1706685799",
         "prefecture-oita-6130031718",
         "city-fukuoka-city-6546111542",
-        "city-fukuoka-city-6996405908"
+        "city-fukuoka-city-6996405908",
+        "prefecture-toyama-5045250204"
       ],
       "eligibility_depth": "guidelines"
     },
@@ -458,7 +458,7 @@
         "ministry-6889536517",
         "ministry-1081318621",
         "agency-6123280331",
-        "agency-7545627559"
+        "agency-3870505406"
       ],
       "eligibility_depth": "guidelines"
     },
@@ -639,19 +639,19 @@
       "acceptance_note_ja": null,
       "in_active_feed": true,
       "matched_item_ids": [
-        "a0WJ200000CDXURMA5",
-        "a0WJ200000CDXUWMA5",
         "a0WJ200000CDXUVMA5",
+        "a0WJ200000CDXUWMA5",
         "a0WJ200000CDXUUMA5",
         "a0WJ200000CDXUTMA5",
         "a0WJ200000CDXUSMA5",
-        "a0WJ200000CDapjMAD",
-        "a0WJ200000CDapiMAD",
+        "a0WJ200000CDXURMA5",
         "a0WJ200000CDapgMAD",
-        "a0WJ200000CDaphMAD",
         "a0WJ200000CDapmMAD",
         "a0WJ200000CDaplMAD",
         "a0WJ200000CDapkMAD",
+        "a0WJ200000CDapjMAD",
+        "a0WJ200000CDapiMAD",
+        "a0WJ200000CDaphMAD",
         "mirasapo-29772",
         "mirasapo-33776",
         "mirasapo-33686",
@@ -759,9 +759,9 @@
         "a0WJ200000CDbPkMAL",
         "a0WJ200000CDckfMAD",
         "a0WJ200000CDdr3MAD",
-        "a0WJ200000CDYtoMAH",
         "a0WJ200000CDe5zMAD",
-        "a0WJ200000CDdrNMAT"
+        "a0WJ200000CDdrNMAT",
+        "a0WJ200000CDdrXMAT"
       ],
       "eligibility_depth": "page_detail"
     },
@@ -790,13 +790,13 @@
         "city-hiroshima-city-2174596182",
         "city-hiroshima-city-4476910204",
         "city-hiroshima-city-8524482365",
-        "city-23202-2767419281",
         "city-29201-9292848362",
         "city-29201-2261918090",
         "city-29201-1814731556",
         "city-29201-7765551725",
         "city-29201-2849328734",
-        "city-29201-1568576829"
+        "city-29201-1568576829",
+        "city-29201-9122281377"
       ],
       "eligibility_depth": "page_detail"
     },
