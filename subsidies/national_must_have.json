@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "as_of": "2026-09-17",
+  "as_of": "2026-09-18",
   "catalog_total": 40,
   "present": 40,
   "missing": 0,
@@ -163,6 +163,7 @@
         "jnet21-180332",
         "jnet21-180335",
         "ministry-3342538231",
+        "ministry-2235326602",
         "prefecture-oita-3201794868",
         "city-11222-563668327",
         "deep-oita-n1-84e244902087",
@@ -457,8 +458,8 @@
         "ministry-9718418045",
         "ministry-6889536517",
         "ministry-1081318621",
-        "agency-6123280331",
-        "agency-3870505406"
+        "agency-3870505406",
+        "agency-7545627559"
       ],
       "eligibility_depth": "guidelines"
     },
@@ -782,6 +783,11 @@
         "prefecture-niigata-5188787677",
         "prefecture-niigata-412577219",
         "prefecture-niigata-7632204276",
+        "prefecture-fukushima-2261482356",
+        "prefecture-fukushima-7859457780",
+        "prefecture-gunma-4342159714",
+        "prefecture-gunma-2682157053",
+        "prefecture-gunma-9869749141",
         "prefecture-shimane-3865850257",
         "prefecture-ehime-6012566172",
         "prefecture-ehime-1312264139",
@@ -791,12 +797,7 @@
         "city-hiroshima-city-4476910204",
         "city-hiroshima-city-8524482365",
         "city-29201-9292848362",
-        "city-29201-2261918090",
-        "city-29201-1814731556",
-        "city-29201-7765551725",
-        "city-29201-2849328734",
-        "city-29201-1568576829",
-        "city-29201-9122281377"
+        "city-29201-2261918090"
       ],
       "eligibility_depth": "page_detail"
     },
