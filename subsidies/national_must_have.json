@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "as_of": "2026-09-19",
+  "as_of": "2026-09-21",
   "catalog_total": 40,
   "present": 40,
   "missing": 0,
@@ -94,7 +94,7 @@
         "jnet21-180439",
         "jnet21-180192",
         "jnet21-180193",
-        "ministry-6617991575",
+        "ministry-1640201385",
         "ministry-7277951652",
         "city-sendai-6186366144",
         "city-27227-1198142935",
@@ -127,7 +127,6 @@
         "jnet21-191231",
         "jnet21-188597",
         "ministry-7783705607",
-        "ministry-8599430294",
         "prefecture-ishikawa-5675215514",
         "prefecture-fukui-1802748802",
         "prefecture-fukui-2740315973",
@@ -140,7 +139,8 @@
         "deep-fukui-97b2f82b2449",
         "deep-mhlw-hub-2252a2aacdcd",
         "prefecture-oita-w3-7451199211",
-        "deep-sendai-9764b378db84"
+        "deep-sendai-9764b378db84",
+        "deep-niigata-city-c-aa56ef091e6b"
       ],
       "eligibility_depth": "guidelines"
     },
@@ -286,14 +286,14 @@
         "jnet21-180228",
         "jnet21-180229",
         "jnet21-180231",
-        "ministry-7691619357",
         "prefecture-yamaguchi-864956097",
         "prefecture-yamaguchi-8456126342",
         "prefecture-yamaguchi-6894208904",
         "prefecture-yamaguchi-7691619357",
         "deep-mhlw-hub-858baa7cf497",
         "deep-fukuoka-n3-8b137ebce356",
-        "deep-leaf-fukuoka-e2626df04d57"
+        "deep-leaf-fukuoka-e2626df04d57",
+        "deep-mhlw-hub-337650177938"
       ],
       "eligibility_depth": "guidelines"
     },
@@ -448,6 +448,7 @@
         "mirasapo-29100",
         "mirasapo-29009",
         "mirasapo-27338",
+        "ministry-9720163135",
         "ministry-8635080528",
         "ministry-6102020679",
         "ministry-8919585182",
@@ -457,8 +458,7 @@
         "ministry-6889536517",
         "ministry-1081318621",
         "agency-3870505406",
-        "agency-7545627559",
-        "agency-4901475169"
+        "agency-7545627559"
       ],
       "eligibility_depth": "guidelines"
     },
@@ -521,14 +521,14 @@
         "mirasapo-29416",
         "mirasapo-29139",
         "mirasapo-28394",
+        "ministry-9720163135",
         "ministry-403464379",
         "ministry-6892143745",
         "ministry-2283468841",
         "ministry-7681783568",
         "ministry-2436333422",
         "ministry-5205072625",
-        "ministry-2919927015",
-        "ministry-2104326399"
+        "ministry-2919927015"
       ],
       "eligibility_depth": "guidelines"
     },
@@ -611,6 +611,7 @@
         "mirasapo-32009",
         "mirasapo-31537",
         "jnet21-181240",
+        "ministry-9720163135",
         "ministry-3748473312",
         "ministry-1776433262",
         "ministry-4320739309",
@@ -622,8 +623,7 @@
         "agency-7110785917",
         "agency-6589128729",
         "agency-4536533766",
-        "agency-7634766398",
-        "agency-304947064"
+        "agency-7634766398"
       ],
       "eligibility_depth": "guidelines"
     },
@@ -785,7 +785,6 @@
         "prefecture-gunma-4342159714",
         "prefecture-gunma-2682157053",
         "prefecture-gunma-9869749141",
-        "prefecture-shimane-3865850257",
         "prefecture-ehime-6012566172",
         "prefecture-ehime-1312264139",
         "city-hiroshima-city-8941208324",
@@ -796,7 +795,8 @@
         "city-28201-7473101204",
         "city-29201-9292848362",
         "city-29201-2261918090",
-        "city-29201-1814731556"
+        "city-29201-1814731556",
+        "city-29201-7765551725"
       ],
       "eligibility_depth": "page_detail"
     },
