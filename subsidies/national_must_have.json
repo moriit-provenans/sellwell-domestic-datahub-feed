@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "as_of": "2026-09-21",
+  "as_of": "2026-09-22",
   "catalog_total": 40,
   "present": 40,
   "missing": 0,
@@ -645,10 +645,10 @@
         "a0WJ200000CDXUTMA5",
         "a0WJ200000CDXUSMA5",
         "a0WJ200000CDXURMA5",
+        "a0WJ200000CDapjMAD",
         "a0WJ200000CDapmMAD",
         "a0WJ200000CDaplMAD",
         "a0WJ200000CDapkMAD",
-        "a0WJ200000CDapjMAD",
         "a0WJ200000CDapiMAD",
         "a0WJ200000CDaphMAD",
         "a0WJ200000CDapgMAD",
@@ -785,6 +785,7 @@
         "prefecture-gunma-4342159714",
         "prefecture-gunma-2682157053",
         "prefecture-gunma-9869749141",
+        "prefecture-shimane-3865850257",
         "prefecture-ehime-6012566172",
         "prefecture-ehime-1312264139",
         "city-hiroshima-city-8941208324",
@@ -795,8 +796,7 @@
         "city-28201-7473101204",
         "city-29201-9292848362",
         "city-29201-2261918090",
-        "city-29201-1814731556",
-        "city-29201-7765551725"
+        "city-29201-1814731556"
       ],
       "eligibility_depth": "page_detail"
     },
