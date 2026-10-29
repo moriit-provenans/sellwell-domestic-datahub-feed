@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "metric_id": "jp.tankan.employment_di",
   "title_ja": "短観・雇用人員DI",
-  "last_updated": "2026-09-23",
+  "last_updated": "2026-10-29",
   "source": "BOJ 短観",
   "observations": [
     {
       "as_of_date": "2026-03-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-09-23",
+      "retrieved_at": "2026-10-29",
       "veritas": "✅",
       "metric_id": "jp.tankan.employment_di",
       "industry_slug": "manufacturing-total",
@@ -24,7 +24,7 @@
     {
       "as_of_date": "2026-06-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-09-23",
+      "retrieved_at": "2026-10-29",
       "veritas": "✅",
       "metric_id": "jp.tankan.employment_di",
       "industry_slug": "manufacturing-total",
@@ -38,9 +38,25 @@
       "note": "W2-2/W1-5代替: 産業細分化は概要では粗い（製造/非製造）"
     },
     {
+      "as_of_date": "2026-09-01",
+      "still_valid_2026": true,
+      "retrieved_at": "2026-10-29",
+      "veritas": "✅",
+      "metric_id": "jp.tankan.employment_di",
+      "industry_slug": "manufacturing-total",
+      "industry_name_ja": "製造業",
+      "period": "2026-09",
+      "period_type": "quarterly",
+      "value": -43.0,
+      "unit": "di_pp_excess_minus_shortage",
+      "source": "BOJ 短観（概要）雇用人員判断DI",
+      "source_ref": "https://www.boj.or.jp/statistics/tk/gaiyo/2026/tka2609.zip",
+      "note": "W2-2/W1-5代替: 産業細分化は概要では粗い（製造/非製造）"
+    },
+    {
       "as_of_date": "2026-03-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-09-23",
+      "retrieved_at": "2026-10-29",
       "veritas": "✅",
       "metric_id": "jp.tankan.employment_di",
       "industry_slug": "national",
@@ -56,7 +72,7 @@
     {
       "as_of_date": "2026-06-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-09-23",
+      "retrieved_at": "2026-10-29",
       "veritas": "✅",
       "metric_id": "jp.tankan.employment_di",
       "industry_slug": "national",
@@ -67,6 +83,22 @@
       "unit": "di_pp_excess_minus_shortage",
       "source": "BOJ 短観（概要）雇用人員判断DI",
       "source_ref": "https://www.boj.or.jp/statistics/tk/gaiyo/2026/tka2606.zip",
+      "note": "W2-2/W1-5代替: 産業細分化は概要では粗い（製造/非製造）"
+    },
+    {
+      "as_of_date": "2026-09-01",
+      "still_valid_2026": true,
+      "retrieved_at": "2026-10-29",
+      "veritas": "✅",
+      "metric_id": "jp.tankan.employment_di",
+      "industry_slug": "national",
+      "industry_name_ja": "全産業",
+      "period": "2026-09",
+      "period_type": "quarterly",
+      "value": -37.0,
+      "unit": "di_pp_excess_minus_shortage",
+      "source": "BOJ 短観（概要）雇用人員判断DI",
+      "source_ref": "https://www.boj.or.jp/statistics/tk/gaiyo/2026/tka2609.zip",
       "note": "W2-2/W1-5代替: 産業細分化は概要では粗い（製造/非製造）"
     }
   ]

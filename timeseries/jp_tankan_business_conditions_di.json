@@ -2,13 +2,13 @@
   "schema_version": "1.0.0",
   "metric_id": "jp.tankan.business_conditions_di",
   "title_ja": "短観・業況判断DI",
-  "last_updated": "2026-09-23",
+  "last_updated": "2026-10-29",
   "source": "BOJ 短観",
   "observations": [
     {
       "as_of_date": "2026-03-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-09-23",
+      "retrieved_at": "2026-10-29",
       "veritas": "✅",
       "metric_id": "jp.tankan.business_conditions_di",
       "industry_slug": "automotive-mobility",
@@ -25,7 +25,7 @@
     {
       "as_of_date": "2026-06-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-09-23",
+      "retrieved_at": "2026-10-29",
       "veritas": "✅",
       "metric_id": "jp.tankan.business_conditions_di",
       "industry_slug": "automotive-mobility",
@@ -40,9 +40,26 @@
       "note": "W2-2: 概要計表から抽出。全規模時系列は一括ZIP要"
     },
     {
+      "as_of_date": "2026-09-01",
+      "still_valid_2026": true,
+      "retrieved_at": "2026-10-29",
+      "veritas": "✅",
+      "metric_id": "jp.tankan.business_conditions_di",
+      "industry_slug": "automotive-mobility",
+      "industry_name_ja": "自動車",
+      "period": "2026-09",
+      "period_type": "quarterly",
+      "value": 11.0,
+      "unit": "di_pp",
+      "firm_size": "large",
+      "source": "BOJ 短観（概要）業況判断DI・大企業最近",
+      "source_ref": "https://www.boj.or.jp/statistics/tk/gaiyo/2026/tka2609.zip",
+      "note": "W2-2: 概要計表から抽出。全規模時系列は一括ZIP要"
+    },
+    {
       "as_of_date": "2026-03-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-09-23",
+      "retrieved_at": "2026-10-29",
       "veritas": "✅",
       "metric_id": "jp.tankan.business_conditions_di",
       "industry_slug": "consumer-goods",
@@ -59,7 +76,7 @@
     {
       "as_of_date": "2026-06-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-09-23",
+      "retrieved_at": "2026-10-29",
       "veritas": "✅",
       "metric_id": "jp.tankan.business_conditions_di",
       "industry_slug": "consumer-goods",
@@ -74,9 +91,26 @@
       "note": "W2-2: 概要計表から抽出。全規模時系列は一括ZIP要"
     },
     {
+      "as_of_date": "2026-09-01",
+      "still_valid_2026": true,
+      "retrieved_at": "2026-10-29",
+      "veritas": "✅",
+      "metric_id": "jp.tankan.business_conditions_di",
+      "industry_slug": "consumer-goods",
+      "industry_name_ja": "繊維",
+      "period": "2026-09",
+      "period_type": "quarterly",
+      "value": 13.0,
+      "unit": "di_pp",
+      "firm_size": "large",
+      "source": "BOJ 短観（概要）業況判断DI・大企業最近",
+      "source_ref": "https://www.boj.or.jp/statistics/tk/gaiyo/2026/tka2609.zip",
+      "note": "W2-2: 概要計表から抽出。全規模時系列は一括ZIP要"
+    },
+    {
       "as_of_date": "2026-03-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-09-23",
+      "retrieved_at": "2026-10-29",
       "veritas": "✅",
       "metric_id": "jp.tankan.business_conditions_di",
       "industry_slug": "electrical-equipment",
@@ -93,7 +127,7 @@
     {
       "as_of_date": "2026-06-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-09-23",
+      "retrieved_at": "2026-10-29",
       "veritas": "✅",
       "metric_id": "jp.tankan.business_conditions_di",
       "industry_slug": "electrical-equipment",
@@ -108,9 +142,26 @@
       "note": "W2-2: 概要計表から抽出。全規模時系列は一括ZIP要"
     },
     {
+      "as_of_date": "2026-09-01",
+      "still_valid_2026": true,
+      "retrieved_at": "2026-10-29",
+      "veritas": "✅",
+      "metric_id": "jp.tankan.business_conditions_di",
+      "industry_slug": "electrical-equipment",
+      "industry_name_ja": "電気機械",
+      "period": "2026-09",
+      "period_type": "quarterly",
+      "value": 33.0,
+      "unit": "di_pp",
+      "firm_size": "large",
+      "source": "BOJ 短観（概要）業況判断DI・大企業最近",
+      "source_ref": "https://www.boj.or.jp/statistics/tk/gaiyo/2026/tka2609.zip",
+      "note": "W2-2: 概要計表から抽出。全規模時系列は一括ZIP要"
+    },
+    {
       "as_of_date": "2026-03-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-09-23",
+      "retrieved_at": "2026-10-29",
       "veritas": "✅",
       "metric_id": "jp.tankan.business_conditions_di",
       "industry_slug": "food-beverage",
@@ -127,7 +178,7 @@
     {
       "as_of_date": "2026-06-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-09-23",
+      "retrieved_at": "2026-10-29",
       "veritas": "✅",
       "metric_id": "jp.tankan.business_conditions_di",
       "industry_slug": "food-beverage",
@@ -142,9 +193,26 @@
       "note": "W2-2: 概要計表から抽出。全規模時系列は一括ZIP要"
     },
     {
+      "as_of_date": "2026-09-01",
+      "still_valid_2026": true,
+      "retrieved_at": "2026-10-29",
+      "veritas": "✅",
+      "metric_id": "jp.tankan.business_conditions_di",
+      "industry_slug": "food-beverage",
+      "industry_name_ja": "食料品",
+      "period": "2026-09",
+      "period_type": "quarterly",
+      "value": 3.0,
+      "unit": "di_pp",
+      "firm_size": "large",
+      "source": "BOJ 短観（概要）業況判断DI・大企業最近",
+      "source_ref": "https://www.boj.or.jp/statistics/tk/gaiyo/2026/tka2609.zip",
+      "note": "W2-2: 概要計表から抽出。全規模時系列は一括ZIP要"
+    },
+    {
       "as_of_date": "2026-03-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-09-23",
+      "retrieved_at": "2026-10-29",
       "veritas": "✅",
       "metric_id": "jp.tankan.business_conditions_di",
       "industry_slug": "industrial-machinery",
@@ -161,7 +229,7 @@
     {
       "as_of_date": "2026-06-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-09-23",
+      "retrieved_at": "2026-10-29",
       "veritas": "✅",
       "metric_id": "jp.tankan.business_conditions_di",
       "industry_slug": "industrial-machinery",
@@ -176,9 +244,26 @@
       "note": "W2-2: 概要計表から抽出。全規模時系列は一括ZIP要"
     },
     {
+      "as_of_date": "2026-09-01",
+      "still_valid_2026": true,
+      "retrieved_at": "2026-10-29",
+      "veritas": "✅",
+      "metric_id": "jp.tankan.business_conditions_di",
+      "industry_slug": "industrial-machinery",
+      "industry_name_ja": "生産用機械",
+      "period": "2026-09",
+      "period_type": "quarterly",
+      "value": 43.0,
+      "unit": "di_pp",
+      "firm_size": "large",
+      "source": "BOJ 短観（概要）業況判断DI・大企業最近",
+      "source_ref": "https://www.boj.or.jp/statistics/tk/gaiyo/2026/tka2609.zip",
+      "note": "W2-2: 概要計表から抽出。全規模時系列は一括ZIP要"
+    },
+    {
       "as_of_date": "2026-03-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-09-23",
+      "retrieved_at": "2026-10-29",
       "veritas": "✅",
       "metric_id": "jp.tankan.business_conditions_di",
       "industry_slug": "manufacturing-total",
@@ -195,7 +280,7 @@
     {
       "as_of_date": "2026-06-01",
       "still_valid_2026": true,
-      "retrieved_at": "2026-09-23",
+      "retrieved_at": "2026-10-29",
       "veritas": "✅",
       "metric_id": "jp.tankan.business_conditions_di",
       "industry_slug": "manufacturing-total",
@@ -207,6 +292,23 @@
       "firm_size": "large",
       "source": "BOJ 短観（概要）業況判断DI・大企業最近",
       "source_ref": "https://www.boj.or.jp/statistics/tk/gaiyo/2026/tka2606.zip",
+      "note": "W2-2: 概要計表から抽出。全規模時系列は一括ZIP要"
+    },
+    {
+      "as_of_date": "2026-09-01",
+      "still_valid_2026": true,
+      "retrieved_at": "2026-10-29",
+      "veritas": "✅",
+      "metric_id": "jp.tankan.business_conditions_di",
+      "industry_slug": "manufacturing-total",
+      "industry_name_ja": "非製造業",
+      "period": "2026-09",
+      "period_type": "quarterly",
+      "value": 20.0,
+      "unit": "di_pp",
+      "firm_size": "large",
+      "source": "BOJ 短観（概要）業況判断DI・大企業最近",
+      "source_ref": "https://www.boj.or.jp/statistics/tk/gaiyo/2026/tka2609.zip",
       "note": "W2-2: 概要計表から抽出。全規模時系列は一括ZIP要"
     }
   ]
