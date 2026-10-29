@@ -2,7 +2,7 @@
  "ok": true,
  "available": true,
  "workflow": "hojin_large_retail",
- "retrieved_at": "2026-10-29T14:47:38+09:00",
+ "retrieved_at": "2026-10-29T14:56:28+09:00",
  "records": 208,
  "matched": 32,
  "unmatched": 176,
@@ -34,5 +34,5 @@
   "神戸市"
  ],
  "not_collected_ja": "愛知県の旧トップURLは無限リダイレクトのため使わない（年次の法第5条は収録）。神奈川県域の県ページは四半期PDFのみ。横浜市HTMLは収録。政令市のうち川崎・相模原・名古屋・さいたま・千葉市は未収録。経産省全国一括は令和5年度末で終了。47は取らない",
- "gz_bytes": 11422
+ "gz_bytes": 11421
 }
