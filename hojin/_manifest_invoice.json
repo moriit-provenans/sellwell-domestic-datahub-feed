@@ -1,442 +1,416 @@
 {
  "schema": "hojin_invoice_manifest_v1",
- "retrieved_at": "2026-08-25T07:54:42+09:00",
+ "retrieved_at": "2026-10-29T14:47:59+09:00",
  "available_on_nta": [
-  "2026-06-26",
-  "2026-06-29",
-  "2026-06-30",
-  "2026-07-01",
-  "2026-07-02",
-  "2026-07-03",
-  "2026-07-06",
-  "2026-07-07",
-  "2026-07-08",
-  "2026-07-09",
-  "2026-07-10",
-  "2026-07-13",
-  "2026-07-14",
-  "2026-07-15",
-  "2026-07-16",
-  "2026-07-17",
-  "2026-07-21",
-  "2026-07-22",
-  "2026-07-23",
-  "2026-07-24",
-  "2026-07-27",
-  "2026-07-28",
-  "2026-07-29",
-  "2026-07-30",
-  "2026-07-31",
-  "2026-08-03",
-  "2026-08-04",
-  "2026-08-05",
-  "2026-08-06",
-  "2026-08-07",
-  "2026-08-10",
-  "2026-08-12",
-  "2026-08-13",
-  "2026-08-14",
-  "2026-08-17",
-  "2026-08-18",
-  "2026-08-19",
-  "2026-08-20",
   "2026-08-21",
-  "2026-08-24"
+  "2026-08-24",
+  "2026-08-25",
+  "2026-08-26",
+  "2026-08-27",
+  "2026-08-28",
+  "2026-08-31",
+  "2026-09-01",
+  "2026-09-02",
+  "2026-09-03",
+  "2026-09-04",
+  "2026-09-07",
+  "2026-09-08",
+  "2026-09-09",
+  "2026-09-10",
+  "2026-09-11",
+  "2026-09-24",
+  "2026-09-25",
+  "2026-09-28",
+  "2026-09-29",
+  "2026-09-30",
+  "2026-10-01",
+  "2026-10-02",
+  "2026-10-05",
+  "2026-10-06",
+  "2026-10-07",
+  "2026-10-08",
+  "2026-10-09",
+  "2026-10-13",
+  "2026-10-14",
+  "2026-10-15",
+  "2026-10-16",
+  "2026-10-19",
+  "2026-10-20",
+  "2026-10-21",
+  "2026-10-22",
+  "2026-10-23",
+  "2026-10-26",
+  "2026-10-27",
+  "2026-10-28"
  ],
  "ingested": [
-  "2026-07-10",
-  "2026-07-13",
-  "2026-07-14",
-  "2026-07-15",
-  "2026-07-16",
-  "2026-07-17",
-  "2026-07-21",
-  "2026-07-22",
-  "2026-07-23",
-  "2026-07-24",
-  "2026-07-27",
-  "2026-07-28",
-  "2026-07-29",
-  "2026-07-30",
-  "2026-07-31",
-  "2026-08-03",
-  "2026-08-04",
-  "2026-08-05",
-  "2026-08-06",
-  "2026-08-07",
-  "2026-08-10",
-  "2026-08-12",
-  "2026-08-13",
-  "2026-08-14",
-  "2026-08-17",
-  "2026-08-18",
-  "2026-08-19",
-  "2026-08-20",
-  "2026-08-21",
-  "2026-08-24"
+  "2026-09-04",
+  "2026-09-07",
+  "2026-09-08",
+  "2026-09-09",
+  "2026-09-10",
+  "2026-09-11",
+  "2026-09-24",
+  "2026-09-25",
+  "2026-09-28",
+  "2026-09-29",
+  "2026-09-30",
+  "2026-10-01",
+  "2026-10-02",
+  "2026-10-05",
+  "2026-10-06",
+  "2026-10-07",
+  "2026-10-08",
+  "2026-10-09",
+  "2026-10-13",
+  "2026-10-14",
+  "2026-10-15",
+  "2026-10-16",
+  "2026-10-19",
+  "2026-10-20",
+  "2026-10-21",
+  "2026-10-22",
+  "2026-10-23",
+  "2026-10-26",
+  "2026-10-27",
+  "2026-10-28"
  ],
  "missing_requested": [],
  "day_counts": {
-  "2026-07-10": {
-   "records": 115,
+  "2026-09-04": {
+   "records": 1562,
    "by_event": {
-    "invoice_changed": 83,
-    "invoice_registered": 1,
-    "invoice_expired": 31
+    "invoice_changed": 517,
+    "invoice_cancelled": 17,
+    "invoice_expired": 595,
+    "invoice_registered": 433
    },
-   "corrections": 83,
-   "skipped_person": 131,
+   "corrections": 517,
+   "skipped_person": 1425,
    "skipped_bad": 0
   },
-  "2026-07-13": {
-   "records": 901,
+  "2026-09-07": {
+   "records": 1269,
    "by_event": {
-    "invoice_registered": 727,
-    "invoice_changed": 173,
+    "invoice_changed": 826,
+    "invoice_registered": 394,
+    "invoice_expired": 46,
+    "invoice_cancelled": 3
+   },
+   "corrections": 826,
+   "skipped_person": 1413,
+   "skipped_bad": 0
+  },
+  "2026-09-08": {
+   "records": 1492,
+   "by_event": {
+    "invoice_registered": 456,
+    "invoice_changed": 745,
+    "invoice_expired": 281,
+    "invoice_cancelled": 5,
+    "invoice_deleted": 5
+   },
+   "corrections": 745,
+   "skipped_person": 1287,
+   "skipped_bad": 0
+  },
+  "2026-09-09": {
+   "records": 774,
+   "by_event": {
+    "invoice_changed": 85,
+    "invoice_registered": 583,
+    "invoice_cancelled": 22,
+    "invoice_expired": 84
+   },
+   "corrections": 85,
+   "skipped_person": 1535,
+   "skipped_bad": 0
+  },
+  "2026-09-10": {
+   "records": 1020,
+   "by_event": {
+    "invoice_expired": 211,
+    "invoice_changed": 138,
+    "invoice_cancelled": 28,
+    "invoice_registered": 642,
+    "invoice_deleted": 1
+   },
+   "corrections": 138,
+   "skipped_person": 1719,
+   "skipped_bad": 0
+  },
+  "2026-09-11": {
+   "records": 393,
+   "by_event": {
+    "invoice_changed": 311,
+    "invoice_expired": 60,
+    "invoice_registered": 22
+   },
+   "corrections": 311,
+   "skipped_person": 699,
+   "skipped_bad": 0
+  },
+  "2026-09-24": {
+   "records": 16,
+   "by_event": {
+    "invoice_changed": 16
+   },
+   "corrections": 16,
+   "skipped_person": 8,
+   "skipped_bad": 0
+  },
+  "2026-09-25": {
+   "records": 15,
+   "by_event": {
+    "invoice_changed": 10,
+    "invoice_expired": 4,
+    "invoice_registered": 1
+   },
+   "corrections": 10,
+   "skipped_person": 17,
+   "skipped_bad": 0
+  },
+  "2026-09-28": {
+   "records": 34,
+   "by_event": {
+    "invoice_changed": 34
+   },
+   "corrections": 34,
+   "skipped_person": 7,
+   "skipped_bad": 0
+  },
+  "2026-09-29": {
+   "records": 36,
+   "by_event": {
+    "invoice_registered": 28,
+    "invoice_changed": 5,
+    "invoice_deleted": 3
+   },
+   "corrections": 5,
+   "skipped_person": 118,
+   "skipped_bad": 0
+  },
+  "2026-09-30": {
+   "records": 62,
+   "by_event": {
+    "invoice_registered": 54,
+    "invoice_changed": 8
+   },
+   "corrections": 8,
+   "skipped_person": 136,
+   "skipped_bad": 0
+  },
+  "2026-10-01": {
+   "records": 52,
+   "by_event": {
+    "invoice_changed": 41,
+    "invoice_expired": 10,
+    "invoice_registered": 1
+   },
+   "corrections": 41,
+   "skipped_person": 111,
+   "skipped_bad": 0
+  },
+  "2026-10-02": {
+   "records": 13,
+   "by_event": {
+    "invoice_changed": 10,
+    "invoice_deleted": 1,
+    "invoice_expired": 2
+   },
+   "corrections": 10,
+   "skipped_person": 11,
+   "skipped_bad": 0
+  },
+  "2026-10-05": {
+   "records": 152,
+   "by_event": {
+    "invoice_registered": 145,
+    "invoice_changed": 6,
     "invoice_expired": 1
    },
-   "corrections": 173,
-   "skipped_person": 825,
+   "corrections": 6,
+   "skipped_person": 408,
    "skipped_bad": 0
   },
-  "2026-07-14": {
-   "records": 622,
+  "2026-10-06": {
+   "records": 51,
    "by_event": {
-    "invoice_registered": 546,
-    "invoice_expired": 51,
+    "invoice_changed": 14,
+    "invoice_expired": 15,
+    "invoice_registered": 22
+   },
+   "corrections": 14,
+   "skipped_person": 75,
+   "skipped_bad": 0
+  },
+  "2026-10-07": {
+   "records": 260,
+   "by_event": {
+    "invoice_registered": 237,
+    "invoice_expired": 19,
+    "invoice_changed": 4
+   },
+   "corrections": 4,
+   "skipped_person": 60,
+   "skipped_bad": 0
+  },
+  "2026-10-08": {
+   "records": 287,
+   "by_event": {
+    "invoice_registered": 269,
+    "invoice_expired": 8,
+    "invoice_changed": 10
+   },
+   "corrections": 10,
+   "skipped_person": 149,
+   "skipped_bad": 0
+  },
+  "2026-10-09": {
+   "records": 123,
+   "by_event": {
+    "invoice_expired": 72,
+    "invoice_changed": 32,
+    "invoice_registered": 19
+   },
+   "corrections": 32,
+   "skipped_person": 469,
+   "skipped_bad": 0
+  },
+  "2026-10-13": {
+   "records": 389,
+   "by_event": {
+    "invoice_registered": 316,
+    "invoice_changed": 51,
+    "invoice_expired": 22
+   },
+   "corrections": 51,
+   "skipped_person": 625,
+   "skipped_bad": 0
+  },
+  "2026-10-14": {
+   "records": 180,
+   "by_event": {
+    "invoice_expired": 87,
+    "invoice_registered": 93
+   },
+   "corrections": 0,
+   "skipped_person": 120,
+   "skipped_bad": 0
+  },
+  "2026-10-15": {
+   "records": 137,
+   "by_event": {
+    "invoice_changed": 130,
+    "invoice_registered": 7
+   },
+   "corrections": 130,
+   "skipped_person": 4,
+   "skipped_bad": 0
+  },
+  "2026-10-16": {
+   "records": 243,
+   "by_event": {
+    "invoice_registered": 233,
+    "invoice_changed": 10
+   },
+   "corrections": 10,
+   "skipped_person": 24,
+   "skipped_bad": 0
+  },
+  "2026-10-19": {
+   "records": 57,
+   "by_event": {
     "invoice_changed": 24,
+    "invoice_expired": 30,
+    "invoice_registered": 2,
     "invoice_deleted": 1
    },
    "corrections": 24,
-   "skipped_person": 937,
+   "skipped_person": 358,
    "skipped_bad": 0
   },
-  "2026-07-15": {
-   "records": 847,
+  "2026-10-20": {
+   "records": 180,
    "by_event": {
-    "invoice_registered": 542,
-    "invoice_changed": 162,
-    "invoice_expired": 140,
-    "invoice_cancelled": 3
+    "invoice_registered": 132,
+    "invoice_expired": 37,
+    "invoice_changed": 11
    },
-   "corrections": 162,
-   "skipped_person": 1024,
+   "corrections": 11,
+   "skipped_person": 497,
    "skipped_bad": 0
   },
-  "2026-07-16": {
-   "records": 436,
+  "2026-10-21": {
+   "records": 119,
    "by_event": {
-    "invoice_changed": 55,
-    "invoice_registered": 283,
-    "invoice_expired": 96,
-    "invoice_cancelled": 2
+    "invoice_registered": 102,
+    "invoice_expired": 8,
+    "invoice_changed": 9
    },
-   "corrections": 55,
-   "skipped_person": 880,
+   "corrections": 9,
+   "skipped_person": 166,
    "skipped_bad": 0
   },
-  "2026-07-17": {
-   "records": 1102,
+  "2026-10-22": {
+   "records": 101,
    "by_event": {
-    "invoice_changed": 612,
-    "invoice_registered": 407,
-    "invoice_expired": 83
-   },
-   "corrections": 612,
-   "skipped_person": 916,
-   "skipped_bad": 0
-  },
-  "2026-07-21": {
-   "records": 2054,
-   "by_event": {
-    "invoice_changed": 1069,
-    "invoice_registered": 620,
-    "invoice_expired": 363,
-    "invoice_deleted": 2
-   },
-   "corrections": 1069,
-   "skipped_person": 1236,
-   "skipped_bad": 0
-  },
-  "2026-07-22": {
-   "records": 513,
-   "by_event": {
-    "invoice_changed": 114,
-    "invoice_registered": 285,
-    "invoice_expired": 113,
-    "invoice_deleted": 1
-   },
-   "corrections": 114,
-   "skipped_person": 506,
-   "skipped_bad": 0
-  },
-  "2026-07-23": {
-   "records": 935,
-   "by_event": {
-    "invoice_expired": 370,
-    "invoice_changed": 227,
-    "invoice_registered": 337,
-    "invoice_deleted": 1
-   },
-   "corrections": 227,
-   "skipped_person": 841,
-   "skipped_bad": 0
-  },
-  "2026-07-24": {
-   "records": 582,
-   "by_event": {
-    "invoice_registered": 263,
-    "invoice_changed": 289,
-    "invoice_expired": 29,
-    "invoice_deleted": 1
-   },
-   "corrections": 289,
-   "skipped_person": 392,
-   "skipped_bad": 0
-  },
-  "2026-07-27": {
-   "records": 863,
-   "by_event": {
-    "invoice_changed": 593,
-    "invoice_registered": 228,
-    "invoice_expired": 40,
-    "invoice_deleted": 2
-   },
-   "corrections": 593,
-   "skipped_person": 732,
-   "skipped_bad": 0
-  },
-  "2026-07-28": {
-   "records": 1117,
-   "by_event": {
-    "invoice_changed": 508,
-    "invoice_registered": 455,
-    "invoice_expired": 154
-   },
-   "corrections": 508,
-   "skipped_person": 850,
-   "skipped_bad": 0
-  },
-  "2026-07-29": {
-   "records": 686,
-   "by_event": {
-    "invoice_registered": 448,
-    "invoice_changed": 170,
-    "invoice_expired": 67,
-    "invoice_deleted": 1
-   },
-   "corrections": 170,
-   "skipped_person": 835,
-   "skipped_bad": 0
-  },
-  "2026-07-30": {
-   "records": 574,
-   "by_event": {
-    "invoice_registered": 294,
-    "invoice_changed": 115,
-    "invoice_expired": 158,
-    "invoice_deleted": 4,
-    "invoice_cancelled": 3
-   },
-   "corrections": 115,
-   "skipped_person": 1301,
-   "skipped_bad": 0
-  },
-  "2026-07-31": {
-   "records": 817,
-   "by_event": {
-    "invoice_changed": 259,
-    "invoice_registered": 433,
-    "invoice_expired": 117,
-    "invoice_cancelled": 8
-   },
-   "corrections": 259,
-   "skipped_person": 632,
-   "skipped_bad": 0
-  },
-  "2026-08-03": {
-   "records": 868,
-   "by_event": {
-    "invoice_expired": 282,
-    "invoice_changed": 406,
-    "invoice_registered": 164,
-    "invoice_cancelled": 16
-   },
-   "corrections": 406,
-   "skipped_person": 859,
-   "skipped_bad": 0
-  },
-  "2026-08-04": {
-   "records": 2220,
-   "by_event": {
-    "invoice_expired": 1087,
-    "invoice_changed": 460,
-    "invoice_registered": 653,
-    "invoice_cancelled": 19,
-    "invoice_deleted": 1
-   },
-   "corrections": 460,
-   "skipped_person": 1043,
-   "skipped_bad": 0
-  },
-  "2026-08-05": {
-   "records": 416,
-   "by_event": {
-    "invoice_registered": 309,
-    "invoice_expired": 55,
-    "invoice_changed": 52
-   },
-   "corrections": 52,
-   "skipped_person": 1461,
-   "skipped_bad": 0
-  },
-  "2026-08-06": {
-   "records": 830,
-   "by_event": {
-    "invoice_cancelled": 66,
-    "invoice_expired": 84,
-    "invoice_registered": 501,
-    "invoice_changed": 177,
-    "invoice_deleted": 2
-   },
-   "corrections": 177,
-   "skipped_person": 888,
-   "skipped_bad": 0
-  },
-  "2026-08-07": {
-   "records": 1574,
-   "by_event": {
-    "invoice_changed": 967,
-    "invoice_registered": 520,
-    "invoice_expired": 83,
+    "invoice_registered": 83,
+    "invoice_expired": 14,
     "invoice_deleted": 1,
-    "invoice_cancelled": 3
-   },
-   "corrections": 967,
-   "skipped_person": 1141,
-   "skipped_bad": 0
-  },
-  "2026-08-10": {
-   "records": 729,
-   "by_event": {
-    "invoice_changed": 419,
-    "invoice_registered": 179,
-    "invoice_expired": 110,
-    "invoice_cancelled": 20,
-    "invoice_deleted": 1
-   },
-   "corrections": 419,
-   "skipped_person": 526,
-   "skipped_bad": 0
-  },
-  "2026-08-12": {
-   "records": 178,
-   "by_event": {
-    "invoice_registered": 145,
-    "invoice_changed": 16,
-    "invoice_expired": 17
-   },
-   "corrections": 16,
-   "skipped_person": 362,
-   "skipped_bad": 0
-  },
-  "2026-08-13": {
-   "records": 170,
-   "by_event": {
-    "invoice_cancelled": 20,
-    "invoice_expired": 54,
-    "invoice_registered": 93,
     "invoice_changed": 3
    },
    "corrections": 3,
-   "skipped_person": 289,
+   "skipped_person": 246,
    "skipped_bad": 0
   },
-  "2026-08-14": {
-   "records": 757,
+  "2026-10-23": {
+   "records": 114,
    "by_event": {
-    "invoice_changed": 404,
-    "invoice_registered": 57,
-    "invoice_expired": 289,
-    "invoice_cancelled": 5,
-    "invoice_deleted": 2
+    "invoice_registered": 93,
+    "invoice_expired": 18,
+    "invoice_cancelled": 1,
+    "invoice_deleted": 1,
+    "invoice_changed": 1
    },
-   "corrections": 404,
-   "skipped_person": 200,
+   "corrections": 1,
+   "skipped_person": 497,
    "skipped_bad": 0
   },
-  "2026-08-17": {
-   "records": 455,
+  "2026-10-26": {
+   "records": 727,
    "by_event": {
-    "invoice_changed": 29,
-    "invoice_registered": 372,
-    "invoice_expired": 39,
-    "invoice_cancelled": 14,
-    "invoice_deleted": 1
+    "invoice_registered": 630,
+    "invoice_cancelled": 73,
+    "invoice_changed": 9,
+    "invoice_expired": 15
    },
-   "corrections": 29,
-   "skipped_person": 797,
+   "corrections": 9,
+   "skipped_person": 879,
    "skipped_bad": 0
   },
-  "2026-08-18": {
-   "records": 1122,
+  "2026-10-27": {
+   "records": 614,
    "by_event": {
-    "invoice_changed": 463,
-    "invoice_registered": 627,
-    "invoice_expired": 31,
-    "invoice_deleted": 1
+    "invoice_changed": 25,
+    "invoice_registered": 587,
+    "invoice_expired": 2
    },
-   "corrections": 463,
-   "skipped_person": 1022,
+   "corrections": 25,
+   "skipped_person": 1457,
    "skipped_bad": 0
   },
-  "2026-08-19": {
-   "records": 1246,
+  "2026-10-28": {
+   "records": 656,
    "by_event": {
-    "invoice_changed": 552,
-    "invoice_expired": 449,
-    "invoice_registered": 243,
-    "invoice_cancelled": 2
+    "invoice_registered": 413,
+    "invoice_deleted": 1,
+    "invoice_expired": 238,
+    "invoice_cancelled": 2,
+    "invoice_changed": 2
    },
-   "corrections": 552,
-   "skipped_person": 1087,
-   "skipped_bad": 0
-  },
-  "2026-08-20": {
-   "records": 711,
-   "by_event": {
-    "invoice_changed": 135,
-    "invoice_registered": 417,
-    "invoice_expired": 158,
-    "invoice_deleted": 1
-   },
-   "corrections": 135,
-   "skipped_person": 846,
-   "skipped_bad": 0
-  },
-  "2026-08-21": {
-   "records": 602,
-   "by_event": {
-    "invoice_changed": 112,
-    "invoice_registered": 456,
-    "invoice_expired": 33,
-    "invoice_cancelled": 1
-   },
-   "corrections": 112,
-   "skipped_person": 565,
-   "skipped_bad": 0
-  },
-  "2026-08-24": {
-   "records": 671,
-   "by_event": {
-    "invoice_registered": 396,
-    "invoice_changed": 122,
-    "invoice_cancelled": 7,
-    "invoice_expired": 145,
-    "invoice_deleted": 1
-   },
-   "corrections": 122,
-   "skipped_person": 1281,
+   "corrections": 2,
+   "skipped_person": 1365,
    "skipped_bad": 0
   }
  },

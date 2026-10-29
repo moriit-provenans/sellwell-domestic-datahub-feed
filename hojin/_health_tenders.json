@@ -2,6 +2,6 @@
  "ok": false,
  "workflow": "hojin_tenders",
  "missing": true,
- "retrieved_at": "2026-08-25T07:53:48+09:00",
+ "retrieved_at": "2026-10-29T14:47:06+09:00",
  "reason_ja": "kkj.go.jp の TLS または API"
 }

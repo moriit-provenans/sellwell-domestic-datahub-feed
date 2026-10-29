@@ -1,8 +1,8 @@
 {
  "schema": "edinet_codelist_v1",
- "as_of_date": "2026-08-25",
+ "as_of_date": "2026-10-29",
  "still_valid_2026": true,
- "retrieved_at": "2026-08-25T08:57:13+09:00",
+ "retrieved_at": "2026-10-29T14:44:28+09:00",
  "source_ref": {
   "publisher_ja": "金融庁 EDINET",
   "dataset_ja": "EDINETコードリスト",
@@ -14,9 +14,9 @@
   "note_ja": "提出者法人番号の列をそのまま採る。13桁でない提出者は matched:false とraw_name を残す。社名から番号を推測しない"
  },
  "counts": {
-  "filers": 11383,
-  "with_hojin_bango": 7244,
-  "listed": 3822
+  "filers": 11431,
+  "with_hojin_bango": 7277,
+  "listed": 3812
  },
  "filers": {
   "E00004": {
@@ -1694,7 +1694,7 @@
   "E00355": {
    "hojin_bango": "8010401054826",
    "matched": true,
-   "raw_name": "日本甜菜製糖株式会社",
+   "raw_name": "株式会社ニッテン",
    "securities_code": "21080",
    "listed": true,
    "filer_kind_ja": "内国法人・組合"
@@ -2718,7 +2718,7 @@
   "E00543": {
    "hojin_bango": "3010001034927",
    "matched": true,
-   "raw_name": "富士紡ホールディングス株式会社",
+   "raw_name": "フジボウホールディングス株式会社",
    "securities_code": "31040",
    "listed": true,
    "filer_kind_ja": "内国法人・組合"
@@ -2790,7 +2790,7 @@
   "E00558": {
    "hojin_bango": "6230001008369",
    "matched": true,
-   "raw_name": "日本製麻株式会社",
+   "raw_name": "ＳＥＩＭＡホールディングス株式会社",
    "securities_code": "33060",
    "listed": true,
    "filer_kind_ja": "内国法人・組合"
@@ -5831,8 +5831,8 @@
    "hojin_bango": "3040001065779",
    "matched": true,
    "raw_name": "昭和ホールディングス株式会社",
-   "securities_code": "51030",
-   "listed": true,
+   "securities_code": null,
+   "listed": false,
    "filer_kind_ja": "内国法人・組合"
   },
   "E01089": {
@@ -6015,8 +6015,8 @@
    "hojin_bango": "4010401054474",
    "matched": true,
    "raw_name": "日本板硝子株式会社",
-   "securities_code": "52020",
-   "listed": true,
+   "securities_code": null,
+   "listed": false,
    "filer_kind_ja": "内国法人・組合"
   },
   "E01122": {
@@ -6703,8 +6703,8 @@
    "hojin_bango": "2370001002444",
    "matched": true,
    "raw_name": "東北特殊鋼株式会社",
-   "securities_code": "54840",
-   "listed": true,
+   "securities_code": null,
+   "listed": false,
    "filer_kind_ja": "内国法人・組合"
   },
   "E01247": {
@@ -6879,8 +6879,8 @@
    "hojin_bango": "2140001049112",
    "matched": true,
    "raw_name": "神鋼鋼線工業株式会社",
-   "securities_code": "56600",
-   "listed": true,
+   "securities_code": null,
+   "listed": false,
    "filer_kind_ja": "内国法人・組合"
   },
   "E01283": {
@@ -7198,7 +7198,7 @@
   "E01354": {
    "hojin_bango": "6010001008804",
    "matched": true,
-   "raw_name": "ホッカンホールディングス株式会社",
+   "raw_name": "ホッカン株式会社",
    "securities_code": "59020",
    "listed": true,
    "filer_kind_ja": "内国法人・組合"
@@ -7519,8 +7519,8 @@
    "hojin_bango": "2010401002451",
    "matched": true,
    "raw_name": "イーグル工業株式会社",
-   "securities_code": "64860",
-   "listed": true,
+   "securities_code": null,
+   "listed": false,
    "filer_kind_ja": "内国法人・組合"
   },
   "E01415": {
@@ -8759,8 +8759,8 @@
    "hojin_bango": "9080401001936",
    "matched": true,
    "raw_name": "株式会社　桜井製作所",
-   "securities_code": "72550",
-   "listed": true,
+   "securities_code": null,
+   "listed": false,
    "filer_kind_ja": "内国法人・組合"
   },
   "E01645": {
@@ -11792,7 +11792,7 @@
    "matched": true,
    "raw_name": "ＮＯＫ株式会社",
    "securities_code": "72400",
-   "listed": true,
+   "listed": false,
    "filer_kind_ja": "内国法人・組合"
   },
   "E02177": {
@@ -13006,7 +13006,7 @@
   "E02403": {
    "hojin_bango": "3010501026647",
    "matched": true,
-   "raw_name": "株式会社平和",
+   "raw_name": "株式会社平和ホールディングス",
    "securities_code": "64120",
    "listed": true,
    "filer_kind_ja": "内国法人・組合"
@@ -13943,8 +13943,8 @@
    "hojin_bango": "3010001034778",
    "matched": true,
    "raw_name": "株式会社弘電社",
-   "securities_code": "19480",
-   "listed": true,
+   "securities_code": null,
+   "listed": false,
    "filer_kind_ja": "内国法人・組合"
   },
   "E02570": {
@@ -15079,8 +15079,8 @@
    "hojin_bango": "6370301001357",
    "matched": true,
    "raw_name": "株式会社　山大",
-   "securities_code": "74260",
-   "listed": true,
+   "securities_code": null,
+   "listed": false,
    "filer_kind_ja": "内国法人・組合"
   },
   "E02799": {
@@ -15782,7 +15782,7 @@
   "E02928": {
    "hojin_bango": "7260001001915",
    "matched": true,
-   "raw_name": "オルバヘルスケアホールディングス株式会社",
+   "raw_name": "オルバディーブイエックスヘルスケア株式会社",
    "securities_code": "26890",
    "listed": true,
    "filer_kind_ja": "内国法人・組合"
@@ -16134,7 +16134,7 @@
   "E03003": {
    "hojin_bango": "2430001032501",
    "matched": true,
-   "raw_name": "株式会社ほくやく・竹山ホールディングス",
+   "raw_name": "株式会社ＴＳＵＭＵＧＵ　ＨＯＬＤＩＮＧＳ",
    "securities_code": "30550",
    "listed": true,
    "filer_kind_ja": "内国法人・組合"
@@ -16151,8 +16151,8 @@
    "hojin_bango": "9011601006203",
    "matched": true,
    "raw_name": "ディーブイエックス株式会社",
-   "securities_code": "30790",
-   "listed": true,
+   "securities_code": null,
+   "listed": false,
    "filer_kind_ja": "内国法人・組合"
   },
   "E03006": {
@@ -16771,14 +16771,6 @@
    "listed": true,
    "filer_kind_ja": "内国法人・組合"
   },
-  "E03149": {
-   "hojin_bango": "8090001000586",
-   "matched": true,
-   "raw_name": "ＤＣＭくろがねや株式会社",
-   "securities_code": null,
-   "listed": false,
-   "filer_kind_ja": "内国法人・組合"
-  },
   "E03153": {
    "hojin_bango": "2011501016151",
    "matched": true,
@@ -17017,7 +17009,7 @@
    "raw_name": "藤久株式会社",
    "securities_code": null,
    "listed": false,
-   "filer_kind_ja": "内国法人・組合"
+   "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
   },
   "E03212": {
    "hojin_bango": "7490001000142",
@@ -17814,7 +17806,7 @@
   "E03367": {
    "hojin_bango": "7180001074052",
    "matched": true,
-   "raw_name": "株式会社ゲオホールディングス",
+   "raw_name": "株式会社セカンドリテイリング",
    "securities_code": "26810",
    "listed": true,
    "filer_kind_ja": "内国法人・組合"
@@ -18057,14 +18049,6 @@
    "raw_name": "株式会社セリア",
    "securities_code": "27820",
    "listed": true,
-   "filer_kind_ja": "内国法人・組合"
-  },
-  "E03419": {
-   "hojin_bango": "9430001020202",
-   "matched": true,
-   "raw_name": "株式会社サッポロドラッグストアー",
-   "securities_code": null,
-   "listed": false,
    "filer_kind_ja": "内国法人・組合"
   },
   "E03421": {
@@ -18313,14 +18297,6 @@
    "raw_name": "株式会社トリドールホールディングス",
    "securities_code": "33970",
    "listed": true,
-   "filer_kind_ja": "内国法人・組合"
-  },
-  "E03469": {
-   "hojin_bango": "2220001008745",
-   "matched": true,
-   "raw_name": "株式会社クスリのアオキ",
-   "securities_code": null,
-   "listed": false,
    "filer_kind_ja": "内国法人・組合"
   },
   "E03470": {
@@ -22647,8 +22623,8 @@
    "hojin_bango": "4290001007004",
    "matched": true,
    "raw_name": "九州電力株式会社",
-   "securities_code": "95080",
-   "listed": true,
+   "securities_code": null,
+   "listed": false,
    "filer_kind_ja": "内国法人・組合"
   },
   "E04507": {
@@ -24094,7 +24070,7 @@
   "E04806": {
    "hojin_bango": "9010001019930",
    "matched": true,
-   "raw_name": "ジャフコ　グループ株式会社",
+   "raw_name": "株式会社ＪＡＦＣＯ",
    "securities_code": "85950",
    "listed": true,
    "filer_kind_ja": "内国法人・組合"
@@ -24407,8 +24383,8 @@
    "hojin_bango": "3010001032864",
    "matched": true,
    "raw_name": "株式会社ソラスト",
-   "securities_code": "61970",
-   "listed": true,
+   "securities_code": null,
+   "listed": false,
    "filer_kind_ja": "内国法人・組合"
   },
   "E04884": {
@@ -25543,8 +25519,8 @@
    "hojin_bango": "5010401038988",
    "matched": true,
    "raw_name": "オリコン株式会社",
-   "securities_code": "48000",
-   "listed": true,
+   "securities_code": null,
+   "listed": false,
    "filer_kind_ja": "内国法人・組合"
   },
   "E05145": {
@@ -26483,14 +26459,6 @@
    "listed": true,
    "filer_kind_ja": "内国法人・組合"
   },
-  "E05349": {
-   "hojin_bango": "8011001064868",
-   "matched": true,
-   "raw_name": "株式会社メディビックグループ",
-   "securities_code": null,
-   "listed": false,
-   "filer_kind_ja": "内国法人・組合"
-  },
   "E05350": {
    "hojin_bango": "9011001065997",
    "matched": true,
@@ -26992,7 +26960,7 @@
    "matched": true,
    "raw_name": "株式会社テクノマセマティカル",
    "securities_code": "37870",
-   "listed": true,
+   "listed": false,
    "filer_kind_ja": "内国法人・組合"
   },
   "E05446": {
@@ -27217,14 +27185,6 @@
    "raw_name": "株式会社システムリサーチ",
    "securities_code": "37710",
    "listed": true,
-   "filer_kind_ja": "内国法人・組合"
-  },
-  "E05491": {
-   "hojin_bango": "5010001037564",
-   "matched": true,
-   "raw_name": "株式会社ウィズ",
-   "securities_code": null,
-   "listed": false,
    "filer_kind_ja": "内国法人・組合"
   },
   "E05492": {
@@ -28062,7 +28022,7 @@
   "E05674": {
    "hojin_bango": "1011001070286",
    "matched": true,
-   "raw_name": "パス株式会社",
+   "raw_name": "株式会社ヴィクトン",
    "securities_code": "38400",
    "listed": true,
    "filer_kind_ja": "内国法人・組合"
@@ -28071,8 +28031,8 @@
    "hojin_bango": "7011101037766",
    "matched": true,
    "raw_name": "ｎｍｓホールディングス株式会社",
-   "securities_code": "21620",
-   "listed": true,
+   "securities_code": null,
+   "listed": false,
    "filer_kind_ja": "内国法人・組合"
   },
   "E05677": {
@@ -28198,7 +28158,7 @@
   "E05694": {
    "hojin_bango": "7010401040174",
    "matched": true,
-   "raw_name": "株式会社エヌ・ティ・ティ・データ・イントラマート",
+   "raw_name": "株式会社イントラマート",
    "securities_code": "38500",
    "listed": true,
    "filer_kind_ja": "内国法人・組合"
@@ -28311,8 +28271,8 @@
    "hojin_bango": "9010501023597",
    "matched": true,
    "raw_name": "Ａｂａｌａｎｃｅ株式会社",
-   "securities_code": "38560",
-   "listed": true,
+   "securities_code": null,
+   "listed": false,
    "filer_kind_ja": "内国法人・組合"
   },
   "E05714": {
@@ -28886,7 +28846,7 @@
   "E05889": {
    "hojin_bango": null,
    "matched": false,
-   "raw_name": "ドイツポスト・アーゲー",
+   "raw_name": "ディーエイチエル・アーゲー",
    "securities_code": null,
    "listed": false,
    "filer_kind_ja": "外国法人・組合"
@@ -29531,14 +29491,6 @@
    "listed": false,
    "filer_kind_ja": "外国政府等"
   },
-  "E06121": {
-   "hojin_bango": null,
-   "matched": false,
-   "raw_name": "ネスナ・エルエルピー",
-   "securities_code": null,
-   "listed": false,
-   "filer_kind_ja": "外国法人・組合（有価証券報告書等の提出義務者以外）"
-  },
   "E06125": {
    "hojin_bango": "3120005007273",
    "matched": true,
@@ -29647,6 +29599,14 @@
    "hojin_bango": "7010001075892",
    "matched": true,
    "raw_name": "伊藤忠丸紅鉄鋼株式会社",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
+  },
+  "E06254": {
+   "hojin_bango": "4010001010588",
+   "matched": true,
+   "raw_name": "飯島興産株式会社",
    "securities_code": null,
    "listed": false,
    "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
@@ -29931,10 +29891,10 @@
    "listed": false,
    "filer_kind_ja": "個人（組合発行者を除く）"
   },
-  "E06532": {
+  "E06519": {
    "hojin_bango": null,
    "matched": false,
-   "raw_name": "前田耕作",
+   "raw_name": "宮田　宏章",
    "securities_code": null,
    "listed": false,
    "filer_kind_ja": "個人（組合発行者を除く）"
@@ -30007,14 +29967,6 @@
    "hojin_bango": null,
    "matched": false,
    "raw_name": "舩木　元旦",
-   "securities_code": null,
-   "listed": false,
-   "filer_kind_ja": "個人（組合発行者を除く）"
-  },
-  "E06630": {
-   "hojin_bango": null,
-   "matched": false,
-   "raw_name": "渡邉　浩",
    "securities_code": null,
    "listed": false,
    "filer_kind_ja": "個人（組合発行者を除く）"
@@ -30263,14 +30215,6 @@
    "hojin_bango": null,
    "matched": false,
    "raw_name": "福田　孝太郎",
-   "securities_code": null,
-   "listed": false,
-   "filer_kind_ja": "個人（組合発行者を除く）"
-  },
-  "E07015": {
-   "hojin_bango": null,
-   "matched": false,
-   "raw_name": "保木　將夫",
    "securities_code": null,
    "listed": false,
    "filer_kind_ja": "個人（組合発行者を除く）"
@@ -30795,6 +30739,14 @@
    "listed": false,
    "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
   },
+  "E07590": {
+   "hojin_bango": null,
+   "matched": false,
+   "raw_name": "大村　禎史",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "個人（組合発行者を除く）"
+  },
   "E07601": {
    "hojin_bango": null,
    "matched": false,
@@ -30915,6 +30867,14 @@
    "listed": false,
    "filer_kind_ja": "個人（組合発行者を除く）"
   },
+  "E07725": {
+   "hojin_bango": null,
+   "matched": false,
+   "raw_name": "佐藤　利行",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "個人（組合発行者を除く）"
+  },
   "E07733": {
    "hojin_bango": null,
    "matched": false,
@@ -30983,14 +30943,6 @@
    "hojin_bango": null,
    "matched": false,
    "raw_name": "髙杉　仁",
-   "securities_code": null,
-   "listed": false,
-   "filer_kind_ja": "個人（組合発行者を除く）"
-  },
-  "E07825": {
-   "hojin_bango": null,
-   "matched": false,
-   "raw_name": "神山　和郎",
    "securities_code": null,
    "listed": false,
    "filer_kind_ja": "個人（組合発行者を除く）"
@@ -31299,14 +31251,6 @@
    "listed": false,
    "filer_kind_ja": "個人（非居住者）（組合発行者を除く）"
   },
-  "E08131": {
-   "hojin_bango": null,
-   "matched": false,
-   "raw_name": "熊谷　正寿",
-   "securities_code": null,
-   "listed": false,
-   "filer_kind_ja": "個人（組合発行者を除く）"
-  },
   "E08155": {
    "hojin_bango": "5020001009050",
    "matched": true,
@@ -31434,6 +31378,14 @@
    "securities_code": null,
    "listed": false,
    "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
+  },
+  "E08245": {
+   "hojin_bango": null,
+   "matched": false,
+   "raw_name": "安達　一彦",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "個人（組合発行者を除く）"
   },
   "E08246": {
    "hojin_bango": null,
@@ -32126,7 +32078,7 @@
   "E08955": {
    "hojin_bango": "3011002023704",
    "matched": true,
-   "raw_name": "合同会社キーウェスト・ネットワーク",
+   "raw_name": "株式会社キーウェスト・ネットワーク",
    "securities_code": null,
    "listed": false,
    "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
@@ -32263,14 +32215,6 @@
    "hojin_bango": null,
    "matched": false,
    "raw_name": "髙野時丸",
-   "securities_code": null,
-   "listed": false,
-   "filer_kind_ja": "個人（組合発行者を除く）"
-  },
-  "E09070": {
-   "hojin_bango": null,
-   "matched": false,
-   "raw_name": "江尻義久",
    "securities_code": null,
    "listed": false,
    "filer_kind_ja": "個人（組合発行者を除く）"
@@ -32415,6 +32359,14 @@
    "hojin_bango": "7010702015387",
    "matched": true,
    "raw_name": "有限会社カツコーポレーション",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
+  },
+  "E09249": {
+   "hojin_bango": "1240001016400",
+   "matched": true,
+   "raw_name": "株式会社Ｏｃｔａｇｏｎ　Ｌａｂ",
    "securities_code": null,
    "listed": false,
    "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
@@ -32851,6 +32803,14 @@
    "listed": false,
    "filer_kind_ja": "個人（組合発行者を除く）"
   },
+  "E09744": {
+   "hojin_bango": "9320002017002",
+   "matched": true,
+   "raw_name": "有限会社ディ・アール・ケイ",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
+  },
   "E09748": {
    "hojin_bango": null,
    "matched": false,
@@ -33047,6 +33007,14 @@
    "hojin_bango": null,
    "matched": false,
    "raw_name": "古川國久",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "個人（組合発行者を除く）"
+  },
+  "E09966": {
+   "hojin_bango": null,
+   "matched": false,
+   "raw_name": "鈴木　勝喜",
    "securities_code": null,
    "listed": false,
    "filer_kind_ja": "個人（組合発行者を除く）"
@@ -33267,14 +33235,6 @@
    "listed": false,
    "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
   },
-  "E10181": {
-   "hojin_bango": null,
-   "matched": false,
-   "raw_name": "和井田　光生",
-   "securities_code": null,
-   "listed": false,
-   "filer_kind_ja": "個人（組合発行者を除く）"
-  },
   "E10184": {
    "hojin_bango": null,
    "matched": false,
@@ -33311,14 +33271,6 @@
    "hojin_bango": null,
    "matched": false,
    "raw_name": "山田　敏行",
-   "securities_code": null,
-   "listed": false,
-   "filer_kind_ja": "個人（組合発行者を除く）"
-  },
-  "E10202": {
-   "hojin_bango": null,
-   "matched": false,
-   "raw_name": "伊藤範久",
    "securities_code": null,
    "listed": false,
    "filer_kind_ja": "個人（組合発行者を除く）"
@@ -33410,6 +33362,14 @@
    "securities_code": null,
    "listed": false,
    "filer_kind_ja": "個人（組合発行者を除く）"
+  },
+  "E10290": {
+   "hojin_bango": null,
+   "matched": false,
+   "raw_name": "キャヴェンディッシュ・スクエア・ホールディングス・ビー・ヴィー",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "外国法人・組合（有価証券報告書等の提出義務者以外）"
   },
   "E10292": {
    "hojin_bango": null,
@@ -33538,14 +33498,6 @@
    "securities_code": null,
    "listed": false,
    "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
-  },
-  "E10389": {
-   "hojin_bango": null,
-   "matched": false,
-   "raw_name": "西郷　辰弘",
-   "securities_code": null,
-   "listed": false,
-   "filer_kind_ja": "個人（組合発行者を除く）"
   },
   "E10390": {
    "hojin_bango": "2010401077766",
@@ -33811,14 +33763,6 @@
    "listed": false,
    "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
   },
-  "E10675": {
-   "hojin_bango": null,
-   "matched": false,
-   "raw_name": "折田　譲治",
-   "securities_code": null,
-   "listed": false,
-   "filer_kind_ja": "個人（組合発行者を除く）"
-  },
   "E10677": {
    "hojin_bango": "9010001021473",
    "matched": true,
@@ -33930,14 +33874,6 @@
    "securities_code": null,
    "listed": false,
    "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
-  },
-  "E10782": {
-   "hojin_bango": null,
-   "matched": false,
-   "raw_name": "川路　耕一",
-   "securities_code": null,
-   "listed": false,
-   "filer_kind_ja": "個人（組合発行者を除く）"
   },
   "E10795": {
    "hojin_bango": "8010402035726",
@@ -34075,14 +34011,6 @@
    "listed": false,
    "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
   },
-  "E10895": {
-   "hojin_bango": null,
-   "matched": false,
-   "raw_name": "宇山　忠男",
-   "securities_code": null,
-   "listed": false,
-   "filer_kind_ja": "個人（組合発行者を除く）"
-  },
   "E10896": {
    "hojin_bango": null,
    "matched": false,
@@ -34091,10 +34019,10 @@
    "listed": false,
    "filer_kind_ja": "個人（組合発行者を除く）"
   },
-  "E10906": {
+  "E10900": {
    "hojin_bango": null,
    "matched": false,
-   "raw_name": "堂山道生",
+   "raw_name": "中村　敬",
    "securities_code": null,
    "listed": false,
    "filer_kind_ja": "個人（組合発行者を除く）"
@@ -34411,6 +34339,14 @@
    "listed": false,
    "filer_kind_ja": "個人（組合発行者を除く）"
   },
+  "E11194": {
+   "hojin_bango": null,
+   "matched": false,
+   "raw_name": "遠藤　孝",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "個人（組合発行者を除く）"
+  },
   "E11197": {
    "hojin_bango": null,
    "matched": false,
@@ -34426,6 +34362,14 @@
    "securities_code": null,
    "listed": false,
    "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
+  },
+  "E11201": {
+   "hojin_bango": null,
+   "matched": false,
+   "raw_name": "中村　憲司",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "個人（組合発行者を除く）"
   },
   "E11203": {
    "hojin_bango": "6011101036868",
@@ -34450,14 +34394,6 @@
    "securities_code": null,
    "listed": false,
    "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
-  },
-  "E11213": {
-   "hojin_bango": null,
-   "matched": false,
-   "raw_name": "渡辺　章博",
-   "securities_code": null,
-   "listed": false,
-   "filer_kind_ja": "個人（組合発行者を除く）"
   },
   "E11214": {
    "hojin_bango": null,
@@ -34755,6 +34691,22 @@
    "listed": false,
    "filer_kind_ja": "外国法人・組合（有価証券報告書等の提出義務者以外）"
   },
+  "E11478": {
+   "hojin_bango": null,
+   "matched": false,
+   "raw_name": "清藤　勉",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "個人（組合発行者を除く）"
+  },
+  "E11480": {
+   "hojin_bango": "3010001135007",
+   "matched": true,
+   "raw_name": "ＢＮＰパリバ証券株式会社",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
+  },
   "E11493": {
    "hojin_bango": null,
    "matched": false,
@@ -34939,14 +34891,6 @@
    "listed": false,
    "filer_kind_ja": "外国法人・組合（有価証券報告書等の提出義務者以外）"
   },
-  "E11599": {
-   "hojin_bango": null,
-   "matched": false,
-   "raw_name": "田中伸明",
-   "securities_code": null,
-   "listed": false,
-   "filer_kind_ja": "個人（組合発行者を除く）"
-  },
   "E11618": {
    "hojin_bango": null,
    "matched": false,
@@ -35010,14 +34954,6 @@
    "securities_code": "62380",
    "listed": true,
    "filer_kind_ja": "内国法人・組合"
-  },
-  "E11676": {
-   "hojin_bango": null,
-   "matched": false,
-   "raw_name": "鎌田　信夫",
-   "securities_code": null,
-   "listed": false,
-   "filer_kind_ja": "個人（組合発行者を除く）"
   },
   "E11677": {
    "hojin_bango": null,
@@ -35375,6 +35311,22 @@
    "hojin_bango": null,
    "matched": false,
    "raw_name": "原田　英明",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "個人（組合発行者を除く）"
+  },
+  "E12022": {
+   "hojin_bango": null,
+   "matched": false,
+   "raw_name": "前田　佳宏",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "個人（組合発行者を除く）"
+  },
+  "E12023": {
+   "hojin_bango": null,
+   "matched": false,
+   "raw_name": "前田尚宏",
    "securities_code": null,
    "listed": false,
    "filer_kind_ja": "個人（組合発行者を除く）"
@@ -35743,14 +35695,6 @@
    "hojin_bango": "5010001048652",
    "matched": true,
    "raw_name": "フランクリン・テンプルトン・ジャパン株式会社",
-   "securities_code": null,
-   "listed": false,
-   "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
-  },
-  "E12429": {
-   "hojin_bango": "7010001098893",
-   "matched": true,
-   "raw_name": "ＰＧＩＭジャパン株式会社",
    "securities_code": null,
    "listed": false,
    "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
@@ -37059,14 +37003,6 @@
    "listed": false,
    "filer_kind_ja": "個人（組合発行者を除く）"
   },
-  "E20969": {
-   "hojin_bango": "3040002038858",
-   "matched": true,
-   "raw_name": "Ｔ．Ｇ．アセット有限会社",
-   "securities_code": null,
-   "listed": false,
-   "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
-  },
   "E20989": {
    "hojin_bango": null,
    "matched": false,
@@ -37283,6 +37219,14 @@
    "listed": false,
    "filer_kind_ja": "個人（組合発行者を除く）"
   },
+  "E21274": {
+   "hojin_bango": null,
+   "matched": false,
+   "raw_name": "下田　英樹",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "個人（組合発行者を除く）"
+  },
   "E21278": {
    "hojin_bango": "4013202007799",
    "matched": true,
@@ -37343,8 +37287,8 @@
    "hojin_bango": "1011001044042",
    "matched": true,
    "raw_name": "株式会社サニーサイドアップグループ",
-   "securities_code": "21800",
-   "listed": true,
+   "securities_code": null,
+   "listed": false,
    "filer_kind_ja": "内国法人・組合"
   },
   "E21389": {
@@ -37482,6 +37426,22 @@
    "securities_code": null,
    "listed": false,
    "filer_kind_ja": "個人（組合発行者を除く）"
+  },
+  "E21526": {
+   "hojin_bango": null,
+   "matched": false,
+   "raw_name": "植村　久子",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "個人（組合発行者を除く）"
+  },
+  "E21532": {
+   "hojin_bango": "1430002002066",
+   "matched": true,
+   "raw_name": "有限会社いつわ企画",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
   },
   "E21553": {
    "hojin_bango": "9240001012318",
@@ -38035,6 +37995,14 @@
    "listed": false,
    "filer_kind_ja": "個人（組合発行者を除く）"
   },
+  "E22121": {
+   "hojin_bango": "2430002042887",
+   "matched": true,
+   "raw_name": "有限会社タスク企画",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
+  },
   "E22124": {
    "hojin_bango": "4430001033860",
    "matched": true,
@@ -38555,14 +38523,6 @@
    "listed": false,
    "filer_kind_ja": "個人（組合発行者を除く）"
   },
-  "E22818": {
-   "hojin_bango": "7190001015559",
-   "matched": true,
-   "raw_name": "株式会社ゼロシステム",
-   "securities_code": null,
-   "listed": false,
-   "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
-  },
   "E22835": {
    "hojin_bango": null,
    "matched": false,
@@ -38747,14 +38707,6 @@
    "listed": false,
    "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
   },
-  "E23147": {
-   "hojin_bango": null,
-   "matched": false,
-   "raw_name": "早川　与規",
-   "securities_code": null,
-   "listed": false,
-   "filer_kind_ja": "個人（組合発行者を除く）"
-  },
   "E23156": {
    "hojin_bango": "7010001138765",
    "matched": true,
@@ -38906,14 +38858,6 @@
    "securities_code": "31570",
    "listed": true,
    "filer_kind_ja": "内国法人・組合"
-  },
-  "E23302": {
-   "hojin_bango": "2140001013902",
-   "matched": true,
-   "raw_name": "阪神酒販株式会社",
-   "securities_code": null,
-   "listed": false,
-   "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
   },
   "E23303": {
    "hojin_bango": null,
@@ -39139,6 +39083,14 @@
    "listed": false,
    "filer_kind_ja": "外国法人・組合"
   },
+  "E23673": {
+   "hojin_bango": null,
+   "matched": false,
+   "raw_name": "三田　聖二",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "個人（非居住者）（組合発行者を除く）"
+  },
   "E23677": {
    "hojin_bango": null,
    "matched": false,
@@ -39218,6 +39170,14 @@
    "securities_code": null,
    "listed": false,
    "filer_kind_ja": "個人（組合発行者を除く）"
+  },
+  "E23776": {
+   "hojin_bango": "5010402035398",
+   "matched": true,
+   "raw_name": "有限会社カイカイキキ",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
   },
   "E23784": {
    "hojin_bango": null,
@@ -39699,6 +39659,14 @@
    "listed": false,
    "filer_kind_ja": "個人（組合発行者を除く）"
   },
+  "E24272": {
+   "hojin_bango": null,
+   "matched": false,
+   "raw_name": "小森　伸昭",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "個人（組合発行者を除く）"
+  },
   "E24273": {
    "hojin_bango": null,
    "matched": false,
@@ -39815,8 +39783,8 @@
    "hojin_bango": "5011101056883",
    "matched": true,
    "raw_name": "株式会社　ＴＨＥグローバル社",
-   "securities_code": "32710",
-   "listed": true,
+   "securities_code": null,
+   "listed": false,
    "filer_kind_ja": "内国法人・組合"
   },
   "E24345": {
@@ -40403,6 +40371,14 @@
    "listed": true,
    "filer_kind_ja": "内国法人・組合"
   },
+  "E24926": {
+   "hojin_bango": null,
+   "matched": false,
+   "raw_name": "福田勝",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "個人（組合発行者を除く）"
+  },
   "E24930": {
    "hojin_bango": null,
    "matched": false,
@@ -40695,14 +40671,14 @@
    "hojin_bango": "2130001017499",
    "matched": true,
    "raw_name": "株式会社ジェイ・エス・ビー",
-   "securities_code": "34800",
-   "listed": true,
+   "securities_code": null,
+   "listed": false,
    "filer_kind_ja": "内国法人・組合"
   },
   "E25156": {
    "hojin_bango": "9010001097340",
    "matched": true,
-   "raw_name": "インテグラル株式会社",
+   "raw_name": "インテグラル・グループ株式会社",
    "securities_code": "58420",
    "listed": true,
    "filer_kind_ja": "内国法人・組合"
@@ -41011,14 +40987,6 @@
    "listed": true,
    "filer_kind_ja": "内国法人・組合"
   },
-  "E25387": {
-   "hojin_bango": null,
-   "matched": false,
-   "raw_name": "和田　成史",
-   "securities_code": null,
-   "listed": false,
-   "filer_kind_ja": "個人（組合発行者を除く）"
-  },
   "E25400": {
    "hojin_bango": "2120001138676",
    "matched": true,
@@ -41251,6 +41219,30 @@
    "listed": false,
    "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
   },
+  "E25625": {
+   "hojin_bango": null,
+   "matched": false,
+   "raw_name": "柳井　照代",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "個人（組合発行者を除く）"
+  },
+  "E25628": {
+   "hojin_bango": "6013202011469",
+   "matched": true,
+   "raw_name": "有限会社Ｆｉｇｈｔ＆Ｓｔｅｐ",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
+  },
+  "E25629": {
+   "hojin_bango": "4013202011470",
+   "matched": true,
+   "raw_name": "有限会社ＭＡＳＴＥＲ　ＭＩＮＤ",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
+  },
   "E25632": {
    "hojin_bango": null,
    "matched": false,
@@ -41415,6 +41407,14 @@
    "hojin_bango": "5140001074347",
    "matched": true,
    "raw_name": "日電ホールディングス株式会社",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
+  },
+  "E25712": {
+   "hojin_bango": "2040001016700",
+   "matched": true,
+   "raw_name": "石塚興産株式会社",
    "securities_code": null,
    "listed": false,
    "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
@@ -42315,14 +42315,6 @@
    "listed": false,
    "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
   },
-  "E26277": {
-   "hojin_bango": null,
-   "matched": false,
-   "raw_name": "川崎　まり",
-   "securities_code": null,
-   "listed": false,
-   "filer_kind_ja": "個人（組合発行者を除く）"
-  },
   "E26281": {
    "hojin_bango": null,
    "matched": false,
@@ -42675,14 +42667,6 @@
    "listed": false,
    "filer_kind_ja": "個人（組合発行者を除く）"
   },
-  "E26517": {
-   "hojin_bango": null,
-   "matched": false,
-   "raw_name": "林　謙治",
-   "securities_code": null,
-   "listed": false,
-   "filer_kind_ja": "個人（組合発行者を除く）"
-  },
   "E26523": {
    "hojin_bango": null,
    "matched": false,
@@ -42783,14 +42767,6 @@
    "hojin_bango": null,
    "matched": false,
    "raw_name": "長嶋　しのぶ",
-   "securities_code": null,
-   "listed": false,
-   "filer_kind_ja": "個人（組合発行者を除く）"
-  },
-  "E26577": {
-   "hojin_bango": null,
-   "matched": false,
-   "raw_name": "中西　浩一",
    "securities_code": null,
    "listed": false,
    "filer_kind_ja": "個人（組合発行者を除く）"
@@ -43507,6 +43483,14 @@
    "listed": true,
    "filer_kind_ja": "内国法人・組合"
   },
+  "E26981": {
+   "hojin_bango": "8140005020476",
+   "matched": true,
+   "raw_name": "公益財団法人業務スーパージャパンドリーム財団",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
+  },
   "E26987": {
    "hojin_bango": "1120001154930",
    "matched": true,
@@ -43662,7 +43646,7 @@
   "E27059": {
    "hojin_bango": "9010001143631",
    "matched": true,
-   "raw_name": "地盤ネットホールディングス株式会社",
+   "raw_name": "株式会社ＥＲＴＨ　Ｇｒｏｕｐ",
    "securities_code": "60720",
    "listed": true,
    "filer_kind_ja": "内国法人・組合"
@@ -44190,7 +44174,7 @@
   "E27280": {
    "hojin_bango": "6011001065018",
    "matched": true,
-   "raw_name": "株式会社オルトプラス",
+   "raw_name": "株式会社オルトプラスホールディングス",
    "securities_code": "36720",
    "listed": true,
    "filer_kind_ja": "内国法人・組合"
@@ -44607,14 +44591,6 @@
    "hojin_bango": "8011001068885",
    "matched": true,
    "raw_name": "ＳＢＩ　ＦｉｎＴｅｃｈ　Ｓｏｌｕｔｉｏｎｓ株式会社",
-   "securities_code": null,
-   "listed": false,
-   "filer_kind_ja": "内国法人・組合"
-  },
-  "E27567": {
-   "hojin_bango": "2011101034099",
-   "matched": true,
-   "raw_name": "株式会社フォトクリエイト",
    "securities_code": null,
    "listed": false,
    "filer_kind_ja": "内国法人・組合"
@@ -45059,14 +45035,6 @@
    "listed": false,
    "filer_kind_ja": "個人（組合発行者を除く）"
   },
-  "E27829": {
-   "hojin_bango": null,
-   "matched": false,
-   "raw_name": "鈴木　教義",
-   "securities_code": null,
-   "listed": false,
-   "filer_kind_ja": "個人（組合発行者を除く）"
-  },
   "E27833": {
    "hojin_bango": null,
    "matched": false,
@@ -45123,14 +45091,6 @@
    "listed": false,
    "filer_kind_ja": "個人（組合発行者を除く）"
   },
-  "E27852": {
-   "hojin_bango": null,
-   "matched": false,
-   "raw_name": "山岡　新太郎",
-   "securities_code": null,
-   "listed": false,
-   "filer_kind_ja": "個人（組合発行者を除く）"
-  },
   "E27855": {
    "hojin_bango": "4010401109146",
    "matched": true,
@@ -45167,14 +45127,6 @@
    "hojin_bango": null,
    "matched": false,
    "raw_name": "穴見　賢一",
-   "securities_code": null,
-   "listed": false,
-   "filer_kind_ja": "個人（組合発行者を除く）"
-  },
-  "E27870": {
-   "hojin_bango": null,
-   "matched": false,
-   "raw_name": "穴見　保雄",
    "securities_code": null,
    "listed": false,
    "filer_kind_ja": "個人（組合発行者を除く）"
@@ -45591,8 +45543,8 @@
    "hojin_bango": "8013201010775",
    "matched": true,
    "raw_name": "株式会社ブイキューブ",
-   "securities_code": "36810",
-   "listed": true,
+   "securities_code": null,
+   "listed": false,
    "filer_kind_ja": "内国法人・組合"
   },
   "E30118": {
@@ -45623,8 +45575,8 @@
    "hojin_bango": "9010001084487",
    "matched": true,
    "raw_name": "株式会社イーグランド",
-   "securities_code": "32940",
-   "listed": true,
+   "securities_code": null,
+   "listed": false,
    "filer_kind_ja": "内国法人・組合"
   },
   "E30125": {
@@ -45843,14 +45795,6 @@
    "listed": false,
    "filer_kind_ja": "個人（非居住者）（組合発行者を除く）"
   },
-  "E30202": {
-   "hojin_bango": null,
-   "matched": false,
-   "raw_name": "松尾　幸一郎",
-   "securities_code": null,
-   "listed": false,
-   "filer_kind_ja": "個人（組合発行者を除く）"
-  },
   "E30217": {
    "hojin_bango": "6010001156594",
    "matched": true,
@@ -45879,14 +45823,6 @@
    "hojin_bango": null,
    "matched": false,
    "raw_name": "平尾丈",
-   "securities_code": null,
-   "listed": false,
-   "filer_kind_ja": "個人（組合発行者を除く）"
-  },
-  "E30233": {
-   "hojin_bango": null,
-   "matched": false,
-   "raw_name": "丸山　雄平",
    "securities_code": null,
    "listed": false,
    "filer_kind_ja": "個人（組合発行者を除く）"
@@ -46147,14 +46083,6 @@
    "listed": false,
    "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
   },
-  "E30425": {
-   "hojin_bango": "4240001003123",
-   "matched": true,
-   "raw_name": "株式会社研創エンタープライズ",
-   "securities_code": null,
-   "listed": false,
-   "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
-  },
   "E30434": {
    "hojin_bango": null,
    "matched": false,
@@ -46306,14 +46234,6 @@
    "securities_code": null,
    "listed": false,
    "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
-  },
-  "E30494": {
-   "hojin_bango": null,
-   "matched": false,
-   "raw_name": "鷹野保雄",
-   "securities_code": null,
-   "listed": false,
-   "filer_kind_ja": "個人（組合発行者を除く）"
   },
   "E30496": {
    "hojin_bango": null,
@@ -46563,6 +46483,14 @@
    "listed": false,
    "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
   },
+  "E30627": {
+   "hojin_bango": null,
+   "matched": false,
+   "raw_name": "荻野　利浩",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "個人（組合発行者を除く）"
+  },
   "E30634": {
    "hojin_bango": null,
    "matched": false,
@@ -46671,8 +46599,8 @@
    "hojin_bango": "8011001064760",
    "matched": true,
    "raw_name": "株式会社レアジョブ",
-   "securities_code": "60960",
-   "listed": true,
+   "securities_code": null,
+   "listed": false,
    "filer_kind_ja": "内国法人・組合"
   },
   "E30688": {
@@ -46771,14 +46699,6 @@
    "listed": false,
    "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
   },
-  "E30707": {
-   "hojin_bango": null,
-   "matched": false,
-   "raw_name": "細谷　圭二",
-   "securities_code": null,
-   "listed": false,
-   "filer_kind_ja": "個人（組合発行者を除く）"
-  },
   "E30708": {
    "hojin_bango": "7010003018148",
    "matched": true,
@@ -46790,7 +46710,7 @@
   "E30723": {
    "hojin_bango": "9010001052923",
    "matched": true,
-   "raw_name": "フィリップ証券株式会社",
+   "raw_name": "フィリップ・キャピタル証券株式会社",
    "securities_code": null,
    "listed": false,
    "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
@@ -46922,14 +46842,6 @@
    "securities_code": null,
    "listed": false,
    "filer_kind_ja": "個人（非居住者）（組合発行者を除く）"
-  },
-  "E30799": {
-   "hojin_bango": null,
-   "matched": false,
-   "raw_name": "下出　啓介",
-   "securities_code": null,
-   "listed": false,
-   "filer_kind_ja": "個人（組合発行者を除く）"
   },
   "E30803": {
    "hojin_bango": null,
@@ -48067,26 +47979,10 @@
    "listed": false,
    "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
   },
-  "E31204": {
-   "hojin_bango": "3013301036287",
-   "matched": true,
-   "raw_name": "株式会社総合生活サービス",
-   "securities_code": null,
-   "listed": false,
-   "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
-  },
   "E31205": {
    "hojin_bango": null,
    "matched": false,
    "raw_name": "酒井　誠",
-   "securities_code": null,
-   "listed": false,
-   "filer_kind_ja": "個人（組合発行者を除く）"
-  },
-  "E31206": {
-   "hojin_bango": null,
-   "matched": false,
-   "raw_name": "馬場　稔正",
    "securities_code": null,
    "listed": false,
    "filer_kind_ja": "個人（組合発行者を除く）"
@@ -48167,6 +48063,14 @@
    "hojin_bango": "7010701019678",
    "matched": true,
    "raw_name": "Ａホールディングス株式会社",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
+  },
+  "E31244": {
+   "hojin_bango": "9110001021463",
+   "matched": true,
+   "raw_name": "株式会社四条",
    "securities_code": null,
    "listed": false,
    "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
@@ -49975,8 +49879,8 @@
    "hojin_bango": "9010401049214",
    "matched": true,
    "raw_name": "あんしん保証株式会社",
-   "securities_code": "71830",
-   "listed": true,
+   "securities_code": null,
+   "listed": false,
    "filer_kind_ja": "内国法人・組合"
   },
   "E31906": {
@@ -50307,14 +50211,6 @@
    "listed": true,
    "filer_kind_ja": "内国法人・組合"
   },
-  "E32004": {
-   "hojin_bango": null,
-   "matched": false,
-   "raw_name": "ジェイコブソン　陽子",
-   "securities_code": null,
-   "listed": false,
-   "filer_kind_ja": "個人（組合発行者を除く）"
-  },
   "E32007": {
    "hojin_bango": "2010601009131",
    "matched": true,
@@ -50507,6 +50403,14 @@
    "listed": false,
    "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
   },
+  "E32057": {
+   "hojin_bango": "7010403014093",
+   "matched": true,
+   "raw_name": "伊藤忠自動車投資合同会社",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
+  },
   "E32061": {
    "hojin_bango": null,
    "matched": false,
@@ -50530,14 +50434,6 @@
    "securities_code": null,
    "listed": false,
    "filer_kind_ja": "外国法人・組合（有価証券報告書等の提出義務者以外）"
-  },
-  "E32065": {
-   "hojin_bango": "6180305008459",
-   "matched": true,
-   "raw_name": "一般社団法人大川",
-   "securities_code": null,
-   "listed": false,
-   "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
   },
   "E32069": {
    "hojin_bango": "6011001110293",
@@ -51378,14 +51274,6 @@
    "securities_code": null,
    "listed": false,
    "filer_kind_ja": "外国法人・組合（有価証券報告書等の提出義務者以外）"
-  },
-  "E32355": {
-   "hojin_bango": null,
-   "matched": false,
-   "raw_name": "柿内　和徳",
-   "securities_code": null,
-   "listed": false,
-   "filer_kind_ja": "個人（組合発行者を除く）"
   },
   "E32360": {
    "hojin_bango": null,
@@ -52635,14 +52523,6 @@
    "listed": true,
    "filer_kind_ja": "内国法人・組合"
   },
-  "E32781": {
-   "hojin_bango": "5010005025623",
-   "matched": true,
-   "raw_name": "公益財団法人Ｔａｚａｋｉ財団",
-   "securities_code": null,
-   "listed": false,
-   "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
-  },
   "E32784": {
    "hojin_bango": "5010001121120",
    "matched": true,
@@ -52658,14 +52538,6 @@
    "securities_code": null,
    "listed": false,
    "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
-  },
-  "E32790": {
-   "hojin_bango": null,
-   "matched": false,
-   "raw_name": "田中　幸夫",
-   "securities_code": null,
-   "listed": false,
-   "filer_kind_ja": "個人（組合発行者を除く）"
   },
   "E32791": {
    "hojin_bango": "6020001117934",
@@ -54131,14 +54003,6 @@
    "listed": true,
    "filer_kind_ja": "内国法人・組合"
   },
-  "E33317": {
-   "hojin_bango": null,
-   "matched": false,
-   "raw_name": "清水　則明",
-   "securities_code": null,
-   "listed": false,
-   "filer_kind_ja": "個人（組合発行者を除く）"
-  },
   "E33323": {
    "hojin_bango": "7020001042025",
    "matched": true,
@@ -54403,14 +54267,6 @@
    "listed": true,
    "filer_kind_ja": "内国法人・組合"
   },
-  "E33395": {
-   "hojin_bango": null,
-   "matched": false,
-   "raw_name": "真邉　正男",
-   "securities_code": null,
-   "listed": false,
-   "filer_kind_ja": "個人（組合発行者を除く）"
-  },
   "E33398": {
    "hojin_bango": null,
    "matched": false,
@@ -54582,7 +54438,7 @@
   "E33469": {
    "hojin_bango": "1010001146146",
    "matched": true,
-   "raw_name": "三井住友トラスト・パナソニックファイナンス株式会社",
+   "raw_name": "ＳＭＴＢリース株式会社",
    "securities_code": null,
    "listed": false,
    "filer_kind_ja": "内国法人・組合"
@@ -55027,14 +54883,6 @@
    "listed": false,
    "filer_kind_ja": "個人（組合発行者を除く）"
   },
-  "E33609": {
-   "hojin_bango": "5011001068847",
-   "matched": true,
-   "raw_name": "株式会社悠晴",
-   "securities_code": null,
-   "listed": false,
-   "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
-  },
   "E33610": {
    "hojin_bango": "9030001067804",
    "matched": true,
@@ -55186,14 +55034,6 @@
    "securities_code": "65650",
    "listed": true,
    "filer_kind_ja": "内国法人・組合"
-  },
-  "E33641": {
-   "hojin_bango": null,
-   "matched": false,
-   "raw_name": "市川俊雄",
-   "securities_code": null,
-   "listed": false,
-   "filer_kind_ja": "個人（組合発行者を除く）"
   },
   "E33642": {
    "hojin_bango": "2180303003382",
@@ -55587,14 +55427,6 @@
    "listed": false,
    "filer_kind_ja": "個人（組合発行者を除く）"
   },
-  "E33771": {
-   "hojin_bango": null,
-   "matched": false,
-   "raw_name": "近藤　保",
-   "securities_code": null,
-   "listed": false,
-   "filer_kind_ja": "個人（組合発行者を除く）"
-  },
   "E33776": {
    "hojin_bango": "1120001198713",
    "matched": true,
@@ -55802,6 +55634,14 @@
    "securities_code": null,
    "listed": false,
    "filer_kind_ja": "個人（組合発行者を除く）"
+  },
+  "E33843": {
+   "hojin_bango": null,
+   "matched": false,
+   "raw_name": "篠﨑　明",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "個人（非居住者）（組合発行者を除く）"
   },
   "E33845": {
    "hojin_bango": null,
@@ -56023,6 +55863,14 @@
    "hojin_bango": null,
    "matched": false,
    "raw_name": "宮内　仁志",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "個人（組合発行者を除く）"
+  },
+  "E33902": {
+   "hojin_bango": null,
+   "matched": false,
+   "raw_name": "髙田　俊太",
    "securities_code": null,
    "listed": false,
    "filer_kind_ja": "個人（組合発行者を除く）"
@@ -56402,14 +56250,6 @@
    "securities_code": null,
    "listed": false,
    "filer_kind_ja": "個人（組合発行者を除く）"
-  },
-  "E34038": {
-   "hojin_bango": null,
-   "matched": false,
-   "raw_name": "グレート・フォーチュン・インターナショナル・ディベロップメント・リミテッド",
-   "securities_code": null,
-   "listed": false,
-   "filer_kind_ja": "外国法人・組合（有価証券報告書等の提出義務者以外）"
   },
   "E34039": {
    "hojin_bango": null,
@@ -57315,14 +57155,6 @@
    "listed": true,
    "filer_kind_ja": "内国法人・組合"
   },
-  "E34279": {
-   "hojin_bango": "8010501031857",
-   "matched": true,
-   "raw_name": "オートメックス株式会社",
-   "securities_code": null,
-   "listed": false,
-   "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
-  },
   "E34281": {
    "hojin_bango": "6010001065944",
    "matched": true,
@@ -57478,7 +57310,7 @@
   "E34331": {
    "hojin_bango": "2010901015622",
    "matched": true,
-   "raw_name": "ブリッジインターナショナル株式会社",
+   "raw_name": "ブリッジインターナショナルグループ株式会社",
    "securities_code": "70390",
    "listed": true,
    "filer_kind_ja": "内国法人・組合"
@@ -57539,14 +57371,6 @@
    "listed": true,
    "filer_kind_ja": "内国法人・組合"
   },
-  "E34356": {
-   "hojin_bango": "2220001014801",
-   "matched": true,
-   "raw_name": "株式会社アジリスト",
-   "securities_code": null,
-   "listed": false,
-   "filer_kind_ja": "内国法人・組合"
-  },
   "E34363": {
    "hojin_bango": "9340001008231",
    "matched": true,
@@ -57579,10 +57403,10 @@
    "listed": false,
    "filer_kind_ja": "個人（組合発行者を除く）"
   },
-  "E34370": {
+  "E34369": {
    "hojin_bango": null,
    "matched": false,
-   "raw_name": "笠谷　喜代年",
+   "raw_name": "上山　伸幸",
    "securities_code": null,
    "listed": false,
    "filer_kind_ja": "個人（組合発行者を除く）"
@@ -57763,22 +57587,6 @@
    "listed": false,
    "filer_kind_ja": "個人（組合発行者を除く）"
   },
-  "E34414": {
-   "hojin_bango": null,
-   "matched": false,
-   "raw_name": "山口　茂樹",
-   "securities_code": null,
-   "listed": false,
-   "filer_kind_ja": "個人（組合発行者を除く）"
-  },
-  "E34416": {
-   "hojin_bango": null,
-   "matched": false,
-   "raw_name": "Ｓｃｉｏｎ　Ａｓｓｅｔ　Ｍａｎａｇｅｍｅｎｔ，ＬＬＣ",
-   "securities_code": null,
-   "listed": false,
-   "filer_kind_ja": "外国法人・組合（有価証券報告書等の提出義務者以外）"
-  },
   "E34418": {
    "hojin_bango": null,
    "matched": false,
@@ -57786,14 +57594,6 @@
    "securities_code": null,
    "listed": false,
    "filer_kind_ja": "外国法人・組合（有価証券報告書等の提出義務者以外）"
-  },
-  "E34419": {
-   "hojin_bango": null,
-   "matched": false,
-   "raw_name": "吉田　融正",
-   "securities_code": null,
-   "listed": false,
-   "filer_kind_ja": "個人（組合発行者を除く）"
   },
   "E34421": {
    "hojin_bango": null,
@@ -58090,14 +57890,6 @@
    "securities_code": "62320",
    "listed": true,
    "filer_kind_ja": "内国法人・組合"
-  },
-  "E34520": {
-   "hojin_bango": null,
-   "matched": false,
-   "raw_name": "ＰＯＨ　ＦＯＷ　ＬＡＩ",
-   "securities_code": null,
-   "listed": false,
-   "filer_kind_ja": "個人（組合発行者を除く）"
   },
   "E34522": {
    "hojin_bango": "7330001008449",
@@ -58659,14 +58451,6 @@
    "listed": false,
    "filer_kind_ja": "内国法人・組合"
   },
-  "E34715": {
-   "hojin_bango": null,
-   "matched": false,
-   "raw_name": "河村　幸俊",
-   "securities_code": null,
-   "listed": false,
-   "filer_kind_ja": "個人（組合発行者を除く）"
-  },
   "E34716": {
    "hojin_bango": "6200001017075",
    "matched": true,
@@ -58874,6 +58658,14 @@
    "securities_code": null,
    "listed": false,
    "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
+  },
+  "E34762": {
+   "hojin_bango": null,
+   "matched": false,
+   "raw_name": "大貫　浩",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "個人（組合発行者を除く）"
   },
   "E34767": {
    "hojin_bango": null,
@@ -59235,14 +59027,6 @@
    "listed": true,
    "filer_kind_ja": "内国法人・組合"
   },
-  "E34867": {
-   "hojin_bango": "8013201017110",
-   "matched": true,
-   "raw_name": "株式会社ブライトリンクパートナーズ",
-   "securities_code": null,
-   "listed": false,
-   "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
-  },
   "E34869": {
    "hojin_bango": null,
    "matched": false,
@@ -59250,6 +59034,14 @@
    "securities_code": null,
    "listed": false,
    "filer_kind_ja": "外国法人・組合"
+  },
+  "E34872": {
+   "hojin_bango": "3240001042196",
+   "matched": true,
+   "raw_name": "株式会社和幸",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
   },
   "E34874": {
    "hojin_bango": "1010401090522",
@@ -59587,6 +59379,14 @@
    "listed": false,
    "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
   },
+  "E34984": {
+   "hojin_bango": null,
+   "matched": false,
+   "raw_name": "酒田　義矢",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "個人（組合発行者を除く）"
+  },
   "E34988": {
    "hojin_bango": null,
    "matched": false,
@@ -59747,14 +59547,6 @@
    "listed": false,
    "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
   },
-  "E35025": {
-   "hojin_bango": null,
-   "matched": false,
-   "raw_name": "観音堂　靖",
-   "securities_code": null,
-   "listed": false,
-   "filer_kind_ja": "個人（組合発行者を除く）"
-  },
   "E35028": {
    "hojin_bango": "3011001070524",
    "matched": true,
@@ -59794,6 +59586,14 @@
    "securities_code": null,
    "listed": false,
    "filer_kind_ja": "個人（組合発行者を除く）"
+  },
+  "E35041": {
+   "hojin_bango": "4290001072964",
+   "matched": true,
+   "raw_name": "株式会社ラプリス",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
   },
   "E35044": {
    "hojin_bango": null,
@@ -59946,14 +59746,6 @@
    "securities_code": null,
    "listed": false,
    "filer_kind_ja": "内国法人・組合"
-  },
-  "E35098": {
-   "hojin_bango": null,
-   "matched": false,
-   "raw_name": "大久保　俊幸",
-   "securities_code": null,
-   "listed": false,
-   "filer_kind_ja": "個人（組合発行者を除く）"
   },
   "E35099": {
    "hojin_bango": "3010001160723",
@@ -60171,14 +59963,6 @@
    "listed": true,
    "filer_kind_ja": "内国法人・組合"
   },
-  "E35154": {
-   "hojin_bango": null,
-   "matched": false,
-   "raw_name": "ロバート　コリック",
-   "securities_code": null,
-   "listed": false,
-   "filer_kind_ja": "個人（非居住者）（組合発行者を除く）"
-  },
   "E35157": {
    "hojin_bango": "4010001154311",
    "matched": true,
@@ -60291,14 +60075,6 @@
    "listed": false,
    "filer_kind_ja": "個人（組合発行者を除く）"
   },
-  "E35185": {
-   "hojin_bango": null,
-   "matched": false,
-   "raw_name": "関戸　智行",
-   "securities_code": null,
-   "listed": false,
-   "filer_kind_ja": "個人（組合発行者を除く）"
-  },
   "E35187": {
    "hojin_bango": "1010001066022",
    "matched": true,
@@ -60387,14 +60163,6 @@
    "listed": false,
    "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
   },
-  "E35216": {
-   "hojin_bango": null,
-   "matched": false,
-   "raw_name": "Ｐｌｅｉａｄ　Ｉｎｖｅｓｔｍｅｎｔ　Ａｄｖｉｓｏｒｓ　Ｌｉｍｉｔｅｄ",
-   "securities_code": null,
-   "listed": false,
-   "filer_kind_ja": "外国法人・組合（有価証券報告書等の提出義務者以外）"
-  },
   "E35219": {
    "hojin_bango": null,
    "matched": false,
@@ -60410,14 +60178,6 @@
    "securities_code": "42510",
    "listed": true,
    "filer_kind_ja": "内国法人・組合"
-  },
-  "E35222": {
-   "hojin_bango": "5021001065810",
-   "matched": true,
-   "raw_name": "株式会社髙井企画",
-   "securities_code": null,
-   "listed": false,
-   "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
   },
   "E35223": {
    "hojin_bango": "6010401144827",
@@ -61043,6 +60803,14 @@
    "listed": true,
    "filer_kind_ja": "内国法人・組合"
   },
+  "E35357": {
+   "hojin_bango": null,
+   "matched": false,
+   "raw_name": "齋藤　陽介",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "個人（組合発行者を除く）"
+  },
   "E35359": {
    "hojin_bango": null,
    "matched": false,
@@ -61154,14 +60922,6 @@
    "securities_code": null,
    "listed": false,
    "filer_kind_ja": "個人（組合発行者を除く）"
-  },
-  "E35391": {
-   "hojin_bango": "4010901035577",
-   "matched": true,
-   "raw_name": "株式会社　ＨＯＳＯＫＡＷＡ",
-   "securities_code": null,
-   "listed": false,
-   "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
   },
   "E35392": {
    "hojin_bango": null,
@@ -61419,14 +61179,6 @@
    "listed": false,
    "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
   },
-  "E35468": {
-   "hojin_bango": "2700150005024",
-   "matched": true,
-   "raw_name": "ディパーチャー・リミテッド",
-   "securities_code": null,
-   "listed": false,
-   "filer_kind_ja": "外国法人・組合（有価証券報告書等の提出義務者以外）"
-  },
   "E35470": {
    "hojin_bango": "3120001157048",
    "matched": true,
@@ -61439,6 +61191,14 @@
    "hojin_bango": null,
    "matched": false,
    "raw_name": "中谷　正和",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "個人（組合発行者を除く）"
+  },
+  "E35476": {
+   "hojin_bango": null,
+   "matched": false,
+   "raw_name": "酒本　徹",
    "securities_code": null,
    "listed": false,
    "filer_kind_ja": "個人（組合発行者を除く）"
@@ -61811,6 +61571,14 @@
    "listed": false,
    "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
   },
+  "E35577": {
+   "hojin_bango": "8013401001509",
+   "matched": true,
+   "raw_name": "パシフィックコンサルタンツ株式会社",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
+  },
   "E35578": {
    "hojin_bango": "6290001042164",
    "matched": true,
@@ -61979,6 +61747,14 @@
    "listed": false,
    "filer_kind_ja": "個人（組合発行者を除く）"
   },
+  "E35628": {
+   "hojin_bango": "6010401149082",
+   "matched": true,
+   "raw_name": "ＩＷ．ＤＸパートナーズ株式会社",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
+  },
   "E35629": {
    "hojin_bango": "2013301045082",
    "matched": true,
@@ -62123,14 +61899,6 @@
    "listed": false,
    "filer_kind_ja": "個人（組合発行者を除く）"
   },
-  "E35680": {
-   "hojin_bango": "4010001154237",
-   "matched": true,
-   "raw_name": "アイ・シグマ・パートナーズ株式会社",
-   "securities_code": null,
-   "listed": false,
-   "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
-  },
   "E35681": {
    "hojin_bango": "7430001078663",
    "matched": true,
@@ -62138,14 +61906,6 @@
    "securities_code": null,
    "listed": false,
    "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
-  },
-  "E35691": {
-   "hojin_bango": null,
-   "matched": false,
-   "raw_name": "韓保維",
-   "securities_code": null,
-   "listed": false,
-   "filer_kind_ja": "個人（非居住者）（組合発行者を除く）"
   },
   "E35692": {
    "hojin_bango": null,
@@ -62251,14 +62011,6 @@
    "listed": false,
    "filer_kind_ja": "個人（組合発行者を除く）"
   },
-  "E35724": {
-   "hojin_bango": null,
-   "matched": false,
-   "raw_name": "アレッツ・シーオーイー・リミテッド",
-   "securities_code": null,
-   "listed": false,
-   "filer_kind_ja": "外国法人・組合（有価証券報告書等の提出義務者以外）"
-  },
   "E35725": {
    "hojin_bango": "1120001137869",
    "matched": true,
@@ -62314,14 +62066,6 @@
    "securities_code": null,
    "listed": false,
    "filer_kind_ja": "外国法人・組合（有価証券報告書等の提出義務者以外）"
-  },
-  "E35751": {
-   "hojin_bango": "9011101084807",
-   "matched": true,
-   "raw_name": "ＮＡＶＥＲ　Ｊ．Ｈｕｂ株式会社",
-   "securities_code": null,
-   "listed": false,
-   "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
   },
   "E35752": {
    "hojin_bango": null,
@@ -62455,8 +62199,8 @@
    "hojin_bango": "6210001015400",
    "matched": true,
    "raw_name": "株式会社ＡＳＮＯＶＡ",
-   "securities_code": "92230",
-   "listed": true,
+   "securities_code": null,
+   "listed": false,
    "filer_kind_ja": "内国法人・組合"
   },
   "E35798": {
@@ -62658,6 +62402,14 @@
    "securities_code": null,
    "listed": false,
    "filer_kind_ja": "個人（組合発行者を除く）"
+  },
+  "E35865": {
+   "hojin_bango": null,
+   "matched": false,
+   "raw_name": "フイジョウデサイエスプイオートモーティブカンパニーリミテッド",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "外国法人・組合（有価証券報告書等の提出義務者以外）"
   },
   "E35866": {
    "hojin_bango": null,
@@ -62899,14 +62651,6 @@
    "listed": false,
    "filer_kind_ja": "個人（組合発行者を除く）"
   },
-  "E35923": {
-   "hojin_bango": null,
-   "matched": false,
-   "raw_name": "日下　寛之",
-   "securities_code": null,
-   "listed": false,
-   "filer_kind_ja": "個人（組合発行者を除く）"
-  },
   "E35924": {
    "hojin_bango": null,
    "matched": false,
@@ -62994,6 +62738,14 @@
    "securities_code": null,
    "listed": false,
    "filer_kind_ja": "個人（組合発行者を除く）"
+  },
+  "E35940": {
+   "hojin_bango": null,
+   "matched": false,
+   "raw_name": "オガサワラコーエルティーディー",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "外国法人・組合（有価証券報告書等の提出義務者以外）"
   },
   "E35941": {
    "hojin_bango": "4011101040211",
@@ -63787,6 +63539,14 @@
    "listed": false,
    "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
   },
+  "E36151": {
+   "hojin_bango": null,
+   "matched": false,
+   "raw_name": "大畠　元紀",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "個人（組合発行者を除く）"
+  },
   "E36152": {
    "hojin_bango": null,
    "matched": false,
@@ -63794,14 +63554,6 @@
    "securities_code": null,
    "listed": false,
    "filer_kind_ja": "個人（組合発行者を除く）"
-  },
-  "E36153": {
-   "hojin_bango": null,
-   "matched": false,
-   "raw_name": "エスジー　クラインオート　ハンブロス　トラスト　カンパニー（シーアイ）リミテッド",
-   "securities_code": null,
-   "listed": false,
-   "filer_kind_ja": "外国法人・組合（有価証券報告書等の提出義務者以外）"
   },
   "E36154": {
    "hojin_bango": null,
@@ -63871,8 +63623,8 @@
    "hojin_bango": "4020001065144",
    "matched": true,
    "raw_name": "株式会社グローバルインフォメーション",
-   "securities_code": "41710",
-   "listed": true,
+   "securities_code": null,
+   "listed": false,
    "filer_kind_ja": "内国法人・組合"
   },
   "E36173": {
@@ -63891,14 +63643,6 @@
    "listed": true,
    "filer_kind_ja": "内国法人・組合"
   },
-  "E36175": {
-   "hojin_bango": null,
-   "matched": false,
-   "raw_name": "遠藤　寿彦",
-   "securities_code": null,
-   "listed": false,
-   "filer_kind_ja": "個人（組合発行者を除く）"
-  },
   "E36179": {
    "hojin_bango": null,
    "matched": false,
@@ -63911,14 +63655,6 @@
    "hojin_bango": null,
    "matched": false,
    "raw_name": "神谷　アントニオ",
-   "securities_code": null,
-   "listed": false,
-   "filer_kind_ja": "個人（組合発行者を除く）"
-  },
-  "E36182": {
-   "hojin_bango": null,
-   "matched": false,
-   "raw_name": "森垣　昭",
    "securities_code": null,
    "listed": false,
    "filer_kind_ja": "個人（組合発行者を除く）"
@@ -63967,14 +63703,6 @@
    "hojin_bango": null,
    "matched": false,
    "raw_name": "小野　悟",
-   "securities_code": null,
-   "listed": false,
-   "filer_kind_ja": "個人（組合発行者を除く）"
-  },
-  "E36195": {
-   "hojin_bango": null,
-   "matched": false,
-   "raw_name": "山本　敬介",
    "securities_code": null,
    "listed": false,
    "filer_kind_ja": "個人（組合発行者を除く）"
@@ -64715,14 +64443,6 @@
    "listed": true,
    "filer_kind_ja": "内国法人・組合"
   },
-  "E36394": {
-   "hojin_bango": "6210001018295",
-   "matched": true,
-   "raw_name": "サカイ繊維株式会社",
-   "securities_code": null,
-   "listed": false,
-   "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
-  },
   "E36396": {
    "hojin_bango": null,
    "matched": false,
@@ -64746,14 +64466,6 @@
    "securities_code": "41790",
    "listed": true,
    "filer_kind_ja": "内国法人・組合"
-  },
-  "E36399": {
-   "hojin_bango": "3010401060060",
-   "matched": true,
-   "raw_name": "グローバル・イノベーション・パートナーズ株式会社",
-   "securities_code": null,
-   "listed": false,
-   "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
   },
   "E36402": {
    "hojin_bango": "3010001213290",
@@ -64787,14 +64499,6 @@
    "listed": true,
    "filer_kind_ja": "内国法人・組合"
   },
-  "E36408": {
-   "hojin_bango": null,
-   "matched": false,
-   "raw_name": "Ａｓｌｅａｄ　Ｓｔｒａｔｅｇｉｃ　Ｖａｌｕｅ　Ｆｕｎｄ",
-   "securities_code": null,
-   "listed": false,
-   "filer_kind_ja": "外国法人・組合（有価証券報告書等の提出義務者以外）"
-  },
   "E36410": {
    "hojin_bango": "5013301026121",
    "matched": true,
@@ -64810,14 +64514,6 @@
    "securities_code": "50740",
    "listed": true,
    "filer_kind_ja": "内国法人・組合"
-  },
-  "E36414": {
-   "hojin_bango": "2011101089911",
-   "matched": true,
-   "raw_name": "ＬＩＮＥ株式会社",
-   "securities_code": null,
-   "listed": false,
-   "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
   },
   "E36420": {
    "hojin_bango": "8010001178760",
@@ -65307,14 +65003,6 @@
    "listed": false,
    "filer_kind_ja": "外国法人・組合（有価証券報告書等の提出義務者以外）"
   },
-  "E36542": {
-   "hojin_bango": null,
-   "matched": false,
-   "raw_name": "行川　久代",
-   "securities_code": null,
-   "listed": false,
-   "filer_kind_ja": "個人（組合発行者を除く）"
-  },
   "E36545": {
    "hojin_bango": "1260001018766",
    "matched": true,
@@ -65371,14 +65059,6 @@
    "listed": false,
    "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
   },
-  "E36563": {
-   "hojin_bango": null,
-   "matched": false,
-   "raw_name": "有田　佳史",
-   "securities_code": null,
-   "listed": false,
-   "filer_kind_ja": "個人（組合発行者を除く）"
-  },
   "E36566": {
    "hojin_bango": null,
    "matched": false,
@@ -65423,14 +65103,6 @@
    "hojin_bango": null,
    "matched": false,
    "raw_name": "横治　祐介",
-   "securities_code": null,
-   "listed": false,
-   "filer_kind_ja": "個人（組合発行者を除く）"
-  },
-  "E36580": {
-   "hojin_bango": null,
-   "matched": false,
-   "raw_name": "柳　先",
    "securities_code": null,
    "listed": false,
    "filer_kind_ja": "個人（組合発行者を除く）"
@@ -65851,14 +65523,6 @@
    "listed": false,
    "filer_kind_ja": "外国法人・組合（有価証券報告書等の提出義務者以外）"
   },
-  "E36676": {
-   "hojin_bango": null,
-   "matched": false,
-   "raw_name": "竹内　猛",
-   "securities_code": null,
-   "listed": false,
-   "filer_kind_ja": "個人（組合発行者を除く）"
-  },
   "E36682": {
    "hojin_bango": null,
    "matched": false,
@@ -66139,14 +65803,6 @@
    "listed": true,
    "filer_kind_ja": "内国法人・組合"
   },
-  "E36752": {
-   "hojin_bango": null,
-   "matched": false,
-   "raw_name": "齋藤　佐和子",
-   "securities_code": null,
-   "listed": false,
-   "filer_kind_ja": "個人（組合発行者を除く）"
-  },
   "E36753": {
    "hojin_bango": null,
    "matched": false,
@@ -66263,30 +65919,6 @@
    "hojin_bango": "7010001218559",
    "matched": true,
    "raw_name": "明治安田生命第１回劣後ローン流動化株式会社",
-   "securities_code": null,
-   "listed": false,
-   "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
-  },
-  "E36776": {
-   "hojin_bango": "6010001217933",
-   "matched": true,
-   "raw_name": "株式会社ＮＥＸＴ－О",
-   "securities_code": null,
-   "listed": false,
-   "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
-  },
-  "E36778": {
-   "hojin_bango": "6010403025406",
-   "matched": true,
-   "raw_name": "ＭＡＲ　ＩＯＪ合同会社",
-   "securities_code": null,
-   "listed": false,
-   "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
-  },
-  "E36779": {
-   "hojin_bango": "5010403025407",
-   "matched": true,
-   "raw_name": "ＩＲＥ　ＩＯＪ合同会社",
    "securities_code": null,
    "listed": false,
    "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
@@ -66447,14 +66079,6 @@
    "hojin_bango": "5180003017135",
    "matched": true,
    "raw_name": "一徳合同会社",
-   "securities_code": null,
-   "listed": false,
-   "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
-  },
-  "E36814": {
-   "hojin_bango": "3010001170243",
-   "matched": true,
-   "raw_name": "ＭＳＤ企業投資株式会社",
    "securities_code": null,
    "listed": false,
    "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
@@ -66651,14 +66275,6 @@
    "listed": true,
    "filer_kind_ja": "内国法人・組合"
   },
-  "E36863": {
-   "hojin_bango": "1010001219117",
-   "matched": true,
-   "raw_name": "株式会社マルハン太平洋クラブインベストメント",
-   "securities_code": null,
-   "listed": false,
-   "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
-  },
   "E36864": {
    "hojin_bango": null,
    "matched": false,
@@ -66682,14 +66298,6 @@
    "securities_code": null,
    "listed": false,
    "filer_kind_ja": "個人（組合発行者を除く）"
-  },
-  "E36874": {
-   "hojin_bango": "7040002021851",
-   "matched": true,
-   "raw_name": "有限会社ケイアンドアイ",
-   "securities_code": null,
-   "listed": false,
-   "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
   },
   "E36875": {
    "hojin_bango": "9011001092876",
@@ -66787,14 +66395,6 @@
    "listed": true,
    "filer_kind_ja": "内国法人・組合"
   },
-  "E36899": {
-   "hojin_bango": "7120001237242",
-   "matched": true,
-   "raw_name": "山田マーケティング株式会社",
-   "securities_code": null,
-   "listed": false,
-   "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
-  },
   "E36901": {
    "hojin_bango": "7011001051017",
    "matched": true,
@@ -66802,14 +66402,6 @@
    "securities_code": "43740",
    "listed": true,
    "filer_kind_ja": "内国法人・組合"
-  },
-  "E36902": {
-   "hojin_bango": "1021001073395",
-   "matched": true,
-   "raw_name": "ＡＫコーポレーション株式会社",
-   "securities_code": null,
-   "listed": false,
-   "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
   },
   "E36903": {
    "hojin_bango": null,
@@ -66835,14 +66427,6 @@
    "listed": false,
    "filer_kind_ja": "個人（組合発行者を除く）"
   },
-  "E36907": {
-   "hojin_bango": "2010401078062",
-   "matched": true,
-   "raw_name": "ＭＥＴＡ　Ｃａｐｉｔａｌ株式会社",
-   "securities_code": null,
-   "listed": false,
-   "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
-  },
   "E36911": {
    "hojin_bango": null,
    "matched": false,
@@ -66858,14 +66442,6 @@
    "securities_code": null,
    "listed": false,
    "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
-  },
-  "E36914": {
-   "hojin_bango": null,
-   "matched": false,
-   "raw_name": "フーリハン・ローキー・インク",
-   "securities_code": null,
-   "listed": false,
-   "filer_kind_ja": "外国法人・組合（有価証券報告書等の提出義務者以外）"
   },
   "E36918": {
    "hojin_bango": null,
@@ -66923,14 +66499,6 @@
    "listed": false,
    "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
   },
-  "E36931": {
-   "hojin_bango": "4130001069811",
-   "matched": true,
-   "raw_name": "株式会社紳士服中西",
-   "securities_code": null,
-   "listed": false,
-   "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
-  },
   "E36932": {
    "hojin_bango": null,
    "matched": false,
@@ -66946,14 +66514,6 @@
    "securities_code": null,
    "listed": false,
    "filer_kind_ja": "個人（組合発行者を除く）"
-  },
-  "E36935": {
-   "hojin_bango": "5021001044112",
-   "matched": true,
-   "raw_name": "東芝ライテック株式会社",
-   "securities_code": null,
-   "listed": false,
-   "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
   },
   "E36936": {
    "hojin_bango": null,
@@ -67082,14 +66642,6 @@
    "securities_code": null,
    "listed": false,
    "filer_kind_ja": "個人（組合発行者を除く）"
-  },
-  "E36960": {
-   "hojin_bango": "5320005009685",
-   "matched": true,
-   "raw_name": "公益財団法人穴見保雄財団",
-   "securities_code": null,
-   "listed": false,
-   "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
   },
   "E36961": {
    "hojin_bango": "8011301019084",
@@ -67251,14 +66803,6 @@
    "listed": false,
    "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
   },
-  "E36995": {
-   "hojin_bango": null,
-   "matched": false,
-   "raw_name": "清水　亘",
-   "securities_code": null,
-   "listed": false,
-   "filer_kind_ja": "個人（組合発行者を除く）"
-  },
   "E36997": {
    "hojin_bango": "4060001012893",
    "matched": true,
@@ -67282,14 +66826,6 @@
    "securities_code": null,
    "listed": false,
    "filer_kind_ja": "外国法人・組合（有価証券報告書等の提出義務者以外）"
-  },
-  "E37003": {
-   "hojin_bango": null,
-   "matched": false,
-   "raw_name": "岩間　健太郎",
-   "securities_code": null,
-   "listed": false,
-   "filer_kind_ja": "個人（組合発行者を除く）"
   },
   "E37004": {
    "hojin_bango": "2010101010903",
@@ -67355,14 +66891,6 @@
    "listed": false,
    "filer_kind_ja": "個人（組合発行者を除く）"
   },
-  "E37023": {
-   "hojin_bango": "9010401042202",
-   "matched": true,
-   "raw_name": "リーテイルブランディング株式会社",
-   "securities_code": null,
-   "listed": false,
-   "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
-  },
   "E37024": {
    "hojin_bango": null,
    "matched": false,
@@ -67399,22 +66927,6 @@
    "hojin_bango": null,
    "matched": false,
    "raw_name": "河原　聡",
-   "securities_code": null,
-   "listed": false,
-   "filer_kind_ja": "個人（組合発行者を除く）"
-  },
-  "E37040": {
-   "hojin_bango": null,
-   "matched": false,
-   "raw_name": "宮田　萌美",
-   "securities_code": null,
-   "listed": false,
-   "filer_kind_ja": "個人（組合発行者を除く）"
-  },
-  "E37041": {
-   "hojin_bango": null,
-   "matched": false,
-   "raw_name": "宮田　あや",
    "securities_code": null,
    "listed": false,
    "filer_kind_ja": "個人（組合発行者を除く）"
@@ -67523,14 +67035,6 @@
    "listed": false,
    "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
   },
-  "E37065": {
-   "hojin_bango": null,
-   "matched": false,
-   "raw_name": "神山　隆志",
-   "securities_code": null,
-   "listed": false,
-   "filer_kind_ja": "個人（組合発行者を除く）"
-  },
   "E37066": {
    "hojin_bango": null,
    "matched": false,
@@ -67586,14 +67090,6 @@
    "securities_code": null,
    "listed": false,
    "filer_kind_ja": "外国法人・組合（有価証券報告書等の提出義務者以外）"
-  },
-  "E37076": {
-   "hojin_bango": "7130001018427",
-   "matched": true,
-   "raw_name": "株式会社ネットアイアールディー",
-   "securities_code": null,
-   "listed": false,
-   "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
   },
   "E37077": {
    "hojin_bango": null,
@@ -68531,14 +68027,6 @@
    "listed": false,
    "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
   },
-  "E37276": {
-   "hojin_bango": "5120001034550",
-   "matched": true,
-   "raw_name": "フローバル株式会社",
-   "securities_code": null,
-   "listed": false,
-   "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
-  },
   "E37277": {
    "hojin_bango": null,
    "matched": false,
@@ -68958,7 +68446,7 @@
   "E37376": {
    "hojin_bango": null,
    "matched": false,
-   "raw_name": "Ａｓｏ　Ｇｒｏｕｐ　Ｌｉｍｉｔｅｄ",
+   "raw_name": "ＡＳＯ　ＧＲＯＵＰ　Ｌｉｍｉｔｅｄ",
    "securities_code": null,
    "listed": false,
    "filer_kind_ja": "外国法人・組合（有価証券報告書等の提出義務者以外）"
@@ -70662,7 +70150,7 @@
   "E37740": {
    "hojin_bango": "2120901017335",
    "matched": true,
-   "raw_name": "マイクロ波化学株式会社",
+   "raw_name": "ＭＷＣＣ株式会社",
    "securities_code": "92270",
    "listed": true,
    "filer_kind_ja": "内国法人・組合"
@@ -72043,6 +71531,14 @@
    "listed": false,
    "filer_kind_ja": "個人（組合発行者を除く）"
   },
+  "E38029": {
+   "hojin_bango": null,
+   "matched": false,
+   "raw_name": "松村　里恵",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "個人（組合発行者を除く）"
+  },
   "E38030": {
    "hojin_bango": null,
    "matched": false,
@@ -72754,6 +72250,14 @@
    "securities_code": null,
    "listed": false,
    "filer_kind_ja": "個人（組合発行者を除く）"
+  },
+  "E38173": {
+   "hojin_bango": null,
+   "matched": false,
+   "raw_name": "ヴァサンタ　マスター　ファンド　ピーティーイー　エルティディ",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "外国法人・組合（有価証券報告書等の提出義務者以外）"
   },
   "E38174": {
    "hojin_bango": null,
@@ -73968,7 +73472,7 @@
    "matched": true,
    "raw_name": "ａｋｉｐｐａ株式会社",
    "securities_code": null,
-   "listed": false,
+   "listed": true,
    "filer_kind_ja": "内国法人・組合"
   },
   "E38413": {
@@ -73990,7 +73494,7 @@
   "E38415": {
    "hojin_bango": "8010401144916",
    "matched": true,
-   "raw_name": "ＶＩＮＴＡＧＥ　ＣＡＶＥ　ＴＯＫＹＯ　株式会社",
+   "raw_name": "ＶＩＮＴＡＧＥ　ＣＡＶＥ　ＣＡＰＩＴＡＬ　株式会社",
    "securities_code": null,
    "listed": false,
    "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
@@ -76011,6 +75515,14 @@
    "listed": false,
    "filer_kind_ja": "個人（組合発行者を除く）"
   },
+  "E38817": {
+   "hojin_bango": "4130001022118",
+   "matched": true,
+   "raw_name": "株式会社ハウズ",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
+  },
   "E38818": {
    "hojin_bango": "3120001251767",
    "matched": true,
@@ -76718,7 +76230,7 @@
   "E38968": {
    "hojin_bango": "7010403030586",
    "matched": true,
-   "raw_name": "合同会社ＳＹマネジメント",
+   "raw_name": "株式会社ＳＹマネジメント",
    "securities_code": null,
    "listed": false,
    "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
@@ -77606,7 +77118,7 @@
   "E39174": {
    "hojin_bango": "9010401173716",
    "matched": true,
-   "raw_name": "ＡＲＴＳ－１株式会社",
+   "raw_name": "株式会社ＩＪＴＴ",
    "securities_code": null,
    "listed": false,
    "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
@@ -83503,8 +83015,8 @@
    "hojin_bango": "5011101091121",
    "matched": true,
    "raw_name": "かがやきホールディングス株式会社",
-   "securities_code": null,
-   "listed": false,
+   "securities_code": "624A0",
+   "listed": true,
    "filer_kind_ja": "内国法人・組合"
   },
   "E40407": {
@@ -83586,6 +83098,14 @@
    "securities_code": null,
    "listed": false,
    "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
+  },
+  "E40418": {
+   "hojin_bango": null,
+   "matched": false,
+   "raw_name": "稲垣　靖",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "個人（組合発行者を除く）"
   },
   "E40419": {
    "hojin_bango": null,
@@ -85196,8 +84716,8 @@
    "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
   },
   "E40736": {
-   "hojin_bango": null,
-   "matched": false,
+   "hojin_bango": "5030001168960",
+   "matched": true,
    "raw_name": "株式会社ブルーゾーンホールディングス",
    "securities_code": "417A0",
    "listed": true,
@@ -85867,6 +85387,14 @@
    "listed": true,
    "filer_kind_ja": "内国法人・組合"
   },
+  "E40881": {
+   "hojin_bango": "6260001038834",
+   "matched": true,
+   "raw_name": "株式会社ウエストテイルズ",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
+  },
   "E40882": {
    "hojin_bango": null,
    "matched": false,
@@ -86335,8 +85863,8 @@
    "hojin_bango": "1260001010384",
    "matched": true,
    "raw_name": "株式会社オーディオストック",
-   "securities_code": null,
-   "listed": false,
+   "securities_code": "621A0",
+   "listed": true,
    "filer_kind_ja": "内国法人・組合"
   },
   "E40971": {
@@ -87371,6 +86899,14 @@
    "listed": false,
    "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
   },
+  "E41186": {
+   "hojin_bango": null,
+   "matched": false,
+   "raw_name": "ラックスシェア・プレシジョン・ケイマン・リミテッド",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "外国法人・組合（有価証券報告書等の提出義務者以外）"
+  },
   "E41188": {
    "hojin_bango": null,
    "matched": false,
@@ -88399,6 +87935,14 @@
    "hojin_bango": "5010403036916",
    "matched": true,
    "raw_name": "ＮＳＳＫ－ＧＡＭＭＡ２合同会社",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
+  },
+  "E41411": {
+   "hojin_bango": "2010401093276",
+   "matched": true,
+   "raw_name": "フィデリティ・マネジメント・アンド・リサーチ・ジャパン株式会社",
    "securities_code": null,
    "listed": false,
    "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
@@ -89591,8 +89135,8 @@
    "hojin_bango": null,
    "matched": false,
    "raw_name": "キューデンホールディングス株式会社",
-   "securities_code": null,
-   "listed": false,
+   "securities_code": "642A0",
+   "listed": true,
    "filer_kind_ja": "内国法人・組合"
   },
   "E41697": {
@@ -89647,8 +89191,8 @@
    "hojin_bango": "2290001018911",
    "matched": true,
    "raw_name": "株式会社レイヤード",
-   "securities_code": null,
-   "listed": false,
+   "securities_code": "634A0",
+   "listed": true,
    "filer_kind_ja": "内国法人・組合"
   },
   "E41718": {
@@ -89795,6 +89339,14 @@
    "listed": false,
    "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
   },
+  "E41779": {
+   "hojin_bango": "3110001035915",
+   "matched": true,
+   "raw_name": "株式会社ＤａＩ",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
+  },
   "E41781": {
    "hojin_bango": "1150001025105",
    "matched": true,
@@ -89828,11 +89380,11 @@
    "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
   },
   "E41786": {
-   "hojin_bango": null,
-   "matched": false,
+   "hojin_bango": "9180001173760",
+   "matched": true,
    "raw_name": "株式会社ＡＳＮＯＶＡ　Ｃｏｍｐａｎｉｅｓ",
-   "securities_code": null,
-   "listed": false,
+   "securities_code": "640A0",
+   "listed": true,
    "filer_kind_ja": "内国法人・組合"
   },
   "E41787": {
@@ -89923,6 +89475,14 @@
    "listed": false,
    "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
   },
+  "E41809": {
+   "hojin_bango": null,
+   "matched": false,
+   "raw_name": "Ａｒａｍｃｏ　Ｄｏｗｎｓｔｒｅａｍ　Ａｓｉａ　Ｐｔｅ．　Ｌｔｄ．",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "外国法人・組合（有価証券報告書等の提出義務者以外）"
+  },
   "E41812": {
    "hojin_bango": null,
    "matched": false,
@@ -89970,6 +89530,14 @@
    "securities_code": "589A0",
    "listed": true,
    "filer_kind_ja": "内国法人・組合"
+  },
+  "E41848": {
+   "hojin_bango": "9020001150866",
+   "matched": true,
+   "raw_name": "株式会社Ｗ",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
   },
   "E41849": {
    "hojin_bango": "1010401196591",
@@ -90115,6 +89683,14 @@
    "listed": false,
    "filer_kind_ja": "内国法人・組合"
   },
+  "E41897": {
+   "hojin_bango": null,
+   "matched": false,
+   "raw_name": "八木　隆夫",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "個人（組合発行者を除く）"
+  },
   "E41898": {
    "hojin_bango": null,
    "matched": false,
@@ -90136,7 +89712,7 @@
    "matched": false,
    "raw_name": "インベスコＱＱＱトラスト　シリーズ１",
    "securities_code": null,
-   "listed": false,
+   "listed": true,
    "filer_kind_ja": "外国法人・組合"
   },
   "E41902": {
@@ -90307,6 +89883,14 @@
    "listed": false,
    "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
   },
+  "E41939": {
+   "hojin_bango": "5013301055847",
+   "matched": true,
+   "raw_name": "株式会社Ｋ８９１",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
+  },
   "E41943": {
    "hojin_bango": "2010005041350",
    "matched": true,
@@ -90347,12 +89931,20 @@
    "listed": false,
    "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
   },
+  "E41956": {
+   "hojin_bango": null,
+   "matched": false,
+   "raw_name": "梶尾　祐司",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "個人（組合発行者を除く）"
+  },
   "E41959": {
    "hojin_bango": "1011101058355",
    "matched": true,
    "raw_name": "株式会社ベルテックス",
-   "securities_code": null,
-   "listed": false,
+   "securities_code": "623A0",
+   "listed": true,
    "filer_kind_ja": "内国法人・組合"
   },
   "E41960": {
@@ -90435,6 +90027,14 @@
    "listed": false,
    "filer_kind_ja": "外国法人・組合（有価証券報告書等の提出義務者以外）"
   },
+  "E41975": {
+   "hojin_bango": "4010001266040",
+   "matched": true,
+   "raw_name": "株式会社ＢＣＪ－１１０",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
+  },
   "E41976": {
    "hojin_bango": "8120001038672",
    "matched": true,
@@ -90466,6 +90066,14 @@
    "securities_code": null,
    "listed": false,
    "filer_kind_ja": "外国政府等"
+  },
+  "E41989": {
+   "hojin_bango": null,
+   "matched": false,
+   "raw_name": "Ｄａｎｉｅｌ　Ｊ．　Ｅｄｅｌｍａｎ，　Ｉｎｃ．",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "外国法人・組合（有価証券報告書等の提出義務者以外）"
   },
   "E41991": {
    "hojin_bango": null,
@@ -90511,8 +90119,8 @@
    "hojin_bango": "6010001217933",
    "matched": true,
    "raw_name": "株式会社オリバー",
-   "securities_code": null,
-   "listed": false,
+   "securities_code": "619A0",
+   "listed": true,
    "filer_kind_ja": "内国法人・組合"
   },
   "E42002": {
@@ -90578,6 +90186,14 @@
    "securities_code": null,
    "listed": false,
    "filer_kind_ja": "個人（組合発行者を除く）"
+  },
+  "E42015": {
+   "hojin_bango": "7010401197337",
+   "matched": true,
+   "raw_name": "Ｌｕｍｉｎａ　Ｊａｐａｎ　Ａｃｑｕｉｓｉｔｉｏｎ株式会社",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
   },
   "E42018": {
    "hojin_bango": "3010001084369",
@@ -90658,6 +90274,14 @@
    "securities_code": null,
    "listed": false,
    "filer_kind_ja": "個人（組合発行者を除く）"
+  },
+  "E42031": {
+   "hojin_bango": "5011001092137",
+   "matched": true,
+   "raw_name": "株式会社シティインデックスフィフス",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
   },
   "E42032": {
    "hojin_bango": null,
@@ -90771,6 +90395,14 @@
    "listed": false,
    "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
   },
+  "E42055": {
+   "hojin_bango": null,
+   "matched": false,
+   "raw_name": "中川　龍太郎",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "個人（組合発行者を除く）"
+  },
   "E42056": {
    "hojin_bango": "4010001111386",
    "matched": true,
@@ -90783,16 +90415,16 @@
    "hojin_bango": "1010401101634",
    "matched": true,
    "raw_name": "株式会社ＫＯＭＰＥＩＴＯ",
-   "securities_code": null,
-   "listed": false,
+   "securities_code": "618A0",
+   "listed": true,
    "filer_kind_ja": "内国法人・組合"
   },
   "E42058": {
    "hojin_bango": "9011001119027",
    "matched": true,
    "raw_name": "株式会社Ｓｋｙｆａｌｌ",
-   "securities_code": null,
-   "listed": false,
+   "securities_code": "625A0",
+   "listed": true,
    "filer_kind_ja": "内国法人・組合"
   },
   "E42059": {
@@ -90810,6 +90442,14 @@
    "securities_code": null,
    "listed": false,
    "filer_kind_ja": "外国法人・組合（有価証券報告書等の提出義務者以外）"
+  },
+  "E42061": {
+   "hojin_bango": null,
+   "matched": false,
+   "raw_name": "松村　康平",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "個人（組合発行者を除く）"
   },
   "E42063": {
    "hojin_bango": null,
@@ -90883,9 +90523,17 @@
    "listed": false,
    "filer_kind_ja": "外国法人・組合（有価証券報告書等の提出義務者以外）"
   },
+  "E42076": {
+   "hojin_bango": "2011301004281",
+   "matched": true,
+   "raw_name": "株式会社タマス",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
+  },
   "E42077": {
-   "hojin_bango": null,
-   "matched": false,
+   "hojin_bango": "9010001267199",
+   "matched": true,
    "raw_name": "全共連第５回劣後ローン流動化株式会社",
    "securities_code": null,
    "listed": false,
@@ -90999,14 +90647,22 @@
    "hojin_bango": "8110001008288",
    "matched": true,
    "raw_name": "株式会社テクノクラフト",
-   "securities_code": null,
-   "listed": false,
+   "securities_code": "622A0",
+   "listed": true,
    "filer_kind_ja": "内国法人・組合"
   },
   "E42103": {
    "hojin_bango": null,
    "matched": false,
    "raw_name": "不二ラテックス共栄会　理事長　長谷川　英之",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "個人（組合発行者を除く）"
+  },
+  "E42106": {
+   "hojin_bango": null,
+   "matched": false,
+   "raw_name": "住吉　秀一",
    "securities_code": null,
    "listed": false,
    "filer_kind_ja": "個人（組合発行者を除く）"
@@ -91035,6 +90691,22 @@
    "listed": false,
    "filer_kind_ja": "個人（組合発行者を除く）"
   },
+  "E42117": {
+   "hojin_bango": "4130001048294",
+   "matched": true,
+   "raw_name": "株式会社Ｇａｌａｘｙ　Ｒｉｄｅｒｓ",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
+  },
+  "E42118": {
+   "hojin_bango": "8010701041763",
+   "matched": true,
+   "raw_name": "Ａｌｌｇａｎｉｚｅ　Ｈｏｌｄｉｎｇｓ株式会社",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "内国法人・組合"
+  },
   "E42119": {
    "hojin_bango": null,
    "matched": false,
@@ -91051,6 +90723,14 @@
    "listed": false,
    "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
   },
+  "E42121": {
+   "hojin_bango": "5180001143461",
+   "matched": true,
+   "raw_name": "株式会社アイビスホールディングス",
+   "securities_code": "93340",
+   "listed": true,
+   "filer_kind_ja": "内国法人・組合"
+  },
   "E42122": {
    "hojin_bango": null,
    "matched": false,
@@ -91058,6 +90738,14 @@
    "securities_code": null,
    "listed": false,
    "filer_kind_ja": "外国法人・組合（有価証券報告書等の提出義務者以外）"
+  },
+  "E42124": {
+   "hojin_bango": null,
+   "matched": false,
+   "raw_name": "小川　浩二",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "個人（組合発行者を除く）"
   },
   "E42125": {
    "hojin_bango": null,
@@ -91067,6 +90755,14 @@
    "listed": false,
    "filer_kind_ja": "個人（組合発行者を除く）"
   },
+  "E42126": {
+   "hojin_bango": "5320001020638",
+   "matched": true,
+   "raw_name": "クラサスケミカル株式会社",
+   "securities_code": "646A0",
+   "listed": true,
+   "filer_kind_ja": "内国法人・組合"
+  },
   "E42127": {
    "hojin_bango": "5010601036429",
    "matched": true,
@@ -91075,6 +90771,46 @@
    "listed": false,
    "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
   },
+  "E42129": {
+   "hojin_bango": null,
+   "matched": false,
+   "raw_name": "鈴木　俊介",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "個人（組合発行者を除く）"
+  },
+  "E42132": {
+   "hojin_bango": null,
+   "matched": false,
+   "raw_name": "間庭　裕喜",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "個人（組合発行者を除く）"
+  },
+  "E42133": {
+   "hojin_bango": null,
+   "matched": false,
+   "raw_name": "金谷　元気",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "個人（組合発行者を除く）"
+  },
+  "E42134": {
+   "hojin_bango": null,
+   "matched": false,
+   "raw_name": "川西　多美",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "個人（組合発行者を除く）"
+  },
+  "E42135": {
+   "hojin_bango": null,
+   "matched": false,
+   "raw_name": "梅野　久美恵",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "個人（組合発行者を除く）"
+  },
   "E42139": {
    "hojin_bango": null,
    "matched": false,
@@ -91082,6 +90818,654 @@
    "securities_code": null,
    "listed": false,
    "filer_kind_ja": "個人（組合発行者を除く）"
+  },
+  "E42145": {
+   "hojin_bango": null,
+   "matched": false,
+   "raw_name": "Ｓｕｄｉａｎ　Ｉｎｖｅｓｔｍｅｎｔ　Ｃｏ．　Ｌｉｍｉｔｅｄ",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "外国法人・組合（有価証券報告書等の提出義務者以外）"
+  },
+  "E42147": {
+   "hojin_bango": "6011001037859",
+   "matched": true,
+   "raw_name": "株式会社ルクレ",
+   "securities_code": null,
+   "listed": true,
+   "filer_kind_ja": "内国法人・組合"
+  },
+  "E42150": {
+   "hojin_bango": "9010401111361",
+   "matched": true,
+   "raw_name": "アークサービス株式会社",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
+  },
+  "E42151": {
+   "hojin_bango": "2010001267841",
+   "matched": true,
+   "raw_name": "朝日生命第１回シニアローン流動化株式会社",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
+  },
+  "E42152": {
+   "hojin_bango": null,
+   "matched": false,
+   "raw_name": "佐田建設伸佐会持株会　理事長　平方　宏",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "個人（組合発行者を除く）"
+  },
+  "E42154": {
+   "hojin_bango": null,
+   "matched": false,
+   "raw_name": "辻林　由行",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "個人（組合発行者を除く）"
+  },
+  "E42155": {
+   "hojin_bango": "1010701034344",
+   "matched": true,
+   "raw_name": "株式会社サムライキャピタル",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
+  },
+  "E42157": {
+   "hojin_bango": "2010001083470",
+   "matched": true,
+   "raw_name": "株式会社フューチャーエステート",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
+  },
+  "E42159": {
+   "hojin_bango": null,
+   "matched": false,
+   "raw_name": "須田　祐馬",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "個人（組合発行者を除く）"
+  },
+  "E42160": {
+   "hojin_bango": null,
+   "matched": false,
+   "raw_name": "渡邉　瞬",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "個人（組合発行者を除く）"
+  },
+  "E42161": {
+   "hojin_bango": "9010401199570",
+   "matched": true,
+   "raw_name": "ＭＰ－２６０６株式会社",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
+  },
+  "E42163": {
+   "hojin_bango": null,
+   "matched": false,
+   "raw_name": "長谷川　智一",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "個人（組合発行者を除く）"
+  },
+  "E42164": {
+   "hojin_bango": null,
+   "matched": false,
+   "raw_name": "田谷野　貴正",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "個人（組合発行者を除く）"
+  },
+  "E42165": {
+   "hojin_bango": null,
+   "matched": false,
+   "raw_name": "舩越　裕勝",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "個人（組合発行者を除く）"
+  },
+  "E42169": {
+   "hojin_bango": "5010001226241",
+   "matched": true,
+   "raw_name": "ロジスティードホールディングス株式会社",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "内国法人・組合"
+  },
+  "E42170": {
+   "hojin_bango": null,
+   "matched": false,
+   "raw_name": "Ｂｌａｃｋｗｅｌｌ　Ｃｌｏｕｄ　Ｃｏ．，　Ｌｉｍｉｔｅｄ",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "外国法人・組合（有価証券報告書等の提出義務者以外）"
+  },
+  "E42172": {
+   "hojin_bango": "7010401134273",
+   "matched": true,
+   "raw_name": "株式会社ＯＣＥＡＮ",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
+  },
+  "E42176": {
+   "hojin_bango": null,
+   "matched": false,
+   "raw_name": "東亜銀行",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "外国法人・組合"
+  },
+  "E42177": {
+   "hojin_bango": null,
+   "matched": false,
+   "raw_name": "Ａｐｏｌｌｏ　Ｐｒｉｎｃｉｐａｌ　Ｈｏｌｄｉｎｇｓ　Ａ　ＧＰ，　Ｌｔｄ．",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "外国法人・組合（有価証券報告書等の提出義務者以外）"
+  },
+  "E42178": {
+   "hojin_bango": null,
+   "matched": false,
+   "raw_name": "栂坂　昌業",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "個人（組合発行者を除く）"
+  },
+  "E42180": {
+   "hojin_bango": null,
+   "matched": false,
+   "raw_name": "Ａｐｏｌｌｏ　Ａｄｖｉｓｏｒｓ　Ｘ　（ＥＨ－ＧＰ），　ＬＬＣ",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "外国法人・組合（有価証券報告書等の提出義務者以外）"
+  },
+  "E42182": {
+   "hojin_bango": null,
+   "matched": false,
+   "raw_name": "Ａｐｏｌｌｏ　Ａｓｓｅｔ　Ｍａｎａｇｅｍｅｎｔ，　Ｉｎｃ．",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "外国法人・組合（有価証券報告書等の提出義務者以外）"
+  },
+  "E42183": {
+   "hojin_bango": null,
+   "matched": false,
+   "raw_name": "ＡＰＯ　Ｃｏｒｐ．",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "外国法人・組合（有価証券報告書等の提出義務者以外）"
+  },
+  "E42185": {
+   "hojin_bango": null,
+   "matched": false,
+   "raw_name": "赤羽根　康男",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "個人（組合発行者を除く）"
+  },
+  "E42186": {
+   "hojin_bango": null,
+   "matched": false,
+   "raw_name": "野澤　幸弘",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "個人（組合発行者を除く）"
+  },
+  "E42187": {
+   "hojin_bango": null,
+   "matched": false,
+   "raw_name": "原田　明治",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "個人（組合発行者を除く）"
+  },
+  "E42190": {
+   "hojin_bango": "9010001197108",
+   "matched": true,
+   "raw_name": "株式会社ｅｓｔｉｅ",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "内国法人・組合"
+  },
+  "E42191": {
+   "hojin_bango": "7010001267341",
+   "matched": true,
+   "raw_name": "株式会社ＩＴＧ－Ｇホールディングス",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
+  },
+  "E42192": {
+   "hojin_bango": "4011001109271",
+   "matched": true,
+   "raw_name": "株式会社ＲＥＣＥＰＴＩＯＮＩＳＴ",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "内国法人・組合"
+  },
+  "E42193": {
+   "hojin_bango": "4010401135084",
+   "matched": true,
+   "raw_name": "ＨｉＪｏＪｏ　Ｐａｒｔｎｅｒｓ株式会社",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "内国法人・組合"
+  },
+  "E42195": {
+   "hojin_bango": "8010401153446",
+   "matched": true,
+   "raw_name": "トグルホールディングス株式会社",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "内国法人・組合"
+  },
+  "E42196": {
+   "hojin_bango": "6010001260314",
+   "matched": true,
+   "raw_name": "インテグラルホールディングス株式会社",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
+  },
+  "E42197": {
+   "hojin_bango": null,
+   "matched": false,
+   "raw_name": "鈴木　健",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "個人（組合発行者を除く）"
+  },
+  "E42200": {
+   "hojin_bango": null,
+   "matched": false,
+   "raw_name": "大川　和昌",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "個人（組合発行者を除く）"
+  },
+  "E42201": {
+   "hojin_bango": "2010001004501",
+   "matched": true,
+   "raw_name": "大星ビル管理株式会社",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
+  },
+  "E42206": {
+   "hojin_bango": "4040001142544",
+   "matched": true,
+   "raw_name": "株式会社ＴＨＥ　ＣＡＥＬＵＳ",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "内国法人・組合"
+  },
+  "E42208": {
+   "hojin_bango": "1150001006154",
+   "matched": true,
+   "raw_name": "ユーハ味覚糖株式会社",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
+  },
+  "E42211": {
+   "hojin_bango": "6120001146122",
+   "matched": true,
+   "raw_name": "株式会社ＬＴＶ－Ｘ",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "内国法人・組合"
+  },
+  "E42212": {
+   "hojin_bango": "5010401201983",
+   "matched": true,
+   "raw_name": "ＴＸ１株式会社",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
+  },
+  "E42213": {
+   "hojin_bango": "5010001201475",
+   "matched": true,
+   "raw_name": "ＭａｂＧｅｎｅｓｉｓ株式会社",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "内国法人・組合"
+  },
+  "E42214": {
+   "hojin_bango": null,
+   "matched": false,
+   "raw_name": "ＲＵＩＪＩＮＧ　ＦＩＮＡＮＣＩＡＬ　ＭＡＮＡＧＥＭＥＮＴ　ＰＴＥ　ＬＴＤ",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "外国法人・組合（有価証券報告書等の提出義務者以外）"
+  },
+  "E42215": {
+   "hojin_bango": "4120001099371",
+   "matched": true,
+   "raw_name": "スタイレム株式会社",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
+  },
+  "E42219": {
+   "hojin_bango": null,
+   "matched": false,
+   "raw_name": "中山　史裕",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "個人（組合発行者を除く）"
+  },
+  "E42220": {
+   "hojin_bango": "9010003047070",
+   "matched": true,
+   "raw_name": "ＨＨＨ１合同会社",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
+  },
+  "E42221": {
+   "hojin_bango": null,
+   "matched": false,
+   "raw_name": "エスビー・エナジー・インク",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "外国法人・組合"
+  },
+  "E42224": {
+   "hojin_bango": "6010401202031",
+   "matched": true,
+   "raw_name": "株式会社ＪＧ４４",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
+  },
+  "E42227": {
+   "hojin_bango": null,
+   "matched": false,
+   "raw_name": "森谷　誠司",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "個人（組合発行者を除く）"
+  },
+  "E42228": {
+   "hojin_bango": null,
+   "matched": false,
+   "raw_name": "古賀　宣行",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "個人（組合発行者を除く）"
+  },
+  "E42233": {
+   "hojin_bango": "8011001154256",
+   "matched": true,
+   "raw_name": "株式会社ケップルグループ",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
+  },
+  "E42236": {
+   "hojin_bango": null,
+   "matched": false,
+   "raw_name": "工藤　秀一",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "個人（組合発行者を除く）"
+  },
+  "E42239": {
+   "hojin_bango": "4010903009422",
+   "matched": true,
+   "raw_name": "合同会社インテグリティ",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
+  },
+  "E42241": {
+   "hojin_bango": "7010003029772",
+   "matched": true,
+   "raw_name": "合同会社Ｔ＆ＣＯ",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
+  },
+  "E42243": {
+   "hojin_bango": null,
+   "matched": false,
+   "raw_name": "大塚　文彦",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "個人（組合発行者を除く）"
+  },
+  "E42244": {
+   "hojin_bango": "8060005009247",
+   "matched": true,
+   "raw_name": "公益財団法人ＮＳＫナカニシ財団",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
+  },
+  "E42247": {
+   "hojin_bango": "9010401174706",
+   "matched": true,
+   "raw_name": "合同会社ＴＹアセットマネジメント",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
+  },
+  "E42248": {
+   "hojin_bango": null,
+   "matched": false,
+   "raw_name": "青木　友紀",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "個人（組合発行者を除く）"
+  },
+  "E42249": {
+   "hojin_bango": null,
+   "matched": false,
+   "raw_name": "渡邉　剛",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "個人（組合発行者を除く）"
+  },
+  "E42250": {
+   "hojin_bango": "2010401028728",
+   "matched": true,
+   "raw_name": "三菱オートリース株式会社",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "内国法人・組合"
+  },
+  "E42252": {
+   "hojin_bango": "3010001249707",
+   "matched": true,
+   "raw_name": "Ｎｅｘａｉ　株式会社",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
+  },
+  "E42254": {
+   "hojin_bango": "5010001120163",
+   "matched": true,
+   "raw_name": "クランチロール株式会社",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
+  },
+  "E42255": {
+   "hojin_bango": "7050001034556",
+   "matched": true,
+   "raw_name": "株式会社ＴＯＫＩＵＭ",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "内国法人・組合"
+  },
+  "E42257": {
+   "hojin_bango": null,
+   "matched": false,
+   "raw_name": "アセアン・チャイナ・インベストメント・ファンド・スリー・エルピー",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "外国法人・組合（有価証券報告書等の提出義務者以外）"
+  },
+  "E42260": {
+   "hojin_bango": null,
+   "matched": false,
+   "raw_name": "ＢＬＵＥ　ＣＯＡＳＴ　ＣＡＰＩＴＡＬ　ＬＩＭＩＴＥＤ",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "外国法人・組合（有価証券報告書等の提出義務者以外）"
+  },
+  "E42261": {
+   "hojin_bango": "6010005042171",
+   "matched": true,
+   "raw_name": "ＫＤＸ　Ｋｏｌｅｔ投資法人",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
+  },
+  "E42262": {
+   "hojin_bango": "7010701039585",
+   "matched": true,
+   "raw_name": "道嘉Ｈｏｌｄｉｎｇ株式会社",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
+  },
+  "E42263": {
+   "hojin_bango": "2010003052647",
+   "matched": true,
+   "raw_name": "ｒｅｎｇａ第４号合同会社",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
+  },
+  "E42266": {
+   "hojin_bango": "6010001209402",
+   "matched": true,
+   "raw_name": "ＴＡＫ株式会社",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
+  },
+  "E42268": {
+   "hojin_bango": null,
+   "matched": false,
+   "raw_name": "アルテミス・アドバイザリー・パートナーズ・リミテッド",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "外国法人・組合"
+  },
+  "E42269": {
+   "hojin_bango": null,
+   "matched": false,
+   "raw_name": "吉居　大希",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "個人（組合発行者を除く）"
+  },
+  "E42271": {
+   "hojin_bango": null,
+   "matched": false,
+   "raw_name": "有馬　弘進",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "個人（組合発行者を除く）"
+  },
+  "E42272": {
+   "hojin_bango": null,
+   "matched": false,
+   "raw_name": "田澤　悟郎",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "個人（組合発行者を除く）"
+  },
+  "E42275": {
+   "hojin_bango": "5140001141758",
+   "matched": true,
+   "raw_name": "株式会社惻隠坊",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
+  },
+  "E42276": {
+   "hojin_bango": "6010001261717",
+   "matched": true,
+   "raw_name": "パシフィックコンサルタンツホールディングス株式会社",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
+  },
+  "E42277": {
+   "hojin_bango": "8010001149464",
+   "matched": true,
+   "raw_name": "ブルースカイエナジー株式会社",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
+  },
+  "E42282": {
+   "hojin_bango": null,
+   "matched": false,
+   "raw_name": "ベインキャピタル　ジェイエムエム　ツー　ジェネラル　パートナー　エルエルシー",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "外国法人・組合（有価証券報告書等の提出義務者以外）"
+  },
+  "E42287": {
+   "hojin_bango": null,
+   "matched": false,
+   "raw_name": "毛塚　牧人",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "個人（組合発行者を除く）"
+  },
+  "E42292": {
+   "hojin_bango": null,
+   "matched": false,
+   "raw_name": "冨田　佳和",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "個人（組合発行者を除く）"
+  },
+  "E42293": {
+   "hojin_bango": "7010001214120",
+   "matched": true,
+   "raw_name": "ジャパンホームシールド株式会社",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "内国法人・組合"
+  },
+  "E42302": {
+   "hojin_bango": null,
+   "matched": false,
+   "raw_name": "品香事業有限公司",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "外国法人・組合（有価証券報告書等の提出義務者以外）"
+  },
+  "E42341": {
+   "hojin_bango": null,
+   "matched": false,
+   "raw_name": "Ｓｈｉｏｄｏｍｅ　Ｐａｒｔｎｅｒｓ　Ｖ，　Ｇ．Ｐ．",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "外国法人・組合（有価証券報告書等の提出義務者以外）"
+  },
+  "E42342": {
+   "hojin_bango": null,
+   "matched": false,
+   "raw_name": "Ｓｕｎｒｉｓｅ　Ｃａｐｉｔａｌ　Ｈｏｌｄｉｎｇｓ　Ｖ　Ｌｉｍｉｔｅｄ",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "外国法人・組合（有価証券報告書等の提出義務者以外）"
   }
  }
 }
