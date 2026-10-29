@@ -1,645 +1,645 @@
 {
- "retrieved_at": "2026-09-24T10:31:31+09:00",
+ "retrieved_at": "2026-10-29T13:35:34+09:00",
  "decisions": [
   {
-   "hojin_bango": "4180002032037",
-   "homepage": "https://tomodachi-web.com/",
+   "hojin_bango": "4040005003437",
+   "homepage": "https://tenjusan.choumyouji.nichiren-shu.jp/",
+   "robots": "http_404",
+   "host": "tenjusan.choumyouji.nichiren-shu.jp",
+   "skipped": "robots",
+   "listing_n": 0
+  },
+  {
+   "hojin_bango": "4040005004154",
+   "homepage": "http://mamasan.or.jp/",
+   "robots": "http_404",
+   "host": "mamasan.or.jp",
+   "skipped": "robots",
+   "listing_n": 0
+  },
+  {
+   "hojin_bango": "4040005011142",
+   "homepage": "http://www1.ocn.ne.jp/~nyoirin/index.html",
+   "robots": "http_-1",
+   "host": "www1.ocn.ne.jp",
+   "skipped": "robots",
+   "listing_n": 0
+  },
+  {
+   "hojin_bango": "4040005011357",
+   "homepage": "https://www.tamasaki.org/",
+   "robots": "http_404",
+   "host": "www.tamasaki.org",
+   "skipped": "robots",
+   "listing_n": 0
+  },
+  {
+   "hojin_bango": "4040005012611",
+   "homepage": "https://www.choshi-shoko.co.jp/",
+   "robots": "disallow_all",
+   "host": "www.choshi-shoko.co.jp",
+   "skipped": "robots",
+   "listing_n": 0
+  },
+  {
+   "hojin_bango": "4040005012850",
+   "homepage": "https://katori-jingu.or.jp/",
    "robots": "ok",
-   "host": "tomodachi-web.com",
+   "host": "katori-jingu.or.jp",
+   "items": 18,
+   "listing_n": 3
+  },
+  {
+   "hojin_bango": "4040005013527",
+   "homepage": "https://rha.or.jp/index.html",
+   "robots": "ok",
+   "host": "rha.or.jp",
+   "items": 0,
+   "listing_n": 3
+  },
+  {
+   "hojin_bango": "4040005013881",
+   "homepage": "http://iouji1461.com/",
+   "robots": "http_404",
+   "host": "iouji1461.com",
+   "skipped": "robots",
+   "listing_n": 0
+  },
+  {
+   "hojin_bango": "4040005013898",
+   "homepage": "https://www.koufukuin.com/",
+   "robots": "ok",
+   "host": "www.koufukuin.com",
+   "items": 0,
+   "listing_n": 3
+  },
+  {
+   "hojin_bango": "4040005013923",
+   "homepage": "http://www17.plala.or.jp/tougenji/",
+   "robots": "http_-1",
+   "host": "www17.plala.or.jp",
+   "skipped": "robots",
+   "listing_n": 0
+  },
+  {
+   "hojin_bango": "4040005013948",
+   "homepage": "https://www.ryusenin.org/",
+   "robots": "ok",
+   "host": "www.ryusenin.org",
+   "skipped": "http_error",
+   "home_http": 503,
+   "listing_n": 0
+  },
+  {
+   "hojin_bango": "4040005015192",
+   "homepage": "http://www.gakekannon.jp/",
+   "robots": "http_404",
+   "host": "www.gakekannon.jp",
+   "skipped": "robots",
+   "listing_n": 0
+  },
+  {
+   "hojin_bango": "4040005018815",
+   "homepage": "https://chibadot.jp/",
+   "robots": "disallow_all",
+   "host": "chibadot.jp",
+   "skipped": "robots",
+   "listing_n": 0
+  },
+  {
+   "hojin_bango": "4040005021711",
+   "homepage": "https://yonbantai.com/",
+   "robots": "ok",
+   "host": "yonbantai.com",
+   "items": 3,
+   "listing_n": 3
+  },
+  {
+   "hojin_bango": "4050001001666",
+   "homepage": "http://www.darumanatto.jp/",
+   "robots": "http_-1",
+   "host": "www.darumanatto.jp",
+   "skipped": "robots",
+   "listing_n": 0
+  },
+  {
+   "hojin_bango": "4050001002598",
+   "homepage": "http://www.mikami-arc.co.jp/",
+   "robots": "ok",
+   "host": "www.mikami-arc.co.jp",
    "items": 0,
    "listing_n": 2
   },
   {
-   "hojin_bango": "4180002051128",
-   "homepage": "http://www.misen.ne.jp/",
+   "hojin_bango": "4050001006558",
+   "homepage": "http://www.nthk.co.jp/",
+   "robots": "http_-1",
+   "host": "www.nthk.co.jp",
+   "skipped": "robots",
+   "listing_n": 0
+  },
+  {
+   "hojin_bango": "4050001009057",
+   "homepage": "http://www.tsukubabank.co.jp/",
+   "robots": "http_404",
+   "host": "www.tsukubabank.co.jp",
+   "skipped": "robots",
+   "listing_n": 0
+  },
+  {
+   "hojin_bango": "4050001010246",
+   "homepage": "https://toseiengineering.accretech.com/",
+   "robots": "http_404",
+   "host": "toseiengineering.accretech.com",
+   "skipped": "robots",
+   "listing_n": 0
+  },
+  {
+   "hojin_bango": "4050001013975",
+   "homepage": "http://www.bandotaro.co.jp/",
    "robots": "ok",
-   "host": "www.misen.ne.jp",
+   "host": "www.bandotaro.co.jp",
+   "items": 0,
+   "listing_n": 3
+  },
+  {
+   "hojin_bango": "4050001016169",
+   "homepage": "http://homepage3.nifty.com/menzukurabu-honbu/",
+   "robots": "http_-1",
+   "host": "homepage3.nifty.com",
+   "skipped": "robots",
+   "listing_n": 0
+  },
+  {
+   "hojin_bango": "4050001020609",
+   "homepage": "https://www.nankyo.co.jp/",
+   "robots": "ok",
+   "host": "www.nankyo.co.jp",
+   "items": 6,
+   "listing_n": 3
+  },
+  {
+   "hojin_bango": "4050001021268",
+   "homepage": "http://swp.jp",
+   "robots": "http_404",
+   "host": "swp.jp",
+   "skipped": "robots",
+   "listing_n": 0
+  },
+  {
+   "hojin_bango": "4050001021499",
+   "homepage": "http://www.super-seimiya.co.jp/",
+   "robots": "ok",
+   "host": "www.super-seimiya.co.jp",
+   "items": 14,
+   "listing_n": 3
+  },
+  {
+   "hojin_bango": "4050001023917",
+   "homepage": "http://jway.jp/",
+   "robots": "http_404",
+   "host": "jway.jp",
+   "skipped": "robots",
+   "listing_n": 0
+  },
+  {
+   "hojin_bango": "4050001024551",
+   "homepage": "https://www.hitachi-hgne.co.jp/",
+   "robots": "http_404",
+   "host": "www.hitachi-hgne.co.jp",
+   "skipped": "robots",
+   "listing_n": 0
+  },
+  {
+   "hojin_bango": "4050001030129",
+   "homepage": "http://www.hitorimusume.co.jp",
+   "robots": "ok",
+   "host": "www.hitorimusume.co.jp",
+   "items": 0,
+   "listing_n": 3
+  },
+  {
+   "hojin_bango": "4050001031795",
+   "homepage": "http://www.0296.net/masuda/n/murai/kura-news.html",
+   "robots": "http_404",
+   "host": "www.0296.net",
+   "skipped": "robots",
+   "listing_n": 0
+  },
+  {
+   "hojin_bango": "4050001032513",
+   "homepage": "https://konishi.jimdosite.com/",
+   "robots": "http_403",
+   "host": "konishi.jimdosite.com",
+   "skipped": "robots",
+   "listing_n": 0
+  },
+  {
+   "hojin_bango": "4050001033148",
+   "homepage": "http://www.ppy-sauce.com/",
+   "robots": "http_-1",
+   "host": "www.ppy-sauce.com",
+   "skipped": "robots",
+   "listing_n": 0
+  },
+  {
+   "hojin_bango": "4050001034344",
+   "homepage": "http://www.akiyama-international.com/",
+   "robots": "ok",
+   "host": "www.akiyama-international.com",
+   "items": 0,
+   "listing_n": 3
+  },
+  {
+   "hojin_bango": "4050001038023",
+   "homepage": "http://www.kinbasha.net",
+   "robots": "http_-1",
+   "host": "www.kinbasha.net",
+   "skipped": "robots",
+   "listing_n": 0
+  },
+  {
+   "hojin_bango": "4050001038080",
+   "homepage": "http://www.sudohonke.co.jp/",
+   "robots": "ok",
+   "host": "www.sudohonke.co.jp",
+   "items": 0,
+   "listing_n": 3
+  },
+  {
+   "hojin_bango": "4050001054284",
+   "homepage": "https://sagamiya-kk.co.jp/sanwatousuian/",
+   "robots": "ok",
+   "host": "sagamiya-kk.co.jp",
    "items": 0,
    "listing_n": 1
   },
   {
-   "hojin_bango": "4180002068386",
-   "homepage": "https://www.sabo.co.jp/",
+   "hojin_bango": "4050002004726",
+   "homepage": "https://katuranousan.com/",
    "robots": "ok",
-   "host": "www.sabo.co.jp",
+   "host": "katuranousan.com",
+   "items": 0,
+   "listing_n": 3
+  },
+  {
+   "hojin_bango": "4050002022620",
+   "homepage": "http://www.iil-inc.com/",
+   "robots": "http_404",
+   "host": "www.iil-inc.com",
+   "skipped": "robots",
+   "listing_n": 0
+  },
+  {
+   "hojin_bango": "4050005002677",
+   "homepage": "http://www.kasama.or.jp/",
+   "robots": "http_404",
+   "host": "www.kasama.or.jp",
+   "skipped": "robots",
+   "listing_n": 0
+  },
+  {
+   "hojin_bango": "4050005002693",
+   "homepage": "https://izumotaisha.or.jp/",
+   "robots": "ok",
+   "host": "izumotaisha.or.jp",
+   "items": 0,
+   "listing_n": 3
+  },
+  {
+   "hojin_bango": "4050005003840",
+   "homepage": "http://sosyagu.jp/",
+   "robots": "ok",
+   "host": "sosyagu.jp",
+   "items": 5,
+   "listing_n": 1
+  },
+  {
+   "hojin_bango": "4050005004913",
+   "homepage": "https://www.izumi-kosodate.com/",
+   "robots": "http_404",
+   "host": "www.izumi-kosodate.com",
+   "skipped": "robots",
+   "listing_n": 0
+  },
+  {
+   "hojin_bango": "4050005004962",
+   "homepage": "https://www.tsukubasanjinja.jp/",
+   "robots": "ok",
+   "host": "www.tsukubasanjinja.jp",
+   "items": 0,
+   "listing_n": 3
+  },
+  {
+   "hojin_bango": "4050005005259",
+   "homepage": "https://www.tsukuba-fc.com/",
+   "robots": "ok",
+   "host": "www.tsukuba-fc.com",
    "items": 10,
    "listing_n": 3
   },
   {
-   "hojin_bango": "4180005000305",
-   "homepage": "https://nagoyatoshogu.com/",
-   "robots": "http_500",
-   "host": "nagoyatoshogu.com",
-   "skipped": "robots",
-   "listing_n": 0
-  },
-  {
-   "hojin_bango": "4180005000313",
-   "homepage": "https://www.banshoji.or.jp/",
-   "robots": "ok",
-   "host": "www.banshoji.or.jp",
-   "items": 1,
-   "listing_n": 2
-  },
-  {
-   "hojin_bango": "4180005000354",
-   "homepage": "http://www.wakamiya.or.jp/",
-   "robots": "http_404",
-   "host": "www.wakamiya.or.jp",
-   "skipped": "robots",
-   "listing_n": 0
-  },
-  {
-   "hojin_bango": "4180005000783",
-   "homepage": "https://www.nittaiji.or.jp/",
-   "robots": "http_404",
-   "host": "www.nittaiji.or.jp",
-   "skipped": "robots",
-   "listing_n": 0
-  },
-  {
-   "hojin_bango": "4180005001369",
-   "homepage": "http://www.nagoya.catholic.or.jp/",
-   "robots": "http_-1",
-   "host": "www.nagoya.catholic.or.jp",
-   "skipped": "robots",
-   "listing_n": 0
-  },
-  {
-   "hojin_bango": "4180005002235",
-   "homepage": "https://www.denpa.jp",
-   "robots": "http_-1",
-   "host": "www.denpa.jp",
-   "skipped": "robots",
-   "listing_n": 0
-  },
-  {
-   "hojin_bango": "4180005003448",
-   "homepage": "http://www.aichi-dourokousha.or.jp/",
-   "robots": "ok",
-   "host": "www.aichi-dourokousha.or.jp",
-   "items": 13,
-   "listing_n": 3
-  },
-  {
-   "hojin_bango": "4180005004272",
-   "homepage": "https://www.ai-shiho.or.jp/",
-   "robots": "ok",
-   "host": "www.ai-shiho.or.jp",
-   "items": 53,
-   "listing_n": 3
-  },
-  {
-   "hojin_bango": "4180005004693",
-   "homepage": "https://www.ja-nishikasugai.com/",
-   "robots": "ok",
-   "host": "www.ja-nishikasugai.com",
-   "items": 0,
-   "listing_n": 3
-  },
-  {
-   "hojin_bango": "4180005008026",
-   "homepage": "https://fureai-nagoya.jp/",
-   "robots": "ok",
-   "host": "fureai-nagoya.jp",
-   "items": 5,
-   "listing_n": 3
-  },
-  {
-   "hojin_bango": "4180005008174",
-   "homepage": "http://www.shirayama-jinja.com/",
-   "robots": "http_404",
-   "host": "www.shirayama-jinja.com",
-   "skipped": "robots",
-   "listing_n": 0
-  },
-  {
-   "hojin_bango": "4180005008810",
-   "homepage": "https://www.setoshin.co.jp",
-   "robots": "http_404",
-   "host": "www.setoshin.co.jp",
-   "skipped": "robots",
-   "listing_n": 0
-  },
-  {
-   "hojin_bango": "4180005010139",
-   "homepage": "http://www.masumida.or.jp/",
-   "robots": "http_404",
-   "host": "www.masumida.or.jp",
-   "skipped": "robots",
-   "listing_n": 0
-  },
-  {
-   "hojin_bango": "4180005011558",
-   "homepage": "https://kyoai-gakuen.com/",
-   "robots": "ok",
-   "host": "kyoai-gakuen.com",
-   "items": 0,
-   "listing_n": 3
-  },
-  {
-   "hojin_bango": "4180005014057",
-   "homepage": "https://www.bunka758.or.jp/",
-   "robots": "http_404",
-   "host": "www.bunka758.or.jp",
-   "skipped": "robots",
-   "listing_n": 0
-  },
-  {
-   "hojin_bango": "4180005015897",
-   "homepage": "https://www.jsltr.org/",
-   "robots": "ok",
-   "host": "www.jsltr.org",
-   "items": 5,
-   "listing_n": 3
-  },
-  {
-   "hojin_bango": "4180301004884",
-   "homepage": "https://www.aicello.co.jp/",
-   "robots": "ok",
-   "host": "www.aicello.co.jp",
-   "items": 0,
-   "listing_n": 3
-  },
-  {
-   "hojin_bango": "4180301005362",
-   "homepage": "http://www.gastecservice.co.jp/",
-   "robots": "http_-1",
-   "host": "www.gastecservice.co.jp",
-   "skipped": "robots",
-   "listing_n": 0
-  },
-  {
-   "hojin_bango": "4180301005461",
-   "homepage": "https://www.canneryrow.co.jp/",
-   "robots": "http_404",
-   "host": "www.canneryrow.co.jp",
-   "skipped": "robots",
-   "listing_n": 0
-  },
-  {
-   "hojin_bango": "4180301005817",
-   "homepage": "http://www.juken.com/main.html",
-   "robots": "ok",
-   "host": "www.juken.com",
-   "items": 11,
-   "listing_n": 3
-  },
-  {
-   "hojin_bango": "4180301006360",
-   "homepage": "http://www.toho-seika.co.jp/",
-   "robots": "http_404",
-   "host": "www.toho-seika.co.jp",
-   "skipped": "robots",
-   "listing_n": 0
-  },
-  {
-   "hojin_bango": "4180301006600",
-   "homepage": "https://www.toyotetsu.com/",
-   "robots": "http_404",
-   "host": "www.toyotetsu.com",
-   "skipped": "robots",
-   "listing_n": 0
-  },
-  {
-   "hojin_bango": "4180301006848",
-   "homepage": "http://www.higashi-aichi-nissan.co.jp/",
-   "robots": "ok",
-   "host": "www.higashi-aichi-nissan.co.jp",
-   "items": 0,
-   "listing_n": 3
-  },
-  {
-   "hojin_bango": "4180301006914",
-   "homepage": "http://www.volkswagen.co.jp/",
-   "robots": "ok",
-   "host": "www.volkswagen.co.jp",
-   "items": 0,
-   "listing_n": 3
-  },
-  {
-   "hojin_bango": "4180301007094",
-   "homepage": "http://www.honda-el.co.jp/",
-   "robots": "ok",
-   "host": "www.honda-el.co.jp",
-   "items": 6,
-   "listing_n": 3
-  },
-  {
-   "hojin_bango": "4180301008621",
-   "homepage": "https://www.nippon-clever.co.jp/",
-   "robots": "ok",
-   "host": "www.nippon-clever.co.jp",
-   "items": 0,
-   "listing_n": 3
-  },
-  {
-   "hojin_bango": "4180301008828",
-   "homepage": "http://showaika.co.jp/",
-   "robots": "ok",
-   "host": "showaika.co.jp",
-   "items": 0,
-   "listing_n": 2
-  },
-  {
-   "hojin_bango": "4180301011063",
-   "homepage": "http://www.jpte.co.jp/",
-   "robots": "http_404",
-   "host": "www.jpte.co.jp",
-   "skipped": "robots",
-   "listing_n": 0
-  },
-  {
-   "hojin_bango": "4180301011237",
-   "homepage": "http://www.nidek.co.jp/",
-   "robots": "ok",
-   "host": "www.nidek.co.jp",
-   "items": 12,
-   "listing_n": 3
-  },
-  {
-   "hojin_bango": "4180301013068",
-   "homepage": "http://www.chuoseiki.co.jp/",
-   "robots": "http_404",
-   "host": "www.chuoseiki.co.jp",
-   "skipped": "robots",
-   "listing_n": 0
-  },
-  {
-   "hojin_bango": "4180301013373",
-   "homepage": "http://www.mikawa-nissan.co.jp/",
-   "robots": "ok",
-   "host": "www.mikawa-nissan.co.jp",
-   "items": 0,
-   "listing_n": 3
-  },
-  {
-   "hojin_bango": "4180301013514",
-   "homepage": "http://www.duesenbayern.com/",
-   "robots": "http_-1",
-   "host": "www.duesenbayern.com",
-   "skipped": "robots",
-   "listing_n": 0
-  },
-  {
-   "hojin_bango": "4180301013877",
-   "homepage": "http://www.k-shiki.co.jp/",
-   "robots": "ok",
-   "host": "www.k-shiki.co.jp",
-   "items": 1,
-   "listing_n": 3
-  },
-  {
-   "hojin_bango": "4180301013992",
-   "homepage": "http://www.sanyo-ss.co.jp/",
+   "hojin_bango": "4050005005267",
+   "homepage": "http://www.kek.jp/en/",
    "robots": "disallow_all",
-   "host": "www.sanyo-ss.co.jp",
+   "host": "www.kek.jp",
    "skipped": "robots",
    "listing_n": 0
   },
   {
-   "hojin_bango": "4180301014009",
-   "homepage": "https://www.sanwayuka.co.jp/",
-   "robots": "http_404",
-   "host": "www.sanwayuka.co.jp",
-   "skipped": "robots",
-   "listing_n": 0
-  },
-  {
-   "hojin_bango": "4180301015659",
-   "homepage": "http://www.nttool.com/",
-   "robots": "http_404",
-   "host": "www.nttool.com",
-   "skipped": "robots",
-   "listing_n": 0
-  },
-  {
-   "hojin_bango": "4180301017333",
-   "homepage": "https://www.doryoku.co.jp/",
+   "hojin_bango": "4050005007081",
+   "homepage": "https://www.daiouin.net/",
    "robots": "ok",
-   "host": "www.doryoku.co.jp",
-   "items": 6,
+   "host": "www.daiouin.net",
+   "items": 0,
    "listing_n": 3
   },
   {
-   "hojin_bango": "4180301018199",
-   "homepage": "http://www.cts-catv.co.jp/",
-   "robots": "http_-1",
-   "host": "www.cts-catv.co.jp",
+   "hojin_bango": "4050005011323",
+   "homepage": "http://www.sportsite.jp/sakai-sportsclub/",
+   "robots": "http_404",
+   "host": "www.sportsite.jp",
    "skipped": "robots",
    "listing_n": 0
   },
   {
-   "hojin_bango": "4180301018538",
-   "homepage": "http://www.shcl.co.jp/index.html",
+   "hojin_bango": "4060001000097",
+   "homepage": "http://www.adumas.co.jp/",
    "robots": "ok",
-   "host": "www.shcl.co.jp",
+   "host": "www.adumas.co.jp",
+   "items": 0,
+   "listing_n": 3
+  },
+  {
+   "hojin_bango": "4060001000650",
+   "homepage": "http://www.utsunomiya-sk.com/",
+   "robots": "http_-1",
+   "host": "www.utsunomiya-sk.com",
+   "skipped": "robots",
+   "listing_n": 0
+  },
+  {
+   "hojin_bango": "4060001000865",
+   "homepage": "http://estate21.sakura.ne.jp/",
+   "robots": "http_-1",
+   "host": "estate21.sakura.ne.jp",
+   "skipped": "robots",
+   "listing_n": 0
+  },
+  {
+   "hojin_bango": "4060001000972",
+   "homepage": "http://www.sp-otani.com/",
+   "robots": "http_404",
+   "host": "www.sp-otani.com",
+   "skipped": "robots",
+   "listing_n": 0
+  },
+  {
+   "hojin_bango": "4060001003001",
+   "homepage": "https://www.tochigi-tv.jp/",
+   "robots": "ok",
+   "host": "www.tochigi-tv.jp",
+   "items": 0,
+   "listing_n": 3
+  },
+  {
+   "hojin_bango": "4060001005534",
+   "homepage": "http://nakano-yakuhin.jp/",
+   "robots": "ok",
+   "host": "nakano-yakuhin.jp",
+   "items": 0,
+   "listing_n": 3
+  },
+  {
+   "hojin_bango": "4060001005922",
+   "homepage": "https://mani.co.jp",
+   "robots": "ok",
+   "host": "mani.co.jp",
+   "items": 0,
+   "listing_n": 3
+  },
+  {
+   "hojin_bango": "4060001007638",
+   "homepage": "http://www.asahi-taxi.com/",
+   "robots": "ok",
+   "host": "www.asahi-taxi.com",
    "skipped": "http_error",
-   "home_http": 404,
+   "home_http": 503,
    "listing_n": 0
   },
   {
-   "hojin_bango": "4180301022176",
-   "homepage": "http://www.suzuhiro.co.jp/",
+   "hojin_bango": "4060001008446",
+   "homepage": "https://www.dne.co.jp/",
    "robots": "ok",
-   "host": "www.suzuhiro.co.jp",
-   "items": 12,
-   "listing_n": 2
-  },
-  {
-   "hojin_bango": "4180301023414",
-   "homepage": "https://www.kanemitsu-group.co.jp",
-   "robots": "ok",
-   "host": "www.kanemitsu-group.co.jp",
+   "host": "www.dne.co.jp",
    "items": 0,
    "listing_n": 3
   },
   {
-   "hojin_bango": "4180303000320",
-   "homepage": "http://www.kounotsukasa.co.jp/",
-   "robots": "http_-1",
-   "host": "www.kounotsukasa.co.jp",
-   "skipped": "robots",
-   "listing_n": 0
-  },
-  {
-   "hojin_bango": "4180305000186",
-   "homepage": "https://jyoguji.com/",
+   "hojin_bango": "4060001008628",
+   "homepage": "https://www.nikko-nsm.co.jp/",
    "robots": "http_404",
-   "host": "jyoguji.com",
+   "host": "www.nikko-nsm.co.jp",
    "skipped": "robots",
    "listing_n": 0
   },
   {
-   "hojin_bango": "4180305002042",
-   "homepage": "https://www.okazaki-lita.com/",
+   "hojin_bango": "4060001008677",
+   "homepage": "http://www.kinu1.com/",
    "robots": "ok",
-   "host": "www.okazaki-lita.com",
-   "items": 3,
-   "listing_n": 3
-  },
-  {
-   "hojin_bango": "4180305002645",
-   "homepage": "https://enryuji.jimdofree.com/",
-   "robots": "ok",
-   "host": "enryuji.jimdofree.com",
+   "host": "www.kinu1.com",
    "items": 0,
-   "listing_n": 1
-  },
-  {
-   "hojin_bango": "4180305004724",
-   "homepage": "https://nodahachimanguu.sub.jp/",
-   "robots": "ok",
-   "host": "nodahachimanguu.sub.jp",
-   "items": 1,
    "listing_n": 3
   },
   {
-   "hojin_bango": "4180305004781",
-   "homepage": "https://chiryu-jinja.com/",
+   "hojin_bango": "4060001009477",
+   "homepage": "http://panasonic.co.jp/es/peshe/",
    "robots": "http_404",
-   "host": "chiryu-jinja.com",
+   "host": "panasonic.co.jp",
    "skipped": "robots",
    "listing_n": 0
   },
   {
-   "hojin_bango": "4190001001140",
-   "homepage": "http://www.mierice.co.jp/",
-   "robots": "http_-1",
-   "host": "www.mierice.co.jp",
+   "hojin_bango": "4060001010419",
+   "homepage": "http://www.kotobukikasei.com/",
+   "robots": "http_503",
+   "host": "www.kotobukikasei.com",
    "skipped": "robots",
    "listing_n": 0
   },
   {
-   "hojin_bango": "4190001003079",
-   "homepage": "http://www.tsu-airportline.co.jp",
+   "hojin_bango": "4060001010658",
+   "homepage": "https://www.yaohan.jp/",
    "robots": "ok",
-   "host": "www.tsu-airportline.co.jp",
-   "items": 0,
-   "listing_n": 1
-  },
-  {
-   "hojin_bango": "4190001003681",
-   "homepage": "http://www.sanco-taxi.co.jp/",
-   "robots": "http_404",
-   "host": "www.sanco-taxi.co.jp",
-   "skipped": "robots",
-   "listing_n": 0
-  },
-  {
-   "hojin_bango": "4190001003814",
-   "homepage": "http://www.asahiya.net/",
-   "robots": "ok",
-   "host": "www.asahiya.net",
-   "items": 0,
-   "listing_n": 1
-  },
-  {
-   "hojin_bango": "4190001004820",
-   "homepage": "http://www.isetetu.co.jp/",
-   "robots": "ok",
-   "host": "www.isetetu.co.jp",
+   "host": "www.yaohan.jp",
    "items": 0,
    "listing_n": 3
   },
   {
-   "hojin_bango": "4190001005637",
-   "homepage": "http://www.wtw.jp/",
-   "robots": "http_404",
-   "host": "www.wtw.jp",
-   "skipped": "robots",
-   "listing_n": 0
-  },
-  {
-   "hojin_bango": "4190001005752",
-   "homepage": "http://www.moriwaki.co.jp/",
+   "hojin_bango": "4060001017356",
+   "homepage": "http://www.takizawaham.co.jp/",
    "robots": "ok",
-   "host": "www.moriwaki.co.jp",
-   "items": 33,
-   "listing_n": 3
-  },
-  {
-   "hojin_bango": "4190001006775",
-   "homepage": "http://www.dime-co.co.jp/",
-   "robots": "ok",
-   "host": "www.dime-co.co.jp",
-   "items": 0,
-   "listing_n": 3
-  },
-  {
-   "hojin_bango": "4190001008359",
-   "homepage": "http://www.tennengura.jp/",
-   "robots": "ok",
-   "host": "www.tennengura.jp",
-   "items": 0,
-   "listing_n": 1
-  },
-  {
-   "hojin_bango": "4190001008425",
-   "homepage": "http://www.hanzo-sake.com/",
-   "robots": "http_404",
-   "host": "www.hanzo-sake.com",
-   "skipped": "robots",
-   "listing_n": 0
-  },
-  {
-   "hojin_bango": "4190001009381",
-   "homepage": "http://www.takakita-net.co.jp/",
-   "robots": "http_404",
-   "host": "www.takakita-net.co.jp",
-   "skipped": "robots",
-   "listing_n": 0
-  },
-  {
-   "hojin_bango": "4190001010546",
-   "homepage": "http://www.znet.ne.jp/msd/matsusakakogu/",
-   "robots": "http_404",
-   "host": "www.znet.ne.jp",
-   "skipped": "robots",
-   "listing_n": 0
-  },
-  {
-   "hojin_bango": "4190001010554",
-   "homepage": "http://www.mctv.jp/",
-   "robots": "ok",
-   "host": "www.mctv.jp",
-   "items": 1,
-   "listing_n": 3
-  },
-  {
-   "hojin_bango": "4190001012716",
-   "homepage": "http://www.frion.jp/",
-   "robots": "ok",
-   "host": "www.frion.jp",
-   "items": 0,
-   "listing_n": 1
-  },
-  {
-   "hojin_bango": "4190001016527",
-   "homepage": "http://www.miyanoyuki.co.jp/",
-   "robots": "ok",
-   "host": "www.miyanoyuki.co.jp",
-   "items": 6,
-   "listing_n": 3
-  },
-  {
-   "hojin_bango": "4190001016650",
-   "homepage": "http://www.yamadai.jp/",
-   "robots": "ok",
-   "host": "www.yamadai.jp",
-   "items": 22,
-   "listing_n": 3
-  },
-  {
-   "hojin_bango": "4190001023531",
-   "homepage": "https://ofukumochi.com/",
-   "robots": "ok",
-   "host": "ofukumochi.com",
-   "items": 3,
-   "listing_n": 2
-  },
-  {
-   "hojin_bango": "4190001025180",
-   "homepage": "http://www.honda.co.jp/HABC/",
-   "robots": "ok",
-   "host": "www.honda.co.jp",
-   "items": 0,
-   "listing_n": 3
-  },
-  {
-   "hojin_bango": "4190002004852",
-   "homepage": "http://www.sekinoto.com/",
-   "robots": "ok",
-   "host": "www.sekinoto.com",
+   "host": "www.takizawaham.co.jp",
    "items": 9,
    "listing_n": 3
   },
   {
-   "hojin_bango": "4190002013127",
-   "homepage": "http://nabari-f-bus.com/",
+   "hojin_bango": "4060001018239",
+   "homepage": "http://www.watv.ne.jp/",
    "robots": "http_-1",
-   "host": "nabari-f-bus.com",
+   "host": "www.watv.ne.jp",
    "skipped": "robots",
    "listing_n": 0
   },
   {
-   "hojin_bango": "4190003001007",
-   "homepage": "http://moriki.o.oo7.jp/",
-   "robots": "http_403",
-   "host": "moriki.o.oo7.jp",
-   "skipped": "robots",
-   "listing_n": 0
-  },
-  {
-   "hojin_bango": "4190005000246",
-   "homepage": "https://www.ja-mienaka.or.jp/",
+   "hojin_bango": "4060001019220",
+   "homepage": "http://www.alart.jp/",
    "robots": "ok",
-   "host": "www.ja-mienaka.or.jp",
-   "items": 16,
+   "host": "www.alart.jp",
+   "items": 0,
    "listing_n": 3
   },
   {
-   "hojin_bango": "4190005000733",
-   "homepage": "http://www.senjuji.or.jp/about/doctrine/",
+   "hojin_bango": "4060001020384",
+   "homepage": "http://www.sctv.jp/",
+   "robots": "http_404",
+   "host": "www.sctv.jp",
+   "skipped": "robots",
+   "listing_n": 0
+  },
+  {
+   "hojin_bango": "4060001023420",
+   "homepage": "https://www.gigaphoton.com/ja",
    "robots": "ok",
-   "host": "www.senjuji.or.jp",
-   "items": 6,
+   "host": "www.gigaphoton.com",
+   "items": 11,
+   "listing_n": 3
+  },
+  {
+   "hojin_bango": "4060001035820",
+   "homepage": "https://tsukitospice.com/",
+   "robots": "http_-1",
+   "host": "tsukitospice.com",
+   "skipped": "robots",
+   "listing_n": 0
+  },
+  {
+   "hojin_bango": "4060002036099",
+   "homepage": "http://www.cocowine.com/",
+   "robots": "ok",
+   "host": "www.cocowine.com",
+   "items": 0,
+   "listing_n": 3
+  },
+  {
+   "hojin_bango": "4060005000102",
+   "homepage": "http://futaarayamajinja.jp/",
+   "robots": "ok",
+   "host": "futaarayamajinja.jp",
+   "items": 0,
+   "listing_n": 3
+  },
+  {
+   "hojin_bango": "4060005002263",
+   "homepage": "https://takaokami.skr.jp/",
+   "robots": "ok",
+   "host": "takaokami.skr.jp",
+   "items": 0,
+   "listing_n": 3
+  },
+  {
+   "hojin_bango": "4060005002965",
+   "homepage": "https://entsu-ji.or.jp/",
+   "robots": "ok",
+   "host": "entsu-ji.or.jp",
+   "items": 0,
+   "listing_n": 3
+  },
+  {
+   "hojin_bango": "4060005004739",
+   "homepage": "https://nposora.org/",
+   "robots": "ok",
+   "host": "nposora.org",
+   "items": 0,
+   "listing_n": 2
+  },
+  {
+   "hojin_bango": "4060005006941",
+   "homepage": "https://sanoyakuyokedaishi.or.jp/",
+   "robots": "ok",
+   "host": "sanoyakuyokedaishi.or.jp",
+   "items": 0,
    "listing_n": 1
   },
   {
-   "hojin_bango": "4190005005146",
-   "homepage": "http://www.kuzaki.net/ama.html",
-   "robots": "http_404",
-   "host": "www.kuzaki.net",
+   "hojin_bango": "4060005009011",
+   "homepage": "https://www.cricket.or.jp/",
+   "robots": "http_429",
+   "host": "www.cricket.or.jp",
    "skipped": "robots",
    "listing_n": 0
   },
   {
-   "hojin_bango": "4190005006656",
-   "homepage": "http://www.shinkin.co.jp/mie/",
+   "hojin_bango": "4070001002844",
+   "homepage": "http://www.fressay.co.jp/",
    "robots": "ok",
-   "host": "www.shinkin.co.jp",
-   "skipped": "http_error",
-   "home_http": 404,
+   "host": "www.fressay.co.jp",
+   "items": 10,
+   "listing_n": 3
+  },
+  {
+   "hojin_bango": "4070001003074",
+   "homepage": "http://www.maniha.co.jp/",
+   "robots": "http_404",
+   "host": "www.maniha.co.jp",
+   "skipped": "robots",
    "listing_n": 0
   },
   {
-   "hojin_bango": "4190005006730",
-   "homepage": "http://www12.plala.or.jp/ibutaji/",
+   "hojin_bango": "4070001004808",
+   "homepage": "http://beisiadenki.jp",
+   "robots": "ok",
+   "host": "beisiadenki.jp",
+   "items": 0,
+   "listing_n": 3
+  },
+  {
+   "hojin_bango": "4070001006705",
+   "homepage": "http://www3.wind.ne.jp/G-toyota/",
+   "robots": "http_404",
+   "host": "www3.wind.ne.jp",
+   "skipped": "robots",
+   "listing_n": 0
+  },
+  {
+   "hojin_bango": "4070001008486",
+   "homepage": "https://mitue.jp/index.html",
+   "robots": "http_404",
+   "host": "mitue.jp",
+   "skipped": "robots",
+   "listing_n": 0
+  },
+  {
+   "hojin_bango": "4070001008899",
+   "homepage": "http://www.journal.co.jp/",
+   "robots": "ok",
+   "host": "www.journal.co.jp",
+   "items": 10,
+   "listing_n": 3
+  },
+  {
+   "hojin_bango": "4070001011201",
+   "homepage": "https://www.yamada-holdings.jp/",
    "robots": "http_-1",
-   "host": "www12.plala.or.jp",
+   "host": "www.yamada-holdings.jp",
    "skipped": "robots",
    "listing_n": 0
   },
   {
-   "hojin_bango": "4190005008883",
-   "homepage": "http://www.kitaiseueno-shinkin.jp/index.shtml",
-   "robots": "http_404",
-   "host": "www.kitaiseueno-shinkin.jp",
-   "skipped": "robots",
-   "listing_n": 0
-  },
-  {
-   "hojin_bango": "4190005009683",
-   "homepage": "http://frm.kans.jp/",
-   "robots": "http_404",
-   "host": "frm.kans.jp",
-   "skipped": "robots",
-   "listing_n": 0
-  },
-  {
-   "hojin_bango": "4200001000099",
-   "homepage": "https://www.akitayahonten.co.jp/",
-   "robots": "http_404",
-   "host": "www.akitayahonten.co.jp",
-   "skipped": "robots",
-   "listing_n": 0
-  },
-  {
-   "hojin_bango": "4200001001353",
-   "homepage": "https://www.gifu-subaru.co.jp/",
-   "robots": "disallow_all",
-   "host": "www.gifu-subaru.co.jp",
+   "hojin_bango": "4070001011787",
+   "homepage": "http://super-marukou.co.jp/",
+   "robots": "http_-1",
+   "host": "super-marukou.co.jp",
    "skipped": "robots",
    "listing_n": 0
   }
