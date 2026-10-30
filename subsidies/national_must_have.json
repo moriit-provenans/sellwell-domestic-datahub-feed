@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "as_of": "2026-10-29",
+  "as_of": "2026-10-30",
   "catalog_total": 40,
   "present": 40,
   "missing": 0,
@@ -57,10 +57,10 @@
         "jnet21-180206",
         "ministry-4553840892",
         "ministry-7744631952",
-        "ministry-2080794398",
         "ministry-2754558839",
-        "ministry-5769682373",
-        "prefecture-tokushima-7606775802"
+        "prefecture-tokushima-7606775802",
+        "prefecture-oita-6130031718",
+        "city-fukuoka-city-6546111542"
       ],
       "eligibility_depth": "guidelines"
     },
@@ -644,20 +644,20 @@
         "a0WJ200000CDXUTMA5",
         "a0WJ200000CDXUSMA5",
         "a0WJ200000CDXURMA5",
-        "a0WJ200000CDapgMAD",
         "a0WJ200000CDaphMAD",
         "a0WJ200000CDapmMAD",
         "a0WJ200000CDaplMAD",
         "a0WJ200000CDapkMAD",
         "a0WJ200000CDapjMAD",
         "a0WJ200000CDapiMAD",
-        "a0WfQ000003N1RVUA0",
+        "a0WJ200000CDapgMAD",
+        "a0WfQ000003N1RWUA0",
         "a0WfQ000003N1RbUAK",
         "a0WfQ000003N1RaUAK",
         "a0WfQ000003N1RZUA0",
         "a0WfQ000003N1RYUA0",
         "a0WfQ000003N1RXUA0",
-        "a0WfQ000003N1RWUA0"
+        "a0WfQ000003N1RVUA0"
       ],
       "eligibility_depth": "guidelines"
     },
