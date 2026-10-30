@@ -1,8 +1,8 @@
 {
  "schema": "edinet_codelist_v1",
- "as_of_date": "2026-10-29",
+ "as_of_date": "2026-10-30",
  "still_valid_2026": true,
- "retrieved_at": "2026-10-29T14:53:35+09:00",
+ "retrieved_at": "2026-10-30T11:05:12+09:00",
  "source_ref": {
   "publisher_ja": "金融庁 EDINET",
   "dataset_ja": "EDINETコードリスト",
@@ -15,7 +15,7 @@
  },
  "counts": {
   "filers": 11431,
-  "with_hojin_bango": 7277,
+  "with_hojin_bango": 7278,
   "listed": 3812
  },
  "filers": {
@@ -39331,14 +39331,6 @@
    "listed": false,
    "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
   },
-  "E23890": {
-   "hojin_bango": null,
-   "matched": false,
-   "raw_name": "岩波　清久",
-   "securities_code": null,
-   "listed": false,
-   "filer_kind_ja": "個人（組合発行者を除く）"
-  },
   "E23897": {
    "hojin_bango": "8140002001223",
    "matched": true,
@@ -48078,7 +48070,7 @@
   "E31245": {
    "hojin_bango": null,
    "matched": false,
-   "raw_name": "ＷｉＬ　Ｆｕｎｄ　Ｉ　Ｌ．Ｐ．",
+   "raw_name": "ＷｉＬ　Ｆｕｎｄ　Ｉ，　Ｌ．Ｐ．",
    "securities_code": null,
    "listed": false,
    "filer_kind_ja": "外国法人・組合（有価証券報告書等の提出義務者以外）"
@@ -62634,14 +62626,6 @@
    "securities_code": null,
    "listed": false,
    "filer_kind_ja": "外国法人・組合（有価証券報告書等の提出義務者以外）"
-  },
-  "E35921": {
-   "hojin_bango": null,
-   "matched": false,
-   "raw_name": "平野　俊博",
-   "securities_code": null,
-   "listed": false,
-   "filer_kind_ja": "個人（組合発行者を除く）"
   },
   "E35922": {
    "hojin_bango": null,
@@ -91419,6 +91403,14 @@
    "listed": false,
    "filer_kind_ja": "外国法人・組合（有価証券報告書等の提出義務者以外）"
   },
+  "E42285": {
+   "hojin_bango": "2010001222945",
+   "matched": true,
+   "raw_name": "Ｍ＆Ａロイヤルアドバイザリー株式会社",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "内国法人・組合"
+  },
   "E42287": {
    "hojin_bango": null,
    "matched": false,
@@ -91466,6 +91458,14 @@
    "securities_code": null,
    "listed": false,
    "filer_kind_ja": "外国法人・組合（有価証券報告書等の提出義務者以外）"
+  },
+  "E42347": {
+   "hojin_bango": null,
+   "matched": false,
+   "raw_name": "森下　和広",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "個人（組合発行者を除く）"
   }
  }
 }

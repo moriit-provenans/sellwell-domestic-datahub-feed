@@ -1,6 +1,6 @@
 {
  "schema": "hojin_manifest_v1",
- "retrieved_at": "2026-10-29T14:53:34+09:00",
+ "retrieved_at": "2026-10-30T11:05:11+09:00",
  "source_ref": {
   "publisher_ja": "国税庁",
   "dataset_ja": "法人番号公表サイト 差分データ（CSV／Unicode）",
@@ -10,17 +10,15 @@
  },
  "coverage": {
   "from": "2026-07-06",
-  "to": "2026-10-28",
-  "days": 64
+  "to": "2026-10-29",
+  "days": 65
  },
  "published_span": {
-  "from": "2026-08-28",
-  "to": "2026-10-28",
+  "from": "2026-08-31",
+  "to": "2026-10-29",
   "days": 40
  },
  "not_published_dates": [
-  "2026-08-29",
-  "2026-08-30",
   "2026-09-05",
   "2026-09-06",
   "2026-09-12",
@@ -43,7 +41,6 @@
   "2026-10-25"
  ],
  "missing_dates": [
-  "2026-08-28",
   "2026-08-31",
   "2026-09-01",
   "2026-09-02",
@@ -57,8 +54,8 @@
  "note_ja": "国税庁は行政の稼働日にのみ差分を作る。not_published は元々存在しない日、missing は公表されているのに当方が取れていない日。どちらも値を埋めない",
  "name_ledger": {
   "path": "datalake/_hojin/name_ledger.sqlite",
-  "companies": 5849708,
-  "with_pref": 5839970,
+  "companies": 5850224,
+  "with_pref": 5840485,
   "note_ja": "商号変更の「前の商号」と所在地（都道府県・市区町村）を解く台帳。全件データで種を入れるまでは未収録の法人があり、その場合 name_before_known: false を立てる。住所は推測しない"
  }
 }

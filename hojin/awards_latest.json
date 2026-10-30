@@ -1,94 +1,10 @@
 {
  "schema": "hojin_awards_latest_v1",
- "retrieved_at": "2026-10-29T14:53:41+09:00",
+ "retrieved_at": "2026-10-30T11:05:14+09:00",
  "years": [
-  2014,
-  2015,
-  2016,
-  2017,
-  2018,
-  2019,
-  2020,
-  2021,
-  2022,
-  2023,
-  2024,
-  2025,
   2026
  ],
  "by_year": {
-  "2014": {
-   "records": 7088,
-   "matched": 7031,
-   "unmatched": 57,
-   "gz_bytes": 408379
-  },
-  "2015": {
-   "records": 12027,
-   "matched": 11928,
-   "unmatched": 99,
-   "gz_bytes": 716043
-  },
-  "2016": {
-   "records": 16420,
-   "matched": 16329,
-   "unmatched": 91,
-   "gz_bytes": 986188
-  },
-  "2017": {
-   "records": 21688,
-   "matched": 21570,
-   "unmatched": 118,
-   "gz_bytes": 1272422
-  },
-  "2018": {
-   "records": 23132,
-   "matched": 23012,
-   "unmatched": 120,
-   "gz_bytes": 1363979
-  },
-  "2019": {
-   "records": 25539,
-   "matched": 25358,
-   "unmatched": 181,
-   "gz_bytes": 1516372
-  },
-  "2020": {
-   "records": 27586,
-   "matched": 27380,
-   "unmatched": 206,
-   "gz_bytes": 1642863
-  },
-  "2021": {
-   "records": 29896,
-   "matched": 29615,
-   "unmatched": 281,
-   "gz_bytes": 1797554
-  },
-  "2022": {
-   "records": 31662,
-   "matched": 31352,
-   "unmatched": 310,
-   "gz_bytes": 1919293
-  },
-  "2023": {
-   "records": 33862,
-   "matched": 33510,
-   "unmatched": 352,
-   "gz_bytes": 2071623
-  },
-  "2024": {
-   "records": 36236,
-   "matched": 35827,
-   "unmatched": 409,
-   "gz_bytes": 2219096
-  },
-  "2025": {
-   "records": 33776,
-   "matched": 33369,
-   "unmatched": 407,
-   "gz_bytes": 2081358
-  },
   "2026": {
    "records": 16562,
    "matched": 16363,
