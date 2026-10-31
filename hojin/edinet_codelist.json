@@ -1,8 +1,8 @@
 {
  "schema": "edinet_codelist_v1",
- "as_of_date": "2026-10-30",
+ "as_of_date": "2026-10-31",
  "still_valid_2026": true,
- "retrieved_at": "2026-10-30T11:05:12+09:00",
+ "retrieved_at": "2026-10-31T10:43:46+09:00",
  "source_ref": {
   "publisher_ja": "金融庁 EDINET",
   "dataset_ja": "EDINETコードリスト",
@@ -14,9 +14,9 @@
   "note_ja": "提出者法人番号の列をそのまま採る。13桁でない提出者は matched:false とraw_name を残す。社名から番号を推測しない"
  },
  "counts": {
-  "filers": 11431,
-  "with_hojin_bango": 7278,
-  "listed": 3812
+  "filers": 11432,
+  "with_hojin_bango": 7279,
+  "listed": 3813
  },
  "filers": {
   "E00004": {
@@ -91047,8 +91047,8 @@
    "hojin_bango": "8010401153446",
    "matched": true,
    "raw_name": "トグルホールディングス株式会社",
-   "securities_code": null,
-   "listed": false,
+   "securities_code": "652A0",
+   "listed": true,
    "filer_kind_ja": "内国法人・組合"
   },
   "E42196": {
@@ -91442,6 +91442,14 @@
    "securities_code": null,
    "listed": false,
    "filer_kind_ja": "外国法人・組合（有価証券報告書等の提出義務者以外）"
+  },
+  "E42307": {
+   "hojin_bango": "7010401201767",
+   "matched": true,
+   "raw_name": "株式会社ＮＳＳＫ－ＥＰＳＩＬＯＮ１",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
   },
   "E42341": {
    "hojin_bango": null,

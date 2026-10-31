@@ -2,15 +2,15 @@
  "ok": true,
  "available": true,
  "workflow": "hojin_large_retail",
- "retrieved_at": "2026-10-30T11:07:28+09:00",
- "records": 209,
- "matched": 32,
- "unmatched": 177,
- "with_open_on": 115,
+ "retrieved_at": "2026-10-31T10:46:24+09:00",
+ "records": 233,
+ "matched": 49,
+ "unmatched": 184,
+ "with_open_on": 138,
  "unmatched_by_reason": {
   "store_name_only": 140,
-  "ambiguous": 23,
-  "no_hit": 8,
+  "no_hit": 9,
+  "ambiguous": 29,
   "no_trade_name": 6
  },
  "by_prefecture": {
@@ -19,6 +19,7 @@
   "千葉県": 46,
   "埼玉県": 3,
   "大阪府": 38,
+  "愛知県": 24,
   "東京都": 44,
   "横浜市": 6,
   "神戸市": 64
@@ -29,10 +30,11 @@
   "千葉県",
   "埼玉県",
   "大阪府",
+  "愛知県",
   "東京都",
   "横浜市",
   "神戸市"
  ],
  "not_collected_ja": "愛知県の旧トップURLは無限リダイレクトのため使わない（年次の法第5条は収録）。神奈川県域の県ページは四半期PDFのみ。横浜市HTMLは収録。政令市のうち川崎・相模原・名古屋・さいたま・千葉市は未収録。経産省全国一括は令和5年度末で終了。47は取らない",
- "gz_bytes": 11484
+ "gz_bytes": 12830
 }
