@@ -1,7 +1,19 @@
 {
- "ok": false,
+ "ok": true,
+ "available": true,
  "workflow": "hojin_web",
- "missing": true,
- "retrieved_at": "2026-11-01T11:23:51+09:00",
- "reason_ja": "企業サイト巡回失敗"
+ "retrieved_at": "2026-11-02T11:38:04+09:00",
+ "as_of_date": "2026-11-02",
+ "seed": 31971,
+ "crawled": 80,
+ "records": 164,
+ "skipped_robots": 39,
+ "skipped_http": 1,
+ "by_kind": {
+  "news": 124,
+  "recruit": 14,
+  "product": 26
+ },
+ "gz_bytes": 10801,
+ "pause_sec": 1.2
 }
