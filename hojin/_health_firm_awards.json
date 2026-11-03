@@ -1,9 +1,9 @@
 {
  "ok": true,
  "workflow": "hojin_firm_awards_index",
- "built_at": "2026-10-31T10:46:51+09:00",
- "companies": 22929,
- "award_rows": 312623,
+ "built_at": "2026-11-03T12:37:49+09:00",
+ "companies": 22949,
+ "award_rows": 313093,
  "gbiz_procurement_rows_merged": 0,
  "duplicate_rows_dropped": 21
 }
