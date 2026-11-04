@@ -1,6 +1,6 @@
 {
  "schema": "hojin_awards_latest_v1",
- "retrieved_at": "2026-11-03T12:35:14+09:00",
+ "retrieved_at": "2026-11-04T11:32:21+09:00",
  "years": [
   2026
  ],
@@ -9,7 +9,7 @@
    "records": 17038,
    "matched": 16833,
    "unmatched": 205,
-   "gz_bytes": 1057164
+   "gz_bytes": 1057165
   }
  },
  "note_ja": "年度別の本体は awards/YYYY.json.gz。本ファイルは件数だけ持つ"
