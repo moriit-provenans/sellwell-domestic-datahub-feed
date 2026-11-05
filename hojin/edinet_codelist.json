@@ -1,8 +1,8 @@
 {
  "schema": "edinet_codelist_v1",
- "as_of_date": "2026-11-04",
+ "as_of_date": "2026-11-05",
  "still_valid_2026": true,
- "retrieved_at": "2026-11-04T11:32:20+09:00",
+ "retrieved_at": "2026-11-05T11:39:29+09:00",
  "source_ref": {
   "publisher_ja": "金融庁 EDINET",
   "dataset_ja": "EDINETコードリスト",
@@ -15,7 +15,7 @@
  },
  "counts": {
   "filers": 11435,
-  "with_hojin_bango": 7278,
+  "with_hojin_bango": 7277,
   "listed": 3814
  },
  "filers": {
@@ -9681,14 +9681,6 @@
    "raw_name": "帝国通信工業株式会社",
    "securities_code": "67630",
    "listed": true,
-   "filer_kind_ja": "内国法人・組合"
-  },
-  "E01785": {
-   "hojin_bango": "4013401002485",
-   "matched": true,
-   "raw_name": "ミツミ電機株式会社",
-   "securities_code": null,
-   "listed": false,
    "filer_kind_ja": "内国法人・組合"
   },
   "E01786": {
@@ -24272,7 +24264,7 @@
    "matched": true,
    "raw_name": "株式会社両毛システムズ",
    "securities_code": "96910",
-   "listed": true,
+   "listed": false,
    "filer_kind_ja": "内国法人・組合"
   },
   "E04856": {
@@ -31858,6 +31850,14 @@
    "securities_code": null,
    "listed": false,
    "filer_kind_ja": "個人（組合発行者を除く）"
+  },
+  "E08734": {
+   "hojin_bango": null,
+   "matched": false,
+   "raw_name": "コーズウェイキャピタルマネジメントエルエルシー",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "外国法人・組合（有価証券報告書等の提出義務者以外）"
   },
   "E08749": {
    "hojin_bango": "8011301001950",
@@ -46051,14 +46051,6 @@
    "listed": true,
    "filer_kind_ja": "内国法人・組合"
   },
-  "E30401": {
-   "hojin_bango": null,
-   "matched": false,
-   "raw_name": "アキュセラ・インク（Ａｃｕｃｅｌａ　Ｉｎｃ．）",
-   "securities_code": null,
-   "listed": false,
-   "filer_kind_ja": "外国法人・組合"
-  },
   "E30407": {
    "hojin_bango": null,
    "matched": false,
@@ -56971,14 +56963,6 @@
    "listed": false,
    "filer_kind_ja": "個人（組合発行者を除く）"
   },
-  "E34235": {
-   "hojin_bango": null,
-   "matched": false,
-   "raw_name": "立石　直孝",
-   "securities_code": null,
-   "listed": false,
-   "filer_kind_ja": "個人（組合発行者を除く）"
-  },
   "E34238": {
    "hojin_bango": "7011001102001",
    "matched": true,
@@ -65274,14 +65258,6 @@
    "securities_code": null,
    "listed": false,
    "filer_kind_ja": "外国法人・組合（有価証券報告書等の提出義務者以外）"
-  },
-  "E36633": {
-   "hojin_bango": "9010402025296",
-   "matched": true,
-   "raw_name": "有限会社ＳＰＣトラスト",
-   "securities_code": null,
-   "listed": false,
-   "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
   },
   "E36634": {
    "hojin_bango": null,
@@ -90671,8 +90647,8 @@
    "hojin_bango": "8010701041763",
    "matched": true,
    "raw_name": "Ａｌｌｇａｎｉｚｅ　Ｈｏｌｄｉｎｇｓ株式会社",
-   "securities_code": null,
-   "listed": false,
+   "securities_code": "656A0",
+   "listed": true,
    "filer_kind_ja": "内国法人・組合"
   },
   "E42119": {
@@ -91179,6 +91155,14 @@
    "listed": false,
    "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
   },
+  "E42235": {
+   "hojin_bango": "7010001008729",
+   "matched": true,
+   "raw_name": "農中信託銀行株式会社",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
+  },
   "E42236": {
    "hojin_bango": null,
    "matched": false,
@@ -91491,6 +91475,14 @@
    "listed": false,
    "filer_kind_ja": "個人（組合発行者を除く）"
   },
+  "E42349": {
+   "hojin_bango": null,
+   "matched": false,
+   "raw_name": "新庄　勝浩",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "個人（組合発行者を除く）"
+  },
   "E42352": {
    "hojin_bango": null,
    "matched": false,
@@ -91498,6 +91490,14 @@
    "securities_code": null,
    "listed": false,
    "filer_kind_ja": "個人（組合発行者を除く）"
+  },
+  "E42374": {
+   "hojin_bango": null,
+   "matched": false,
+   "raw_name": "ＷｉＬ　Ｆｕｎｄ　ＩＩ，　Ｌ．Ｐ．",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "外国法人・組合（有価証券報告書等の提出義務者以外）"
   }
  }
 }
