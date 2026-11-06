@@ -1,12 +1,12 @@
 {
  "schema": "hojin_attributes_counts_v1",
- "companies": 8337,
+ "companies": 8339,
  "by_flag": {
-  "listed": 3806,
+  "listed": 3808,
   "fsa_kinshouhin": 1924,
   "electricity_retailer": 826,
   "dx_certified": 2530
  },
- "retrieved_at": "2026-11-05T11:41:33+09:00",
- "gz_bytes": 190073
+ "retrieved_at": "2026-11-06T11:43:24+09:00",
+ "gz_bytes": 190117
 }

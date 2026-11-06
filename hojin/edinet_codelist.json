@@ -1,8 +1,8 @@
 {
  "schema": "edinet_codelist_v1",
- "as_of_date": "2026-11-05",
+ "as_of_date": "2026-11-06",
  "still_valid_2026": true,
- "retrieved_at": "2026-11-05T11:39:29+09:00",
+ "retrieved_at": "2026-11-06T11:41:20+09:00",
  "source_ref": {
   "publisher_ja": "金融庁 EDINET",
   "dataset_ja": "EDINETコードリスト",
@@ -14,9 +14,9 @@
   "note_ja": "提出者法人番号の列をそのまま採る。13桁でない提出者は matched:false とraw_name を残す。社名から番号を推測しない"
  },
  "counts": {
-  "filers": 11435,
-  "with_hojin_bango": 7277,
-  "listed": 3814
+  "filers": 11436,
+  "with_hojin_bango": 7275,
+  "listed": 3816
  },
  "filers": {
   "E00004": {
@@ -49150,7 +49150,7 @@
   "E31640": {
    "hojin_bango": "2010701018957",
    "matched": true,
-   "raw_name": "ＰＣＩホールディングス株式会社",
+   "raw_name": "ＰＣＩソリューションズ株式会社",
    "securities_code": "39180",
    "listed": true,
    "filer_kind_ja": "内国法人・組合"
@@ -49626,14 +49626,6 @@
    "securities_code": null,
    "listed": false,
    "filer_kind_ja": "個人（組合発行者を除く）"
-  },
-  "E31820": {
-   "hojin_bango": "4130001053856",
-   "matched": true,
-   "raw_name": "株式会社ＧＥＮＥＳＩＳ",
-   "securities_code": null,
-   "listed": false,
-   "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
   },
   "E31829": {
    "hojin_bango": null,
@@ -53039,6 +53031,14 @@
    "hojin_bango": null,
    "matched": false,
    "raw_name": "木南　陽介",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "個人（組合発行者を除く）"
+  },
+  "E32974": {
+   "hojin_bango": null,
+   "matched": false,
+   "raw_name": "辻本　大輔",
    "securities_code": null,
    "listed": false,
    "filer_kind_ja": "個人（組合発行者を除く）"
@@ -56939,6 +56939,14 @@
    "listed": true,
    "filer_kind_ja": "内国法人・組合"
   },
+  "E34226": {
+   "hojin_bango": null,
+   "matched": false,
+   "raw_name": "オリジン取引先持株会　理事長　山本　勢",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "個人（組合発行者を除く）"
+  },
   "E34230": {
    "hojin_bango": null,
    "matched": false,
@@ -59318,7 +59326,7 @@
   "E34974": {
    "hojin_bango": "2010001142978",
    "matched": true,
-   "raw_name": "株式会社インフォネット",
+   "raw_name": "株式会社インフォネットグループ",
    "securities_code": "44440",
    "listed": true,
    "filer_kind_ja": "内国法人・組合"
@@ -62930,14 +62938,6 @@
    "securities_code": null,
    "listed": false,
    "filer_kind_ja": "個人（組合発行者を除く）"
-  },
-  "E35997": {
-   "hojin_bango": "4013201012817",
-   "matched": true,
-   "raw_name": "株式会社テラスホールディングス",
-   "securities_code": null,
-   "listed": false,
-   "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
   },
   "E36001": {
    "hojin_bango": "4010001212069",
@@ -90975,8 +90975,8 @@
    "hojin_bango": "9010001197108",
    "matched": true,
    "raw_name": "株式会社ｅｓｔｉｅ",
-   "securities_code": null,
-   "listed": false,
+   "securities_code": "658A0",
+   "listed": true,
    "filer_kind_ja": "内国法人・組合"
   },
   "E42191": {
@@ -91063,8 +91063,8 @@
    "hojin_bango": "6120001146122",
    "matched": true,
    "raw_name": "株式会社ＬＴＶ－Ｘ",
-   "securities_code": null,
-   "listed": false,
+   "securities_code": "655A0",
+   "listed": true,
    "filer_kind_ja": "内国法人・組合"
   },
   "E42212": {
@@ -91487,6 +91487,14 @@
    "hojin_bango": null,
    "matched": false,
    "raw_name": "黒澤　仁",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "個人（組合発行者を除く）"
+  },
+  "E42365": {
+   "hojin_bango": null,
+   "matched": false,
+   "raw_name": "オリジン取引先持株会　理事長　八巻　一公",
    "securities_code": null,
    "listed": false,
    "filer_kind_ja": "個人（組合発行者を除く）"
