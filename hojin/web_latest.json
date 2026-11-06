@@ -1,8 +1,8 @@
 {
  "schema": "hojin_web_latest_v1",
- "as_of_date": "2026-11-05",
+ "as_of_date": "2026-11-06",
  "still_valid_2026": true,
- "retrieved_at": "2026-11-05T12:35:07+09:00",
+ "retrieved_at": "2026-11-06T12:29:58+09:00",
  "source_ref": {
   "publisher_ja": "各社公式サイト（種: Wikidata P3225×P856）",
   "dataset_ja": "ニュース／採用／商品ページの見出し",
@@ -14,15 +14,15 @@
   "note_ja": "法人番号がある会社だけ。本文は持たない。robots が取れない／Disallow は skipped: robots。種は Wikidata。gBizINFO 全件CSVはトークン待ちで使っていない"
  },
  "counts": {
-  "seed": 31980,
+  "seed": 31981,
   "crawled": 80,
-  "records": 225,
-  "skipped_robots": 37,
-  "skipped_http": 0,
+  "records": 200,
+  "skipped_robots": 36,
+  "skipped_http": 2,
   "by_kind": {
-   "news": 215,
-   "product": 6,
-   "recruit": 4
+   "news": 169,
+   "product": 28,
+   "recruit": 3
   }
  }
 }
