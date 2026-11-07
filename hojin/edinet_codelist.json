@@ -1,8 +1,8 @@
 {
  "schema": "edinet_codelist_v1",
- "as_of_date": "2026-11-06",
+ "as_of_date": "2026-11-07",
  "still_valid_2026": true,
- "retrieved_at": "2026-11-06T11:41:20+09:00",
+ "retrieved_at": "2026-11-07T11:08:41+09:00",
  "source_ref": {
   "publisher_ja": "金融庁 EDINET",
   "dataset_ja": "EDINETコードリスト",
@@ -14,8 +14,8 @@
   "note_ja": "提出者法人番号の列をそのまま採る。13桁でない提出者は matched:false とraw_name を残す。社名から番号を推測しない"
  },
  "counts": {
-  "filers": 11436,
-  "with_hojin_bango": 7275,
+  "filers": 11445,
+  "with_hojin_bango": 7277,
   "listed": 3816
  },
  "filers": {
@@ -34058,6 +34058,14 @@
    "securities_code": null,
    "listed": false,
    "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
+  },
+  "E10982": {
+   "hojin_bango": null,
+   "matched": false,
+   "raw_name": "岡村　陽久",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "個人（組合発行者を除く）"
   },
   "E10985": {
    "hojin_bango": null,
@@ -80222,7 +80230,7 @@
   "E39827": {
    "hojin_bango": null,
    "matched": false,
-   "raw_name": "ＣＩＴＩＣ　ＣＡＰＩＴＡＬ　ＪＡＰＡＮ　ＰＡＲＴＮＥＲＳ　ＩＩＩ、Ｌ．Ｐ．",
+   "raw_name": "ＴＲＵＳＴＡＲ　ＣＡＰＩＴＡＬ　ＪＡＰＡＮ　ＰＡＲＴＮＥＲＳ　ＩＩＩ、Ｌ．Ｐ．",
    "securities_code": null,
    "listed": false,
    "filer_kind_ja": "外国法人・組合（有価証券報告書等の提出義務者以外）"
@@ -91051,6 +91059,14 @@
    "listed": false,
    "filer_kind_ja": "内国法人・組合"
   },
+  "E42207": {
+   "hojin_bango": null,
+   "matched": false,
+   "raw_name": "光田　順一",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "個人（組合発行者を除く）"
+  },
   "E42208": {
    "hojin_bango": "1150001006154",
    "matched": true,
@@ -91146,6 +91162,14 @@
    "securities_code": null,
    "listed": false,
    "filer_kind_ja": "個人（組合発行者を除く）"
+  },
+  "E42232": {
+   "hojin_bango": "5010001114826",
+   "matched": true,
+   "raw_name": "ロングブラックパートナーズ株式会社",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
   },
   "E42233": {
    "hojin_bango": "8011001154256",
@@ -91363,6 +91387,14 @@
    "listed": false,
    "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
   },
+  "E42279": {
+   "hojin_bango": null,
+   "matched": false,
+   "raw_name": "杉山　友紀",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "個人（組合発行者を除く）"
+  },
   "E42282": {
    "hojin_bango": null,
    "matched": false,
@@ -91403,6 +91435,14 @@
    "listed": false,
    "filer_kind_ja": "内国法人・組合"
   },
+  "E42294": {
+   "hojin_bango": null,
+   "matched": false,
+   "raw_name": "古後　淳",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "個人（組合発行者を除く）"
+  },
   "E42302": {
    "hojin_bango": null,
    "matched": false,
@@ -91419,6 +91459,14 @@
    "listed": false,
    "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
   },
+  "E42305": {
+   "hojin_bango": null,
+   "matched": false,
+   "raw_name": "野口　学夫",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "個人（組合発行者を除く）"
+  },
   "E42307": {
    "hojin_bango": "7010401201767",
    "matched": true,
@@ -91427,10 +91475,26 @@
    "listed": false,
    "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
   },
+  "E42312": {
+   "hojin_bango": "3010401152097",
+   "matched": true,
+   "raw_name": "ＮＯＴＡ株式会社",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "内国法人・組合"
+  },
   "E42313": {
    "hojin_bango": null,
    "matched": false,
    "raw_name": "長谷川　勝也",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "個人（組合発行者を除く）"
+  },
+  "E42321": {
+   "hojin_bango": null,
+   "matched": false,
+   "raw_name": "小泉　信一",
    "securities_code": null,
    "listed": false,
    "filer_kind_ja": "個人（組合発行者を除く）"
@@ -91495,6 +91559,14 @@
    "hojin_bango": null,
    "matched": false,
    "raw_name": "オリジン取引先持株会　理事長　八巻　一公",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "個人（組合発行者を除く）"
+  },
+  "E42372": {
+   "hojin_bango": null,
+   "matched": false,
+   "raw_name": "五内川　拡史",
    "securities_code": null,
    "listed": false,
    "filer_kind_ja": "個人（組合発行者を除く）"
