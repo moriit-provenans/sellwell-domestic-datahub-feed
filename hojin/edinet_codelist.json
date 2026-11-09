@@ -1,8 +1,8 @@
 {
  "schema": "edinet_codelist_v1",
- "as_of_date": "2026-11-08",
+ "as_of_date": "2026-11-09",
  "still_valid_2026": true,
- "retrieved_at": "2026-11-08T10:41:21+09:00",
+ "retrieved_at": "2026-11-09T10:49:42+09:00",
  "source_ref": {
   "publisher_ja": "金融庁 EDINET",
   "dataset_ja": "EDINETコードリスト",
@@ -14,7 +14,7 @@
   "note_ja": "提出者法人番号の列をそのまま採る。13桁でない提出者は matched:false とraw_name を残す。社名から番号を推測しない"
  },
  "counts": {
-  "filers": 11445,
+  "filers": 11448,
   "with_hojin_bango": 7277,
   "listed": 3816
  },
@@ -49995,6 +49995,14 @@
    "listed": false,
    "filer_kind_ja": "個人（組合発行者を除く）"
   },
+  "E31934": {
+   "hojin_bango": null,
+   "matched": false,
+   "raw_name": "ＵＢＳ　ＳＷＩＴＺＥＲＬＡＮＤ　ＡＧ",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "外国法人・組合（有価証券報告書等の提出義務者以外）"
+  },
   "E31936": {
    "hojin_bango": "5010401032495",
    "matched": true,
@@ -91163,6 +91171,14 @@
    "listed": false,
    "filer_kind_ja": "個人（組合発行者を除く）"
   },
+  "E42229": {
+   "hojin_bango": null,
+   "matched": false,
+   "raw_name": "伊藤　嘉盛",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "個人（組合発行者を除く）"
+  },
   "E42232": {
    "hojin_bango": "5010001114826",
    "matched": true,
@@ -91575,6 +91591,14 @@
    "hojin_bango": null,
    "matched": false,
    "raw_name": "ＷｉＬ　Ｆｕｎｄ　ＩＩ，　Ｌ．Ｐ．",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "外国法人・組合（有価証券報告書等の提出義務者以外）"
+  },
+  "E42395": {
+   "hojin_bango": null,
+   "matched": false,
+   "raw_name": "ＦＧＡ　ＴＲＵＳＴ　Ｌｉｍｉｔｅｄ",
    "securities_code": null,
    "listed": false,
    "filer_kind_ja": "外国法人・組合（有価証券報告書等の提出義務者以外）"

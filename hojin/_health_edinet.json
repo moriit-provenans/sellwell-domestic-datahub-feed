@@ -1,9 +1,9 @@
 {
  "ok": true,
  "workflow": "hojin_edinet",
- "retrieved_at": "2026-11-08T10:41:21+09:00",
+ "retrieved_at": "2026-11-09T10:49:42+09:00",
  "codelist": {
-  "filers": 11445,
+  "filers": 11448,
   "with_hojin_bango": 7277
  },
  "documents_api": {
