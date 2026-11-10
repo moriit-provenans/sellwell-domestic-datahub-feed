@@ -1,8 +1,8 @@
 {
  "schema": "edinet_codelist_v1",
- "as_of_date": "2026-11-09",
+ "as_of_date": "2026-11-10",
  "still_valid_2026": true,
- "retrieved_at": "2026-11-09T10:49:42+09:00",
+ "retrieved_at": "2026-11-10T13:14:54+09:00",
  "source_ref": {
   "publisher_ja": "金融庁 EDINET",
   "dataset_ja": "EDINETコードリスト",
@@ -14,9 +14,9 @@
   "note_ja": "提出者法人番号の列をそのまま採る。13桁でない提出者は matched:false とraw_name を残す。社名から番号を推測しない"
  },
  "counts": {
-  "filers": 11448,
-  "with_hojin_bango": 7277,
-  "listed": 3816
+  "filers": 11449,
+  "with_hojin_bango": 7280,
+  "listed": 3817
  },
  "filers": {
   "E00004": {
@@ -22883,14 +22883,6 @@
    "listed": true,
    "filer_kind_ja": "内国法人・組合"
   },
-  "E04586": {
-   "hojin_bango": "6010701000218",
-   "matched": true,
-   "raw_name": "株式会社ＡＯＩ　Ｐｒｏ．",
-   "securities_code": null,
-   "listed": false,
-   "filer_kind_ja": "内国法人・組合"
-  },
   "E04588": {
    "hojin_bango": "8011101014005",
    "matched": true,
@@ -30483,14 +30475,6 @@
    "listed": false,
    "filer_kind_ja": "個人（組合発行者を除く）"
   },
-  "E07312": {
-   "hojin_bango": null,
-   "matched": false,
-   "raw_name": "岡村　邦彦",
-   "securities_code": null,
-   "listed": false,
-   "filer_kind_ja": "個人（組合発行者を除く）"
-  },
   "E07313": {
    "hojin_bango": null,
    "matched": false,
@@ -30522,14 +30506,6 @@
    "securities_code": null,
    "listed": false,
    "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
-  },
-  "E07327": {
-   "hojin_bango": null,
-   "matched": false,
-   "raw_name": "梅崎　興生",
-   "securities_code": null,
-   "listed": false,
-   "filer_kind_ja": "個人（組合発行者を除く）"
   },
   "E07351": {
    "hojin_bango": null,
@@ -43331,14 +43307,6 @@
    "listed": false,
    "filer_kind_ja": "内国法人・組合"
   },
-  "E26870": {
-   "hojin_bango": null,
-   "matched": false,
-   "raw_name": "津川　洋子",
-   "securities_code": null,
-   "listed": false,
-   "filer_kind_ja": "個人（組合発行者を除く）"
-  },
   "E26880": {
    "hojin_bango": null,
    "matched": false,
@@ -44039,6 +44007,14 @@
    "hojin_bango": "1010001111975",
    "matched": true,
    "raw_name": "株式会社アイビス・キャピタル・パートナーズ",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
+  },
+  "E27222": {
+   "hojin_bango": "1190002016594",
+   "matched": true,
+   "raw_name": "小林鋳造有限会社",
    "securities_code": null,
    "listed": false,
    "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
@@ -50875,14 +50851,6 @@
    "listed": false,
    "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
   },
-  "E32217": {
-   "hojin_bango": null,
-   "matched": false,
-   "raw_name": "松下　美樹",
-   "securities_code": null,
-   "listed": false,
-   "filer_kind_ja": "個人（組合発行者を除く）"
-  },
   "E32218": {
    "hojin_bango": null,
    "matched": false,
@@ -51338,6 +51306,14 @@
    "securities_code": null,
    "listed": false,
    "filer_kind_ja": "内国法人・組合"
+  },
+  "E32390": {
+   "hojin_bango": null,
+   "matched": false,
+   "raw_name": "境　正博",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "個人（組合発行者を除く）"
   },
   "E32391": {
    "hojin_bango": null,
@@ -61379,6 +61355,14 @@
    "listed": false,
    "filer_kind_ja": "個人（組合発行者を除く）"
   },
+  "E35524": {
+   "hojin_bango": "8010401136459",
+   "matched": true,
+   "raw_name": "株式会社ＨＣＡ",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
+  },
   "E35525": {
    "hojin_bango": null,
    "matched": false,
@@ -63455,14 +63439,6 @@
    "hojin_bango": null,
    "matched": false,
    "raw_name": "石田　一",
-   "securities_code": null,
-   "listed": false,
-   "filer_kind_ja": "個人（組合発行者を除く）"
-  },
-  "E36137": {
-   "hojin_bango": null,
-   "matched": false,
-   "raw_name": "濵田　雄史",
    "securities_code": null,
    "listed": false,
    "filer_kind_ja": "個人（組合発行者を除く）"
@@ -76163,6 +76139,14 @@
    "listed": false,
    "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
   },
+  "E38963": {
+   "hojin_bango": "3470001003159",
+   "matched": true,
+   "raw_name": "株式会社日本総険",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "内国法人・組合"
+  },
   "E38964": {
    "hojin_bango": null,
    "matched": false,
@@ -77290,6 +77274,14 @@
    "securities_code": null,
    "listed": false,
    "filer_kind_ja": "個人（組合発行者を除く）"
+  },
+  "E39213": {
+   "hojin_bango": "3010001239303",
+   "matched": true,
+   "raw_name": "株式会社ＭＳＥ",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
   },
   "E39214": {
    "hojin_bango": "4011001041838",
@@ -91007,8 +90999,8 @@
    "hojin_bango": "4011001109271",
    "matched": true,
    "raw_name": "株式会社ＲＥＣＥＰＴＩＯＮＩＳＴ",
-   "securities_code": null,
-   "listed": false,
+   "securities_code": "660A0",
+   "listed": true,
    "filer_kind_ja": "内国法人・組合"
   },
   "E42193": {
@@ -91315,14 +91307,6 @@
    "listed": false,
    "filer_kind_ja": "外国法人・組合（有価証券報告書等の提出義務者以外）"
   },
-  "E42261": {
-   "hojin_bango": "6010005042171",
-   "matched": true,
-   "raw_name": "ＫＤＸ　Ｋｏｌｅｔ投資法人",
-   "securities_code": null,
-   "listed": false,
-   "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
-  },
   "E42262": {
    "hojin_bango": "7010701039585",
    "matched": true,
@@ -91515,6 +91499,14 @@
    "listed": false,
    "filer_kind_ja": "個人（組合発行者を除く）"
   },
+  "E42329": {
+   "hojin_bango": null,
+   "matched": false,
+   "raw_name": "中川　祥太",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "個人（組合発行者を除く）"
+  },
   "E42336": {
    "hojin_bango": null,
    "matched": false,
@@ -91567,6 +91559,22 @@
    "hojin_bango": null,
    "matched": false,
    "raw_name": "黒澤　仁",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "個人（組合発行者を除く）"
+  },
+  "E42355": {
+   "hojin_bango": "4450001015080",
+   "matched": true,
+   "raw_name": "株式会社髙橋企画",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
+  },
+  "E42363": {
+   "hojin_bango": null,
+   "matched": false,
+   "raw_name": "佐藤　弘信",
    "securities_code": null,
    "listed": false,
    "filer_kind_ja": "個人（組合発行者を除く）"
