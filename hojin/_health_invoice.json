@@ -2,18 +2,18 @@
  "ok": true,
  "available": true,
  "workflow": "hojin_invoice",
- "retrieved_at": "2026-11-11T11:06:28+09:00",
- "as_of_date": "2026-11-10",
- "latest_published": "2026-11-10",
+ "retrieved_at": "2026-11-12T12:15:49+09:00",
+ "as_of_date": "2026-11-11",
+ "latest_published": "2026-11-11",
  "lag_days": 0,
  "days_ingested": 30,
- "records_latest": 694,
+ "records_latest": 490,
  "by_event_latest": {
-  "invoice_registered": 606,
-  "invoice_expired": 50,
-  "invoice_changed": 34,
-  "invoice_cancelled": 4
+  "invoice_registered": 275,
+  "invoice_expired": 210,
+  "invoice_changed": 4,
+  "invoice_deleted": 1
  },
- "person_excluded_latest": 853,
+ "person_excluded_latest": 398,
  "robots_txt": "404（禁止は書いていない）"
 }

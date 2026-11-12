@@ -1,9 +1,9 @@
 {
  "ok": true,
  "workflow": "hojin_tender_finder_index",
- "built_at": "2026-11-11T11:06:39+09:00",
+ "built_at": "2026-11-12T12:16:02+09:00",
  "records": 8321,
- "open_now": 12,
+ "open_now": 11,
  "with_deadline": 3499,
  "with_past": 1168,
  "with_regular_firm": 372,

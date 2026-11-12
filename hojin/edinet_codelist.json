@@ -1,8 +1,8 @@
 {
  "schema": "edinet_codelist_v1",
- "as_of_date": "2026-11-11",
+ "as_of_date": "2026-11-12",
  "still_valid_2026": true,
- "retrieved_at": "2026-11-11T11:04:02+09:00",
+ "retrieved_at": "2026-11-12T12:13:12+09:00",
  "source_ref": {
   "publisher_ja": "金融庁 EDINET",
   "dataset_ja": "EDINETコードリスト",
@@ -14,9 +14,9 @@
   "note_ja": "提出者法人番号の列をそのまま採る。13桁でない提出者は matched:false とraw_name を残す。社名から番号を推測しない"
  },
  "counts": {
-  "filers": 11453,
-  "with_hojin_bango": 7281,
-  "listed": 3818
+  "filers": 11459,
+  "with_hojin_bango": 7282,
+  "listed": 3817
  },
  "filers": {
   "E00004": {
@@ -3775,14 +3775,6 @@
    "hojin_bango": "5120001067055",
    "matched": true,
    "raw_name": "チッソ株式会社",
-   "securities_code": null,
-   "listed": false,
-   "filer_kind_ja": "内国法人・組合"
-  },
-  "E00754": {
-   "hojin_bango": "6380001013585",
-   "matched": true,
-   "raw_name": "日本化成株式会社",
    "securities_code": null,
    "listed": false,
    "filer_kind_ja": "内国法人・組合"
@@ -8049,14 +8041,6 @@
    "raw_name": "株式会社和井田製作所",
    "securities_code": "61580",
    "listed": true,
-   "filer_kind_ja": "内国法人・組合"
-  },
-  "E01513": {
-   "hojin_bango": "2210001007087",
-   "matched": true,
-   "raw_name": "株式会社エイチアンドエフ",
-   "securities_code": null,
-   "listed": false,
    "filer_kind_ja": "内国法人・組合"
   },
   "E01514": {
@@ -12607,8 +12591,8 @@
    "hojin_bango": "8120001063299",
    "matched": true,
    "raw_name": "クボテック株式会社",
-   "securities_code": "77090",
-   "listed": true,
+   "securities_code": null,
+   "listed": false,
    "filer_kind_ja": "内国法人・組合"
   },
   "E02338": {
@@ -19675,14 +19659,6 @@
    "listed": false,
    "filer_kind_ja": "内国法人・組合"
   },
-  "E03749": {
-   "hojin_bango": "4010001177766",
-   "matched": true,
-   "raw_name": "株式会社マネースクウェアＨＤ",
-   "securities_code": null,
-   "listed": false,
-   "filer_kind_ja": "内国法人・組合"
-  },
   "E03752": {
    "hojin_bango": "7010001034881",
    "matched": true,
@@ -26675,14 +26651,6 @@
    "listed": false,
    "filer_kind_ja": "内国法人・組合"
   },
-  "E05398": {
-   "hojin_bango": "1260001015656",
-   "matched": true,
-   "raw_name": "ＳＯＭＰＯケアメッセージ株式会社",
-   "securities_code": null,
-   "listed": false,
-   "filer_kind_ja": "内国法人・組合"
-  },
   "E05399": {
    "hojin_bango": "2011001029637",
    "matched": true,
@@ -33339,6 +33307,14 @@
    "listed": false,
    "filer_kind_ja": "外国法人・組合（有価証券報告書等の提出義務者以外）"
   },
+  "E10293": {
+   "hojin_bango": null,
+   "matched": false,
+   "raw_name": "髙橋　巖",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "個人（組合発行者を除く）"
+  },
   "E10296": {
    "hojin_bango": "8010701002055",
    "matched": true,
@@ -35138,6 +35114,14 @@
    "securities_code": null,
    "listed": false,
    "filer_kind_ja": "外国法人・組合（有価証券報告書等の提出義務者以外）"
+  },
+  "E11867": {
+   "hojin_bango": null,
+   "matched": false,
+   "raw_name": "中山義人",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "個人（組合発行者を除く）"
   },
   "E11873": {
    "hojin_bango": "8011501009422",
@@ -53827,6 +53811,14 @@
    "listed": true,
    "filer_kind_ja": "内国法人・組合"
   },
+  "E33252": {
+   "hojin_bango": "2200001033687",
+   "matched": true,
+   "raw_name": "未来Ａ．Ｋ．Ｏ株式会社",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
+  },
   "E33254": {
    "hojin_bango": "2010401106079",
    "matched": true,
@@ -63995,6 +63987,14 @@
    "listed": false,
    "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
   },
+  "E36291": {
+   "hojin_bango": "9010401051236",
+   "matched": true,
+   "raw_name": "株式会社スピネカ",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
+  },
   "E36293": {
    "hojin_bango": null,
    "matched": false,
@@ -67202,14 +67202,6 @@
    "securities_code": null,
    "listed": false,
    "filer_kind_ja": "外国法人・組合（有価証券報告書等の提出義務者以外）"
-  },
-  "E37119": {
-   "hojin_bango": null,
-   "matched": false,
-   "raw_name": "尾方　久美子",
-   "securities_code": null,
-   "listed": false,
-   "filer_kind_ja": "個人（組合発行者を除く）"
   },
   "E37120": {
    "hojin_bango": "1010401055228",
@@ -73415,7 +73407,7 @@
    "hojin_bango": "1120001164401",
    "matched": true,
    "raw_name": "ａｋｉｐｐａ株式会社",
-   "securities_code": null,
+   "securities_code": "627A0",
    "listed": true,
    "filer_kind_ja": "内国法人・組合"
   },
@@ -91507,6 +91499,14 @@
    "listed": false,
    "filer_kind_ja": "個人（組合発行者を除く）"
   },
+  "E42318": {
+   "hojin_bango": "4010001248740",
+   "matched": true,
+   "raw_name": "株式会社ジェイ・グロース",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
+  },
   "E42321": {
    "hojin_bango": null,
    "matched": false,
@@ -91523,6 +91523,14 @@
    "listed": false,
    "filer_kind_ja": "内国法人・組合"
   },
+  "E42327": {
+   "hojin_bango": null,
+   "matched": false,
+   "raw_name": "平井　瑛",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "個人（組合発行者を除く）"
+  },
   "E42329": {
    "hojin_bango": null,
    "matched": false,
@@ -91530,6 +91538,14 @@
    "securities_code": null,
    "listed": false,
    "filer_kind_ja": "個人（組合発行者を除く）"
+  },
+  "E42331": {
+   "hojin_bango": "8010001269601",
+   "matched": true,
+   "raw_name": "ＣＳＲＩ１７号株式会社",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
   },
   "E42335": {
    "hojin_bango": "9010003052491",
@@ -91603,6 +91619,14 @@
    "listed": false,
    "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
   },
+  "E42361": {
+   "hojin_bango": "8010001269956",
+   "matched": true,
+   "raw_name": "株式会社ＢＣＪ－１１６",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
+  },
   "E42363": {
    "hojin_bango": null,
    "matched": false,
@@ -91635,10 +91659,34 @@
    "listed": false,
    "filer_kind_ja": "外国法人・組合（有価証券報告書等の提出義務者以外）"
   },
+  "E42384": {
+   "hojin_bango": null,
+   "matched": false,
+   "raw_name": "ＬＥＥ　ＣＨＡＮＧＳＵ",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "個人（非居住者）（組合発行者を除く）"
+  },
   "E42395": {
    "hojin_bango": null,
    "matched": false,
    "raw_name": "ＦＧＡ　ＴＲＵＳＴ　Ｌｉｍｉｔｅｄ",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "外国法人・組合（有価証券報告書等の提出義務者以外）"
+  },
+  "E42413": {
+   "hojin_bango": null,
+   "matched": false,
+   "raw_name": "エイティナム・グロース・ファンド・２０２０",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "外国法人・組合（有価証券報告書等の提出義務者以外）"
+  },
+  "E42414": {
+   "hojin_bango": null,
+   "matched": false,
+   "raw_name": "インターベスト・ディープテック・ファンド",
    "securities_code": null,
    "listed": false,
    "filer_kind_ja": "外国法人・組合（有価証券報告書等の提出義務者以外）"
