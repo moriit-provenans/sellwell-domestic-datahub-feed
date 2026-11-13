@@ -1,8 +1,8 @@
 {
  "schema": "hojin_web_latest_v1",
- "as_of_date": "2026-11-12",
+ "as_of_date": "2026-11-13",
  "still_valid_2026": true,
- "retrieved_at": "2026-11-12T12:57:19+09:00",
+ "retrieved_at": "2026-11-13T12:29:06+09:00",
  "source_ref": {
   "publisher_ja": "各社公式サイト（種: Wikidata P3225×P856）",
   "dataset_ja": "ニュース／採用／商品ページの見出し",
@@ -16,12 +16,12 @@
  "counts": {
   "seed": 31990,
   "crawled": 80,
-  "records": 174,
-  "skipped_robots": 39,
-  "skipped_http": 0,
+  "records": 125,
+  "skipped_robots": 34,
+  "skipped_http": 1,
   "by_kind": {
-   "news": 164,
-   "product": 5,
+   "news": 102,
+   "product": 18,
    "recruit": 5
   }
  }
