@@ -1,8 +1,8 @@
 {
  "schema": "edinet_codelist_v1",
- "as_of_date": "2026-11-12",
+ "as_of_date": "2026-11-13",
  "still_valid_2026": true,
- "retrieved_at": "2026-11-12T12:13:12+09:00",
+ "retrieved_at": "2026-11-13T11:45:55+09:00",
  "source_ref": {
   "publisher_ja": "金融庁 EDINET",
   "dataset_ja": "EDINETコードリスト",
@@ -14,9 +14,9 @@
   "note_ja": "提出者法人番号の列をそのまま採る。13桁でない提出者は matched:false とraw_name を残す。社名から番号を推測しない"
  },
  "counts": {
-  "filers": 11459,
-  "with_hojin_bango": 7282,
-  "listed": 3817
+  "filers": 11463,
+  "with_hojin_bango": 7286,
+  "listed": 3816
  },
  "filers": {
   "E00004": {
@@ -11759,7 +11759,7 @@
    "hojin_bango": "1010401004837",
    "matched": true,
    "raw_name": "ＮＯＫ株式会社",
-   "securities_code": "72400",
+   "securities_code": null,
    "listed": false,
    "filer_kind_ja": "内国法人・組合"
   },
@@ -24231,7 +24231,7 @@
    "hojin_bango": "2070001016771",
    "matched": true,
    "raw_name": "株式会社両毛システムズ",
-   "securities_code": "96910",
+   "securities_code": null,
    "listed": false,
    "filer_kind_ja": "内国法人・組合"
   },
@@ -34859,6 +34859,14 @@
    "listed": false,
    "filer_kind_ja": "個人（組合発行者を除く）"
   },
+  "E11632": {
+   "hojin_bango": null,
+   "matched": false,
+   "raw_name": "宇高　紫乃",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "個人（組合発行者を除く）"
+  },
   "E11634": {
    "hojin_bango": null,
    "matched": false,
@@ -35522,6 +35530,14 @@
    "securities_code": null,
    "listed": false,
    "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
+  },
+  "E12301": {
+   "hojin_bango": null,
+   "matched": false,
+   "raw_name": "フロイデンベルグ・エス・エー",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "外国法人・組合（有価証券報告書等の提出義務者以外）"
   },
   "E12302": {
    "hojin_bango": null,
@@ -42027,6 +42043,14 @@
    "listed": false,
    "filer_kind_ja": "個人（組合発行者を除く）"
   },
+  "E26113": {
+   "hojin_bango": null,
+   "matched": false,
+   "raw_name": "佐山　浄徳",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "個人（組合発行者を除く）"
+  },
   "E26121": {
    "hojin_bango": null,
    "matched": false,
@@ -44110,7 +44134,7 @@
   "E27260": {
    "hojin_bango": "6010701012329",
    "matched": true,
-   "raw_name": "オイシックス・ラ・大地株式会社",
+   "raw_name": "オイシックス株式会社",
    "securities_code": "31820",
    "listed": true,
    "filer_kind_ja": "内国法人・組合"
@@ -52002,14 +52026,6 @@
    "securities_code": null,
    "listed": false,
    "filer_kind_ja": "内国法人・組合"
-  },
-  "E32626": {
-   "hojin_bango": "9011001102263",
-   "matched": true,
-   "raw_name": "慶キャピタル株式会社",
-   "securities_code": null,
-   "listed": false,
-   "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
   },
   "E32627": {
    "hojin_bango": null,
@@ -66811,22 +66827,6 @@
    "listed": false,
    "filer_kind_ja": "個人（組合発行者を除く）"
   },
-  "E37014": {
-   "hojin_bango": null,
-   "matched": false,
-   "raw_name": "齋藤　徳子",
-   "securities_code": null,
-   "listed": false,
-   "filer_kind_ja": "個人（組合発行者を除く）"
-  },
-  "E37016": {
-   "hojin_bango": null,
-   "matched": false,
-   "raw_name": "田中　幸子",
-   "securities_code": null,
-   "listed": false,
-   "filer_kind_ja": "個人（組合発行者を除く）"
-  },
   "E37017": {
    "hojin_bango": "3010802008286",
    "matched": true,
@@ -75282,14 +75282,6 @@
    "securities_code": null,
    "listed": false,
    "filer_kind_ja": "個人（組合発行者を除く）"
-  },
-  "E38785": {
-   "hojin_bango": "2010401122225",
-   "matched": true,
-   "raw_name": "株式会社カイテクノロジー",
-   "securities_code": "55810",
-   "listed": true,
-   "filer_kind_ja": "内国法人・組合"
   },
   "E38786": {
    "hojin_bango": null,
@@ -89084,8 +89076,8 @@
    "filer_kind_ja": "個人（組合発行者を除く）"
   },
   "E41694": {
-   "hojin_bango": null,
-   "matched": false,
+   "hojin_bango": "3290001115641",
+   "matched": true,
    "raw_name": "キューデンホールディングス株式会社",
    "securities_code": "642A0",
    "listed": true,
@@ -89460,8 +89452,8 @@
    "filer_kind_ja": "個人（組合発行者を除く）"
   },
   "E41829": {
-   "hojin_bango": null,
-   "matched": false,
+   "hojin_bango": "7010401202591",
+   "matched": true,
    "raw_name": "ＮＯＫ　Ｇｒｏｕｐ株式会社",
    "securities_code": "641A0",
    "listed": true,
@@ -91475,6 +91467,14 @@
    "listed": false,
    "filer_kind_ja": "個人（組合発行者を除く）"
   },
+  "E42306": {
+   "hojin_bango": "7010001198033",
+   "matched": true,
+   "raw_name": "グロービス・キャピタル・パートナーズ株式会社",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
+  },
   "E42307": {
    "hojin_bango": "7010401201767",
    "matched": true,
@@ -91563,6 +91563,14 @@
    "listed": false,
    "filer_kind_ja": "個人（組合発行者を除く）"
   },
+  "E42339": {
+   "hojin_bango": "7011001090345",
+   "matched": true,
+   "raw_name": "スマートニュース株式会社",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "内国法人・組合"
+  },
   "E42341": {
    "hojin_bango": null,
    "matched": false,
@@ -91619,6 +91627,14 @@
    "listed": false,
    "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
   },
+  "E42358": {
+   "hojin_bango": "6010001199750",
+   "matched": true,
+   "raw_name": "株式会社ＦＯＬＩＯホールディングス",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "内国法人・組合"
+  },
   "E42361": {
    "hojin_bango": "8010001269956",
    "matched": true,
@@ -91674,6 +91690,22 @@
    "securities_code": null,
    "listed": false,
    "filer_kind_ja": "外国法人・組合（有価証券報告書等の提出義務者以外）"
+  },
+  "E42397": {
+   "hojin_bango": null,
+   "matched": false,
+   "raw_name": "鈴木　祐人",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "個人（組合発行者を除く）"
+  },
+  "E42401": {
+   "hojin_bango": "3010401201820",
+   "matched": true,
+   "raw_name": "ＯＰＩ・ＩＴホールディングス株式会社",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
   },
   "E42413": {
    "hojin_bango": null,

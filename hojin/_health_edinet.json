@@ -1,10 +1,10 @@
 {
  "ok": true,
  "workflow": "hojin_edinet",
- "retrieved_at": "2026-11-12T12:13:12+09:00",
+ "retrieved_at": "2026-11-13T11:45:55+09:00",
  "codelist": {
-  "filers": 11459,
-  "with_hojin_bango": 7282
+  "filers": 11463,
+  "with_hojin_bango": 7286
  },
  "documents_api": {
   "available": false,
