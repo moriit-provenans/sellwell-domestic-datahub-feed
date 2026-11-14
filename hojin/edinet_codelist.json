@@ -1,8 +1,8 @@
 {
  "schema": "edinet_codelist_v1",
- "as_of_date": "2026-11-13",
+ "as_of_date": "2026-11-14",
  "still_valid_2026": true,
- "retrieved_at": "2026-11-13T11:45:55+09:00",
+ "retrieved_at": "2026-11-14T11:35:23+09:00",
  "source_ref": {
   "publisher_ja": "金融庁 EDINET",
   "dataset_ja": "EDINETコードリスト",
@@ -14,8 +14,8 @@
   "note_ja": "提出者法人番号の列をそのまま採る。13桁でない提出者は matched:false とraw_name を残す。社名から番号を推測しない"
  },
  "counts": {
-  "filers": 11463,
-  "with_hojin_bango": 7286,
+  "filers": 11467,
+  "with_hojin_bango": 7289,
   "listed": 3816
  },
  "filers": {
@@ -69161,7 +69161,7 @@
    "raw_name": "田端　辰輔",
    "securities_code": null,
    "listed": false,
-   "filer_kind_ja": "個人（非居住者）（組合発行者を除く）"
+   "filer_kind_ja": "個人（組合発行者を除く）"
   },
   "E37540": {
    "hojin_bango": "7130001037872",
@@ -91283,6 +91283,14 @@
    "listed": false,
    "filer_kind_ja": "内国法人・組合"
   },
+  "E42256": {
+   "hojin_bango": null,
+   "matched": false,
+   "raw_name": "大宮　真里子",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "個人（組合発行者を除く）"
+  },
   "E42257": {
    "hojin_bango": null,
    "matched": false,
@@ -91595,6 +91603,14 @@
    "listed": false,
    "filer_kind_ja": "外国法人・組合"
   },
+  "E42346": {
+   "hojin_bango": "9011001142136",
+   "matched": true,
+   "raw_name": "株式会社Ｂｅｒｒｙ",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "内国法人・組合"
+  },
   "E42347": {
    "hojin_bango": null,
    "matched": false,
@@ -91618,6 +91634,14 @@
    "securities_code": null,
    "listed": false,
    "filer_kind_ja": "個人（組合発行者を除く）"
+  },
+  "E42354": {
+   "hojin_bango": "6080401011384",
+   "matched": true,
+   "raw_name": "パイフォトニクス株式会社",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "内国法人・組合"
   },
   "E42355": {
    "hojin_bango": "4450001015080",
@@ -91658,6 +91682,14 @@
    "securities_code": null,
    "listed": false,
    "filer_kind_ja": "個人（組合発行者を除く）"
+  },
+  "E42368": {
+   "hojin_bango": "5010003040145",
+   "matched": true,
+   "raw_name": "株式会社ＷＨＩ　Ｈｏｌｄｉｎｇｓ",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "内国法人・組合"
   },
   "E42372": {
    "hojin_bango": null,

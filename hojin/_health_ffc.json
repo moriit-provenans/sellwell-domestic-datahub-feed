@@ -2,13 +2,13 @@
  "ok": true,
  "available": false,
  "workflow": "hojin_ffc",
- "retrieved_at": "2026-11-13T11:48:02+09:00",
+ "retrieved_at": "2026-11-14T11:37:02+09:00",
  "source_ref": {
   "publisher_ja": "消費者庁",
   "dataset_ja": "機能性表示食品の届出情報検索",
   "url": "https://www.fld.caa.go.jp/caaks/cssc01/",
   "robots": "https://www.fld.caa.go.jp/robots.txt",
-  "page_http": 200,
+  "page_http": -1,
   "robots_http": 200,
   "robots_allow_site": true,
   "csv_button_on_page": false
