@@ -1,8 +1,8 @@
 {
  "schema": "edinet_codelist_v1",
- "as_of_date": "2026-11-15",
+ "as_of_date": "2026-11-16",
  "still_valid_2026": true,
- "retrieved_at": "2026-11-15T11:02:27+09:00",
+ "retrieved_at": "2026-11-16T11:19:12+09:00",
  "source_ref": {
   "publisher_ja": "金融庁 EDINET",
   "dataset_ja": "EDINETコードリスト",
@@ -16,7 +16,7 @@
  "counts": {
   "filers": 11467,
   "with_hojin_bango": 7289,
-  "listed": 3816
+  "listed": 3814
  },
  "filers": {
   "E00004": {
@@ -20743,8 +20743,8 @@
    "hojin_bango": "2180001055214",
    "matched": true,
    "raw_name": "株式会社エスポア",
-   "securities_code": "32600",
-   "listed": true,
+   "securities_code": null,
+   "listed": false,
    "filer_kind_ja": "内国法人・組合"
   },
   "E04088": {
@@ -60455,8 +60455,8 @@
    "hojin_bango": "3011001068337",
    "matched": true,
    "raw_name": "株式会社ジモティー",
-   "securities_code": "70820",
-   "listed": true,
+   "securities_code": null,
+   "listed": false,
    "filer_kind_ja": "内国法人・組合"
   },
   "E35291": {
@@ -76126,7 +76126,7 @@
   "E38959": {
    "hojin_bango": "1120003024165",
    "matched": true,
-   "raw_name": "合同会社ＦＯ１",
+   "raw_name": "合同会社ＦО１",
    "securities_code": null,
    "listed": false,
    "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
