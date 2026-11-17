@@ -1,10 +1,10 @@
 {
  "schema": "hojin_geo_counts_v1",
- "looked_up": 180739,
- "rows": 180738,
- "with_pref": 180548,
- "ledger_companies": 5855829,
- "ledger_with_pref": 5846069,
- "retrieved_at": "2026-11-16T11:21:13+09:00",
- "gz_bytes": 4880504
+ "looked_up": 182732,
+ "rows": 182731,
+ "with_pref": 182540,
+ "ledger_companies": 5856389,
+ "ledger_with_pref": 5846628,
+ "retrieved_at": "2026-11-17T13:43:24+09:00",
+ "gz_bytes": 4934359
 }

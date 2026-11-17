@@ -1,8 +1,8 @@
 {
  "schema": "edinet_codelist_v1",
- "as_of_date": "2026-11-16",
+ "as_of_date": "2026-11-17",
  "still_valid_2026": true,
- "retrieved_at": "2026-11-16T11:19:12+09:00",
+ "retrieved_at": "2026-11-17T13:41:28+09:00",
  "source_ref": {
   "publisher_ja": "金融庁 EDINET",
   "dataset_ja": "EDINETコードリスト",
@@ -14,9 +14,9 @@
   "note_ja": "提出者法人番号の列をそのまま採る。13桁でない提出者は matched:false とraw_name を残す。社名から番号を推測しない"
  },
  "counts": {
-  "filers": 11467,
-  "with_hojin_bango": 7289,
-  "listed": 3814
+  "filers": 11469,
+  "with_hojin_bango": 7293,
+  "listed": 3815
  },
  "filers": {
   "E00004": {
@@ -11354,14 +11354,6 @@
    "securities_code": "66620",
    "listed": true,
    "filer_kind_ja": "内国法人・組合"
-  },
-  "E02101": {
-   "hojin_bango": "8130001024003",
-   "matched": true,
-   "raw_name": "オプテックス・エフエー株式会社",
-   "securities_code": null,
-   "listed": false,
-   "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
   },
   "E02103": {
    "hojin_bango": "3010401046159",
@@ -24491,14 +24483,6 @@
    "listed": false,
    "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
   },
-  "E04918": {
-   "hojin_bango": "5290001016276",
-   "matched": true,
-   "raw_name": "株式会社福山コンサルタント",
-   "securities_code": null,
-   "listed": false,
-   "filer_kind_ja": "内国法人・組合"
-  },
   "E04919": {
    "hojin_bango": "7020001030145",
    "matched": true,
@@ -27369,14 +27353,6 @@
    "raw_name": "ＧＭＯグローバルサイン・ホールディングス株式会社",
    "securities_code": "37880",
    "listed": true,
-   "filer_kind_ja": "内国法人・組合"
-  },
-  "E05546": {
-   "hojin_bango": "3021001040906",
-   "matched": true,
-   "raw_name": "株式会社ネットワークバリューコンポネンツ",
-   "securities_code": null,
-   "listed": false,
    "filer_kind_ja": "内国法人・組合"
   },
   "E05547": {
@@ -34362,6 +34338,14 @@
    "securities_code": null,
    "listed": false,
    "filer_kind_ja": "個人（組合発行者を除く）"
+  },
+  "E11256": {
+   "hojin_bango": "9021002013038",
+   "matched": true,
+   "raw_name": "有限会社蟻田",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
   },
   "E11260": {
    "hojin_bango": "7010401021744",
@@ -52579,14 +52563,6 @@
    "listed": true,
    "filer_kind_ja": "内国法人・組合"
   },
-  "E32802": {
-   "hojin_bango": null,
-   "matched": false,
-   "raw_name": "松村　幸治",
-   "securities_code": null,
-   "listed": false,
-   "filer_kind_ja": "個人（組合発行者を除く）"
-  },
   "E32803": {
    "hojin_bango": "2010401062405",
    "matched": true,
@@ -52978,14 +52954,6 @@
    "securities_code": null,
    "listed": false,
    "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
-  },
-  "E32961": {
-   "hojin_bango": null,
-   "matched": false,
-   "raw_name": "松村　信子",
-   "securities_code": null,
-   "listed": false,
-   "filer_kind_ja": "個人（組合発行者を除く）"
   },
   "E32965": {
    "hojin_bango": "8010401089756",
@@ -60723,14 +60691,6 @@
    "listed": false,
    "filer_kind_ja": "外国法人・組合（有価証券報告書等の提出義務者以外）"
   },
-  "E35339": {
-   "hojin_bango": null,
-   "matched": false,
-   "raw_name": "中村　俊介",
-   "securities_code": null,
-   "listed": false,
-   "filer_kind_ja": "個人（組合発行者を除く）"
-  },
   "E35340": {
    "hojin_bango": "1010001208771",
    "matched": true,
@@ -65011,14 +64971,6 @@
    "listed": false,
    "filer_kind_ja": "外国法人・組合（有価証券報告書等の提出義務者以外）"
   },
-  "E36555": {
-   "hojin_bango": "7010403016651",
-   "matched": true,
-   "raw_name": "ＣＳＭ・Ｍ３合同会社",
-   "securities_code": null,
-   "listed": false,
-   "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
-  },
   "E36556": {
    "hojin_bango": null,
    "matched": false,
@@ -67959,6 +67911,14 @@
    "hojin_bango": "5010005033980",
    "matched": true,
    "raw_name": "一般社団法人ＭＹＭラボラトリーズ",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
+  },
+  "E37276": {
+   "hojin_bango": "5120001034550",
+   "matched": true,
+   "raw_name": "フローバル株式会社",
    "securities_code": null,
    "listed": false,
    "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
@@ -82033,7 +81993,7 @@
    "raw_name": "ゲロヴィッチ・サイモン",
    "securities_code": null,
    "listed": false,
-   "filer_kind_ja": "個人（組合発行者を除く）"
+   "filer_kind_ja": "個人（非居住者）（組合発行者を除く）"
   },
   "E40213": {
    "hojin_bango": "2010001186851",
@@ -88115,6 +88075,14 @@
    "listed": false,
    "filer_kind_ja": "個人（組合発行者を除く）"
   },
+  "E41461": {
+   "hojin_bango": "9010401087098",
+   "matched": true,
+   "raw_name": "株式会社コネクティ",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "内国法人・組合"
+  },
   "E41462": {
    "hojin_bango": null,
    "matched": false,
@@ -91363,6 +91331,14 @@
    "listed": false,
    "filer_kind_ja": "個人（組合発行者を除く）"
   },
+  "E42273": {
+   "hojin_bango": null,
+   "matched": false,
+   "raw_name": "ＬＫＳ　ＰＴＥ　ＬＴＤ",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "外国法人・組合（有価証券報告書等の提出義務者以外）"
+  },
   "E42275": {
    "hojin_bango": "5140001141758",
    "matched": true,
@@ -91506,6 +91482,14 @@
    "securities_code": null,
    "listed": false,
    "filer_kind_ja": "個人（組合発行者を除く）"
+  },
+  "E42314": {
+   "hojin_bango": "5180001021832",
+   "matched": true,
+   "raw_name": "株式会社コスモルート",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "内国法人・組合"
   },
   "E42318": {
    "hojin_bango": "4010001248740",
@@ -91659,6 +91643,14 @@
    "listed": false,
    "filer_kind_ja": "内国法人・組合"
   },
+  "E42360": {
+   "hojin_bango": "2010701034756",
+   "matched": true,
+   "raw_name": "株式会社ＩＧホールディングス",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
+  },
   "E42361": {
    "hojin_bango": "8010001269956",
    "matched": true,
@@ -91699,6 +91691,14 @@
    "listed": false,
    "filer_kind_ja": "個人（組合発行者を除く）"
   },
+  "E42373": {
+   "hojin_bango": "9030001028871",
+   "matched": true,
+   "raw_name": "株式会社ヒューマンアジャスト",
+   "securities_code": "249A0",
+   "listed": true,
+   "filer_kind_ja": "内国法人・組合"
+  },
   "E42374": {
    "hojin_bango": null,
    "matched": false,
@@ -91714,6 +91714,22 @@
    "securities_code": null,
    "listed": false,
    "filer_kind_ja": "個人（非居住者）（組合発行者を除く）"
+  },
+  "E42389": {
+   "hojin_bango": "3010801037815",
+   "matched": true,
+   "raw_name": "株式会社Ｗｉｓｄｏｍ",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
+  },
+  "E42390": {
+   "hojin_bango": "4020001148782",
+   "matched": true,
+   "raw_name": "株式会社ＩＧホールディングス",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "内国法人・組合"
   },
   "E42395": {
    "hojin_bango": null,
