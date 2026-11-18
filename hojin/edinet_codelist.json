@@ -1,8 +1,8 @@
 {
  "schema": "edinet_codelist_v1",
- "as_of_date": "2026-11-17",
+ "as_of_date": "2026-11-18",
  "still_valid_2026": true,
- "retrieved_at": "2026-11-17T13:41:28+09:00",
+ "retrieved_at": "2026-11-18T12:46:45+09:00",
  "source_ref": {
   "publisher_ja": "金融庁 EDINET",
   "dataset_ja": "EDINETコードリスト",
@@ -15,7 +15,7 @@
  },
  "counts": {
   "filers": 11469,
-  "with_hojin_bango": 7293,
+  "with_hojin_bango": 7292,
   "listed": 3815
  },
  "filers": {
@@ -66131,14 +66131,6 @@
    "listed": true,
    "filer_kind_ja": "内国法人・組合"
   },
-  "E36845": {
-   "hojin_bango": "2100001022205",
-   "matched": true,
-   "raw_name": "アジア電子工業株式会社",
-   "securities_code": null,
-   "listed": false,
-   "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
-  },
   "E36855": {
    "hojin_bango": null,
    "matched": false,
@@ -85422,7 +85414,7 @@
   "E40900": {
    "hojin_bango": "6010401191720",
    "matched": true,
-   "raw_name": "ビー・エックス・ジェイ・イー・ツー・ホールディング株式会社",
+   "raw_name": "テクノプロ・ホールディングス株式会社",
    "securities_code": null,
    "listed": false,
    "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
@@ -91770,6 +91762,14 @@
    "securities_code": null,
    "listed": false,
    "filer_kind_ja": "外国法人・組合（有価証券報告書等の提出義務者以外）"
+  },
+  "E42426": {
+   "hojin_bango": null,
+   "matched": false,
+   "raw_name": "上原　祐司",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "個人（組合発行者を除く）"
   }
  }
 }
