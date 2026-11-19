@@ -1,8 +1,8 @@
 {
  "schema": "edinet_codelist_v1",
- "as_of_date": "2026-11-18",
+ "as_of_date": "2026-11-19",
  "still_valid_2026": true,
- "retrieved_at": "2026-11-18T12:46:45+09:00",
+ "retrieved_at": "2026-11-19T12:45:19+09:00",
  "source_ref": {
   "publisher_ja": "金融庁 EDINET",
   "dataset_ja": "EDINETコードリスト",
@@ -14,8 +14,8 @@
   "note_ja": "提出者法人番号の列をそのまま採る。13桁でない提出者は matched:false とraw_name を残す。社名から番号を推測しない"
  },
  "counts": {
-  "filers": 11469,
-  "with_hojin_bango": 7292,
+  "filers": 11467,
+  "with_hojin_bango": 7294,
   "listed": 3815
  },
  "filers": {
@@ -29571,14 +29571,6 @@
    "listed": false,
    "filer_kind_ja": "個人（組合発行者を除く）"
   },
-  "E06318": {
-   "hojin_bango": null,
-   "matched": false,
-   "raw_name": "藤井　宗徳",
-   "securities_code": null,
-   "listed": false,
-   "filer_kind_ja": "個人（組合発行者を除く）"
-  },
   "E06321": {
    "hojin_bango": null,
    "matched": false,
@@ -31786,14 +31778,6 @@
    "securities_code": null,
    "listed": false,
    "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
-  },
-  "E08765": {
-   "hojin_bango": null,
-   "matched": false,
-   "raw_name": "政木　喜三郎",
-   "securities_code": null,
-   "listed": false,
-   "filer_kind_ja": "個人（組合発行者を除く）"
   },
   "E08770": {
    "hojin_bango": "7010001113388",
@@ -51795,14 +51779,6 @@
    "listed": false,
    "filer_kind_ja": "個人（組合発行者を除く）"
   },
-  "E32524": {
-   "hojin_bango": null,
-   "matched": false,
-   "raw_name": "川端　久美子",
-   "securities_code": null,
-   "listed": false,
-   "filer_kind_ja": "個人（組合発行者を除く）"
-  },
   "E32526": {
    "hojin_bango": null,
    "matched": false,
@@ -67959,14 +67935,6 @@
    "hojin_bango": null,
    "matched": false,
    "raw_name": "片貝　哲太",
-   "securities_code": null,
-   "listed": false,
-   "filer_kind_ja": "個人（組合発行者を除く）"
-  },
-  "E37285": {
-   "hojin_bango": null,
-   "matched": false,
-   "raw_name": "岡　隆宏",
    "securities_code": null,
    "listed": false,
    "filer_kind_ja": "個人（組合発行者を除く）"
@@ -91611,6 +91579,14 @@
    "listed": false,
    "filer_kind_ja": "個人（組合発行者を除く）"
   },
+  "E42353": {
+   "hojin_bango": "4010401161023",
+   "matched": true,
+   "raw_name": "株式会社ＧＲＯＷＴＨ　ＶＥＲＳＥ",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "内国法人・組合"
+  },
   "E42354": {
    "hojin_bango": "6080401011384",
    "matched": true,
@@ -91698,6 +91674,14 @@
    "securities_code": null,
    "listed": false,
    "filer_kind_ja": "外国法人・組合（有価証券報告書等の提出義務者以外）"
+  },
+  "E42377": {
+   "hojin_bango": "4010001096719",
+   "matched": true,
+   "raw_name": "ユニテックフーズ株式会社",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "内国法人・組合"
   },
   "E42384": {
    "hojin_bango": null,
