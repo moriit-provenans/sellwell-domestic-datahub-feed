@@ -1,8 +1,8 @@
 {
  "schema": "edinet_codelist_v1",
- "as_of_date": "2026-11-19",
+ "as_of_date": "2026-11-20",
  "still_valid_2026": true,
- "retrieved_at": "2026-11-19T12:45:19+09:00",
+ "retrieved_at": "2026-11-20T12:38:29+09:00",
  "source_ref": {
   "publisher_ja": "金融庁 EDINET",
   "dataset_ja": "EDINETコードリスト",
@@ -14,9 +14,9 @@
   "note_ja": "提出者法人番号の列をそのまま採る。13桁でない提出者は matched:false とraw_name を残す。社名から番号を推測しない"
  },
  "counts": {
-  "filers": 11467,
-  "with_hojin_bango": 7294,
-  "listed": 3815
+  "filers": 11466,
+  "with_hojin_bango": 7293,
+  "listed": 3812
  },
  "filers": {
   "E00004": {
@@ -14335,8 +14335,8 @@
    "hojin_bango": "3010701019351",
    "matched": true,
    "raw_name": "新光商事株式会社",
-   "securities_code": "81410",
-   "listed": true,
+   "securities_code": null,
+   "listed": false,
    "filer_kind_ja": "内国法人・組合"
   },
   "E02665": {
@@ -15319,8 +15319,8 @@
    "hojin_bango": "4010401033255",
    "matched": true,
    "raw_name": "日新商事株式会社",
-   "securities_code": "74900",
-   "listed": true,
+   "securities_code": null,
+   "listed": false,
    "filer_kind_ja": "内国法人・組合"
   },
   "E02847": {
@@ -25799,8 +25799,8 @@
    "hojin_bango": "2010001094575",
    "matched": true,
    "raw_name": "株式会社ビーマップ",
-   "securities_code": "43160",
-   "listed": true,
+   "securities_code": null,
+   "listed": false,
    "filer_kind_ja": "内国法人・組合"
   },
   "E05230": {
@@ -26879,7 +26879,7 @@
    "hojin_bango": "6010701012444",
    "matched": true,
    "raw_name": "株式会社テクノマセマティカル",
-   "securities_code": "37870",
+   "securities_code": null,
    "listed": false,
    "filer_kind_ja": "内国法人・組合"
   },
@@ -30463,14 +30463,6 @@
    "hojin_bango": null,
    "matched": false,
    "raw_name": "青木擴憲",
-   "securities_code": null,
-   "listed": false,
-   "filer_kind_ja": "個人（組合発行者を除く）"
-  },
-  "E07422": {
-   "hojin_bango": null,
-   "matched": false,
-   "raw_name": "大桑いく嗣",
    "securities_code": null,
    "listed": false,
    "filer_kind_ja": "個人（組合発行者を除く）"
@@ -34191,6 +34183,14 @@
    "hojin_bango": null,
    "matched": false,
    "raw_name": "笠原　健治",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "個人（組合発行者を除く）"
+  },
+  "E11158": {
+   "hojin_bango": null,
+   "matched": false,
+   "raw_name": "河端伸一郎",
    "securities_code": null,
    "listed": false,
    "filer_kind_ja": "個人（組合発行者を除く）"
@@ -64723,14 +64723,6 @@
    "listed": false,
    "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
   },
-  "E36489": {
-   "hojin_bango": "2030001058033",
-   "matched": true,
-   "raw_name": "みよし建設株式会社",
-   "securities_code": null,
-   "listed": false,
-   "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
-  },
   "E36493": {
    "hojin_bango": null,
    "matched": false,
@@ -67842,14 +67834,6 @@
    "securities_code": null,
    "listed": false,
    "filer_kind_ja": "個人（組合発行者を除く）"
-  },
-  "E37270": {
-   "hojin_bango": "5013201018516",
-   "matched": true,
-   "raw_name": "株式会社でらゲー",
-   "securities_code": null,
-   "listed": false,
-   "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
   },
   "E37272": {
    "hojin_bango": "6010405020173",
@@ -91682,6 +91666,14 @@
    "securities_code": null,
    "listed": false,
    "filer_kind_ja": "内国法人・組合"
+  },
+  "E42378": {
+   "hojin_bango": "3010401144474",
+   "matched": true,
+   "raw_name": "株式会社ＨＹＢＥＪＡＰＡＮ",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
   },
   "E42384": {
    "hojin_bango": null,
