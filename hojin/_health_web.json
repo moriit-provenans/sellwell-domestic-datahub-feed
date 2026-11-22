@@ -2,17 +2,18 @@
  "ok": true,
  "available": true,
  "workflow": "hojin_web",
- "retrieved_at": "2026-11-21T13:06:22+09:00",
- "as_of_date": "2026-11-21",
- "seed": 32015,
+ "retrieved_at": "2026-11-22T12:18:46+09:00",
+ "as_of_date": "2026-11-22",
+ "seed": 32016,
  "crawled": 80,
- "records": 164,
- "skipped_robots": 40,
- "skipped_http": 1,
+ "records": 204,
+ "skipped_robots": 35,
+ "skipped_http": 0,
  "by_kind": {
-  "news": 156,
-  "product": 8
+  "product": 14,
+  "news": 184,
+  "recruit": 6
  },
- "gz_bytes": 9943,
+ "gz_bytes": 11509,
  "pause_sec": 1.2
 }
