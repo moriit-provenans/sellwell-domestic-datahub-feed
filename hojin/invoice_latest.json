@@ -1,8 +1,8 @@
 {
  "schema": "hojin_invoice_latest_v1",
- "as_of_date": "2026-11-19",
+ "as_of_date": "2026-11-20",
  "still_valid_2026": true,
- "retrieved_at": "2026-11-23T12:00:13+09:00",
+ "retrieved_at": "2026-11-24T15:16:10+09:00",
  "source_ref": {
   "publisher_ja": "国税庁",
   "dataset_ja": "適格請求書発行事業者公表サイト 差分データ（CSV）",
@@ -13,19 +13,20 @@
  "veritas": {
   "verifier": "Atlas collector",
   "note_ja": "登録番号が T＋13桁かつ人格区分=法人(2)の行だけを採る。個人は捨てる。法人番号は登録番号から機械的に取るだけで推測しない。訂正区分1は history_correction。欠測日は埋めない",
-  "skipped_person": 1389,
+  "skipped_person": 659,
   "skipped_bad": 0,
-  "corrections": 64
+  "corrections": 10
  },
  "counts": {
-  "records": 658,
+  "records": 432,
   "by_event": {
-   "invoice_changed": 64,
-   "invoice_registered": 480,
-   "invoice_expired": 114
+   "invoice_registered": 349,
+   "invoice_expired": 72,
+   "invoice_changed": 10,
+   "invoice_deleted": 1
   },
-  "corrections": 64,
-  "skipped_person": 1389,
+  "corrections": 10,
+  "skipped_person": 659,
   "skipped_bad": 0
  }
 }

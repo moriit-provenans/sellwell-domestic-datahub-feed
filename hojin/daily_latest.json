@@ -2,7 +2,7 @@
  "schema": "hojin_daily_v1",
  "as_of_date": "2026-11-20",
  "still_valid_2026": true,
- "retrieved_at": "2026-11-23T11:57:54+09:00",
+ "retrieved_at": "2026-11-24T15:13:51+09:00",
  "source_ref": {
   "publisher_ja": "国税庁",
   "dataset_ja": "法人番号公表サイト 差分データ（CSV／Unicode）",
