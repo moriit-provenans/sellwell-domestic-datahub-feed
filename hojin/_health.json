@@ -1,11 +1,11 @@
 {
  "ok": true,
  "workflow": "hojin_daily",
- "retrieved_at": "2026-11-24T15:13:52+09:00",
- "as_of_date": "2026-11-20",
- "latest_published": "2026-11-20",
+ "retrieved_at": "2026-11-25T13:58:53+09:00",
+ "as_of_date": "2026-11-24",
+ "latest_published": "2026-11-24",
  "lag_days": 0,
- "days_ingested": 80,
+ "days_ingested": 81,
  "missing_dates": [],
  "written_this_run": [
   "2026-11-04",
@@ -20,7 +20,8 @@
   "2026-11-17",
   "2026-11-18",
   "2026-11-19",
-  "2026-11-20"
+  "2026-11-20",
+  "2026-11-24"
  ],
  "gate": {
   "ok": true,

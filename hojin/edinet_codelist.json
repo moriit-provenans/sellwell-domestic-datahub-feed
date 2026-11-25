@@ -1,8 +1,8 @@
 {
  "schema": "edinet_codelist_v1",
- "as_of_date": "2026-11-24",
+ "as_of_date": "2026-11-25",
  "still_valid_2026": true,
- "retrieved_at": "2026-11-24T15:13:53+09:00",
+ "retrieved_at": "2026-11-25T13:58:55+09:00",
  "source_ref": {
   "publisher_ja": "金融庁 EDINET",
   "dataset_ja": "EDINETコードリスト",
@@ -14,8 +14,8 @@
   "note_ja": "提出者法人番号の列をそのまま採る。13桁でない提出者は matched:false とraw_name を残す。社名から番号を推測しない"
  },
  "counts": {
-  "filers": 11469,
-  "with_hojin_bango": 7296,
+  "filers": 11468,
+  "with_hojin_bango": 7297,
   "listed": 3812
  },
  "filers": {
@@ -26606,7 +26606,7 @@
   "E05392": {
    "hojin_bango": "5011001061661",
    "matched": true,
-   "raw_name": "株式会社ティーガイア",
+   "raw_name": "ＴＧペイメントサービス株式会社",
    "securities_code": null,
    "listed": false,
    "filer_kind_ja": "内国法人・組合"
@@ -40619,14 +40619,6 @@
    "listed": false,
    "filer_kind_ja": "個人（組合発行者を除く）"
   },
-  "E25144": {
-   "hojin_bango": null,
-   "matched": false,
-   "raw_name": "小川　義行",
-   "securities_code": null,
-   "listed": false,
-   "filer_kind_ja": "個人（組合発行者を除く）"
-  },
   "E25148": {
    "hojin_bango": "2130001017499",
    "matched": true,
@@ -54147,14 +54139,6 @@
    "listed": false,
    "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
   },
-  "E33380": {
-   "hojin_bango": null,
-   "matched": false,
-   "raw_name": "前川　昌之",
-   "securities_code": null,
-   "listed": false,
-   "filer_kind_ja": "個人（組合発行者を除く）"
-  },
   "E33381": {
    "hojin_bango": "7140001009895",
    "matched": true,
@@ -54986,6 +54970,14 @@
    "securities_code": "65650",
    "listed": true,
    "filer_kind_ja": "内国法人・組合"
+  },
+  "E33640": {
+   "hojin_bango": null,
+   "matched": false,
+   "raw_name": "森　茂",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "個人（組合発行者を除く）"
   },
   "E33642": {
    "hojin_bango": "2180303003382",
@@ -67962,14 +67954,6 @@
    "securities_code": null,
    "listed": false,
    "filer_kind_ja": "外国法人・組合（有価証券報告書等の提出義務者以外）"
-  },
-  "E37291": {
-   "hojin_bango": null,
-   "matched": false,
-   "raw_name": "吉岡　裕之",
-   "securities_code": null,
-   "listed": false,
-   "filer_kind_ja": "個人（組合発行者を除く）"
   },
   "E37292": {
    "hojin_bango": "3011101068278",
@@ -91738,6 +91722,14 @@
    "securities_code": null,
    "listed": false,
    "filer_kind_ja": "個人（組合発行者を除く）"
+  },
+  "E42398": {
+   "hojin_bango": "2010001270077",
+   "matched": true,
+   "raw_name": "ジャンボ株式会社",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
   },
   "E42401": {
    "hojin_bango": "3010401201820",
