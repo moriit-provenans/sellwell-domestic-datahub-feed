@@ -1,8 +1,8 @@
 {
  "schema": "edinet_codelist_v1",
- "as_of_date": "2026-11-25",
+ "as_of_date": "2026-11-26",
  "still_valid_2026": true,
- "retrieved_at": "2026-11-25T13:58:55+09:00",
+ "retrieved_at": "2026-11-26T13:16:13+09:00",
  "source_ref": {
   "publisher_ja": "金融庁 EDINET",
   "dataset_ja": "EDINETコードリスト",
@@ -15,8 +15,8 @@
  },
  "counts": {
   "filers": 11468,
-  "with_hojin_bango": 7297,
-  "listed": 3812
+  "with_hojin_bango": 7296,
+  "listed": 3813
  },
  "filers": {
   "E00004": {
@@ -337,7 +337,7 @@
    "raw_name": "前田道路株式会社",
    "securities_code": null,
    "listed": false,
-   "filer_kind_ja": "内国法人・組合"
+   "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
   },
   "E00063": {
    "hojin_bango": "8010001008703",
@@ -29982,7 +29982,7 @@
   "E06779": {
    "hojin_bango": null,
    "matched": false,
-   "raw_name": "市川周作",
+   "raw_name": "市川　周作",
    "securities_code": null,
    "listed": false,
    "filer_kind_ja": "個人（組合発行者を除く）"
@@ -32111,14 +32111,6 @@
    "hojin_bango": null,
    "matched": false,
    "raw_name": "土屋　公三",
-   "securities_code": null,
-   "listed": false,
-   "filer_kind_ja": "個人（組合発行者を除く）"
-  },
-  "E09094": {
-   "hojin_bango": null,
-   "matched": false,
-   "raw_name": "越山　勇",
    "securities_code": null,
    "listed": false,
    "filer_kind_ja": "個人（組合発行者を除く）"
@@ -34735,14 +34727,6 @@
    "hojin_bango": null,
    "matched": false,
    "raw_name": "草間　庸文",
-   "securities_code": null,
-   "listed": false,
-   "filer_kind_ja": "個人（組合発行者を除く）"
-  },
-  "E11575": {
-   "hojin_bango": null,
-   "matched": false,
-   "raw_name": "田澤　知志",
    "securities_code": null,
    "listed": false,
    "filer_kind_ja": "個人（組合発行者を除く）"
@@ -37679,6 +37663,14 @@
    "hojin_bango": null,
    "matched": false,
    "raw_name": "内海　良夫",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "個人（組合発行者を除く）"
+  },
+  "E21884": {
+   "hojin_bango": null,
+   "matched": false,
+   "raw_name": "中西　弘毅",
    "securities_code": null,
    "listed": false,
    "filer_kind_ja": "個人（組合発行者を除く）"
@@ -62787,14 +62779,6 @@
    "listed": false,
    "filer_kind_ja": "個人（組合発行者を除く）"
   },
-  "E35966": {
-   "hojin_bango": null,
-   "matched": false,
-   "raw_name": "ニホン　グローバル　グロウス　パートナーズ　エルエルシー",
-   "securities_code": null,
-   "listed": false,
-   "filer_kind_ja": "外国法人・組合（有価証券報告書等の提出義務者以外）"
-  },
   "E35967": {
    "hojin_bango": "5180001039651",
    "matched": true,
@@ -64818,14 +64802,6 @@
    "securities_code": null,
    "listed": false,
    "filer_kind_ja": "個人（組合発行者を除く）"
-  },
-  "E36509": {
-   "hojin_bango": "8120901042294",
-   "matched": true,
-   "raw_name": "高谷コンサルティング株式会社",
-   "securities_code": null,
-   "listed": false,
-   "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
   },
   "E36512": {
    "hojin_bango": "2011001138751",
@@ -67770,14 +67746,6 @@
    "securities_code": null,
    "listed": false,
    "filer_kind_ja": "外国法人・組合（有価証券報告書等の提出義務者以外）"
-  },
-  "E37226": {
-   "hojin_bango": null,
-   "matched": false,
-   "raw_name": "鳥海　裕二",
-   "securities_code": null,
-   "listed": false,
-   "filer_kind_ja": "個人（組合発行者を除く）"
   },
   "E37252": {
    "hojin_bango": "6210001000419",
@@ -91191,8 +91159,8 @@
    "hojin_bango": "7050001034556",
    "matched": true,
    "raw_name": "株式会社ＴＯＫＩＵＭ",
-   "securities_code": null,
-   "listed": false,
+   "securities_code": "664A0",
+   "listed": true,
    "filer_kind_ja": "内国法人・組合"
   },
   "E42256": {
@@ -91418,6 +91386,14 @@
    "securities_code": null,
    "listed": false,
    "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
+  },
+  "E42311": {
+   "hojin_bango": null,
+   "matched": false,
+   "raw_name": "Ｃｈｒｉｓｔｏｐｈｅｒ　Ｒｏｂｅｒｔ　Ｃａｒｇｉｌｌ",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "個人（非居住者）（組合発行者を除く）"
   },
   "E42312": {
    "hojin_bango": "3010401152097",
@@ -91683,6 +91659,14 @@
    "listed": false,
    "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
   },
+  "E42383": {
+   "hojin_bango": null,
+   "matched": false,
+   "raw_name": "黒﨑　賢一",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "個人（組合発行者を除く）"
+  },
   "E42384": {
    "hojin_bango": null,
    "matched": false,
@@ -91739,6 +91723,14 @@
    "listed": false,
    "filer_kind_ja": "内国法人・組合（有価証券報告書等の提出義務者以外）"
   },
+  "E42403": {
+   "hojin_bango": null,
+   "matched": false,
+   "raw_name": "メンザス・スピリドン",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "個人（組合発行者を除く）"
+  },
   "E42413": {
    "hojin_bango": null,
    "matched": false,
@@ -91759,6 +91751,14 @@
    "hojin_bango": null,
    "matched": false,
    "raw_name": "上原　祐司",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "個人（組合発行者を除く）"
+  },
+  "E42470": {
+   "hojin_bango": null,
+   "matched": false,
+   "raw_name": "杉浦　英和",
    "securities_code": null,
    "listed": false,
    "filer_kind_ja": "個人（組合発行者を除く）"
