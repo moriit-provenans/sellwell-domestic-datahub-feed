@@ -1,8 +1,8 @@
 {
  "ok": true,
  "workflow": "hojin_geo",
- "retrieved_at": "2026-11-27T13:26:06+09:00",
- "rows": 195546,
- "with_pref": 195335,
- "ledger_with_pref": 5850018
+ "retrieved_at": "2026-11-28T13:08:38+09:00",
+ "rows": 197574,
+ "with_pref": 197355,
+ "ledger_with_pref": 5850644
 }

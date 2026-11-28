@@ -1,8 +1,8 @@
 {
  "schema": "edinet_codelist_v1",
- "as_of_date": "2026-11-27",
+ "as_of_date": "2026-11-28",
  "still_valid_2026": true,
- "retrieved_at": "2026-11-27T13:24:27+09:00",
+ "retrieved_at": "2026-11-28T13:04:22+09:00",
  "source_ref": {
   "publisher_ja": "金融庁 EDINET",
   "dataset_ja": "EDINETコードリスト",
@@ -14,9 +14,9 @@
   "note_ja": "提出者法人番号の列をそのまま採る。13桁でない提出者は matched:false とraw_name を残す。社名から番号を推測しない"
  },
  "counts": {
-  "filers": 11470,
+  "filers": 11472,
   "with_hojin_bango": 7300,
-  "listed": 3813
+  "listed": 3812
  },
  "filers": {
   "E00004": {
@@ -17279,8 +17279,8 @@
    "hojin_bango": "7010701024331",
    "matched": true,
    "raw_name": "アールビバン株式会社",
-   "securities_code": "75230",
-   "listed": true,
+   "securities_code": null,
+   "listed": false,
    "filer_kind_ja": "内国法人・組合"
   },
   "E03278": {
@@ -47178,6 +47178,14 @@
    "securities_code": null,
    "listed": false,
    "filer_kind_ja": "外国法人・組合（有価証券報告書等の提出義務者以外）"
+  },
+  "E30968": {
+   "hojin_bango": null,
+   "matched": false,
+   "raw_name": "田中　秀明",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "個人（組合発行者を除く）"
   },
   "E30969": {
    "hojin_bango": "8010401073462",
@@ -91767,6 +91775,14 @@
    "hojin_bango": null,
    "matched": false,
    "raw_name": "上原　祐司",
+   "securities_code": null,
+   "listed": false,
+   "filer_kind_ja": "個人（組合発行者を除く）"
+  },
+  "E42462": {
+   "hojin_bango": null,
+   "matched": false,
+   "raw_name": "濱田智彦",
    "securities_code": null,
    "listed": false,
    "filer_kind_ja": "個人（組合発行者を除く）"
